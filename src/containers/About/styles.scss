@@ -1,0 +1,57 @@
+.img-profile:before {
+    border-top: 1px solid #EFEFEF;
+    content: "";
+    display: block;
+    left: 50%;
+    margin-left: 130px;
+    position: absolute;
+    top: 100px;
+    width: 250px;
+    z-index: 0;
+}
+
+.img-profile:after {
+    border-top: 1px solid #EFEFEF;
+    content: "";
+    display: block;
+    margin-right: 130px;
+    position: absolute;
+    right: 50%;
+    top: 100px;
+    width: 250px;
+    z-index: 0;
+}
+
+.img-profile {
+    height: 200px;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 5px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.img-profile img {
+    height: 100%;
+}
+
+.dl-btn p,
+.fol-btn p {
+  color: #666666;
+  text-align: center;
+  display: block;
+  font-size: 14px;
+  margin: 0 -13px;
+}
+
+.dl-btn {
+  left: 17.2%;
+  position: absolute;
+  top: 32.5%;
+}
+
+.fol-btn {
+  position: absolute;
+  right: 10%;
+  top: 32.5%;
+}
