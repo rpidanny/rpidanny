@@ -39,20 +39,11 @@
   },
   "work": [
     {
-      "company": "Real Time Solutions",
-      "position": "Firmware Intern",
-      "website": "https://rts.com.np",
-      "startDate": "2015-02-01",
-      "endDate": "2015-11-01",
-      "summary": "During my time at RTS, i worked on ZigBee Stack for NXP, USB implementation on EFM32 Microcontroller. I also gained a lot of experience working ith RTOS.",
-      "highlights": []
-    },
-    {
-      "company": "Javra Software Pvt. Ltd.",
-      "position": "Intern Software Engineer",
+      "company": "Javra Software B.V.",
+      "position": "R&D Engineer",
       "website": "https://javra.com",
-      "startDate": "2016-02-15",
-      "endDate": "2016-05-15",
+      "startDate": "2018-03-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": []
     },
@@ -66,12 +57,21 @@
       "highlights": []
     },
     {
-      "company": "Javra Software B.V.",
-      "position": "R&D Engineer",
+      "company": "Javra Software Pvt. Ltd.",
+      "position": "Intern Software Engineer",
       "website": "https://javra.com",
-      "startDate": "2018-03-01",
-      "endDate": "Present",
+      "startDate": "2016-02-15",
+      "endDate": "2016-05-15",
       "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Real Time Solutions",
+      "position": "Firmware Intern",
+      "website": "https://rts.com.np",
+      "startDate": "2015-02-01",
+      "endDate": "2015-11-01",
+      "summary": "During my time at RTS, i worked on ZigBee Stack for NXP, USB implementation on EFM32 Microcontroller. I also gained a lot of experience working ith RTOS.",
       "highlights": []
     }
   ],
