@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import { VerticalTimeline } from 'react-vertical-timeline-component'
+import 'react-vertical-timeline-component/style.min.css'
 import Company from '../Company'
 import PropTypes from 'prop-types'
 
@@ -27,7 +29,7 @@ class Work extends Component {
 
   render () {
     const { companies } = this.state
-    const groups = this.chunkArray(companies, 2)
+    // const groups = this.chunkArray(companies, 2)
     return (
       <div>
         <div className='inner-title'>
@@ -35,15 +37,18 @@ class Work extends Component {
           <p>What I did in the past and what I am doing now.</p>
         </div>
         <div className='inner-content'>
-          {
-            groups.map((group, idx) => {
-              return (
-                <div className='row' key={idx} >
-                  {group.map((inst, i) => <Company data={inst} key={i} />)}
-                </div>
-              )
-            })
-          }
+          <VerticalTimeline>
+            {
+              // groups.map((group, idx) => {
+              //   return (
+              //     <div className='row' key={idx} >
+              //       {group.map((inst, i) => <Company data={inst} key={i} />)}
+              //     </div>
+              //   )
+              // })
+              companies.map((company, i) => <Company data={company} key={i} />)
+            }
+          </VerticalTimeline>
         </div>
       </div>
     )
