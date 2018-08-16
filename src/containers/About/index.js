@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import './styles.css'
 import ProfilePicture from '../../assets/images/abhishek1.jpg'
-import Image from 'react-bootstrap/lib/Image'
 import Social from '../Common/Social'
 
 class About extends Component {
