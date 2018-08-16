@@ -30,7 +30,7 @@ class App extends Component {
   render () {
     if (Object.keys(this.state.resumeData).length > 0) {
       console.log(this.state.resumeData)
-      const {basics, education} = this.state.resumeData
+      const {basics, education, work} = this.state.resumeData
       return (
         <div className='App'>
           {/* <header className="App-header">
@@ -43,7 +43,7 @@ class App extends Component {
           <Header />
           <Dashboard />
           <About data={basics} />
-          <Resume education={education} />
+          <Resume education={education} work={work} />
           <Contact />
           <Footer />
         </div>
