@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
+import Octicon, { MortarBoard } from '@githubprimer/octicons-react'
 
 class Institution extends Component {
   constructor (props) {
@@ -18,9 +19,7 @@ class Institution extends Component {
     return (
       <div className='col-md-6'>
         <div className='work-item'>
-          <div className='work-ico'>
-            <i className='glyphicon glyphicon-book' />
-          </div>
+          <Octicon icon={MortarBoard} size='small' />
           <div className='work-desc'>
             <h4>
               {institution}
