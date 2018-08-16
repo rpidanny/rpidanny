@@ -23,10 +23,7 @@ class Company extends Component {
           </div>
           <div className='work-desc'>
             <h4>
-              {position} -
-              <a href={website}>
-                {company}
-              </a>
+              {position} - <a href={website}>{company}</a>
             </h4>
             <h6>{startDate} - {endDate}</h6>
             <p>{summary}</p>
