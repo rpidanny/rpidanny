@@ -106,13 +106,13 @@
   ],
   "education": [
     {
-      "institution": "Gyanodaya Bal Batika",
-      "area": "",
-      "studyType": "School",
-      "startDate": "1998-01-01",
-      "endDate": "2008-01-01",
+      "institution": "Kathmandu Engineering College",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-10-01",
+      "endDate": "2015-10-01",
       "gpa": "",
-      "courses": []
+      "courses": ["DB1101 - Basic SQL"]
     },
     {
       "institution": "Pentagon International College",
@@ -124,13 +124,13 @@
       "courses": []
     },
     {
-      "institution": "Kathmandu Engineering College",
-      "area": "Electronics and Communication Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2011-10-01",
-      "endDate": "2015-10-01",
+      "institution": "Gyanodaya Bal Batika",
+      "area": "",
+      "studyType": "School",
+      "startDate": "1998-01-01",
+      "endDate": "2008-01-01",
       "gpa": "",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": []
     }
   ],
   "awards": [
