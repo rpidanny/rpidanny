@@ -49,7 +49,7 @@ class About extends Component {
               </div>
               <div className='inner-content profile'>
                 <div className='img-profile'>
-                  <Image src={ProfilePicture} circle />
+                  <img src={ProfilePicture} className='rounded-circle' />
                 </div>
                 <Social data={profiles} />
                 {/* <div className='dl-btn'>
