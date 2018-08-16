@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Work from '../Common/Work'
 import Education from '../Common/Education'
-import Glyphicon from 'react-bootstrap/lib/Glyphicon'
+import Octicon, { Star, Briefcase } from '@githubprimer/octicons-react'
 
 class Resume extends Component {
   constructor (props) {
@@ -19,14 +19,14 @@ class Resume extends Component {
         <section className='row resume' id='resume'>
           <div className='col-md-12 title'>
             <h2>
-              <Glyphicon glyph='briefcase' />} / Resume
+              <Octicon icon={Briefcase} size='large' /> / Resume
             </h2>
           </div>
           <div className='col-md-12'>
             <div className='content'>
               <Work companies={work} />
               <div className='divider'>
-                <Glyphicon glyph='star' />}
+                <Octicon icon={Star} />
               </div>
               <Education institutions={education} />
             </div>
