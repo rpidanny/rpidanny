@@ -1,3 +1,4 @@
+import fetch from 'isomorphic-fetch'
 import React, { Component } from 'react'
 import Header from '../Common/Header'
 import Dashboard from '../Dashboard'
@@ -5,28 +6,50 @@ import About from '../About'
 import Resume from '../Resume'
 import Contact from '../Contact'
 import Footer from '../Common/Footer'
-import 'bootstrap/dist/css/bootstrap.min.css'
 import './index.css'
 
 class App extends Component {
+  constructor (props) {
+    super(props)
+    this.state = {
+      resumeData: {}
+    }
+  }
+
+  getResume () {
+    return fetch('/resume.json')
+      .then(response => response.json())
+  }
+
+  componentDidMount () {
+    this.getResume()
+      .then(data => this.setState({resumeData: data}))
+      .catch(err => console.log(err))
+  }
+
   render () {
-    return (
-      <div className='App'>
-        {/* <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p> */}
-        <Header />
-        <Dashboard />
-        <About />
-        <Resume />
-        <Contact />
-        <Footer />
-      </div>
-    )
+    if (Object.keys(this.state.resumeData).length > 0) {
+      console.log(this.state.resumeData)
+      const {basics, education} = this.state.resumeData
+      return (
+        <div className='App'>
+          {/* <header className="App-header">
+            <img src={logo} className="App-logo" alt="logo" />
+            <h1 className="App-title">Welcome to React</h1>
+          </header>
+          <p className="App-intro">
+            To get started, edit <code>src/App.js</code> and save to reload.
+          </p> */}
+          <Header />
+          <Dashboard />
+          <About data={basics} />
+          <Resume education={education} />
+          <Contact />
+          <Footer />
+        </div>
+      )
+    }
+    return <div>Loading...</div>
   }
 }
 

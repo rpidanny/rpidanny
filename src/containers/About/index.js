@@ -1,56 +1,58 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import './styles.css'
 import ProfilePicture from '../../assets/images/abhishek1.jpg'
+import Image from 'react-bootstrap/lib/Image'
+import Social from '../Common/Social'
 
 class About extends Component {
+  constructor (props) {
+    super(props)
+    this.state = {
+      data: props.data
+    }
+  }
+
   render () {
+    const {name, summary, profiles} = this.state.data
     return (
       <React.Fragment>
-        <header id='home'>
-          <section className='row about' id='about'>
-            <div className='col-md-12 title'>
-              <h2>
-                <span className='glyphicon glyphicon-user' /> / About me
-              </h2>
-            </div>
-            <div className='col-md-12'>
-              <div className='content'>
-                <div className='inner-title'>
-                  <h3>Hi</h3>
-                  <h3>my name is </h3>
-                  <h3>Abhishek Maharjan</h3>
-                  <p>
-                    <br />{' '}
-                  </p>
-                  <p>
-                    I'm an Electronics Engineer who loves all kinds of
-                    technologies. I'm not tied to just software or hardware. I
-                    think software and hardware are two halves of a whole.
-                    <br />
-                    <br />
-                  </p>
-                  <p>
-                    <i>
-                      "People who are really serious about software should make
-                      their own hardware"
-                    </i>
-                  </p>
-                  <p>
-                    <b> - Alan Kay </b>
-                  </p>
+        <section className='row about' id='about'>
+          <div className='col-md-12 title'>
+            <h2>
+              <span className='glyphicon glyphicon-user' /> / About me
+            </h2>
+          </div>
+          <div className='col-md-12'>
+            <div className='content'>
+              <div className='inner-title'>
+                <h3>Hi</h3>
+                <h3>my name is </h3>
+                <h3>{name}</h3>
+                <p>
+                  <br />{' '}
+                </p>
+                <p>
+                  {summary}
+                  <br />
+                  <br />
+                </p>
+                <p>
+                  <i>
+                    "People who are really serious about software should make
+                    their own hardware"
+                  </i>
+                </p>
+                <p>
+                  <b> - Alan Kay </b>
+                </p>
+              </div>
+              <div className='inner-content profile'>
+                <div className='img-profile'>
+                  <Image src={ProfilePicture} circle />
                 </div>
-                <div className='inner-content profile'>
-                  <div className='img-profile'>
-                    <img
-                      src={ProfilePicture}
-                      width={200}
-                      height={200}
-                      alt='Abhishek Maharjan'
-                      className='img-circle img-thumbnail'
-                      title='Sandboarding at Sharjah Desert'
-                    />
-                  </div>
-                  <div className='dl-btn'>
+                <Social data={profiles} />
+                {/* <div className='dl-btn'>
                     <div className='ico'>
                       <a
                         className='no-underline'
@@ -108,15 +110,18 @@ class About extends Component {
                       </a>
                     </div>
                     <p>Follow Me On</p>
-                  </div>
-                </div>
+                  </div> */}
               </div>
             </div>
-          </section>
-        </header>
+          </div>
+        </section>
       </React.Fragment>
     )
   }
+}
+
+About.propTypes = {
+  data: PropTypes.object.isRequired
 }
 
 export default About
