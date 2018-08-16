@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import Glyphicon from 'react-bootstrap/lib/Glyphicon'
+import Octicon, { Briefcase } from '@githubprimer/octicons-react'
 import { VerticalTimelineElement } from 'react-vertical-timeline-component'
 import './styles.css'
 class Company extends Component {
@@ -33,7 +33,7 @@ class Company extends Component {
       <VerticalTimelineElement iconStyle={{display: 'none'}}>
         <div className='work-item'>
           <div className='work-ico'>
-            <Glyphicon glyph='briefcase' />}
+            <Octicon icon={Briefcase} size='small' />
           </div>
           <div className='work-desc'>
             <h4>
