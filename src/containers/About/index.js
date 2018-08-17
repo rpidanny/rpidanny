@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Image from 'react-bootstrap/lib/Image'
 import PropTypes from 'prop-types'
 import './styles.css'
 import ProfilePicture from '../../assets/images/abhishek1.jpg'
@@ -48,7 +49,7 @@ class About extends Component {
               </div>
               <div className='inner-content profile'>
                 <div className='img-profile'>
-                  <img src={ProfilePicture} alt={name} className='rounded-circle' />
+                  <Image src={ProfilePicture} alt={name} circle />
                 </div>
                 <Social data={profiles} />
                 {/* <div className='dl-btn'>
