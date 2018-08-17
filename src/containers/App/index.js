@@ -14,7 +14,8 @@ class App extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      resumeData: {}
+      resumeData: {},
+      quote: {}
     }
 
     ReactGA.initialize('UA-76263604-1')
@@ -26,9 +27,18 @@ class App extends Component {
       .then(response => response.json())
   }
 
+  getQuote () {
+    return fetch('https://random-quotes-api.herokuapp.com')
+      .then(response => response.json())
+  }
+
   componentDidMount () {
     this.getResume()
       .then(data => this.setState({resumeData: data}))
+      .catch(err => console.log(err))
+
+    this.getQuote()
+      .then(data => this.setState({quote: data}))
       .catch(err => console.log(err))
   }
 
