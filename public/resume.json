@@ -44,7 +44,7 @@
       "website": "https://javra.com",
       "startDate": "2018-03-01",
       "endDate": "Present",
-      "summary": "Kubernetes, Node.js, Python, Ethereum, Solidity",
+      "summary": "Kubernetes, Tensorflow, Keras, Docker, Node.js, Python, Ethereum, Solidity",
       "highlights": []
     },
     {
@@ -53,7 +53,7 @@
       "website": "https://javra.com",
       "startDate": "2016-05-15",
       "endDate": "2018-02-29",
-      "summary": "Tensorflow, Keras, Docker, Google Cloud Vision, IBM Watson, Clarif.ai, Python, Node.js, D3, React.js",
+      "summary": "Tensorflow, Keras, Docker, Google Cloud Vision, IBM Watson, Clarif.ai, OpenCV, Python, Node.js, D3, React.js",
       "highlights": []
     },
     {
@@ -62,7 +62,7 @@
       "website": "https://javra.com",
       "startDate": "2016-02-15",
       "endDate": "2016-05-15",
-      "summary": "Node.js, Python, C++, HTML, CSS, Javascript",
+      "summary": "OpenCV, Neo4j, Node.js, Python, C++, HTML, CSS, Javascript",
       "highlights": []
     },
     {
