@@ -34,17 +34,16 @@ class App extends Component {
 
   componentDidMount () {
     this.getResume()
-      .then(data => this.setState({resumeData: data}))
-      .catch(err => console.log(err))
-
-    this.getQuote()
-      .then(data => this.setState({quote: data}))
+      .then(resume => {
+        this.setState({ resumeData: resume })
+        return this.getQuote()
+      })
+      .then(quote => this.setState({ quote }))
       .catch(err => console.log(err))
   }
 
   render () {
     if (Object.keys(this.state.resumeData).length > 0) {
-      console.log(this.state.resumeData)
       const {basics, education, work} = this.state.resumeData
       return (
         <div className='App'>

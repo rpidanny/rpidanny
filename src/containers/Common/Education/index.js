@@ -17,10 +17,11 @@ class Education extends Component {
    * @param chunkSize {Integer} Size of every group
    */
   chunkArray (myArray, chunkSize) {
+    const cloneArray = myArray.slice()
     const results = []
 
-    while (myArray.length) {
-      results.push(myArray.splice(0, chunkSize))
+    while (cloneArray.length) {
+      results.push(cloneArray.splice(0, chunkSize))
     }
     return results
   }
