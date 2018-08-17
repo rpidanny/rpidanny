@@ -44,7 +44,7 @@
       "website": "https://javra.com",
       "startDate": "2018-03-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Kubernetes, Node.js, Python, Ethereum, Solidity",
       "highlights": []
     },
     {
@@ -53,7 +53,7 @@
       "website": "https://javra.com",
       "startDate": "2016-05-15",
       "endDate": "2018-02-29",
-      "summary": "",
+      "summary": "Tensorflow, Keras, Docker, Google Cloud Vision, IBM Watson, Clarif.ai, Python, Node.js, D3, React.js",
       "highlights": []
     },
     {
@@ -62,7 +62,7 @@
       "website": "https://javra.com",
       "startDate": "2016-02-15",
       "endDate": "2016-05-15",
-      "summary": "",
+      "summary": "Node.js, Python, C++, HTML, CSS, Javascript",
       "highlights": []
     },
     {
@@ -71,7 +71,7 @@
       "website": "https://rts.com.np",
       "startDate": "2015-02-01",
       "endDate": "2015-11-01",
-      "summary": "During my time at RTS, i worked on ZigBee Stack for NXP, USB implementation on EFM32 Microcontroller. I also gained a lot of experience working ith RTOS.",
+      "summary": "EFM32, NXP, ZigBee, USB Protocol, RTOS",
       "highlights": []
     }
   ],
