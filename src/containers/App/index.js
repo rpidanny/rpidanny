@@ -60,12 +60,12 @@ class App extends Component {
           <About data={basics} />
           <Resume education={education} work={work} />
           <Contact />
-          <Footer />
+          <Footer quote={this.state.quote} />
         </div>
       )
     }
     return (
-      <div class='loading-container' >
+      <div className='loading-container' >
         <ReactLoading type='bubbles' color='#fff' height={'10%'} width={'10%'} className='mainLoader' />
       </div>
     )
