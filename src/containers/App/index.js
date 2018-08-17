@@ -1,5 +1,6 @@
 import fetch from 'isomorphic-fetch'
 import React, { Component } from 'react'
+import ReactGA from 'react-ga'
 import Header from '../Common/Header'
 import Dashboard from '../Dashboard'
 import About from '../About'
@@ -14,6 +15,9 @@ class App extends Component {
     this.state = {
       resumeData: {}
     }
+
+    ReactGA.initialize('UA-76263604-1')
+    ReactGA.pageview(window.location.pathname)
   }
 
   getResume () {
