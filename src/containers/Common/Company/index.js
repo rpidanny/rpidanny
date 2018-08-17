@@ -37,7 +37,7 @@ class Company extends Component {
           </div>
           <div className='work-desc'>
             <h4>
-              <a href={website}>{company}</a>
+              <a href={website} className='no-underline' >{company}</a>
             </h4>
             <h5>{position}</h5>
             <h6>{startDate} - {endDate}</h6>
