@@ -12,24 +12,8 @@ class Work extends Component {
     }
   }
 
-  /**
-   * Returns an array with arrays of the given size.
-   *
-   * @param myArray {Array} Array to split
-   * @param chunkSize {Integer} Size of every group
-   */
-  chunkArray (myArray, chunkSize) {
-    const results = []
-
-    while (myArray.length) {
-      results.push(myArray.splice(0, chunkSize))
-    }
-    return results
-  }
-
   render () {
     const { companies } = this.state
-    // const groups = this.chunkArray(companies, 2)
     return (
       <div>
         <div className='inner-title'>
@@ -39,13 +23,6 @@ class Work extends Component {
         <div className='inner-content'>
           <VerticalTimeline>
             {
-              // groups.map((group, idx) => {
-              //   return (
-              //     <div className='row' key={idx} >
-              //       {group.map((inst, i) => <Company data={inst} key={i} />)}
-              //     </div>
-              //   )
-              // })
               companies.map((company, i) => <Company data={company} key={i} />)
             }
           </VerticalTimeline>
