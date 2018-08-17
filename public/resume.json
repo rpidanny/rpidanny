@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "rpidanny",
-        "url": "https://twitter.com/rpidanny"
-      },
-      {
         "network": "Github",
         "username": "rpidanny",
         "url": "https://github.com/rpidanny"
@@ -34,6 +29,11 @@
         "network": "Linkedin",
         "username": "abhishek-maharjan-5b401999",
         "url": "https://np.linkedin.com/in/abhishek-maharjan-5b401999"
+      },
+      {
+        "network": "Twitter",
+        "username": "rpidanny",
+        "url": "https://twitter.com/rpidanny"
       }
     ]
   },
