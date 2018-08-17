@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
+import './styles.css'
 
 class Footer extends Component {
   constructor (props) {
@@ -21,7 +22,7 @@ class Footer extends Component {
           <div className='quote-body'>
             <blockquote> {quote} </blockquote>
           </div>
-          <div className='quote-by'> {author} </div>
+          <div className='quote-by'> - {author} </div>
         </div>
       </footer>
     )
