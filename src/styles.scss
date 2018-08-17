@@ -6,96 +6,11 @@
  * SERIOUS BUSINESS
  */
 
-body {
-  padding-top: 0px;
-  position: relative;
-  font-size: 14px;
-  line-height: 1.428;
-  color: #333;
-  // font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif'
-}
 .browsehappy {
   margin: 0.2em 0;
   background: #ccc;
   color: #000;
   padding: 0.2em 0;
-}
-
-.navbar,
-.footer {
-  margin-bottom: 0;
-  background: #2d2d2d;
-}
-
-.navbar li {
-  font-size: 12px;
-  text-transform: uppercase;
-}
-
-.navbar-fixed-top {
-  border: none;
-}
-
-.navbar-default .navbar-nav > li > a {
-  color: #999999;
-  display: block;
-  padding: 25px 20px;
-  position: relative;
-  font-weight: bold;
-}
-
-.navbar-fixed-top {
-  top: 0;
-  overflow: hidden;
-}
-
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav li a:hover,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-  color: #ffffff;
-  background-color: transparent;
-}
-
-.navbar-style-underline nav a {
-  padding: 0.25em 0 0.5em;
-  -webkit-transition: color 0.2s;
-  transition: color 0.2s;
-}
-
-.navbar-style-underline nav li a::after {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 6px;
-  content: "";
-  -webkit-transition: -webkit-transform 0.3s;
-  transition: transform 0.3s;
-  -webkit-transform: translate3d(0, 150%, 0);
-  transform: translate3d(0, 150%, 0);
-}
-
-.navbar-style-underline nav li.nav-home a::after {
-  background: #2cc185;
-}
-.navbar-style-underline nav li.nav-about a::after {
-  background: #6ac8c8;
-}
-.navbar-style-underline nav li.nav-resume a::after {
-  background: #f97c39;
-}
-.navbar-style-underline nav li.nav-contact a::after {
-  background: #ffbe00;
-}
-
-.navbar-style-underline nav li.active a::after {
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-}
-
-.navbar-style-underline nav a span {
-  font-weight: 700;
 }
 
 a {

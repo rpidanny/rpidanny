@@ -5,7 +5,7 @@ class Dashboard extends Component {
   render () {
     return (
       <React.Fragment>
-        <section id='large-header' className='large-header'>
+        <section id='home' className='large-header' >
           <canvas id='animated-canvas' />
           <div className='overlay'>
             <h1 id='main-title' className='animated rollIn main-title'>
