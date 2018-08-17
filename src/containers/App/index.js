@@ -1,6 +1,7 @@
 import fetch from 'isomorphic-fetch'
 import React, { Component } from 'react'
 import ReactGA from 'react-ga'
+import ReactLoading from 'react-loading'
 import Header from '../Common/Header'
 import Dashboard from '../Dashboard'
 import About from '../About'
@@ -53,7 +54,11 @@ class App extends Component {
         </div>
       )
     }
-    return <div>Loading...</div>
+    return (
+      <div class='loading-container' >
+        <ReactLoading type='bubbles' color='#fff' height={'10%'} width={'10%'} className='mainLoader' />
+      </div>
+    )
   }
 }
 
