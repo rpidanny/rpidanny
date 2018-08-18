@@ -42,7 +42,14 @@ class About extends Component {
                 <div className='img-profile'>
                   <Image src={ProfilePicture} alt={name} circle />
                 </div>
-                <Social data={profiles} />
+                <div className='dl-btn'>
+                  <Social data={profiles.cv} />
+                  <p>See / Download My CV</p>
+                </div>
+                <div className='fol-btn'>
+                  <Social data={profiles.social} />
+                  <p>Follow Me On</p>
+                </div>
                 {/* <div className='dl-btn'>
                     <div className='ico'>
                       <a

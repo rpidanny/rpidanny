@@ -13,11 +13,7 @@ class Social extends Component {
   render () {
     const profiles = this.state.data
     return (
-      <div className='fol-btn'>
-        {
-          profiles.map((profile, idx) => <Profile data={profile} key={idx} />)
-        }
-      </div>
+      profiles.map((profile, idx) => <Profile data={profile} key={idx} />)
     )
   }
 }

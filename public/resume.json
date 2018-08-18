@@ -15,28 +15,32 @@
       "countryCode": "NP",
       "region": "Lalitpur"
     },
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "rpidanny",
-        "url": "https://github.com/rpidanny"
-      },
-      {
-        "network": "Instagram",
-        "username": "rpidanny",
-        "url": "https://instagram.com/rpidanny"
-      },
-      {
-        "network": "Linkedin",
-        "username": "abhishek-maharjan-5b401999",
-        "url": "https://np.linkedin.com/in/abhishek-maharjan-5b401999"
-      },
-      {
-        "network": "Twitter",
-        "username": "rpidanny",
-        "url": "https://twitter.com/rpidanny"
-      }
-    ],
+    "profiles": {
+      "social": [
+        {
+          "network": "Instagram",
+          "username": "rpidanny",
+          "url": "https://instagram.com/rpidanny"
+        },
+        {
+          "network": "Twitter",
+          "username": "rpidanny",
+          "url": "https://twitter.com/rpidanny"
+        }
+      ],
+      "cv": [
+        {
+          "network": "Github",
+          "username": "rpidanny",
+          "url": "https://github.com/rpidanny"
+        },
+        {
+          "network": "Linkedin",
+          "username": "abhishek-maharjan-5b401999",
+          "url": "https://np.linkedin.com/in/abhishek-maharjan-5b401999"
+        }
+      ]
+    },
     "quote": {
       "quote": "People who are really serious about software should make their own hardware",
       "author": "Alan Kay"
