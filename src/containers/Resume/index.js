@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Work from '../Common/Work'
 import Education from '../Common/Education'
 import Octicon, { Star, Briefcase } from '@githubprimer/octicons-react'
+import './styles.css'
 
 class Resume extends Component {
   constructor (props) {
