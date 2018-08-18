@@ -37,15 +37,6 @@ class About extends Component {
                   <br />
                   <br />
                 </p>
-                <p>
-                  <i>
-                    "People who are really serious about software should make
-                    their own hardware"
-                  </i>
-                </p>
-                <p>
-                  <b> - Alan Kay </b>
-                </p>
               </div>
               <div className='inner-content profile'>
                 <div className='img-profile'>
