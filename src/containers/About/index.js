@@ -50,65 +50,6 @@ class About extends Component {
                   <Social data={profiles.social} />
                   <p>Follow Me On</p>
                 </div>
-                {/* <div className='dl-btn'>
-                    <div className='ico'>
-                      <a
-                        className='no-underline'
-                        href='https://github.com/rpidanny'
-                      >
-                        <span className='saucisson'>Q</span>
-                      </a>
-                    </div>
-                    <div className='ico'>
-                      <a
-                        className='no-underline'
-                        href='https://np.linkedin.com/in/abhishek-maharjan-5b401999'
-                      >
-                        <span className='saucisson'>j</span>
-                      </a>
-                    </div>
-                    <div className='ico'>
-                      <a href='file/resume.pdf' target='_blank'>
-                        <i className='glyphicon glyphicon-floppy-disk' />
-                      </a>
-                    </div>
-                    <p>See / Download My CV</p>
-                  </div>
-                  <div className='fol-btn'>
-                    <div className='ico'>
-                      <a
-                        className='no-underline'
-                        href='https://www.facebook.com/tsukuyomi'
-                      >
-                        <span className='saucisson'>b</span>
-                      </a>
-                    </div>
-                    <div className='ico'>
-                      <a
-                        className='no-underline'
-                        href='https://plus.google.com/+AbhishekMaharjan'
-                      >
-                        <span className='saucisson'>c</span>
-                      </a>
-                    </div>
-                    <div className='ico'>
-                      <a
-                        className='no-underline'
-                        href='https://www.youtube.com/channel/UCaJzQopUr58rZwpW8y3q6xA'
-                      >
-                        <span className='saucisson'>r</span>
-                      </a>
-                    </div>
-                    <div className='ico'>
-                      <a
-                        className='no-underline'
-                        href='https://instagram.com/rpidanny'
-                      >
-                        <span className='saucisson'>x</span>
-                      </a>
-                    </div>
-                    <p>Follow Me On</p>
-                  </div> */}
               </div>
             </div>
           </div>

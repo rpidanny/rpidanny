@@ -33,53 +33,6 @@ class Header extends Component {
             </Nav>
           </Navbar.Collapse>
         </Navbar>
-        {/* <header className='header navbar-style-underline'>
-
-          <div className='container-fluid'>
-            <div className='navbar-header'>
-              <button
-                type='button'
-                className='navbar-toggle collapsed'
-                data-toggle='collapse'
-                data-target='#bs-example-navbar-collapse-1'
-              >
-                <span className='sr-only'>Toggle navigation</span>
-                <span className='icon-bar' />
-                <span className='icon-bar' />
-                <span className='icon-bar' />
-              </button>
-            </div>
-            <div className='collapse navbar-collapse'>
-              <ul className='nav navbar-nav'>
-                <li className='active nav-home'>
-                  <a href='#home' className='goto'>
-                    <span>Home</span>
-                  </a>
-                </li>
-                <li className='nav-about'>
-                  <a href='#about' className='goto'>
-                    <span>About me</span>
-                  </a>
-                </li>
-                <li className='nav-resume'>
-                  <a href='#resume' className='goto'>
-                    <span>Resume</span>
-                  </a>
-                </li>
-                <li className='nav-contact'>
-                  <a href='#contact' className='goto'>
-                    <span>Contact</span>
-                  </a>
-                </li>
-                <li className='nav-contact'>
-                  <a href='http://travel.abhishek.pro.np'>
-                    <span>Travel</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </header> */}
       </React.Fragment>
     )
   }
