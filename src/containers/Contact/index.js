@@ -66,7 +66,7 @@ class Contact extends Component {
                       </li>
                       <li>
                         <div className='ico'>
-                          <a href='skype:abhitachi'>
+                          <a href={`https://wa.me/${phone}`}>
                             <span className='saucisson'>U</span>
                           </a>
                         </div>
