@@ -48,7 +48,7 @@ class App extends Component {
       return (
         <div className='App'>
           <Header />
-          <Dashboard />
+          <Dashboard name={basics.name} quote={basics.quote || {}} />
           <About data={basics} />
           <Resume education={education} work={work} />
           <Contact data={basics} />

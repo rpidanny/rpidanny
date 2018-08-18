@@ -36,7 +36,11 @@
         "username": "rpidanny",
         "url": "https://twitter.com/rpidanny"
       }
-    ]
+    ],
+    "quote": {
+      "quote": "People who are really serious about software should make their own hardware",
+      "author": "Alan Kay"
+    }
   },
   "work": [
     {
