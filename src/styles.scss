@@ -2,10 +2,6 @@
   padding: 15px;
 }
 
-/*
- * SERIOUS BUSINESS
- */
-
 .browsehappy {
   margin: 0.2em 0;
   background: #ccc;
@@ -60,82 +56,6 @@ a {
   z-index: 0;
 }
 
-.contact-holder {
-  text-align: center;
-  border: 1px solid #efefef;
-  padding: 20px;
-  margin-top: 70px;
-  margin-bottom: 70px;
-}
-
-.address {
-  position: relative;
-}
-
-.address i {
-  background: none repeat scroll 0 0 #2d2d2d;
-  border: 10px solid #ffffff;
-  border-radius: 100px;
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
-  -ms-border-radius: 100px;
-  -o-border-radius: 100px;
-  /* background-clip: padding-box; */
-  color: #ffffff;
-  display: inline-block;
-  font-size: 29px;
-  height: 65px;
-  left: 50%;
-  line-height: 45px;
-  margin-left: -33px;
-  position: absolute;
-  top: -57px;
-  width: 65px !important;
-}
-
-.address p {
-  font-size: 14px;
-  color: #999999;
-  padding: 10px;
-}
-
-.info ul {
-  padding: 0;
-}
-
-.info li {
-  display: inline-block;
-  width: 200px;
-  position: relative;
-}
-
-.resume .row {
-  margin-bottom: 50px;
-}
-
-.info li .ico {
-  background: #2d2d2d;
-  border: 10px solid #ffffff;
-  border-radius: 100px;
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
-  -ms-border-radius: 100px;
-  -o-border-radius: 100px;
-  -webkit-background-clip: padding-box;
-  -moz-background-clip: padding;
-  background-clip: padding-box;
-  color: #ffffff;
-  display: inline-block;
-  font-size: 20px;
-  height: 60px;
-  left: 50%;
-  line-height: 46px;
-  margin-left: -33px;
-  position: absolute;
-  top: 30px;
-  width: 60px;
-}
-
 .work-item {
   border-left: 1px solid #efefef;
   padding-left: 30px;
@@ -187,19 +107,6 @@ a {
   -ms-border-radius: 0;
   -o-border-radius: 0;
   float: right;
-}
-
-.form-btn:hover {
-  background: #2d2d2d;
-  color: #999999;
-}
-
-.contact {
-  margin-bottom: 40px;
-}
-
-.form-control {
-  border-radius: 0;
 }
 
 #toTop {

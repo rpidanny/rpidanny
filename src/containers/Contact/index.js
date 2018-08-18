@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import vcard from '../../assets/images/vcard.png'
 import PropTypes from 'prop-types'
+import './styles.css'
 
 class Contact extends Component {
   constructor (props) {
