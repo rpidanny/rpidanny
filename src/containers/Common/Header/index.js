@@ -25,7 +25,9 @@ class Header extends Component {
 
   handleScroll (e) {
     const { hidden } = this.state
-    window.scrollY > this.prev ? !hidden && this.setState({ hidden: true }) : hidden && this.setState({ hidden: false })
+    window.scrollY > this.prev || window.scrollY < 400 ? !hidden && this.setState(
+      { hidden: true }
+    ) : hidden && this.setState({ hidden: false })
     this.prev = window.scrollY
   }
 
