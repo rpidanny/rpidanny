@@ -6,10 +6,35 @@ import { Nav, Navbar, NavItem } from 'react-bootstrap'
 import './styles.css'
 
 class Header extends Component {
+  constructor (props) {
+    super(props)
+    this.state = {
+      hidden: true
+    }
+    this.scrollY = 0
+    this.handleScroll = this.handleScroll.bind(this)
+  }
+
+  componentWillMount () {
+    window.addEventListener('scroll', this.handleScroll)
+  }
+
+  componentWillUnmount () {
+    window.removeEventListener('scroll', this.handleScroll)
+  }
+
+  handleScroll (e) {
+    const { hidden } = this.state
+    window.scrollY > this.prev || window.scrollY < 400 ? !hidden && this.setState(
+      { hidden: true }
+    ) : hidden && this.setState({ hidden: false })
+    this.prev = window.scrollY
+  }
+
   render () {
     return (
       <React.Fragment>
-        <Navbar collapseOnSelect staticTop fluid >
+        <Navbar collapseOnSelect staticTop fluid hidden={this.state.hidden} >
           <Navbar.Header>
             <button
               type='button'
