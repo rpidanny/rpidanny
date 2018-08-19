@@ -18,7 +18,7 @@ class App extends Component {
       quote: {}
     }
 
-    ReactGA.initialize('UA-76263604-1')
+    ReactGA.initialize('UA-76263604-1', { testMode: true })
     ReactGA.pageview(window.location.pathname)
   }
 
