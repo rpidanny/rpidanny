@@ -1,0 +1,211 @@
+{
+  "basics": {
+    "name": "Abhishek Maharjan",
+    "label": "Programmer",
+    "picture": "",
+    "email": "rpidanny.abhishek@gmail.com",
+    "phone": "+12345678910",
+    "website": "http://abhishek.pro.np",
+    "summary": "something about...",
+    "location": {
+      "address": "Gwarko",
+      "postalCode": "44600",
+      "city": "Lalitpur",
+      "country": "Nepal",
+      "countryCode": "NP",
+      "region": "Lalitpur"
+    },
+    "profiles": {
+      "social": [
+        {
+          "network": "Instagram",
+          "username": "rpidanny",
+          "url": "https://instagram.com/rpidanny"
+        },
+        {
+          "network": "Twitter",
+          "username": "rpidanny",
+          "url": "https://twitter.com/rpidanny"
+        }
+      ],
+      "cv": [
+        {
+          "network": "Github",
+          "username": "rpidanny",
+          "url": "https://github.com/rpidanny"
+        },
+        {
+          "network": "Linkedin",
+          "username": "abhishek-maharjan-5b401999",
+          "url": "https://np.linkedin.com/in/abhishek-maharjan-5b401999"
+        }
+      ]
+    },
+    "quote": {
+      "quote": "People who are really serious about software should make their own hardware",
+      "author": "Alan Kay"
+    }
+  },
+  "work": [
+    {
+      "company": "Javra Software B.V.",
+      "position": "R&D Engineer",
+      "website": "https://javra.com",
+      "startDate": "2018-03-01",
+      "endDate": "Present",
+      "summary": "Kubernetes, Tensorflow, Keras, Docker, Node.js, Python, Ethereum, Solidity",
+      "highlights": []
+    },
+    {
+      "company": "Javra Software Pvt. Ltd.",
+      "position": "R&D Engineer",
+      "website": "https://javra.com",
+      "startDate": "2016-05-15",
+      "endDate": "2018-02-29",
+      "summary": "Tensorflow, Keras, Docker, Google Cloud Vision, IBM Watson, Clarif.ai, OpenCV, Python, Node.js, D3, React.js",
+      "highlights": []
+    },
+    {
+      "company": "Javra Software Pvt. Ltd.",
+      "position": "Intern Software Engineer",
+      "website": "https://javra.com",
+      "startDate": "2016-02-15",
+      "endDate": "2016-05-15",
+      "summary": "OpenCV, Neo4j, Node.js, Python, C++, HTML, CSS, Javascript",
+      "highlights": []
+    },
+    {
+      "company": "Real Time Solutions",
+      "position": "Firmware Intern",
+      "website": "https://rts.com.np",
+      "startDate": "2015-02-01",
+      "endDate": "2015-11-01",
+      "summary": "EFM32, NXP, ZigBee, USB Protocol, RTOS",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Robotics Club, KEC",
+      "position": "President",
+      "website": "http://www.keckist.edu.np/keckist/asso_club/robotics_club",
+      "startDate": "2014-10-01",
+      "endDate": "2015-10-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Robotics Club, KEC",
+      "position": "Project Coordinator",
+      "website": "http://www.keckist.edu.np/keckist/asso_club/robotics_club",
+      "startDate": "2013-10-01",
+      "endDate": "2014-10-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Robotics Club, KEC",
+      "position": "Member",
+      "website": "http://www.keckist.edu.np/keckist/asso_club/robotics_club",
+      "startDate": "2012-10-01",
+      "endDate": "2013-10-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kathmandu Engineering College",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-10-01",
+      "endDate": "2015-10-01",
+      "gpa": "",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Pentagon International College",
+      "area": "Physics and Computer Science",
+      "studyType": "+2",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Gyanodaya Bal Batika",
+      "area": "",
+      "studyType": "School",
+      "startDate": "1998-01-01",
+      "endDate": "2008-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee Of The Month",
+      "date": "2016-11-01",
+      "awarder": "Javra Software Pvt. Ltd.",
+      "summary": ""
+    },
+    {
+      "title": "Employee Of The Month",
+      "date": "2016-11-01",
+      "awarder": "Javra Software Pvt. Ltd.",
+      "summary": ""
+    },
+    {
+      "title": "Employee Of The Quarter",
+      "date": "2016-11-01",
+      "awarder": "Javra Software Pvt. Ltd.",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Proficient"
+    },
+    {
+      "name": "Nepali",
+      "level": "Native speaker"
+    },
+    {
+      "name": "Newari",
+      "level": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": ["Potraits", "Travel"]
+    },
+    {
+      "name": "Travel",
+      "keywords": ["Explore", "Travel"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
+}
