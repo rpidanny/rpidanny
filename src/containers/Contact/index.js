@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import vcard from '../../assets/images/vcard.png'
 import PropTypes from 'prop-types'
+import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import './styles.css'
 
 class Contact extends Component {
@@ -23,7 +24,7 @@ class Contact extends Component {
           <section className='row contact' id='contact'>
             <div className='col-md-12 title'>
               <h2>
-                <span className='glyphicon glyphicon-envelope' /> / Contact
+                <Glyphicon glyph='envelope' /> / Contact
               </h2>
             </div>
             <div className='col-md-12'>

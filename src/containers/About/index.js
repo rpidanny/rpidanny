@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Image from 'react-bootstrap/lib/Image'
 import PropTypes from 'prop-types'
+import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import './styles.css'
 import ProfilePicture from '../../assets/images/abhishek1.jpg'
 import Social from '../Common/Social'
@@ -20,7 +21,7 @@ class About extends Component {
         <section className='row about' id='about'>
           <div className='col-md-12 title'>
             <h2>
-              <span className='glyphicon glyphicon-user' /> / About me
+              <Glyphicon glyph='user' /> / About me
             </h2>
           </div>
           <div className='col-md-12'>
