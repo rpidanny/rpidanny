@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Work from '../Common/Work'
+import Octicon, { Star } from '@githubprimer/octicons-react'
+import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Education from '../Common/Education'
-import Octicon, { Star, Briefcase } from '@githubprimer/octicons-react'
 import './styles.css'
 
 class Resume extends Component {
@@ -20,13 +21,14 @@ class Resume extends Component {
         <section className='row resume' id='resume'>
           <div className='col-md-12 title'>
             <h2>
-              <Octicon icon={Briefcase} size='large' /> / Resume
+              <Glyphicon glyph='briefcase' /> / Resume
             </h2>
           </div>
           <div className='col-md-12'>
             <div className='content'>
               <Work companies={work} />
               <div className='divider'>
+                {/* <Glyphicon glyph='star' /> */}
                 <Octicon icon={Star} />
               </div>
               <Education institutions={education} />
