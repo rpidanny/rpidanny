@@ -1,3 +1,9 @@
+.about {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0;
+}
+
 .title {
   text-align: center;
   padding-top: 30px;
@@ -28,14 +34,21 @@
 
 .inner-title {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 10px;
 }
 .inner-content {
-  margin-top: 70px;
-  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .inner-title h3 {
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #2d2d2d;
+  font-weight: bold;
+}
+
+.inner-title h2 {
   font-size: 30px;
   text-transform: uppercase;
   color: #2d2d2d;
@@ -88,7 +101,7 @@
   margin-left: 130px;
   position: absolute;
   top: 100px;
-  width: 250px;
+  width: 30%;
   z-index: 0;
 }
 
@@ -100,7 +113,7 @@
   position: absolute;
   right: 50%;
   top: 100px;
-  width: 250px;
+  width: 30%;
   z-index: 0;
 }
 
@@ -127,7 +140,8 @@
 }
 
 .dl-btn {
-  left: 17.2%;
+  z-index: 1;
+  left: 10%;
   position: absolute;
   top: 32.5%;
 }
@@ -136,4 +150,53 @@
   position: absolute;
   right: 10%;
   top: 32.5%;
+}
+
+.about-holder {
+  text-align: center;
+  border: 1px solid #efefef;
+  padding-bottom: 20px;
+  // margin-top: 20px;
+  margin-bottom: 70px;
+}
+
+.info ul {
+  padding: 0;
+}
+
+.info li {
+  display: inline-block;
+  width: 200px;
+  position: relative;
+}
+
+.info ul li p a {
+  color: #999999;
+}
+
+.info li .ico {
+  background: #2d2d2d;
+  border: 10px solid #ffffff;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  color: #ffffff;
+  display: inline-block;
+  font-size: 20px;
+  height: 60px;
+  left: 50%;
+  line-height: 46px;
+  margin-left: -33px;
+  position: absolute;
+  top: 30px;
+  width: 60px;
+}
+
+.info li .ico:hover {
+  background: #6ac8c8;
 }

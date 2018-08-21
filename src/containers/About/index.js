@@ -15,7 +15,7 @@ class About extends Component {
   }
 
   render () {
-    const {name, summary, profiles} = this.state.data
+    const {name, summary, profiles, email, phone} = this.state.data
     return (
       <React.Fragment>
         <section className='row about' id='about'>
@@ -26,30 +26,62 @@ class About extends Component {
           </div>
           <div className='col-md-12'>
             <div className='content'>
-              <div className='inner-title'>
-                <h3>Hi</h3>
-                <h3>my name is </h3>
-                <h3>{name}</h3>
-                <p>
-                  <br />{' '}
-                </p>
-                <p>
-                  {summary}
-                  <br />
-                  <br />
-                </p>
-              </div>
-              <div className='inner-content profile'>
-                <div className='img-profile'>
-                  <Image src={ProfilePicture} alt={name} circle />
+              <div className='about-holder'>
+                <div className='inner-title'>
+                  <h3>Hi</h3>
+                  <h3>my name is </h3>
+                  <h2>{name}</h2>
+                  <p>
+                    <br />{' '}
+                  </p>
+                  <p>
+                    {summary}
+                    <br />
+                    <br />
+                  </p>
                 </div>
-                <div className='dl-btn'>
-                  <Social data={profiles.cv} />
-                  <p>See / Download My CV</p>
+                <div className='inner-content profile'>
+                  <div className='dl-btn'>
+                    <Social data={profiles.cv} />
+                    <p>See / Download My CV</p>
+                  </div>
+                  <div className='img-profile'>
+                    <Image src={ProfilePicture} alt={name} circle />
+                  </div>
+                  <div className='fol-btn'>
+                    <Social data={profiles.social} />
+                    <p>Follow Me On</p>
+                  </div>
                 </div>
-                <div className='fol-btn'>
-                  <Social data={profiles.social} />
-                  <p>Follow Me On</p>
+                <div className='info'>
+                  <ul>
+                    <li>
+                      <div className='ico'>
+                        <a href={`mailto:${email}`}>
+                          <i className='glyphicon glyphicon-envelope' />
+                        </a>
+                      </div>
+                      <p><a href={`mailto:${email}`}>{email}</a></p>
+                    </li>
+                    <li>
+                      <div className='ico'>
+                        <a href={`tel:${phone}`}>
+                          <i className='glyphicon glyphicon-earphone' />
+                        </a>
+                      </div>
+                      <p><a href={`tel:${phone}`}>{phone}</a></p>
+                    </li>
+                    <li>
+                      <div className='ico'>
+                        <a href={`https://wa.me/${phone}`}>
+                          <span className='saucisson'>U</span>
+                        </a>
+                      </div>
+                      <p>
+                        <a href={`https://wa.me/${phone}`} >WhatsApp</a>
+                      </p>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>

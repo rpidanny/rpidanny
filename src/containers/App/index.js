@@ -6,6 +6,7 @@ import Header from '../Common/Header'
 import Dashboard from '../Dashboard'
 import About from '../About'
 import Resume from '../Resume'
+// import Interests from '../Interests'
 import Contact from '../Contact'
 import Footer from '../Common/Footer'
 import './index.css'
@@ -51,6 +52,7 @@ class App extends Component {
           <Dashboard name={basics.name} quote={basics.quote || {}} />
           <About data={basics} />
           <Resume education={education} work={work} />
+          {/* <Interests data={interests} /> */}
           <Contact data={basics} />
           <Footer quote={this.state.quote} />
         </div>
