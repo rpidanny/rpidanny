@@ -80,7 +80,7 @@ class Contact extends Component {
         from: 'Contact Me',
         to: 'abhishekmaharjan1993@gmail.com',
         subject: `Msg from: ${email}`,
-        text: 'message'
+        text: message
       }
       // Send Email
       fetch('https://us-central1-mailer-69581.cloudfunctions.net/mail/', {
