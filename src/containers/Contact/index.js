@@ -60,6 +60,9 @@ class Contact extends Component {
         } else {
           validaton.messageValidation = 'success'
         }
+        break
+      default:
+        break
     }
     this.setState(prev => ({...prev, ...validaton, ...update}))
   }
