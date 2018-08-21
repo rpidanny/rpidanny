@@ -175,7 +175,7 @@ class Contact extends Component {
 
                     <FormGroup>
                       <Button
-                        bsStyle='primary'
+                        className='btnSend'
                         disabled={isLoading}
                         onClick={!isLoading ? this.sendEmail : null}
                       >
