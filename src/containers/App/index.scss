@@ -266,6 +266,7 @@ p > a {
 /* Responsive: Portrait tablets and up */
 
 @media only screen and (max-width: 959px) and (min-width: 768px) {
+  
   .quotes {
     width: 70%;
   }
@@ -283,6 +284,7 @@ p > a {
 }
 
 @media only screen and (max-width: 767px) and (min-width: 480px) {
+
   .quotes {
     width: 80%;
   }
@@ -342,6 +344,9 @@ p > a {
   }
 
   .main-title {
+    font-size: 0.6em;
+  }
+  .main-title h1 {
     font-size: 3em;
   }
 
@@ -388,8 +393,8 @@ p > a {
   }
 }
 
-@media (max-width: 767px) {
-  .main-title {
-    font-size: 2em;
-  }
-}
+// @media (max-width: 767px) {
+//   .main-title {
+//     font-size: 2em;
+//   }
+// }
