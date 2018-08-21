@@ -274,13 +274,6 @@ p > a {
   .content {
     width: 700px;
   }
-  .dl-btn {
-    left: 5%;
-  }
-
-  .fol-btn {
-    right: -5%;
-  }
 }
 
 @media only screen and (max-width: 767px) and (min-width: 480px) {
@@ -300,8 +293,13 @@ p > a {
     width: 375px;
   }
 
+  .img-profile:before,
+  .img-profile:after {
+    display: none;
+  }
+
   .profile {
-    margin-bottom: 120px;
+    margin-bottom: 180px;
     margin-top: 100px;
   }
 
@@ -360,7 +358,7 @@ p > a {
   }
 
   .profile {
-    margin-bottom: 120px;
+    margin-bottom: 140px;
     margin-top: 100px;
   }
 
