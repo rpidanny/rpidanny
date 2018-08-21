@@ -1,7 +1,10 @@
+import fetch from 'isomorphic-fetch'
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import {Form, FormGroup, FormControl, ControlLabel, Button} from 'react-bootstrap'
+import isEmail from 'validator/lib/isEmail'
+import isEmpty from 'validator/lib/isEmpty'
 import './styles.css'
 
 class Contact extends Component {
@@ -9,6 +12,7 @@ class Contact extends Component {
     super(props)
     this.handleUserInput = this.handleUserInput.bind(this)
     this.getValidationState = this.getValidationState.bind(this)
+    this.validateInputs = this.validateInputs.bind(this)
     this.sendEmail = this.sendEmail.bind(this)
     this.state = {
       data: {},
@@ -31,12 +35,58 @@ class Contact extends Component {
   }
 
   handleUserInput (e) {
-    console.log(e.target.name)
-    this.setState({ [e.target.name]: e.target.value })
+    const validaton = {}
+    const update = {
+      [e.target.name]: e.target.value
+    }
+    switch (e.target.name) {
+      case 'name':
+        if (isEmpty(e.target.value)) {
+          validaton.nameValidation = 'error'
+        } else {
+          validaton.nameValidation = 'success'
+        }
+        break
+      case 'email':
+        if (!isEmail(e.target.value)) {
+          validaton.emailValidation = 'error'
+        } else {
+          validaton.emailValidation = 'success'
+        }
+        break
+      case 'message':
+        if (isEmpty(e.target.value)) {
+          validaton.messageValidation = 'error'
+        } else {
+          validaton.messageValidation = 'success'
+        }
+    }
+    this.setState(prev => ({...prev, ...validaton, ...update}))
+  }
+
+  validateInputs () {
+    const { nameValidation, emailValidation, messageValidation } = this.state
+    return (nameValidation === 'success' && emailValidation === 'success' && messageValidation === 'success')
   }
 
   sendEmail () {
     console.log(this.state)
+    const {name, email, message} = this.state
+    if (this.validateInputs()) {
+      
+    } else {
+      const validations = {}
+      if (isEmpty(name)) {
+        validations.nameValidation = 'error'
+      }
+      if (!isEmail(email)) {
+        validations.emailValidation = 'error'
+      }
+      if (isEmpty(message)) {
+        validations.messageValidation = 'error'
+      }
+      this.setState(prev => ({...prev, ...validations}))
+    }
   }
 
   render () {
