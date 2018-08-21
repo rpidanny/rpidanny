@@ -73,16 +73,16 @@ class Contact extends Component {
   }
 
   sendEmail () {
-    console.log(this.state)
     const {name, email, message} = this.state
     if (this.validateInputs()) {
       const payload = {
         from: 'Contact Me',
         to: 'abhishekmaharjan1993@gmail.com',
         subject: `Msg from: ${email}`,
-        text: 'message'
+        text: message
       }
       // Send Email
+      this.setState({isLoading: true})
       fetch('https://us-central1-mailer-69581.cloudfunctions.net/mail/', {
         method: 'POST',
         body: JSON.stringify(payload),
@@ -93,7 +93,8 @@ class Contact extends Component {
       }).then(response => {
         response.json().then(data => {
           this.setState({isLoading: false})
-          console.log('Successful' + data)
+          window.alert('Message Sent!')
+          console.log(data)
         })
       })
     } else {
