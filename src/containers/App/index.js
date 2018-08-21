@@ -52,7 +52,7 @@ class App extends Component {
           <Dashboard name={basics.name} quote={basics.quote || {}} />
           <About data={basics} />
           <Resume education={education} work={work} />
-          <Interests data={interests} />
+          {/* <Interests data={interests} /> */}
           <Contact data={basics} />
           <Footer quote={this.state.quote} />
         </div>
