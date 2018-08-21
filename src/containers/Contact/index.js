@@ -73,7 +73,26 @@ class Contact extends Component {
     console.log(this.state)
     const {name, email, message} = this.state
     if (this.validateInputs()) {
-      
+      const payload = {
+        from: 'Contact Me',
+        to: 'abhishekmaharjan1993@gmail.com',
+        subject: `Msg from: ${email}`,
+        text: 'message'
+      }
+      // Send Email
+      fetch('https://us-central1-mailer-69581.cloudfunctions.net/mail/', {
+        method: 'POST',
+        body: JSON.stringify(payload),
+        headers: {
+          'Accept': 'application/json',
+          'Content-Type': 'application/json'
+        }
+      }).then(response => {
+        response.json().then(data => {
+          this.setState({isLoading: false})
+          console.log('Successful' + data)
+        })
+      })
     } else {
       const validations = {}
       if (isEmpty(name)) {
