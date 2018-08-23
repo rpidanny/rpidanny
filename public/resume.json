@@ -207,5 +207,20 @@
       "name": "Jane Doe",
       "reference": "Reference..."
     }
+  ],
+  "travel": [
+    "Belgium",
+    "China",
+    "Czech Republic",
+    "France",
+    "Germany",
+    "India",
+    "Italy",
+    "Nepal",
+    "Netherlands",
+    "Qatar",
+    "Switzerland",
+    "Thailand",
+    "United Arab Emirates"
   ]
 }
