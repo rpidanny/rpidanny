@@ -7,7 +7,7 @@ import Dashboard from '../Dashboard'
 import About from '../About'
 import Resume from '../Resume'
 // import Interests from '../Interests'
-// import Travel from '../Travel'
+import Travel from '../Travel'
 import Contact from '../Contact'
 import Footer from '../Common/Footer'
 import './index.css'
@@ -54,7 +54,7 @@ class App extends Component {
           <About data={basics} />
           <Resume education={education} work={work} />
           {/* <Interests data={interests} /> */}
-          {/* <Travel /> */}
+          <Travel />
           <Contact email={basics.email} />
           <Footer quote={this.state.quote} />
         </div>
