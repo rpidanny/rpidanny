@@ -5,7 +5,7 @@ import {
   Geography
 } from 'react-simple-maps'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
-import worldMap from '../../../assets/world-50m.json'
+import worldMap from '../../assets/world-50m.json'
 import './styles.css'
 
 const wrapperStyles = {
