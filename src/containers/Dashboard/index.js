@@ -16,16 +16,16 @@ class Dashboard extends Component {
   }
 
   render () {
-    const { name, quote } = this.state
+    const { quote } = this.state
     return (
       <React.Fragment>
         <section id='home' className='large-header' >
           <canvas id='animated-canvas' />
           <div className='overlay'>
-            <div className='typewriter main-title'>
-              <h1 className=''>{name}</h1>
+            <div className='main-title'>
+              {/* <h1 className='typewriter'>{name}</h1>
               <br />
-              <br />
+              <br /> */}
               <p><i>{ quote.quote || '' }</i></p>
               <p><b>{ `-${quote.author || ''}` }</b></p>
             </div>
