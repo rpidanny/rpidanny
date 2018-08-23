@@ -8,12 +8,6 @@ import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import worldMap from '../../assets/world-50m.json'
 import './styles.css'
 
-const wrapperStyles = {
-  width: '100%',
-  maxWidth: 980,
-  margin: '0 auto'
-}
-
 class Travel extends Component {
   constructor (props) {
     super(props)
