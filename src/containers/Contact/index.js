@@ -15,7 +15,7 @@ class Contact extends Component {
     this.validateInputs = this.validateInputs.bind(this)
     this.sendEmail = this.sendEmail.bind(this)
     this.state = {
-      data: {},
+      myEmail: props.email,
       name: '',
       email: '',
       message: '',
@@ -32,6 +32,10 @@ class Contact extends Component {
     else if (length > 5) return 'warning'
     else if (length > 0) return 'error'
     return null
+  }
+
+  componentWillReceiveProps (props) {
+    this.setState({ myEmail: props.email })
   }
 
   handleUserInput (e) {
@@ -73,11 +77,11 @@ class Contact extends Component {
   }
 
   sendEmail () {
-    const {name, email, message} = this.state
+    const {myEmail, name, email, message} = this.state
     if (this.validateInputs()) {
       const payload = {
         from: 'Contact Me',
-        to: 'abhishekmaharjan1993@gmail.com',
+        to: myEmail,
         subject: `Msg from: ${email}`,
         text: message
       }

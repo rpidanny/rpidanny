@@ -53,7 +53,7 @@ class App extends Component {
           <About data={basics} />
           <Resume education={education} work={work} />
           {/* <Interests data={interests} /> */}
-          <Contact data={basics} />
+          <Contact email={basics.email} />
           <Footer quote={this.state.quote} />
         </div>
       )
