@@ -3,7 +3,7 @@ import Image from 'react-bootstrap/lib/Image'
 import PropTypes from 'prop-types'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import './styles.css'
-import ProfilePicture from '../../assets/images/abhishek1.jpg'
+import ProfilePicture from '../../assets/images/pp_with_linus.jpg'
 import Social from '../Common/Social'
 
 class About extends Component {
