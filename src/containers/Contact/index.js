@@ -96,10 +96,18 @@ class Contact extends Component {
         }
       }).then(response => {
         response.json().then(data => {
-          this.setState({isLoading: false})
+          this.setState({
+            isLoading: false,
+            email: '',
+            name: '',
+            message: ''
+          })
           window.alert('Message Sent!')
           console.log(data)
         })
+      }).catch(() => {
+        window.alert('Failed to send message. Please try sending me an email instead.')
+        this.setState({isLoading: false})
       })
     } else {
       const validations = {}
@@ -146,6 +154,7 @@ class Contact extends Component {
                         type='text'
                         placeholder='Name'
                         name='name'
+                        value={this.state.name}
                         onChange={this.handleUserInput}
                       />
                     </FormGroup>
@@ -159,6 +168,7 @@ class Contact extends Component {
                         type='email'
                         placeholder='Email'
                         name='email'
+                        value={this.state.email}
                         onChange={this.handleUserInput}
                       />
                     </FormGroup>
@@ -173,6 +183,7 @@ class Contact extends Component {
                         rows={4}
                         placeholder='Message'
                         name='message'
+                        value={this.state.message}
                         onChange={this.handleUserInput}
                       />
                     </FormGroup>
@@ -198,7 +209,7 @@ class Contact extends Component {
 }
 
 Contact.propTypes = {
-  data: PropTypes.object.isRequired
+  email: PropTypes.string.isRequired
 }
 
 export default Contact
