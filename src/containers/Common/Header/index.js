@@ -54,8 +54,8 @@ class Header extends Component {
               <NavItem eventKey={2} href='#about' >About</NavItem>
               <NavItem eventKey={3} href='#resume' >Resume</NavItem>
               {/* <NavItem eventKey={4} href='#interests' >Interests</NavItem> */}
-              <NavItem eventKey={5} href='#contact' >Contact</NavItem>
-              <NavItem eventKey={6} href='https://travel.abhishek.pro.np' >Travel</NavItem>
+              <NavItem eventKey={5} href='#travel' >Travel</NavItem>
+              <NavItem eventKey={6} href='#contact' >Contact</NavItem>
             </Nav>
           </Navbar.Collapse>
         </Navbar>

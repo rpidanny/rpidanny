@@ -4,7 +4,7 @@
     "label": "Programmer",
     "picture": "",
     "email": "rpidanny.abhishek@gmail.com",
-    "phone": "+12345678910",
+    "phone": "+31**********",
     "website": "http://abhishek.pro.np",
     "summary": "something about...",
     "location": {
@@ -207,5 +207,20 @@
       "name": "Jane Doe",
       "reference": "Reference..."
     }
+  ],
+  "travel": [
+    "Belgium",
+    "China",
+    "Czech Republic",
+    "France",
+    "Germany",
+    "India",
+    "Italy",
+    "Nepal",
+    "Netherlands",
+    "Qatar",
+    "Switzerland",
+    "Thailand",
+    "United Arab Emirates"
   ]
 }

@@ -7,6 +7,7 @@ import Dashboard from '../Dashboard'
 import About from '../About'
 import Resume from '../Resume'
 // import Interests from '../Interests'
+import Travel from '../Travel'
 import Contact from '../Contact'
 import Footer from '../Common/Footer'
 import './index.css'
@@ -45,7 +46,7 @@ class App extends Component {
 
   render () {
     if (Object.keys(this.state.resumeData).length > 0) {
-      const {basics, education, work} = this.state.resumeData
+      const {basics, education, work, travel} = this.state.resumeData
       return (
         <div className='App'>
           <Header />
@@ -53,6 +54,7 @@ class App extends Component {
           <About data={basics} />
           <Resume education={education} work={work} />
           {/* <Interests data={interests} /> */}
+          <Travel countries={travel} />
           <Contact email={basics.email} />
           <Footer quote={this.state.quote} />
         </div>
