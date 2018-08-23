@@ -12,7 +12,7 @@ class Interests extends Component {
     }
   }
   render () {
-    const { data } = this.state
+    // const { data } = this.state
     return (
       <React.Fragment>
         <section className='row interests' id='interests'>
