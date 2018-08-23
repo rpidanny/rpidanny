@@ -22,14 +22,14 @@ class Travel extends Component {
 
   getFillColor (country, visitedCountries) {
     if (visitedCountries.indexOf(country) > -1) {
-      return '#f97c39'
+      return '#92c14d'
     }
     return '#999999'
   }
 
   getHoverColor (country, visitedCountries) {
     if (visitedCountries.indexOf(country) > -1) {
-      return '#d05000'
+      return '#62912d'
     }
     return '#263238'
   }
