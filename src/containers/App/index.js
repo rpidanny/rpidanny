@@ -30,7 +30,7 @@ class App extends Component {
   }
 
   getQuote () {
-    return fetch('https://random-quotes-api.herokuapp.com')
+    return fetch('https://ptdwwoy2xc.execute-api.us-east-1.amazonaws.com/prod/quotes/random')
       .then(response => response.json())
   }
 
