@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Image from 'react-bootstrap/lib/Image'
+import Tilt from 'react-tilt'
 import PropTypes from 'prop-types'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import './styles.css'
@@ -46,7 +47,11 @@ class About extends Component {
                     <p>See / Download My CV</p>
                   </div>
                   <div className='img-profile'>
-                    <Image src={ProfilePicture} alt={name} circle />
+                    <Tilt
+                      options={{ max: 25 }}
+                    >
+                      <Image src={ProfilePicture} alt={name} circle />
+                    </Tilt>
                   </div>
                   <div className='fol-btn'>
                     <Social data={profiles.social} />
