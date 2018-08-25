@@ -12,7 +12,7 @@ class Travel extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      visitedCountries: []
+      visitedCountries: props.countries
     }
   }
 

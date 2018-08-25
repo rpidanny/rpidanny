@@ -17,7 +17,10 @@ class App extends Component {
     super(props)
     this.state = {
       resumeData: {},
-      quote: {}
+      quote: {
+        quote: 'People who are really serious about software should make their own hardware',
+        author: 'Alan Kay'
+      }
     }
 
     ReactGA.initialize('UA-76263604-1', { testMode: true })
@@ -47,16 +50,17 @@ class App extends Component {
   render () {
     if (Object.keys(this.state.resumeData).length > 0) {
       const {basics, education, work, travel} = this.state.resumeData
+      const { quote } = this.state
       return (
         <div className='App'>
           <Header />
-          <Dashboard name={basics.name} quote={this.state.quote} />
+          <Dashboard name={basics.name} quote={quote} />
           <About data={basics} />
           <Resume education={education} work={work} />
           {/* <Interests data={interests} /> */}
           <Travel countries={travel} />
           <Contact email={basics.email} />
-          <Footer quote={this.state.quote} />
+          <Footer quote={quote} />
         </div>
       )
     }
