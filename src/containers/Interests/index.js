@@ -32,7 +32,7 @@ class Interests extends Component {
                       Some random photos that i took.
                     </p>
                   </div>
-                  <PhotoGallery photos={photography} />
+                  <PhotoGallery photos={photography.photos} />
                 </div>
                 <div className='col-md-12'>
                   <div className='divider'>
@@ -45,10 +45,10 @@ class Interests extends Component {
                   <div className='inner-title'>
                     <h3><Glyphicon glyph='plane' /> Travel</h3>
                     <p>
-                      Countries visited so far: <i><b>{travel.length}</b></i>
+                      Countries visited so far: <i><b>{travel.countriesVisited.length}</b></i>
                     </p>
                   </div>
-                  <WorldMap countries={travel} />
+                  <WorldMap countries={travel.countriesVisited} />
                 </div>
               </div>
             </div>
