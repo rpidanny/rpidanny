@@ -6,8 +6,8 @@ import Header from '../Common/Header'
 import Dashboard from '../Dashboard'
 import About from '../About'
 import Resume from '../Resume'
-// import Interests from '../Interests'
-import Travel from '../Travel'
+import Interests from '../Interests'
+// import Travel from '../Travel'
 import Contact from '../Contact'
 import Footer from '../Common/Footer'
 import './index.css'
@@ -49,7 +49,7 @@ class App extends Component {
 
   render () {
     if (Object.keys(this.state.resumeData).length > 0) {
-      const {basics, education, work, travel} = this.state.resumeData
+      const {basics, education, work, travel, interests} = this.state.resumeData
       const { quote } = this.state
       return (
         <div className='App'>
@@ -57,8 +57,8 @@ class App extends Component {
           <Dashboard name={basics.name} quote={quote} />
           <About data={basics} />
           <Resume education={education} work={work} />
-          {/* <Interests data={interests} /> */}
-          <Travel countries={travel} />
+          <Interests data={interests} countries={travel} />
+          {/* <Travel countries={travel} /> */}
           <Contact email={basics.email} />
           <Footer quote={quote} />
         </div>
