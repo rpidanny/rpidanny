@@ -35,7 +35,7 @@ class Header extends Component {
     return (
       <React.Fragment>
         <Navbar collapseOnSelect staticTop fluid hidden={this.state.hidden} >
-          <Navbar.Header>
+          {/* <Navbar.Header>
             <button
               type='button'
               className='navbar-toggle collapsed'
@@ -47,7 +47,7 @@ class Header extends Component {
               <span className='icon-bar' />
               <span className='icon-bar' />
             </button>
-          </Navbar.Header>
+          </Navbar.Header> */}
           <Navbar.Collapse>
             <Nav>
               <NavItem eventKey={1} href='#home' >Home</NavItem>
