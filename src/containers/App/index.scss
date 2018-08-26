@@ -83,14 +83,14 @@ a {
 }
 
 .divider {
-  margin: 20px auto 0;
+  margin: 30px auto 0;
   position: relative;
   text-align: center;
   width: 600px;
 }
 
 .divider span:before {
-  border-bottom: 1px dashed #efefef;
+  border-bottom: 1px dashed #cfcfcf;
   content: "";
   display: block;
   left: 0;
