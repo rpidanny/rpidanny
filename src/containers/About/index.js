@@ -36,9 +36,11 @@ class About extends Component {
                     <br />{' '}
                   </p>
                   <p>
-                    {summary}
-                    <br />
-                    <br />
+                    {
+                      summary.map(element => (
+                        <p > {element} </p>
+                      ))
+                    }
                   </p>
                 </div>
                 <div className='inner-content profile'>
