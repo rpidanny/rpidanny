@@ -198,16 +198,26 @@
       "level": "Native speaker"
     }
   ],
-  "interests": [
-    {
-      "name": "Photography",
-      "keywords": ["Potraits", "Travel"]
-    },
-    {
-      "name": "Travel",
-      "keywords": ["Explore", "Travel"]
-    }
-  ],
+  "interests": {
+    "photography": [
+
+    ],
+    "travel": [
+      "Belgium",
+      "China",
+      "Czech Republic",
+      "France",
+      "Germany",
+      "India",
+      "Italy",
+      "Nepal",
+      "Netherlands",
+      "Qatar",
+      "Switzerland",
+      "Thailand",
+      "United Arab Emirates"
+    ]
+  },
   "references": [
     {
       "name": "Jane Doe",
