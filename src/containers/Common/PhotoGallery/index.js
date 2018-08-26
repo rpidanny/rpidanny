@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Gallery from 'react-photo-gallery'
 
+// TODO: replace this with props.photos
 const photos = [
   {
     src: 'https://source.unsplash.com/2ShvY8Lf6l0/800x599',
