@@ -25,7 +25,10 @@ class Dashboard extends Component {
           <canvas id='animated-canvas' />
           <div className='overlay'>
             <Tilt
-              options={{ max: 25 }}
+              options={{
+                max: 25,
+                scale: 1.1
+              }}
             >
               <div className='main-title'>
                 {/* <h1 className='typewriter'>{name}</h1>
