@@ -33,9 +33,12 @@ class About extends Component {
                   <h3>my name is </h3>
                   <h2>{name}</h2>
                   {
-                    summary.map(element => (
-                      <p > {element} </p>
-                    ))
+                    summary.map(element => {
+                      if (element === '') {
+                        return <br />
+                      }
+                      return <p > {element} </p>
+                    })
                   }
                 </div>
                 <div className='inner-content profile'>
