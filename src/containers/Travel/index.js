@@ -36,7 +36,7 @@ class Travel extends Component {
 
   render () {
     const { visitedCountries } = this.state
-    if (visitedCountries.length > 0) {
+    if (visitedCountries && visitedCountries.length > 0) {
       return (
         <React.Fragment>
           <section className='row travel' id='travel' >

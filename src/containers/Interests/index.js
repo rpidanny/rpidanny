@@ -1,18 +1,19 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import Octicon, { Star } from '@githubprimer/octicons-react'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
+import PhotoGallery from '../Common/PhotoGallery'
+import WorldMap from '../Common/WorldMap'
 import './styles.css'
 
 class Interests extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      data: props.interests
+      data: props.data
     }
   }
   render () {
-    // const { data } = this.state
+    const { photography, travel } = this.state.data
     return (
       <React.Fragment>
         <section className='row interests' id='interests'>
@@ -23,9 +24,32 @@ class Interests extends Component {
           </div>
           <div className='col-md-12'>
             <div className='content'>
-              <div className='divider'>
-                {/* <Glyphicon glyph='star' /> */}
-                <Octicon icon={Star} />
+              <div className='row'>
+                <div className='col-md-12'>
+                  <div className='inner-title'>
+                    <h3><Glyphicon glyph='camera' /> Photography</h3>
+                    <p>
+                      Some random photos that i took.
+                    </p>
+                  </div>
+                  <PhotoGallery photos={photography.photos} />
+                </div>
+                <div className='col-md-12'>
+                  <div className='divider'>
+                    <span>
+                      <i class='glyphicon glyphicon-star' />
+                    </span>
+                  </div>
+                </div>
+                <div className='col-md-12'>
+                  <div className='inner-title'>
+                    <h3><Glyphicon glyph='plane' /> Travel</h3>
+                    <p>
+                      Countries visited so far: <i><b>{travel.countriesVisited.length}</b></i>
+                    </p>
+                  </div>
+                  <WorldMap countries={travel.countriesVisited} />
+                </div>
               </div>
             </div>
           </div>
