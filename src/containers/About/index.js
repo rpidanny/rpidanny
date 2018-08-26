@@ -32,6 +32,7 @@ class About extends Component {
                   <h3>Hi</h3>
                   <h3>my name is </h3>
                   <h2>{name}</h2>
+                  <br />
                   {
                     summary.map(element => {
                       if (element === '') {
