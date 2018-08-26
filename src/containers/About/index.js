@@ -32,16 +32,11 @@ class About extends Component {
                   <h3>Hi</h3>
                   <h3>my name is </h3>
                   <h2>{name}</h2>
-                  <p>
-                    <br />{' '}
-                  </p>
-                  <p>
-                    {
-                      summary.map(element => (
-                        <p > {element} </p>
-                      ))
-                    }
-                  </p>
+                  {
+                    summary.map(element => (
+                      <p > {element} </p>
+                    ))
+                  }
                 </div>
                 <div className='inner-content profile'>
                   <div className='dl-btn'>

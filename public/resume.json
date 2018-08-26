@@ -6,7 +6,10 @@
     "email": "rpidanny.abhishek@gmail.com",
     "phone": "+31**********",
     "website": "http://abhishek.pro.np",
-    "summary": "something about...",
+    "summary": [
+      "Originally from Nepal, I have a passion for technology. I wouldn't say i love coding just for the sake of it. I love coding because it helps be solve problems.",
+      "As a side hobby I love to take pictures."
+    ],
     "location": {
       "address": "Gwarko",
       "postalCode": "44600",
