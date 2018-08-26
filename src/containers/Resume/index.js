@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Work from '../Common/Work'
-import Octicon, { Star } from '@githubprimer/octicons-react'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Education from '../Common/Education'
 import './styles.css'
@@ -28,8 +27,9 @@ class Resume extends Component {
             <div className='content'>
               <Work companies={work} />
               <div className='divider'>
-                {/* <Glyphicon glyph='star' /> */}
-                <Octicon icon={Star} />
+                <span>
+                  <i class='glyphicon glyphicon-star' />
+                </span>
               </div>
               <Education institutions={education} />
             </div>

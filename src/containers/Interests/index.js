@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
-import Octicon, { Star } from '@githubprimer/octicons-react'
 import PhotoGallery from '../Common/PhotoGallery'
 import WorldMap from '../Common/WorldMap'
 import './styles.css'
@@ -37,7 +36,9 @@ class Interests extends Component {
                 </div>
                 <div className='col-md-12'>
                   <div className='divider'>
-                    <Octicon icon={Star} />
+                    <span>
+                      <i class='glyphicon glyphicon-star' />
+                    </span>
                   </div>
                 </div>
                 <div className='col-md-12'>
