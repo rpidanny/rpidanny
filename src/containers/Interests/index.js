@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
+import Octicon, { Star } from '@githubprimer/octicons-react'
 import PhotoGallery from '../Common/PhotoGallery'
 import WorldMap from '../Common/WorldMap'
 import './styles.css'
@@ -9,12 +10,11 @@ class Interests extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      data: props.interests,
-      countries: props.countries
+      data: props.data
     }
   }
   render () {
-    const { countries } = this.state
+    const { photography, travel } = this.state.data
     return (
       <React.Fragment>
         <section className='row interests' id='interests'>
@@ -28,24 +28,26 @@ class Interests extends Component {
               <div className='row'>
                 <div className='col-md-12'>
                   <div className='inner-title'>
-                    <h3>Photography</h3>
+                    <h3><Glyphicon glyph='camera' /> Photography</h3>
                     <p>
                       Some random photos that i took.
                     </p>
                   </div>
-                  <PhotoGallery />
+                  <PhotoGallery photos={photography} />
                 </div>
-                <div className='divider'>
-                  <Glyphicon glyph='star' />
+                <div className='col-md-12'>
+                  <div className='divider'>
+                    <Octicon icon={Star} />
+                  </div>
                 </div>
                 <div className='col-md-12'>
                   <div className='inner-title'>
-                    <h3>Travel</h3>
+                    <h3><Glyphicon glyph='plane' /> Travel</h3>
                     <p>
-                      Countries visited so far: <i><b>{countries.length}</b></i>
+                      Countries visited so far: <i><b>{travel.length}</b></i>
                     </p>
                   </div>
-                  <WorldMap countries={countries} />
+                  <WorldMap countries={travel} />
                 </div>
               </div>
             </div>

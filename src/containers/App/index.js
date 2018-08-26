@@ -49,7 +49,7 @@ class App extends Component {
 
   render () {
     if (Object.keys(this.state.resumeData).length > 0) {
-      const {basics, education, work, travel, interests} = this.state.resumeData
+      const {basics, education, work, interests} = this.state.resumeData
       const { quote } = this.state
       return (
         <div className='App'>
@@ -57,7 +57,7 @@ class App extends Component {
           <Dashboard name={basics.name} quote={quote} />
           <About data={basics} />
           <Resume education={education} work={work} />
-          <Interests data={interests} countries={travel} />
+          <Interests data={interests} />
           {/* <Travel countries={travel} /> */}
           <Contact email={basics.email} />
           <Footer quote={quote} />
