@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Tilt from 'react-tilt'
+import Particles from 'react-particles-js'
 import PropTypes from 'prop-types'
 import './styles.css'
 
@@ -22,7 +23,7 @@ class Dashboard extends Component {
     return (
       <React.Fragment>
         <section id='home' className='large-header' >
-          <canvas id='animated-canvas' />
+          <Particles />
           <div className='overlay'>
             <Tilt
               options={{
