@@ -49,7 +49,10 @@ class About extends Component {
                   </div>
                   <div className='img-profile'>
                     <Tilt
-                      options={{ max: 25 }}
+                      options={{
+                        max: 25,
+                        scale: 1.15
+                      }}
                     >
                       <Image src={ProfilePicture} alt={name} circle />
                     </Tilt>
