@@ -38,8 +38,10 @@ class Dashboard extends Component {
                 {/* <h1 className='typewriter'>{name}</h1>
                 <br />
                 <br /> */}
-                <p><i>{ quote.quote || '' }</i></p>
-                <p><b>{ `-${quote.author || ''}` }</b></p>
+                <div className='content'>
+                  <p><i>{ quote.quote || '' }</i></p>
+                  <p><b>{ `-${quote.author || ''}` }</b></p>
+                </div>
               </div>
             </Tilt>
           </div>
