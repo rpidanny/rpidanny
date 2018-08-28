@@ -3,6 +3,7 @@ import Tilt from 'react-tilt'
 import Particles from 'react-particles-js'
 import PropTypes from 'prop-types'
 import './styles.css'
+import particlesConfig from '../../assets/particlesjs-config.json'
 
 class Dashboard extends Component {
   constructor (props) {
@@ -23,7 +24,9 @@ class Dashboard extends Component {
     return (
       <React.Fragment>
         <section id='home' className='large-header' >
-          <Particles />
+          <Particles
+            params={particlesConfig}
+          />
           <div className='overlay'>
             <Tilt
               options={{
