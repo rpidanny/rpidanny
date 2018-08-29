@@ -274,6 +274,10 @@ p > a {
   .content {
     width: 700px;
   }
+
+  #home div canvas {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 767px) and (min-width: 480px) {
@@ -327,6 +331,10 @@ p > a {
   }
   .info li:last-child {
     height: 50px;
+  }
+
+  #home div canvas {
+    display: none;
   }
 }
 
@@ -388,6 +396,10 @@ p > a {
 
   .info li:last-child {
     height: 50px;
+  }
+
+  #home div canvas {
+    display: none;
   }
 }
 
