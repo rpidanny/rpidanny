@@ -217,12 +217,7 @@
           "height": 1
         },
         {
-          "src": "IMG_2942.JPG",
-          "width": 3,
-          "height": 4
-        },
-        {
-          "src": "DSC_5924.jpg",
+          "src": "IMG_2820.JPG",
           "width": 3,
           "height": 4
         },
@@ -232,17 +227,22 @@
           "height": 1
         },
         {
-          "src": "IMG_2352.JPG",
-          "width": 3,
-          "height": 2
-        },
-        {
           "src": "IMG_3156.JPG",
           "width": 3,
           "height": 2
         },
         {
+          "src": "IMG_2352.JPG",
+          "width": 3,
+          "height": 2
+        },
+        {
           "src": "IMG_0938.JPG",
+          "width": 3,
+          "height": 4
+        },
+        {
+          "src": "IMG_2942.JPG",
           "width": 3,
           "height": 4
         }
