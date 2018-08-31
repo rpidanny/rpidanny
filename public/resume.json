@@ -202,6 +202,53 @@
     "photography": {
       "photos": [
         {
+          "src": "IMG_2358.JPG",
+          "width": 3,
+          "height": 2
+        },
+        {
+          "src": "IMG_2393.JPG",
+          "width": 4,
+          "height": 3
+        },
+        {
+          "src": "IMG_3143.JPG",
+          "width": 2,
+          "height": 1
+        },
+        {
+          "src": "IMG_2942.JPG",
+          "width": 3,
+          "height": 4
+        },
+        {
+          "src": "DSC_5924.jpg",
+          "width": 3,
+          "height": 4
+        },
+        {
+          "src": "IMG_2316.JPG",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "IMG_2352.JPG",
+          "width": 3,
+          "height": 2
+        },
+        {
+          "src": "IMG_3156.JPG",
+          "width": 3,
+          "height": 2
+        },
+        {
+          "src": "IMG_0938.JPG",
+          "width": 3,
+          "height": 4
+        }
+      ],
+      "photos-template": [
+        {
           "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
           "width": 4,
           "height": 3
