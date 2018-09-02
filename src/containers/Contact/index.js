@@ -152,7 +152,7 @@ class Contact extends Component {
                       <ControlLabel>Name</ControlLabel>
                       <FormControl
                         type='text'
-                        placeholder='Name'
+                        placeholder='Your Name'
                         name='name'
                         value={this.state.name}
                         onChange={this.handleUserInput}
