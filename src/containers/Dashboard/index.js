@@ -26,7 +26,7 @@ class Dashboard extends Component {
       <React.Fragment>
         <section id='home' className='large-header' >
           <div className='overlay' />
-          <img src={transparentImage} className='transparent-pic' />
+          <img alt='' src={transparentImage} className='transparent-pic' />
           <Particles
             params={particlesConfig}
           />
