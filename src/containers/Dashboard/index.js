@@ -4,6 +4,7 @@ import Particles from 'react-particles-js'
 import PropTypes from 'prop-types'
 import './styles.css'
 import particlesConfig from '../../assets/particlesjs-config.json'
+import transparentImage from '../../assets/images/transparent.png'
 
 class Dashboard extends Component {
   constructor (props) {
@@ -24,10 +25,12 @@ class Dashboard extends Component {
     return (
       <React.Fragment>
         <section id='home' className='large-header' >
+          <div className='overlay' />
+          <img src={transparentImage} className='transparent-pic' />
           <Particles
             params={particlesConfig}
           />
-          <div className='overlay'>
+          <div class='main-content' >
             <Tilt
               options={{
                 max: 25,
