@@ -95,16 +95,21 @@ class Contact extends Component {
           'Content-Type': 'application/json'
         }
       }).then(response => {
-        response.json().then(data => {
-          this.setState({
-            isLoading: false,
-            email: '',
-            name: '',
-            message: ''
+        if (response.status === 200) {
+          response.json().then(data => {
+            this.setState({
+              isLoading: false,
+              email: '',
+              name: '',
+              message: ''
+            })
+            window.alert('Message Sent!')
+            console.log(data)
           })
-          window.alert('Message Sent!')
-          console.log(data)
-        })
+        } else {
+          console.log(response)
+          throw new Error('Email send failed.')
+        }
       }).catch(() => {
         window.alert('Failed to send message. Please try sending me an email instead.')
         this.setState({isLoading: false})
