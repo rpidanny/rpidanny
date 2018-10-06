@@ -83,7 +83,7 @@ class Contact extends Component {
         from: 'Contact Me',
         to: myEmail,
         subject: `Msg from: ${email}`,
-        text: message
+        text: `Name: ${name}\n\nEmail: ${email}\n\nMessage: ${message}`
       }
       // Send Email
       this.setState({isLoading: true})
