@@ -12,7 +12,8 @@ class App extends Component {
     return <Gallery photos={this.state.photos.map(photo => ({
       src: require(`../../../assets/images/photography/${photo.src}`),
       width: photo.width,
-      height: photo.height
+      height: photo.height,
+      alt: photo.alt
     }))} />
   }
 }
