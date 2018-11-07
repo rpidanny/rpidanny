@@ -306,16 +306,19 @@
     },
     "travel": {
       "countriesVisited": [
+        "Austria",
         "Belgium",
         "China",
         "Czechia",
         "France",
         "Germany",
+        "Hungary",
         "India",
         "Italy",
         "Nepal",
         "Netherlands",
         "Qatar",
+        "slovakia",
         "Switzerland",
         "Thailand",
         "United Arab Emirates"
