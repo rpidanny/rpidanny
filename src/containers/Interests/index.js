@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import PhotoGallery from '../Common/PhotoGallery'
 import WorldMap from '../Common/WorldMap'
+import Books from '../Common/Books'
 import './styles.css'
 
 class Interests extends Component {
@@ -12,8 +13,13 @@ class Interests extends Component {
       data: props.data
     }
   }
+
+  componentWillReceiveProps (props) {
+    this.setState({data: props.data})
+  }
+
   render () {
-    const { photography, travel } = this.state.data
+    const { photography, travel, shelves } = this.state.data
     return (
       <React.Fragment>
         <section className='row interests' id='interests'>
@@ -49,6 +55,22 @@ class Interests extends Component {
                     </p>
                   </div>
                   <WorldMap countries={travel.countriesVisited} />
+                </div>
+                <div className='col-md-12'>
+                  <div className='divider'>
+                    <span>
+                      <i class='glyphicon glyphicon-star' />
+                    </span>
+                  </div>
+                </div>
+                <div className='col-md-12'>
+                  <div className='inner-title'>
+                    <h3><Glyphicon glyph='book' /> Books</h3>
+                    <p>
+                      Some of my favorite books:
+                    </p>
+                  </div>
+                  <Books shelves={shelves} />
                 </div>
               </div>
             </div>
