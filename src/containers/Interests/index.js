@@ -82,7 +82,7 @@ class Interests extends Component {
 }
 
 Interests.propTypes = {
-  data: PropTypes.array.isRequired
+  data: PropTypes.object.isRequired
 }
 
 export default Interests

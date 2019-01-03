@@ -34,11 +34,11 @@ class About extends Component {
                   <h2>{name}</h2>
                   <br />
                   {
-                    summary.map(element => {
+                    summary.map((element, idx) => {
                       if (element === '') {
-                        return <br />
+                        return <br key={idx} />
                       }
-                      return <p > {element} </p>
+                      return <p key={idx}> {element} </p>
                     })
                   }
                 </div>

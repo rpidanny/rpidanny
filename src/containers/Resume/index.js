@@ -28,7 +28,7 @@ class Resume extends Component {
               <Work companies={work} />
               <div className='divider'>
                 <span>
-                  <i class='glyphicon glyphicon-star' />
+                  <i className='glyphicon glyphicon-star' />
                 </span>
               </div>
               <Education institutions={education} />
