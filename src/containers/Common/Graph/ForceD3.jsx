@@ -47,11 +47,7 @@ class Graph extends React.Component {
   }
 
   componentDidMount () {
-    console.log('Componet Did Mount')
     this.drawGraph()
-    setTimeout(() => {
-      this.setState({ ...this.props })
-    }, 300)
   }
 
   componentWillReceiveProps (nextProps) {
@@ -229,8 +225,6 @@ class Graph extends React.Component {
           .style('opacity', '0')
         node.fx = event.x
         node.fy = event.y
-        // console.log(event)
-        console.log(node)
       })
       .on('end', () => {
         if (!event.active) {
