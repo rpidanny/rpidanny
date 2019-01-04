@@ -31,7 +31,8 @@ class Book extends Component {
   }
 
   componentDidMount () {
-    this.openModal()
+    // open modal for development
+    // this.openModal()
   }
 
   componentWillReceiveProps (props) {
