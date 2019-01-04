@@ -225,7 +225,7 @@ class Book extends Component {
               selectedEntityTypes={[]}
               expandNode={node => {
                 console.log(node)
-                if (node.type === 'BOOK') {
+                if (node.type === 'BOOK' || node.type === 'AUTHOR') {
                   window.open(node.link, '_blank')
                 }
               }}
