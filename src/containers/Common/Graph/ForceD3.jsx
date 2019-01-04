@@ -199,7 +199,7 @@ class Graph extends React.Component {
     // simulation setup with link force
     const linkForce = forceLink()
       .id(link => link.id)
-      .strength(1)
+      .strength(2)
       .distance(link => this.getLinkDistance(link))
     const simulation = forceSimulation().force('link', linkForce)
 

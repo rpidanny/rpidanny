@@ -185,13 +185,16 @@ helper.updateNodes = context => {
     .attr('r', helper.getNodeSize)
     .attr('fill', node => {
       if (node.type === 'PUBLISHER') {
-        return context.getNodeColor(node)
+        // return context.getNodeColor(node)
+        // return '#7D4427'
+        return '#DDA487'
       }
       return '#fff'
     })
     // .attr('fill', context.getNodeColor)
     .attr('stroke', context.getNodeColor)
     .attr('stroke-width', '3px')
+    // .attr('stroke-dasharray', '10 5')
   // .style(
   //   'opacity',
   //   c =>
@@ -301,8 +304,8 @@ helper.updateSimulations = context => {
     )
   simulation.force('link').links(context.links)
   simulation
-    .force('attraceForce', forceManyBody().strength(7))
-    .force('charge', forceManyBody().strength(-8))
+    .force('attraceForce', forceManyBody().strength(15))
+    .force('charge', forceManyBody().strength(-15))
     .force(
       'collision',
       forceCollide()
@@ -329,9 +332,9 @@ helper.updateSimulations = context => {
   // }
   // simulation.alphaTarget(1).restart()
   simulation
-    .alpha(1)
+    .alpha(0.4)
     .alphaTarget(0)
-    .velocityDecay(0.35)
+    .velocityDecay(0.15)
     .restart()
 }
 
