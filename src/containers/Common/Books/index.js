@@ -2,11 +2,20 @@ import React, { Component } from 'react'
 import Modal from 'react-modal'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Gallery from 'react-photo-gallery'
-import BookShelf from '../BookShelf'
+import { ForceD3 } from '../Graph'
+// import BookShelf from '../BookShelf'
 
 import './styles.css'
 
 // Modal.setAppElement('#root')
+
+const entityColors = {
+  BOOK: '#336B87',
+  AUTHOR: '#FB6542',
+  'read': '#FFBB00',
+  'to-read': '#375E97',
+  'currently-reading': '#3F681C'
+}
 
 class Book extends Component {
   constructor (props) {
@@ -18,6 +27,10 @@ class Book extends Component {
     this.openModal = this.openModal.bind(this)
     this.afterOpenModal = this.afterOpenModal.bind(this)
     this.closeModal = this.closeModal.bind(this)
+  }
+
+  componentDidMount () {
+    this.openModal()
   }
 
   componentWillReceiveProps (props) {
@@ -40,12 +53,80 @@ class Book extends Component {
   render () {
     const { shelves } = this.state
     // let currentlyReading = []
-    let readBooks = []
+    let books = []
+    let bookNodes = {}
+    let authorNodes = {}
+    let nodes = []
+    let links = []
+    // let readBooks = []
     let favoriteBooks = []
+
     if (shelves.length > 0) {
-      readBooks = shelves.filter(shelf => shelf.shelf === 'read')[0].books
-      // currentlyReading = shelves.filter(shelf => shelf.shelf === 'currently-reading')[0].books
+      let readBooks = shelves.filter(shelf => shelf.shelf === 'read')[0].books.map(book => ({
+        ...book,
+        property: {
+          shelf: 'read'
+        }
+      }))
+      let currentlyReading = shelves.filter(shelf => shelf.shelf === 'currently-reading')[0].books.map(book => ({
+        ...book,
+        property: {
+          shelf: 'currently-reading'
+        }
+      }))
+      let toRead = shelves.filter(shelf => shelf.shelf === 'to-read')[0].books.map(book => ({
+        ...book,
+        property: {
+          shelf: 'to-read'
+        }
+      }))
       favoriteBooks = shelves.filter(shelf => shelf.shelf === 'favorites')[0].books
+
+      books = readBooks.concat(currentlyReading).concat(toRead)
+
+      books.forEach(book => {
+        const { author } = book.authors
+
+        if (!bookNodes[book.id.$t]) {
+          bookNodes[book.id.$t] = {
+            ...book,
+            id: book.id.$t,
+            occurence: 1,
+            text: book.title,
+            type: 'BOOK',
+            typeOccirence: 1,
+            thumbnail_url: book.image_url
+          }
+          if (!authorNodes[author.id]) {
+            authorNodes[author.id] = {
+              ...author,
+              id: author.id,
+              text: author.name,
+              occurence: 1,
+              type: 'AUTHOR',
+              typeOccirence: 1,
+              thumbnail_url: author.image_url.$t
+            }
+          }
+          links.push({
+            source: author.id,
+            sourceType: 'AUTHOR',
+            target: book.id.$t,
+            targetType: 'BOOK',
+            type: 'AUTHOR_OF',
+            typeOccirence: 1
+          })
+        }
+      })
+
+      nodes = Object.values(bookNodes).concat(Object.values(authorNodes)).map((node, idx) => ({
+        ...node,
+        index: idx,
+        x: 0,
+        y: 0,
+        fx: null,
+        fy: null
+      }))
     }
     return (
       <div>
@@ -85,7 +166,31 @@ class Book extends Component {
           contentLabel='Books'
         >
           <div className='bookModalContent'>
-            <BookShelf books={readBooks} />
+            {/* <BookShelf books={readBooks} /> */}
+            <ForceD3
+              nodes={nodes}
+              links={links}
+              entityColors={entityColors}
+              setPropertiesInfo={(data) => console.log(data)}
+              selectedEntityTypes={ [ ] }
+              expandNode={(data) => console.log(data)}
+            />
+            <div className='zoom-actions'>
+              <span className='zoomIndicator'>100%</span>
+              <button id='zoom-in' title='Zoom In'>
+                {/* <Icon name='zoom' /> */}
+                <Glyphicon glyph='plus-sign' />
+              </button>
+              <button id='zoom-out' title='Zoom Out'>
+                {/* <Icon name='zoom out' /> */}
+                <Glyphicon glyph='minus-sign' />
+              </button>
+              <button id='export-graph' title='Download graph'>
+                {/* <Icon name='download' /> */}
+                <Glyphicon glyph='save' />
+              </button>
+            </div>
+            <div className='tooltip' />
           </div>
         </Modal>
       </div>
