@@ -307,7 +307,7 @@ helper.updateSimulations = context => {
       'collision',
       forceCollide()
         .radius(config.nodeSize + 5)
-        .strength(0.7)
+        .strength(1)
     )
     .force(
       'center',
@@ -331,7 +331,7 @@ helper.updateSimulations = context => {
   simulation
     .alpha(1)
     .alphaTarget(0)
-    .velocityDecay(0.4)
+    .velocityDecay(0.35)
     .restart()
 }
 
