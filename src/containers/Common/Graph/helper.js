@@ -279,7 +279,7 @@ helper.getElements = context => {
 }
 
 helper.updateSimulations = context => {
-  const { simulation, zoomHandler } = context.state
+  const { simulation } = context.state
   const {
     linkElements,
     linkBgElements,
