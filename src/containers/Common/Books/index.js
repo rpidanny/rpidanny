@@ -177,8 +177,13 @@ class Book extends Component {
               links={links}
               entityColors={entityColors}
               setPropertiesInfo={(data) => console.log(data)}
-              selectedEntityTypes={ [ ] }
-              expandNode={(data) => console.log(data)}
+              selectedEntityTypes={[]}
+              expandNode={node => {
+                console.log(node)
+                if (node.type === 'BOOK') {
+                  window.open(node.link, '_blank')
+                }
+              }}
             />
             <div className='zoom-actions'>
               <span className='zoomIndicator'>100%</span>

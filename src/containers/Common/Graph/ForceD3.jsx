@@ -162,10 +162,7 @@ class Graph extends React.Component {
     select(`#node-${helper.cleanupString(node.id + node.type)}`)
       .attr('stroke', '#222')
       .attr('stroke-width', '1.5px')
-    this.props.expandNode({
-      text: node.text,
-      type: node.type
-    })
+    this.props.expandNode(node)
   }
 
   updateGraph () {
