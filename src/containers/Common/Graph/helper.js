@@ -576,7 +576,6 @@ helper.onMouseOver = (d, i, x) => {
   //   .transition()
   //   .duration(200)
   //   .attr('transform', `translate(${d.x},${d.y}) scale(1.4)`)
-  console.log(text)
   tooltip
     .transition()
     .duration(200)
