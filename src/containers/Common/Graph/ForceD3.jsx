@@ -124,7 +124,7 @@ class Graph extends React.Component {
     } else if (count < 20) {
       return 260
     } */
-    return 150
+    return 170
     // return 200
   }
 
@@ -247,7 +247,7 @@ class Graph extends React.Component {
     })
     // build link arrow and link label bg
     g.html(
-      '<defs><filter x="0" y="0.28" width="1" height="0.25" id="solid"><feFlood flood-color="white"/></filter><marker id="end" viewBox="0 -5 10 10" refX="35" refY="0" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,-5L10,0L0,5" fill="#666"/></marker></defs>'
+      '<defs><filter x="0" y="0.28" width="1" height="0.25" id="solid"><feFlood flood-color="white"/></filter><marker id="end" viewBox="0 -5 10 10" refX="37" refY="0" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,-5L10,0L0,5" fill="#666"/></marker></defs>'
     )
     const linkGroup = g.append('g').attr('class', 'links')
     const linkBgGroup = g.append('g').attr('class', 'linkbgs')
