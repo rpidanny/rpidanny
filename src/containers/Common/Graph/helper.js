@@ -22,6 +22,8 @@ helper.updateData = (context, diff) => {
   })
   // add new nodes
   diff.added.forEach(node => context.nodes.push(node))
+  // context.nodes = context.nodes.concat(diff.added)
+
   context.links = []
   // TODO: re-check
   links.forEach(link => {
@@ -33,16 +35,14 @@ helper.updateData = (context, diff) => {
     )[0]
     if (sourceNode && targetNode) {
       context.links.push({
+        ...link,
         source: sourceNode,
-        target: targetNode,
-        type: link.type,
-        occurence: link.occurence,
-        typeOccurence: link.typeOccurence,
-        results: link.results,
-        property: link.property
+        target: targetNode
       })
     }
   })
+  console.log('Links:', context.links)
+  console.log('Nodes:', context.nodes)
 }
 
 helper.updateLinks = context => {
@@ -313,20 +313,20 @@ helper.updateSimulations = context => {
       'center',
       forceCenter(context.state.width / 2, context.state.height / 2)
     )
-  // if (context.initialRender) {
-  //   simulation.force(
-  //     'center',
-  //     forceCenter(context.state.width / 2, context.state.height / 2)
-  //   )
-  //   setTimeout(() => {
-  //     // simulation.force('center', null)
-  //     simulation.stop()
-  //     if (context.initialRender) {
-  //       // helper.zoomFit(select('.d3graph'), zoomHandler, 500)
-  //       context.initialRender = false
-  //     }
-  //   }, 2000)
-  // }
+  if (context.initialRender) {
+    simulation.force(
+      'center',
+      forceCenter(context.state.width / 2, context.state.height / 2)
+    )
+    setTimeout(() => {
+      // simulation.force('center', null)
+      simulation.stop()
+      if (context.initialRender) {
+        // helper.zoomFit(select('.d3graph'), zoomHandler, 500)
+        context.initialRender = false
+      }
+    }, 1000)
+  }
   // simulation.alphaTarget(1).restart()
   simulation
     .alpha(1)

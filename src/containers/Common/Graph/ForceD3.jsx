@@ -26,9 +26,6 @@ class Graph extends React.Component {
       textGroup: null,
       dragDrop: null,
       simulation: null,
-      nodes: [],
-      links: [],
-      selectedEntityTypes: props.selectedEntityTypes,
       entityTypeUpdate: false
     }
     this.getNeighbors = this.getNeighbors.bind(this)
@@ -169,8 +166,7 @@ class Graph extends React.Component {
     const { nodeGroup, nodes, links, selectedEntityTypes } = this.state
     if (nodeGroup) {
       const diff = helper.diff(this.nodes, nodes)
-      console.log('DIFF')
-      console.log(diff)
+      console.log('DIFF', diff)
       // check if any nodes are to be added/removed
       if (
         diff.added.length > 0 ||
@@ -268,7 +264,8 @@ class Graph extends React.Component {
       dragDrop,
       width: svg.attr('width'),
       height: svg.attr('height'),
-      zoomHandler
+      zoomHandler,
+      ...this.props
     })
   }
 
