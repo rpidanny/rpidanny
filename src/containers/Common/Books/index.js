@@ -231,18 +231,8 @@ class Book extends Component {
             />
             <div className='zoom-actions'>
               <span className='zoomIndicator'>100%</span>
-              <button id='zoom-in' title='Zoom In'>
-                {/* <Icon name='zoom' /> */}
-                <Glyphicon glyph='plus-sign' />
-              </button>
-              <button id='zoom-out' title='Zoom Out'>
-                {/* <Icon name='zoom out' /> */}
-                <Glyphicon glyph='minus-sign' />
-              </button>
-              <button id='export-graph' title='Download graph'>
-                {/* <Icon name='download' /> */}
-                <Glyphicon glyph='save' />
-              </button>
+              <Glyphicon glyph='plus-sign' id='zoom-in' />
+              <Glyphicon glyph='minus-sign' id='zoom-out' />
             </div>
             <div className='tooltip' />
           </div>
