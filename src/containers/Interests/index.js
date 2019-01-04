@@ -33,6 +33,22 @@ class Interests extends Component {
               <div className='row'>
                 <div className='col-md-12'>
                   <div className='inner-title'>
+                    <h3><Glyphicon glyph='book' /> Books</h3>
+                    <p>
+                      Some of my favorite books:
+                    </p>
+                  </div>
+                  <Books shelves={shelves} />
+                </div>
+                <div className='col-md-12'>
+                  <div className='divider'>
+                    <span>
+                      <i class='glyphicon glyphicon-star' />
+                    </span>
+                  </div>
+                </div>
+                <div className='col-md-12'>
+                  <div className='inner-title'>
                     <h3><Glyphicon glyph='camera' /> Photography</h3>
                     <p>
                       Some random photos that i took.
@@ -55,22 +71,6 @@ class Interests extends Component {
                     </p>
                   </div>
                   <WorldMap countries={travel.countriesVisited} />
-                </div>
-                <div className='col-md-12'>
-                  <div className='divider'>
-                    <span>
-                      <i class='glyphicon glyphicon-star' />
-                    </span>
-                  </div>
-                </div>
-                <div className='col-md-12'>
-                  <div className='inner-title'>
-                    <h3><Glyphicon glyph='book' /> Books</h3>
-                    <p>
-                      Some of my favorite books:
-                    </p>
-                  </div>
-                  <Books shelves={shelves} />
                 </div>
               </div>
             </div>

@@ -306,7 +306,7 @@ helper.updateSimulations = context => {
     .force(
       'collision',
       forceCollide()
-        .radius(config.nodeSize + 5)
+        .radius(config.nodeSize + 10)
         .strength(1)
     )
     .force(
