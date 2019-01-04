@@ -203,7 +203,7 @@ class Book extends Component {
           direction='row'
         />
         <span className='books_link' onClick={this.openModal}>
-          <Glyphicon glyph='plus' /> More Books
+          <Glyphicon glyph='plus' /> Explore Books
         </span>
         <Modal
           isOpen={this.state.modalIsOpen}
