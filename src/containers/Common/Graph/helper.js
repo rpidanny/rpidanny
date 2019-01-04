@@ -313,20 +313,20 @@ helper.updateSimulations = context => {
       'center',
       forceCenter(context.state.width / 2, context.state.height / 2)
     )
-  if (context.initialRender) {
-    simulation.force(
-      'center',
-      forceCenter(context.state.width / 2, context.state.height / 2)
-    )
-    setTimeout(() => {
-      // simulation.force('center', null)
-      simulation.stop()
-      if (context.initialRender) {
-        // helper.zoomFit(select('.d3graph'), zoomHandler, 500)
-        context.initialRender = false
-      }
-    }, 1000)
-  }
+  // if (context.initialRender) {
+  //   simulation.force(
+  //     'center',
+  //     forceCenter(context.state.width / 2, context.state.height / 2)
+  //   )
+  //   setTimeout(() => {
+  //     // simulation.force('center', null)
+  //     simulation.stop()
+  //     if (context.initialRender) {
+  //       // helper.zoomFit(select('.d3graph'), zoomHandler, 500)
+  //       context.initialRender = false
+  //     }
+  //   }, 1000)
+  // }
   // simulation.alphaTarget(1).restart()
   simulation
     .alpha(1)
