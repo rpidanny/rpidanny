@@ -114,7 +114,12 @@ class Book extends Component {
             target: book.id.$t,
             targetType: 'BOOK',
             type: 'AUTHOR_OF',
-            typeOccirence: 1
+            typeOccirence: 1,
+            property: {
+              publicationYear: book.publication_year,
+              publicationMonth: book.publication_month,
+              publicationDay: book.publication_day
+            }
           })
         }
       })

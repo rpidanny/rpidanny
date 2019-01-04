@@ -38,7 +38,8 @@ helper.updateData = (context, diff) => {
         type: link.type,
         occurence: link.occurence,
         typeOccurence: link.typeOccurence,
-        results: link.results
+        results: link.results,
+        property: link.property
       })
     }
   })
@@ -49,7 +50,8 @@ helper.updateLinks = context => {
     linkGroup,
     linkBgGroup,
     linkTextGroup,
-    selectedEntityTypes
+    selectedEntityTypes,
+    tooltip
   } = context.state
   // link line
   const linkElements = linkGroup
@@ -75,8 +77,8 @@ helper.updateLinks = context => {
     .on('click', link => {
       context.selectLink(link)
     })
-    .on('mouseover', helper.handleMuseOver)
-    .on('mouseout', helper.handleMuseOut)
+    .on('mouseover', node => helper.handleMuseOver(node, tooltip))
+    .on('mouseout', link => helper.handleMuseOut(link, tooltip))
 
   // link label bg line
   const linkBgElements = linkBgGroup
@@ -108,6 +110,8 @@ helper.updateLinks = context => {
     .on('click', link => {
       context.selectLink(link)
     })
+    .on('mouseover', node => helper.handleMuseOver(node, tooltip))
+    .on('mouseout', link => helper.handleMuseOut(link, tooltip))
 
   // link labels
   const linkLabelElements = linkTextGroup
@@ -140,6 +144,8 @@ helper.updateLinks = context => {
     // .style('pointer-events', 'none')
     .attr('startOffset', '50%')
     .text(link => link.type)
+    .on('mouseover', node => helper.handleMuseOver(node, tooltip))
+    .on('mouseout', link => helper.handleMuseOut(link, tooltip))
 
   return {
     linkElements: linkEnter.merge(linkElements),
@@ -467,12 +473,29 @@ helper.getNodeCount = (node, nodes) =>
     return acc
   }, []).length
 
-helper.handleMuseOver = (l, i, x) => {
-  select(x[i]).attr('stroke-width', 2)
+helper.handleMuseOver = (l, tooltip) => {
+  // Display tooltip to show link property
+  const {publicationDay, publicationMonth, publicationYear} = l.property
+  const text = `Published: <i>${publicationDay}/${publicationMonth}/${publicationYear}</i>`
+  tooltip
+    .transition()
+    .duration(200)
+    .style('opacity', '1')
+  tooltip
+    .html(text)
+    .style(
+      'transform',
+      `translateX(${event.x + 15}px) translateY(${event.y}px)`
+    )
+  // select(x[i]).attr('stroke-width', 2)
 }
 
-helper.handleMuseOut = (l, i, x) => {
-  select(x[i]).attr('stroke-width', 1.5)
+helper.handleMuseOut = (l, tooltip) => {
+  // select(x[i]).attr('stroke-width', 1.5)
+  tooltip
+    .transition()
+    .duration(100)
+    .style('opacity', '0')
 }
 
 helper.getNodeOpacity = (node, neighbors) => {
@@ -603,6 +626,7 @@ helper.arcPath = (dir, d, context) => {
   const dy = y2 - y1
   const siblings = helper.getLinks(d.source, d.target, context)
   const siblingCount = siblings.length
+  // const siblingCount = 2
   const xRotation = 0
   const largeArc = 0
 
