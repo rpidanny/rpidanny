@@ -145,6 +145,21 @@ class Book extends Component {
               publicationDay: book.publication_day
             }
           })
+
+          // Author --> Publisher
+          links.push({
+            source: author.id,
+            sourceType: 'AUTHOR',
+            target: book.publisher,
+            targetType: 'PUBLISHER',
+            type: 'WORKS_WITH',
+            typeOccirence: 1,
+            property: {
+              publicationYear: book.publication_year,
+              publicationMonth: book.publication_month,
+              publicationDay: book.publication_day
+            }
+          })
         }
       })
 
