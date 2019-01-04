@@ -210,9 +210,11 @@ helper.updateNodes = context => {
     // .on('dblclick', context.expandNode)
     .on('click', context.selectNode)
     .on('contextmenu', node => helper.rightClick(node, context))
-    .on('mouseover', node => helper.onMouseOver(node, tooltip))
     .on('mousemove', node => helper.onMouseMove(node, tooltip))
-    .on('mouseout', node => helper.onMouseOut(node, tooltip))
+    .on('mouseover', helper.onMouseOver)
+    .on('mouseout', helper.onMouseOut)
+    // .on('mouseover', node => helper.onMouseOver(node, tooltip))
+    // .on('mouseout', node => helper.onMouseOut(node, tooltip))
 
   // text
   const textElements = textGroup
@@ -295,32 +297,36 @@ helper.updateSimulations = context => {
   simulation.force('link').links(context.links)
   simulation
     .force('attraceForce', forceManyBody().strength(7))
-    .force('charge', forceManyBody().strength(-7))
+    .force('charge', forceManyBody().strength(-8))
     .force(
       'collision',
       forceCollide()
         .radius(config.nodeSize + 5)
-        .strength(0.4)
+        .strength(0.7)
     )
-  if (context.initialRender) {
-    simulation.force(
+    .force(
       'center',
       forceCenter(context.state.width / 2, context.state.height / 2)
     )
-    setTimeout(() => {
-      // simulation.force('center', null)
-      simulation.stop()
-      if (context.initialRender) {
-        // helper.zoomFit(select('.d3graph'), zoomHandler, 500)
-        context.initialRender = false
-      }
-    }, 2000)
-  }
+  // if (context.initialRender) {
+  //   simulation.force(
+  //     'center',
+  //     forceCenter(context.state.width / 2, context.state.height / 2)
+  //   )
+  //   setTimeout(() => {
+  //     // simulation.force('center', null)
+  //     simulation.stop()
+  //     if (context.initialRender) {
+  //       // helper.zoomFit(select('.d3graph'), zoomHandler, 500)
+  //       context.initialRender = false
+  //     }
+  //   }, 2000)
+  // }
   // simulation.alphaTarget(1).restart()
   simulation
     .alpha(1)
     .alphaTarget(0)
-    .velocityDecay(0.3)
+    .velocityDecay(0.4)
     .restart()
 }
 
@@ -561,9 +567,16 @@ helper.zoomFit = (root, zoom, transitionDuration) => {
     )
 }
 
-helper.onMouseOver = (d, tooltip) => {
+helper.onMouseOver = (d, i, x) => {
+  const tooltip = select('.tooltip')
   const text =
     d.type === 'AUTHOR' ? `${d.text}` : `${d.text} : <i>${d.property.shelf}</i>`
+  // TODO: scale
+  // select(x[i])
+  //   .transition()
+  //   .duration(200)
+  //   .attr('transform', `translate(${d.x},${d.y}) scale(1.4)`)
+  console.log(text)
   tooltip
     .transition()
     .duration(200)
@@ -576,6 +589,19 @@ helper.onMouseOver = (d, tooltip) => {
     )
 }
 
+helper.onMouseOut = (d, i, x) => {
+  const tooltip = select('.tooltip')
+  tooltip
+    .transition()
+    .duration(100)
+    .style('opacity', '0')
+  // TODO: scale
+  // select(x[i])
+  //   .transition()
+  //   .duration(200)
+  //   .attr('transform', `translate(${d.x},${d.y})`)
+}
+
 helper.onMouseMove = (d, tooltip) => {
   const text =
     d.type === 'AUTHOR' ? `${d.text}` : `${d.text} : <i>${d.property.shelf}</i>`
@@ -585,13 +611,6 @@ helper.onMouseMove = (d, tooltip) => {
       'transform',
       `translateX(${event.x + 15}px) translateY(${event.y}px)`
     )
-}
-
-helper.onMouseOut = (d, tooltip) => {
-  tooltip
-    .transition()
-    .duration(100)
-    .style('opacity', '0')
 }
 
 // links
