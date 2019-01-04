@@ -120,7 +120,7 @@ class Graph extends React.Component {
     } else if (count < 20) {
       return 260
     } */
-    return 170
+    return 250
     // return 200
   }
 
