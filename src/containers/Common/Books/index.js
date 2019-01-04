@@ -12,7 +12,7 @@ import './styles.css'
 const entityColors = {
   BOOK: '#336B87',
   AUTHOR: '#FB6542',
-  PUBLISHER: '#A2C523',
+  PUBLISHER: '#7D4427',
   'read': '#FFBB00',
   'to-read': '#375E97',
   'currently-reading': '#3F681C'
@@ -98,6 +98,8 @@ class Book extends Component {
             type: 'BOOK',
             typeOccirence: 1,
             thumbnail_url: book.image_url
+            // thumbnail_url: null
+            // thumbnail_url: 'https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png'
           }
           if (!authorNodes[author.id]) {
             authorNodes[author.id] = {

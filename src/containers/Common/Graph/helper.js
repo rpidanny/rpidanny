@@ -177,7 +177,7 @@ helper.updateNodes = context => {
     .append('clipPath')
     .attr('id', node => `thumbnailClip_${node.id}`)
     .append('circle')
-    .attr('r', node => helper.getNodeSize(node) - 2)
+    .attr('r', node => helper.getNodeSize(node) - 1)
     .attr('fill', '#fff')
 
   nodeEnter
@@ -419,7 +419,7 @@ helper.getNodeSize = node => {
   // console.log(`${node.text} - ${mode}(${JSON.stringify(position, null, 2)}) : ${diameter} : ${node.num_pages}`)
   // return diameter
   if (node.type === 'AUTHOR') {
-    return config.nodeSize + 5
+    return config.nodeSize + 10
   }
   return config.nodeSize - 2
 }
