@@ -183,7 +183,12 @@ helper.updateNodes = context => {
   nodeEnter
     .append('circle')
     .attr('r', helper.getNodeSize)
-    .attr('fill', '#fff')
+    .attr('fill', node => {
+      if (node.type === 'PUBLISHER') {
+        return context.getNodeColor(node)
+      }
+      return '#fff'
+    })
     // .attr('fill', context.getNodeColor)
     .attr('stroke', context.getNodeColor)
     .attr('stroke-width', '3px')
@@ -570,7 +575,7 @@ helper.zoomFit = (root, zoom, transitionDuration) => {
 helper.onMouseOver = (d, i, x) => {
   const tooltip = select('.tooltip')
   const text =
-    d.type === 'AUTHOR' ? `${d.text}` : `${d.text} : <i>${d.property.shelf}</i>`
+    d.type === 'BOOK' ? `${d.text} : <i>${d.property.shelf}</i>` : `${d.type}: <i>${d.text}</i>`
   // TODO: scale
   // select(x[i])
   //   .transition()
@@ -603,7 +608,7 @@ helper.onMouseOut = (d, i, x) => {
 
 helper.onMouseMove = (d, tooltip) => {
   const text =
-    d.type === 'AUTHOR' ? `${d.text}` : `${d.text} : <i>${d.property.shelf}</i>`
+    d.type === 'BOOK' ? `${d.type}: ${d.text} : <i>${d.property.shelf}</i>` : `${d.type}: <i>${d.text}</i>`
   tooltip
     .html(text)
     .style(

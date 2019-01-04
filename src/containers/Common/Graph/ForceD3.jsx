@@ -101,7 +101,7 @@ class Graph extends React.Component {
   }
 
   getNodeColor (node) {
-    if (node.type === 'AUTHOR') {
+    if (node.type === 'AUTHOR' || node.type === 'PUBLISHER') {
       return this.props.entityColors[node.type]
     }
     return this.props.entityColors[node.property.shelf]
@@ -203,7 +203,7 @@ class Graph extends React.Component {
     // simulation setup with link force
     const linkForce = forceLink()
       .id(link => link.id)
-      .strength(0.4)
+      .strength(1)
       .distance(link => this.getLinkDistance(link))
     const simulation = forceSimulation().force('link', linkForce)
 

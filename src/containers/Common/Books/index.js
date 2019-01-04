@@ -12,6 +12,7 @@ import './styles.css'
 const entityColors = {
   BOOK: '#336B87',
   AUTHOR: '#FB6542',
+  PUBLISHER: '#A2C523',
   'read': '#FFBB00',
   'to-read': '#375E97',
   'currently-reading': '#3F681C'
@@ -56,6 +57,7 @@ class Book extends Component {
     let books = []
     let bookNodes = {}
     let authorNodes = {}
+    let publisherNodes = {}
     let nodes = []
     let links = []
     // let readBooks = []
@@ -108,6 +110,14 @@ class Book extends Component {
               thumbnail_url: author.image_url.$t
             }
           }
+          if (!publisherNodes[book.publisher]) {
+            publisherNodes[book.publisher] = {
+              id: book.publisher,
+              text: book.publisher,
+              type: 'PUBLISHER'
+            }
+          }
+          // Authoer --> Book
           links.push({
             source: author.id,
             sourceType: 'AUTHOR',
@@ -121,17 +131,34 @@ class Book extends Component {
               publicationDay: book.publication_day
             }
           })
+          // Book --> Publisher
+          links.push({
+            source: book.id.$t,
+            sourceType: 'BOOK',
+            target: book.publisher,
+            targetType: 'PUBLISHER',
+            type: 'PUBLISHED_BY',
+            typeOccirence: 1,
+            property: {
+              publicationYear: book.publication_year,
+              publicationMonth: book.publication_month,
+              publicationDay: book.publication_day
+            }
+          })
         }
       })
 
-      nodes = Object.values(bookNodes).concat(Object.values(authorNodes)).map((node, idx) => ({
-        ...node,
-        index: idx,
-        x: 0,
-        y: 0,
-        fx: null,
-        fy: null
-      }))
+      nodes = Object.values(bookNodes)
+        .concat(Object.values(authorNodes))
+        .concat(Object.values(publisherNodes))
+        .map((node, idx) => ({
+          ...node,
+          index: idx,
+          x: 0,
+          y: 0,
+          fx: null,
+          fy: null
+        }))
     }
     return (
       <div>
