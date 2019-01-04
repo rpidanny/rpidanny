@@ -312,7 +312,7 @@ helper.updateSimulations = context => {
   }
   // simulation.alphaTarget(1).restart()
   simulation
-    .alpha(0.3)
+    .alpha(0.25)
     .alphaTarget(0)
     .velocityDecay(0.1)
     .restart()
