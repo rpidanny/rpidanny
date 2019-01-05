@@ -71,7 +71,7 @@ helper.updateLinks = context => {
     .on('click', link => {
       context.selectLink(link)
     })
-    .on('mouseover', node => helper.handleMuseOver(node, tooltip))
+    .on('mouseover', node => helper.handleMuseOver(node, tooltip, context))
     .on('mouseout', link => helper.handleMuseOut(link, tooltip))
 
   // link label bg line
@@ -133,7 +133,7 @@ helper.updateLinks = context => {
     // .style('pointer-events', 'none')
     .attr('startOffset', '50%')
     .text(link => link.type)
-    .on('mouseover', node => helper.handleMuseOver(node, tooltip))
+    .on('mouseover', node => helper.handleMuseOver(node, tooltip, context))
     .on('mouseout', link => helper.handleMuseOut(link, tooltip))
 
   return {
@@ -546,20 +546,23 @@ helper.getNodeCount = (node, nodes) =>
     return acc
   }, []).length
 
-helper.handleMuseOver = (l, tooltip) => {
-  // Display tooltip to show link property
-  const {publicationDay, publicationMonth, publicationYear} = l.property
-  const text = `Published: <i>${publicationDay}/${publicationMonth}/${publicationYear}</i>`
-  tooltip
-    .transition()
-    .duration(200)
-    .style('opacity', '1')
-  tooltip
-    .html(text)
-    .style(
-      'transform',
-      `translateX(${event.x + 15}px) translateY(${event.y}px)`
-    )
+helper.handleMuseOver = (l, tooltip, context) => {
+  const { selectedId } = context
+  if (l.source.id === selectedId || l.target.id === selectedId) {
+    // Display tooltip to show link property
+    const {publicationDay, publicationMonth, publicationYear} = l.property
+    const text = `Published: <i>${publicationDay}/${publicationMonth}/${publicationYear}</i>`
+    tooltip
+      .transition()
+      .duration(200)
+      .style('opacity', '1')
+    tooltip
+      .html(text)
+      .style(
+        'transform',
+        `translateX(${event.x + 15}px) translateY(${event.y}px)`
+      )
+  }
   // select(x[i]).attr('stroke-width', 2)
 }
 
