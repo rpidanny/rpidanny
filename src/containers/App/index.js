@@ -11,7 +11,7 @@ import Interests from '../Interests'
 import Contact from '../Contact'
 import Footer from '../Common/Footer'
 
-import resumeData from '../../resume.json'
+import resumeData from '../../data/resume.json'
 
 import { quotesAPI, booksAPI } from './URLs'
 
