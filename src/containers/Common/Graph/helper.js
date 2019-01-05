@@ -387,6 +387,21 @@ helper.updateSimulations = context => {
     .alphaTarget(0)
     .velocityDecay(0.15)
     .restart()
+    .on('end', () => {
+      if (context.initialRender) {
+        // simulation
+        //   .force('cluster', null)
+        //   .force('attraceForce', forceManyBody().strength(-7))
+        //   .force('charge', forceManyBody().strength(7))
+        simulation.stop()
+        // helper.zoomFit(select('.d3graph'), zoomHandler, 200)
+        context.initialRender = false
+      }
+    })
+  // spped up simulation
+  while (simulation.alpha() >= 0.02) {
+    simulation.tick()
+  }
 }
 
 /**
