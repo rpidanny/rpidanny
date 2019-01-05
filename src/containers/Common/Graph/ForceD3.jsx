@@ -261,7 +261,11 @@ class Graph extends React.Component {
     const dragDrop = drag()
       .on('start', node => {
         if (!event.active) {
-          simulation.alphaTarget(0.4).restart()
+          simulation
+            .alpha(0.1)
+            .alphaTarget(0.05)
+            .velocityDecay(0.3)
+            .restart()
         }
         node.fx = node.x
         node.fy = node.y
