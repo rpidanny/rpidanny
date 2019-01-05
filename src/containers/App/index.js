@@ -25,8 +25,7 @@ class App extends Component {
       quote: {
         quote: 'People who are really serious about software should make their own hardware',
         author: 'Alan Kay'
-      },
-      shelves: []
+      }
     }
 
     ReactGA.initialize('UA-76263604-1', { testMode: true })
@@ -49,23 +48,18 @@ class App extends Component {
         this.setState({ quote })
       })
       .catch(err => console.log(err))
-    this.getBooks()
-      .then(shelves => {
-        this.setState({ shelves })
-      })
-      .catch(err => console.log(err))
   }
 
   render () {
     const {basics, education, work, interests} = resumeData
-    const { quote, shelves } = this.state
+    const { quote } = this.state
     return (
       <div className='App'>
         {/* <Header /> */}
         <Dashboard name={basics.name} quote={quote} />
         <About data={basics} />
         <Resume education={education} work={work} />
-        <Interests data={{...interests, shelves}} />
+        <Interests data={interests} />
         {/* <Travel countries={travel} /> */}
         <Contact email={basics.email} />
         <Footer quote={quote} />

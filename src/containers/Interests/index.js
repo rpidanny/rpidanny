@@ -19,7 +19,7 @@ class Interests extends Component {
   }
 
   render () {
-    const { photography, travel, shelves } = this.state.data
+    const { photography, travel } = this.state.data
     return (
       <React.Fragment>
         <section className='row interests' id='interests'>
@@ -38,7 +38,7 @@ class Interests extends Component {
                       Some of my favorite books:
                     </p>
                   </div>
-                  <Books shelves={shelves} />
+                  <Books />
                 </div>
                 <div className='col-md-12'>
                   <div className='divider'>

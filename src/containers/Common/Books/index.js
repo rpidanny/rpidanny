@@ -5,6 +5,9 @@ import Gallery from 'react-photo-gallery'
 import { ForceD3 } from '../Graph'
 // import BookShelf from '../BookShelf'
 
+import favoriteBooks from '../../../data/books/favorites.json'
+import { getGraphData } from './helper'
+
 import './styles.css'
 
 // Modal.setAppElement('#root')
@@ -39,10 +42,6 @@ class Book extends Component {
     this.openModal()
   }
 
-  componentWillReceiveProps (props) {
-    this.setState({shelves: props.shelves})
-  }
-
   openModal () {
     this.setState({modalIsOpen: true})
   }
@@ -63,131 +62,7 @@ class Book extends Component {
   }
 
   render () {
-    const { shelves } = this.state
-    // let currentlyReading = []
-    let books = []
-    let bookNodes = {}
-    let authorNodes = {}
-    let publisherNodes = {}
-    let nodes = []
-    let links = []
-    // let readBooks = []
-    let favoriteBooks = []
-
-    if (shelves.length > 0) {
-      let readBooks = shelves.filter(shelf => shelf.shelf === 'read')[0].books.map(book => ({
-        ...book,
-        property: {
-          shelf: 'read'
-        }
-      }))
-      let currentlyReading = shelves.filter(shelf => shelf.shelf === 'currently-reading')[0].books.map(book => ({
-        ...book,
-        property: {
-          shelf: 'currently-reading'
-        }
-      }))
-      let toRead = shelves.filter(shelf => shelf.shelf === 'to-read')[0].books.map(book => ({
-        ...book,
-        property: {
-          shelf: 'to-read'
-        }
-      }))
-      favoriteBooks = shelves.filter(shelf => shelf.shelf === 'favorites')[0].books
-
-      books = readBooks.concat(currentlyReading).concat(toRead)
-
-      books.forEach(book => {
-        const { author } = book.authors
-
-        if (!bookNodes[book.id.$t]) {
-          bookNodes[book.id.$t] = {
-            ...book,
-            id: book.id.$t,
-            occurence: 1,
-            text: book.title,
-            type: 'BOOK',
-            typeOccirence: 1,
-            thumbnail_url: book.image_url
-            // thumbnail_url: null
-            // thumbnail_url: 'https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png'
-          }
-          if (!authorNodes[author.id]) {
-            authorNodes[author.id] = {
-              ...author,
-              id: author.id,
-              text: author.name,
-              occurence: 1,
-              type: 'AUTHOR',
-              typeOccirence: 1,
-              thumbnail_url: author.image_url.$t
-            }
-          }
-          if (!publisherNodes[book.publisher]) {
-            publisherNodes[book.publisher] = {
-              id: book.publisher,
-              text: book.publisher,
-              type: 'PUBLISHER'
-            }
-          }
-          // Authoer --> Book
-          links.push({
-            source: author.id,
-            sourceType: 'AUTHOR',
-            target: book.id.$t,
-            targetType: 'BOOK',
-            type: 'AUTHOR_OF',
-            typeOccirence: 1,
-            property: {
-              publicationYear: book.publication_year,
-              publicationMonth: book.publication_month,
-              publicationDay: book.publication_day
-            }
-          })
-          // Book --> Publisher
-          links.push({
-            source: book.id.$t,
-            sourceType: 'BOOK',
-            target: book.publisher,
-            targetType: 'PUBLISHER',
-            type: 'PUBLISHED_BY',
-            typeOccirence: 1,
-            property: {
-              publicationYear: book.publication_year,
-              publicationMonth: book.publication_month,
-              publicationDay: book.publication_day
-            }
-          })
-
-          // Author --> Publisher
-          links.push({
-            source: author.id,
-            sourceType: 'AUTHOR',
-            target: book.publisher,
-            targetType: 'PUBLISHER',
-            type: 'WORKS_WITH',
-            typeOccirence: 1,
-            property: {
-              publicationYear: book.publication_year,
-              publicationMonth: book.publication_month,
-              publicationDay: book.publication_day
-            }
-          })
-        }
-      })
-
-      nodes = Object.values(bookNodes)
-        .concat(Object.values(authorNodes))
-        .concat(Object.values(publisherNodes))
-        .map((node, idx) => ({
-          ...node,
-          index: idx,
-          x: 0,
-          y: 0,
-          fx: null,
-          fy: null
-        }))
-    }
+    const { nodes, links } = getGraphData()
     return (
       <div>
         <Gallery
