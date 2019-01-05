@@ -1,12 +1,8 @@
 import React from 'react'
-import {
-  select,
-  forceLink,
-  forceSimulation,
-  event,
-  zoom,
-  drag
-} from 'd3'
+import { select, event } from 'd3-selection'
+import { forceLink, forceSimulation } from 'd3-force'
+import { zoom } from 'd3-zoom'
+import { drag } from 'd3-drag'
 import PropTypes from 'prop-types'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import helper from './helper'

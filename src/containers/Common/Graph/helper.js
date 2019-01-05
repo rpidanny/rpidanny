@@ -1,13 +1,15 @@
 import {
-  event,
   select,
   selectAll,
-  zoomIdentity,
+  event
+} from 'd3-selection'
+import {
   forceManyBody,
   forceCenter,
-  forceCollide,
-  scaleOrdinal
-} from 'd3'
+  forceCollide
+} from 'd3-force'
+import { zoomIdentity } from 'd3-zoom'
+import { scaleOrdinal } from 'd3-scale'
 import config from './config'
 
 const helper = {}
