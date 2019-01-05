@@ -475,10 +475,11 @@ helper.getNodeSize = node => {
 
   // console.log(`${node.text} - ${mode}(${JSON.stringify(position, null, 2)}) : ${diameter} : ${node.num_pages}`)
   // return diameter
-  if (node.type === 'AUTHOR') {
-    return config.nodeSize + 10
-  }
-  return config.nodeSize - 2
+  return config.nodeSize + 10
+  // if (node.type === 'AUTHOR') {
+  //   return config.nodeSize + 10
+  // }
+  // return config.nodeSize - 2
 }
 
 helper.getLinkColor = (node, link) =>
