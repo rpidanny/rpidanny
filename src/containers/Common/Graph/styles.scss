@@ -39,11 +39,15 @@ g.zoom-controls line {
   position:absolute;
   right:10px;
   bottom:10px;
+  font: 14px sans-serif;
+  text-shadow: 2px 2px 10px rgba(0,0,0,0.70);
   #zoom-out,
   #export-graph,
   #zoom-in,
   #fullScreen{
-    background: none;
+    // background: none;
+    background: #ffffff;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.70);
     border: 1px solid #ddd;
     font-size: 16px;
     margin: 0 5px;
@@ -56,6 +60,36 @@ g.zoom-controls line {
       border-color:#666;
     }
   }
+}
+
+#exit-action {
+  position:absolute;
+  right:5px;
+  padding: 4px;
+  color: #666;
+  font-size: 16px;
+  transition:all 0.3s ease-in-out;
+
+  &:hover{
+    color:#444;
+    border-color:#666;
+  }
+}
+
+.tooltip {
+  position: fixed;
+  text-align: center;
+  padding: 5px;
+  font: 14px sans-serif;
+  background: #555;
+  color: #fff;
+  border: 0px;
+  border-radius: 2px;
+  pointer-events: none;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  will-change: transform, opacity;
 }
 
 .input-range__label--min .input-range__label-container,

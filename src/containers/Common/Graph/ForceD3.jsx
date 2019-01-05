@@ -8,6 +8,7 @@ import {
   drag
 } from 'd3'
 import PropTypes from 'prop-types'
+import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import helper from './helper'
 import config from './config'
 
@@ -330,7 +331,22 @@ class Graph extends React.Component {
 
   render () {
     this.updateGraph()
-    return <svg className='d3graph' width='100%' height='100%' />
+    return (
+      <div className='force-graph' width='100%' height='100%'>
+        <svg className='d3graph' width='100%' height='100%' />
+        <div className='zoom-actions'>
+          <span className='zoomIndicator'>100%</span>
+          <Glyphicon glyph='plus' id='zoom-in' />
+          <Glyphicon glyph='minus' id='zoom-out' />
+        </div>
+        <Glyphicon
+          glyph='remove'
+          id='exit-action'
+          onClick={this.props.exitHandler}
+        />
+        <div className='tooltip' />
+      </div>
+    )
   }
 }
 
@@ -346,6 +362,7 @@ Graph.propTypes = {
   width: PropTypes.number,
   height: PropTypes.number,
   setPropertiesInfo: PropTypes.func.isRequired,
+  exitHandler: PropTypes.func.isRequired,
   expandNode: PropTypes.func.isRequired,
   // eslint-disable-next-line react/forbid-prop-types
   entityColors: PropTypes.object.isRequired,

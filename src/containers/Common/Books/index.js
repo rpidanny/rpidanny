@@ -233,13 +233,8 @@ class Book extends Component {
                   window.open(node.link, '_blank')
                 }
               }}
+              exitHandler={this.closeModal}
             />
-            <div className='zoom-actions'>
-              <span className='zoomIndicator'>100%</span>
-              <Glyphicon glyph='plus-sign' id='zoom-in' />
-              <Glyphicon glyph='minus-sign' id='zoom-out' />
-            </div>
-            <div className='tooltip' />
           </div>
         </Modal>
       </div>
