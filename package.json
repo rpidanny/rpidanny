@@ -34,11 +34,13 @@
     "build-js": "react-scripts build",
     "build": "npm-run-all build-css build-js",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "analyze": "webpack-bundle-analyzer build/bundle-stats.json"
   },
   "devDependencies": {
     "jest-canvas-mock": "^1.1.0",
-    "standard": "^11.0.1"
+    "standard": "^11.0.1",
+    "webpack-bundle-analyzer": "^3.0.3"
   },
   "homepage": "https://abhishek.pro.np",
   "browserslist": [
