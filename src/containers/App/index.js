@@ -2,7 +2,7 @@ import fetch from 'isomorphic-fetch'
 import React, { Component } from 'react'
 import ReactGA from 'react-ga'
 import ReactLoading from 'react-loading'
-import Header from '../Common/Header'
+// import Header from '../Common/Header'
 import Dashboard from '../Dashboard'
 import About from '../About'
 import Resume from '../Resume'
@@ -10,6 +10,9 @@ import Interests from '../Interests'
 // import Travel from '../Travel'
 import Contact from '../Contact'
 import Footer from '../Common/Footer'
+
+import { quotesAPI, booksAPI } from './URLs'
+
 import './index.css'
 
 class App extends Component {
@@ -20,7 +23,8 @@ class App extends Component {
       quote: {
         quote: 'People who are really serious about software should make their own hardware',
         author: 'Alan Kay'
-      }
+      },
+      shelves: []
     }
 
     ReactGA.initialize('UA-76263604-1', { testMode: true })
@@ -33,31 +37,43 @@ class App extends Component {
   }
 
   getQuote () {
-    return fetch('https://ptdwwoy2xc.execute-api.us-east-1.amazonaws.com/prod/quotes/random')
+    return fetch(quotesAPI)
       .then(response => response.json())
+  }
+
+  getBooks () {
+    return fetch(booksAPI).then(response => response.json())
   }
 
   componentDidMount () {
     this.getResume()
       .then(resume => {
         this.setState({ resumeData: resume })
-        return this.getQuote()
+        this.getQuote()
+          .then(quote => {
+            this.setState({ quote })
+          })
+          .catch(err => console.log(err))
+        this.getBooks()
+          .then(shelves => {
+            this.setState({ shelves })
+          })
+          .catch(err => console.log(err))
       })
-      .then(quote => this.setState({ quote }))
       .catch(err => console.log(err))
   }
 
   render () {
     if (Object.keys(this.state.resumeData).length > 0) {
       const {basics, education, work, interests} = this.state.resumeData
-      const { quote } = this.state
+      const { quote, shelves } = this.state
       return (
         <div className='App'>
-          <Header />
+          {/* <Header /> */}
           <Dashboard name={basics.name} quote={quote} />
           <About data={basics} />
           <Resume education={education} work={work} />
-          <Interests data={interests} />
+          <Interests data={{...interests, shelves}} />
           {/* <Travel countries={travel} /> */}
           <Contact email={basics.email} />
           <Footer quote={quote} />
