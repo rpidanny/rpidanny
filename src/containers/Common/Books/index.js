@@ -48,11 +48,17 @@ class Book extends Component {
   }
 
   afterOpenModal () {
-    document.getElementById('root').style.filter = 'blur(5px)'
+    const rootElement = document.getElementById('root')
+    if (rootElement) {
+      rootElement.style.filter = 'blur(5px)'
+    }
   }
 
   closeModal () {
-    document.getElementById('root').style.filter = 'blur(0px)'
+    const rootElement = document.getElementById('root')
+    if (rootElement) {
+      rootElement.style.filter = 'blur(0px)'
+    }
     this.setState({modalIsOpen: false})
   }
 

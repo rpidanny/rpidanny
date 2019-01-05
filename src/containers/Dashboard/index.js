@@ -20,7 +20,6 @@ class Dashboard extends Component {
 
   render () {
     const { quote } = this.state
-    console.log(quote)
     return (
       <React.Fragment>
         <section id='home' className='large-header' >
