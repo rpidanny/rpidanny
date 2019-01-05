@@ -147,7 +147,7 @@ helper.updateNodes = context => {
   const {
     nodeGroup,
     textGroup,
-    dragDrop,
+    // dragDrop,
     tooltip
   } = context.state
   // nodes
@@ -203,7 +203,7 @@ helper.updateNodes = context => {
   // .attr('width', node => node.type === 'BOOK' ? helper.getNodeSize(node) * 2 : null)
 
   nodeEnter
-    .call(dragDrop)
+    // .call(dragDrop)
     // .on('dblclick', context.expandNode)
     .on('click', context.selectNode)
     .on('contextmenu', node => helper.rightClick(node, context))
