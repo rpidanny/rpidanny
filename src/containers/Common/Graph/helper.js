@@ -49,7 +49,7 @@ helper.updateData = (context, diff) => {
 helper.updateLinks = context => {
   const {
     linkGroup,
-    linkBgGroup,
+    // linkBgGroup,
     linkTextGroup,
     selectedEntityTypes,
     tooltip
@@ -82,37 +82,37 @@ helper.updateLinks = context => {
     .on('mouseout', link => helper.handleMuseOut(link, tooltip))
 
   // link label bg line
-  const linkBgElements = linkBgGroup
-    .selectAll('text')
-    .data(context.links, link => `${link.target.id}${link.source.id}`)
-  linkBgElements.exit().remove()
-  const linkBgEnter = linkBgElements
-    .enter()
-    .append('text')
-    .style('pointer-events', 'none')
-    .attr('fill', '#fff')
-    .attr('font-size', 10)
-    .attr('id', (link, i) => `linkBg${i}`)
-    .attr('class', 'linkbg')
-    .attr('dx', 0)
-    .attr('dy', 5)
-    .style('text-anchor', 'middle')
-    .style('pointer-events', 'none')
-    .attr('startOffset', '50%')
-    .attr('filter', 'url(#solid)')
-    .style('opacity', l =>
-      selectedEntityTypes.length === 0 ||
-      (selectedEntityTypes.indexOf(l.source.type) > -1 &&
-        selectedEntityTypes.indexOf(l.target.type) > -1)
-        ? '1'
-        : config.linkOpacity
-    )
-    .text(link => link.type)
-    .on('click', link => {
-      context.selectLink(link)
-    })
-    .on('mouseover', node => helper.handleMuseOver(node, tooltip))
-    .on('mouseout', link => helper.handleMuseOut(link, tooltip))
+  // const linkBgElements = linkBgGroup
+  //   .selectAll('text')
+  //   .data(context.links, link => `${link.target.id}${link.source.id}`)
+  // linkBgElements.exit().remove()
+  // const linkBgEnter = linkBgElements
+  //   .enter()
+  //   .append('text')
+  //   .style('pointer-events', 'none')
+  //   .attr('fill', '#fff')
+  //   .attr('font-size', 10)
+  //   .attr('id', (link, i) => `linkBg${i}`)
+  //   .attr('class', 'linkbg')
+  //   .attr('dx', 0)
+  //   .attr('dy', 5)
+  //   .style('text-anchor', 'middle')
+  //   .style('pointer-events', 'none')
+  //   .attr('startOffset', '50%')
+  //   .attr('filter', 'url(#solid)')
+  //   .style('opacity', l =>
+  //     selectedEntityTypes.length === 0 ||
+  //     (selectedEntityTypes.indexOf(l.source.type) > -1 &&
+  //       selectedEntityTypes.indexOf(l.target.type) > -1)
+  //       ? '1'
+  //       : config.linkOpacity
+  //   )
+  //   .text(link => link.type)
+  //   .on('click', link => {
+  //     context.selectLink(link)
+  //   })
+  //   .on('mouseover', node => helper.handleMuseOver(node, tooltip))
+  //   .on('mouseout', link => helper.handleMuseOut(link, tooltip))
 
   // link labels
   const linkLabelElements = linkTextGroup
@@ -150,7 +150,7 @@ helper.updateLinks = context => {
 
   return {
     linkElements: linkEnter.merge(linkElements),
-    linkBgElements: linkBgEnter.merge(linkBgElements),
+    // linkBgElements: linkBgEnter.merge(linkBgElements),
     linkLabelElements: linkLabelEnter.merge(linkLabelElements)
   }
 }
@@ -263,7 +263,7 @@ helper.getElements = context => {
   // get link elements
   const {
     linkElements,
-    linkBgElements,
+    // linkBgElements,
     linkLabelElements
   } = helper.updateLinks(context)
 
@@ -274,7 +274,7 @@ helper.getElements = context => {
 
   return {
     linkElements,
-    linkBgElements,
+    // linkBgElements,
     linkLabelElements,
     nodeElements,
     textElements,
@@ -299,7 +299,7 @@ helper.updateSimulations = context => {
   const { simulation } = context.state
   const {
     linkElements,
-    linkBgElements,
+    // linkBgElements,
     linkLabelElements,
     nodeElements,
     textElements
@@ -333,7 +333,7 @@ helper.updateSimulations = context => {
       helper.onTick(
         context,
         linkElements,
-        linkBgElements,
+        // linkBgElements,
         linkLabelElements,
         nodeElements,
         textElements
@@ -402,7 +402,7 @@ function nodeTransform (d) {
 helper.onTick = (
   context,
   linkElements,
-  linkBgElements,
+  // linkBgElements,
   linkLabelElements,
   nodeElements,
   textElements
@@ -419,15 +419,15 @@ helper.onTick = (
     .attr('y2', link => link.target.y) */
   // arrowElements.attr('d', helper.linkLine)
   linkElements.attr('d', d => helper.arcPath(true, d, context))
-  linkBgElements.attr('transform', d => {
-    const angle =
-      (Math.atan((d.source.y - d.target.y) / (d.source.x - d.target.x)) * 180) /
-      Math.PI
-    return `translate(${[
-      (d.source.x + d.target.x) / 2,
-      (d.source.y + d.target.y) / 2
-    ]})rotate(${angle})`
-  })
+  // linkBgElements.attr('transform', d => {
+  //   const angle =
+  //     (Math.atan((d.source.y - d.target.y) / (d.source.x - d.target.x)) * 180) /
+  //     Math.PI
+  //   return `translate(${[
+  //     (d.source.x + d.target.x) / 2,
+  //     (d.source.y + d.target.y) / 2
+  //   ]})rotate(${angle})`
+  // })
   /* linkLabelElements.attr('transform', d => {
     const angle =
       Math.atan((d.source.y - d.target.y) / (d.source.x - d.target.x)) *
