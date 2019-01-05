@@ -34,6 +34,8 @@ class Graph extends React.Component {
     this.drawGraph = this.drawGraph.bind(this)
     this.fade = this.fade.bind(this)
     this.reset = this.reset.bind(this)
+    this.zoomIn = this.zoomIn.bind(this)
+    this.zoomOut = this.zoomOut.bind(this)
     this.selectNode = this.selectNode.bind(this)
     this.selectLink = this.selectLink.bind(this)
     this.updateGraph = this.updateGraph.bind(this)
@@ -174,6 +176,16 @@ class Graph extends React.Component {
       .style('opacity', 0)
   }
 
+  zoomIn () {
+    const { zoomHandler, svg } = this.state
+    zoomHandler.scaleBy(svg.transition().duration(200), 1.5)
+  }
+
+  zoomOut () {
+    const { zoomHandler, svg } = this.state
+    zoomHandler.scaleBy(svg.transition().duration(200), 1 / 1.5)
+  }
+
   selectNode (node) {
     if (this.wait) {
       clearTimeout(this.wait)
@@ -305,15 +317,9 @@ class Graph extends React.Component {
     // mouse scroll zooming
     // zoomHandler(svg)
     svg.call(zoomHandler).on('dblclick.zoom', null)
-    // button zooming
-    select('#zoom-in').on('click', () => {
-      zoomHandler.scaleBy(svg.transition().duration(150), 1.5)
-    })
-    select('#zoom-out').on('click', () => {
-      zoomHandler.scaleBy(svg.transition().duration(150), 1 / 1.5)
-    })
 
     this.setState({
+      svg,
       linkGroup,
       nodeGroup,
       textGroup,
@@ -336,8 +342,16 @@ class Graph extends React.Component {
         <svg className='d3graph' width='100%' height='100%' />
         <div className='zoom-actions'>
           <span className='zoomIndicator'>100%</span>
-          <Glyphicon glyph='plus' id='zoom-in' />
-          <Glyphicon glyph='minus' id='zoom-out' />
+          <Glyphicon
+            glyph='plus'
+            id='zoom-in'
+            onClick={this.zoomIn}
+          />
+          <Glyphicon
+            glyph='minus'
+            id='zoom-out'
+            onClick={this.zoomOut}
+          />
         </div>
         <Glyphicon
           glyph='remove'
