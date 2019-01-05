@@ -6,8 +6,7 @@ import {
   forceManyBody,
   forceCenter,
   forceCollide,
-  scaleOrdinal,
-  forceY
+  scaleOrdinal
 } from 'd3'
 import config from './config'
 
