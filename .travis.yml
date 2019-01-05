@@ -26,7 +26,7 @@ deploy:
     on:
       branch: master
   - provider: pages
-    repo: https://github.com/rpidanny/rpidanny.github.io
+    repo: rpidanny/rpidanny.github.io
     target-branch: master
     skip-cleanup: true
     github-token: $GITHUB_TOKEN
