@@ -6,7 +6,8 @@ import {
   forceManyBody,
   forceCenter,
   forceCollide,
-  scaleOrdinal
+  scaleOrdinal,
+  forceY
 } from 'd3'
 import config from './config'
 
@@ -281,6 +282,19 @@ helper.getElements = context => {
   }
 }
 
+// node cluster handler
+helper.forceCluster = (alpha, nodes, clusters) => {
+  nodes.each(node => {
+    // if (node.type === 'BOOK') {
+    const cluster = clusters[node.type]
+    if (cluster.x !== node.x && cluster.y !== node.y) {
+      const k = alpha * 0.5
+      node.vx -= (node.x - cluster.x) * k
+      node.vy -= (node.y - cluster.y) * k
+    }
+  })
+}
+
 helper.updateSimulations = context => {
   const { simulation } = context.state
   const {
@@ -290,6 +304,29 @@ helper.updateSimulations = context => {
     nodeElements,
     textElements
   } = helper.getElements(context)
+
+  // clustering
+  // const clusters = {}
+  // Object.keys(context.props.entityColors.bookShelf).forEach((shelf, idx, arr) => {
+  //   if (!clusters[shelf]) {
+  //     clusters[shelf] = {
+  //       x: (context.state.width / arr.length) * idx,
+  //       y: (context.state.height / arr.length) * idx
+  //     }
+  //   }
+  // })
+  const clusters = {}
+  Object.keys(context.props.entityColors.nodeTypes).forEach((type, idx, arr) => {
+    if (!clusters[type]) {
+      const radius = context.state.width > context.state.height ? context.state.width / 2 : context.state.height / 2
+      clusters[type] = {
+        x: Math.cos((idx + 1) / arr.length * 2 * Math.PI) * radius + context.state.width / 2 + Math.random(),
+        y: Math.sin((idx + 1) / arr.length * 2 * Math.PI) * radius + context.state.height / 2 + Math.random(),
+        radius
+      }
+    }
+  })
+
   simulation
     .nodes(context.nodes)
     .on('tick', () =>
@@ -304,18 +341,32 @@ helper.updateSimulations = context => {
     )
   simulation.force('link').links(context.links)
   simulation
-    .force('attraceForce', forceManyBody().strength(15))
-    .force('charge', forceManyBody().strength(-15))
+    .force('attraceForce', forceManyBody().strength(-500))
+    .force('charge', forceManyBody().strength(-100))
     .force(
       'collision',
       forceCollide()
-        .radius(config.nodeSize + 10)
-        .strength(1)
+        .radius(node => helper.getNodeSize(node) + 15)
+        .strength(0.7)
     )
     .force(
       'center',
       forceCenter(context.state.width / 2, context.state.height / 2)
     )
+    // .force('x', forceX().x(d => {
+    //   if (d.type === 'PUBLISHER') return (context.state.width / 3) * 0.5
+    //   if (d.type === 'AUTHOR') return (context.state.width / 3) * 1.5
+    //   if (d.type === 'BOOK') return (context.state.width / 3) * 2.5
+    // }))
+    // .force('y', forceY().y(d => {
+    //   if (d.type === 'PUBLISHER') return 10
+    //   if (d.type === 'AUTHOR') return context.state.height / 2
+    //   if (d.type === 'BOOK') return context.state.height
+    // }))
+    .force('cluster', alpha =>
+      helper.forceCluster(alpha, nodeElements, clusters)
+    )
+
   // if (context.initialRender) {
   //   simulation.force(
   //     'center',
@@ -458,10 +509,15 @@ helper.rightClick = (node, context) => {
   const { simulation } = context.state
   node.fx = null
   node.fy = null
-  simulation.alphaTarget(0.5).restart()
-  setTimeout(() => {
-    simulation.stop()
-  }, 500)
+  simulation
+    .alpha(1)
+    .alphaTarget(0)
+    .velocityDecay(0.3)
+    .restart()
+  // simulation.alphaTarget(0.5).restart()
+  // setTimeout(() => {
+  //   simulation.stop()
+  // }, 500)
 }
 
 helper.containsNode = (node, nodes) =>
@@ -651,8 +707,8 @@ helper.arcPath = (dir, d, context) => {
   const dx = x2 - x1
   const dy = y2 - y1
   const siblings = helper.getLinks(d.source, d.target, context)
-  const siblingCount = siblings.length
-  // const siblingCount = 2
+  // const siblingCount = siblings.length
+  const siblingCount = 2
   const xRotation = 0
   const largeArc = 0
 
@@ -682,6 +738,7 @@ helper.arcPath = (dir, d, context) => {
   }
   return `M${d.source.x},${d.source.y} L${d.target.x},${d.target.y}`
 }
+
 helper.cleanupString = str => str.replace(/\W+/g, '_')
 
 export default helper

@@ -10,12 +10,16 @@ import './styles.css'
 // Modal.setAppElement('#root')
 
 const entityColors = {
-  BOOK: '#336B87',
-  AUTHOR: '#FB6542',
-  PUBLISHER: '#7D4427',
-  'read': '#FFBB00',
-  'to-read': '#375E97',
-  'currently-reading': '#3F681C'
+  nodeTypes: {
+    BOOK: '#336B87',
+    AUTHOR: '#FB6542',
+    PUBLISHER: '#7D4427'
+  },
+  bookShelf: {
+    'read': '#FFBB00',
+    'to-read': '#375E97',
+    'currently-reading': '#3F681C'
+  }
 }
 
 class Book extends Component {
