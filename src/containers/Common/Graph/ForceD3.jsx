@@ -123,7 +123,7 @@ class Graph extends React.Component {
     // return 200
   }
 
-  fade (d, opacity = 0.1) {
+  fade (d, opacity = 0.07) {
     const {
       nodeGroup,
       linkGroup,
@@ -132,7 +132,7 @@ class Graph extends React.Component {
     const neighbors = this.getNeighborsRaw(d)
     nodeGroup
       .selectAll('g')
-      .style('opacity', function (o) {
+      .style('opacity', (o) => {
         let thisOpacity = neighbors.find(nodeId => nodeId === o.id) ? 1 : opacity
         return thisOpacity
       })
@@ -140,7 +140,7 @@ class Graph extends React.Component {
     linkGroup
       .selectAll('path')
       .style('opacity', (o) => {
-        return o.source === d || o.target === d ? 1 : opacity
+        return o.source === d || o.target === d ? 1 : 0
       })
       .attr('marker-end', (o) => {
         return o.source === d || o.target === d ? 'url(#end)' : 'url(#endTransparent)'
@@ -149,7 +149,7 @@ class Graph extends React.Component {
     linkTextGroup
       .selectAll('text')
       .style('opacity', (o) => {
-        return o.source === d || o.target === d ? 1 : opacity
+        return o.source === d || o.target === d ? 1 : 0
       })
   }
 
@@ -165,12 +165,12 @@ class Graph extends React.Component {
 
     linkGroup
       .selectAll('path')
-      .style('opacity', 1)
+      .style('opacity', 0)
       .attr('marker-end', 'url(#end)')
 
     linkTextGroup
       .selectAll('text')
-      .style('opacity', 1)
+      .style('opacity', 0)
   }
 
   selectNode (node) {

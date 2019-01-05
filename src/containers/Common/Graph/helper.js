@@ -50,7 +50,6 @@ helper.updateLinks = context => {
     linkGroup,
     // linkBgGroup,
     linkTextGroup,
-    selectedEntityTypes,
     tooltip
   } = context.state
   // link line
@@ -67,13 +66,8 @@ helper.updateLinks = context => {
     .attr('fill', 'none')
     .attr('stroke', 'rgba(50, 50, 50, 0.2)')
     .attr('marker-end', 'url(#end)')
-    .style('opacity', l =>
-      selectedEntityTypes.length === 0 ||
-      (selectedEntityTypes.indexOf(l.source.type) > -1 &&
-        selectedEntityTypes.indexOf(l.target.type) > -1)
-        ? '1'
-        : config.linkOpacity
-    )
+    .style('opacity', 0)
+    // .style('display', 'none')
     .on('click', link => {
       context.selectLink(link)
     })
@@ -125,13 +119,8 @@ helper.updateLinks = context => {
     .on('click', link => {
       console.log('link click')
     })
-    .style('opacity', l =>
-      selectedEntityTypes.length === 0 ||
-      (selectedEntityTypes.indexOf(l.source.type) > -1 &&
-        selectedEntityTypes.indexOf(l.target.type) > -1)
-        ? '1'
-        : config.linkOpacity
-    )
+    .style('opacity', 0)
+    // .style('display', 'none')
     .append('textPath')
     .style('pointer-events', 'none')
     .attr('fill', '#333')
