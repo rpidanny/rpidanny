@@ -39,8 +39,11 @@
   right: 0;
   bottom: 0;
   margin: 25px;
-  background-color: #ffffff;
-  border: 1px solid #ccc;
+  // background-color: #ffffff;
+  background-color: #808e97;
+  background-image: url('../../../assets/images/backgrounds/tiny_grid.png');
+  background-attachment: fixed;
+  // border: 1px solid #ccc;
   box-shadow: 2px 5px 20px rgba(0,0,0,0.70);
   // overflow: auto;
   overflow: none;
