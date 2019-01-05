@@ -640,7 +640,9 @@ helper.zoomFit = (root, zoom, transitionDuration) => {
 helper.onMouseOver = (d, i, x) => {
   const tooltip = select('.tooltip')
   const text =
-    d.type === 'BOOK' ? `${d.text} : <i>${d.property.shelf}</i>` : `${d.type}: <i>${d.text}</i>`
+    d.type === 'BOOK'
+      ? `${d.text} : <i>${d.property.shelf}</i><br />Published: ${d.publicationYear}-${d.publicationMonth}-${d.publicationDay}`
+      : `${d.type}: <i>${d.text}</i>`
   // TODO: scale
   // select(x[i])
   //   .transition()
@@ -672,8 +674,13 @@ helper.onMouseOut = (d, i, x) => {
 }
 
 helper.onMouseMove = (d, tooltip) => {
-  const text =
-    d.type === 'BOOK' ? `${d.type}: ${d.text} : <i>${d.property.shelf}</i>` : `${d.type}: <i>${d.text}</i>`
+  let text = `${d.type}: <i>${d.text}</i>`
+
+  if (d.type === 'BOOK') {
+    text = `${d.text} <i>(${d.publication_year}-${d.publication_month}-${d.publication_day})</i>`
+  } else if (d.type === 'AUTHOR') {
+    text = `${d.text} <i>(${d.average_rating})</i>`
+  }
   tooltip
     .html(text)
     .style(
