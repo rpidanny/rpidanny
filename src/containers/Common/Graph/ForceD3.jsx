@@ -230,7 +230,10 @@ class Graph extends React.Component {
     const { nodeGroup, nodes, links, selectedEntityTypes } = this.state
     if (nodeGroup) {
       const diff = helper.diff(this.nodes, nodes)
-      console.log('DIFF', diff)
+      console.log('DIFF', {
+        added: diff.added.length,
+        removed: diff.removed.length
+      })
       // check if any nodes are to be added/removed
       if (
         diff.added.length > 0 ||

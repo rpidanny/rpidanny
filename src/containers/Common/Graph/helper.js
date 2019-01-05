@@ -43,8 +43,6 @@ helper.updateData = (context, diff) => {
       })
     }
   })
-  console.log('Links:', context.links)
-  console.log('Nodes:', context.nodes)
 }
 
 helper.updateLinks = context => {
