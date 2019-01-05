@@ -3,5 +3,5 @@ export default {
   linkOpacity: 0.03,
   labelLength: 5,
   nodeSize: 25,
-  clickDelay: 300
+  clickDelay: 200
 }

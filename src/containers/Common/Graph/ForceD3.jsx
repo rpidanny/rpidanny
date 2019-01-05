@@ -31,6 +31,8 @@ class Graph extends React.Component {
     this.getNeighbors = this.getNeighbors.bind(this)
     this.getNodeColor = this.getNodeColor.bind(this)
     this.drawGraph = this.drawGraph.bind(this)
+    this.fade = this.fade.bind(this)
+    this.reset = this.reset.bind(this)
     this.selectNode = this.selectNode.bind(this)
     this.selectLink = this.selectLink.bind(this)
     this.updateGraph = this.updateGraph.bind(this)
@@ -121,6 +123,56 @@ class Graph extends React.Component {
     // return 200
   }
 
+  fade (d, opacity = 0.1) {
+    const {
+      nodeGroup,
+      linkGroup,
+      linkTextGroup
+    } = this.state
+    const neighbors = this.getNeighborsRaw(d)
+    nodeGroup
+      .selectAll('g')
+      .style('opacity', function (o) {
+        let thisOpacity = neighbors.find(nodeId => nodeId === o.id) ? 1 : opacity
+        return thisOpacity
+      })
+
+    linkGroup
+      .selectAll('path')
+      .style('opacity', (o) => {
+        return o.source === d || o.target === d ? 1 : opacity
+      })
+      .attr('marker-end', (o) => {
+        return o.source === d || o.target === d ? 'url(#end)' : 'url(#endTransparent)'
+      })
+
+    linkTextGroup
+      .selectAll('text')
+      .style('opacity', (o) => {
+        return o.source === d || o.target === d ? 1 : opacity
+      })
+  }
+
+  reset () {
+    const {
+      nodeGroup,
+      linkGroup,
+      linkTextGroup
+    } = this.state
+    nodeGroup
+      .selectAll('g')
+      .style('opacity', 1)
+
+    linkGroup
+      .selectAll('path')
+      .style('opacity', 1)
+      .attr('marker-end', 'url(#end)')
+
+    linkTextGroup
+      .selectAll('text')
+      .style('opacity', 1)
+  }
+
   selectNode (node) {
     if (this.wait) {
       clearTimeout(this.wait)
@@ -133,12 +185,15 @@ class Graph extends React.Component {
     } else {
       this.wait = setTimeout(() => {
         if (!(this.selectedId === node.id)) {
-          this.selectedId = null
+          // this.selectedId = null
           this.selectedId = node.id
+          this.fade(node)
           this.props.setPropertiesInfo({
             type: 'nodes',
             index: this.props.nodes.map(n => n.id).indexOf(node.id)
           })
+        } else {
+          this.reset()
         }
         this.wait = null
       }, config.clickDelay)
@@ -234,7 +289,7 @@ class Graph extends React.Component {
     })
     // build link arrow and link label bg
     g.html(
-      '<defs><filter x="0" y="0.28" width="1" height="0.25" id="solid"><feFlood flood-color="white"/></filter><marker id="end" viewBox="0 -5 10 10" refX="37" refY="0" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,-5L10,0L0,5" fill="#666"/></marker></defs>'
+      '<defs><filter x="0" y="0.28" width="1" height="0.25" id="solid"><feFlood flood-color="white"/></filter><marker id="end" viewBox="0 -5 10 10" refX="37" refY="0" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,-5L10,0L0,5" fill="#666" style="opacity: 1;" /></marker><marker id="endTransparent" viewBox="0 -5 10 10" refX="37" refY="0" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,-5L10,0L0,5" fill="#666" style="opacity: 0.1;" ></path></marker></defs>'
     )
     const linkGroup = g.append('g').attr('class', 'links')
     const linkBgGroup = g.append('g').attr('class', 'linkbgs')
