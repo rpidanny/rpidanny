@@ -34,55 +34,79 @@ class Travel extends Component {
   }
 
   render () {
-    const { countries } = this.state
+    const { countries, country, spanStyle } = this.state
     if (countries && countries.length > 0) {
       return (
-        <React.Fragment>
-          <ComposableMap
-            projectionConfig={{
-              scale: 220,
-              rotation: [0, 0, 0],
-              yOffset: 70
-            }}
-            width={980}
-            height={551}
-            style={{
-              width: '100%',
-              height: 'auto'
-            }}
-          >
-            <Geographies geography={worldMap} >
-              {(geographies, projection) => geographies.map((geography, i) => (
-                <Geography
-                  key={i}
-                  geography={geography}
-                  projection={projection}
-                  onClick={this.handleClick}
-                  style={{
-                    default: {
-                      fill: this.getFillColor(geography.properties.NAME, countries),
-                      stroke: '#607D8B',
-                      strokeWidth: 0.75,
-                      outline: 'none'
-                    },
-                    hover: {
-                      fill: this.getHoverColor(geography.properties.NAME, countries),
-                      stroke: '#607D8B',
-                      strokeWidth: 0.75,
-                      outline: 'none'
-                    },
-                    pressed: {
-                      fill: '#263238',
-                      stroke: '#607D8B',
-                      strokeWidth: 0.75,
-                      outline: 'none'
-                    }
-                  }}
-                />
-              ))}
-            </Geographies>
-          </ComposableMap>
-        </React.Fragment>
+        <div>
+          <React.Fragment>
+            <ComposableMap
+              projectionConfig={{
+                scale: 220,
+                rotation: [0, 0, 0],
+                yOffset: 70
+              }}
+              width={980}
+              height={551}
+              style={{
+                width: '100%',
+                height: 'auto'
+              }}
+            >
+              <Geographies geography={worldMap} >
+                {(geographies, projection) => geographies.map((geography, i) => (
+                  <Geography
+                    key={i}
+                    geography={geography}
+                    projection={projection}
+                    onClick={this.handleClick}
+                    onMouseEnter={(country) => {
+                      this.setState({
+                        country: country.properties.NAME
+                      })
+                    }}
+                    onMouseOver={(event) => {
+                      this.setState({
+                        spanStyle: {
+                          display: 'visible',
+                          left: event.clientX + 15,
+                          top: event.clientY + 15
+                        }
+                      })
+                    }}
+                    onMouseLeave={(country, event) => {
+                      this.setState({
+                        spanStyle: {
+                          display: 'hidden'
+                        }
+                      })
+                    }}
+                    style={{
+                      default: {
+                        fill: this.getFillColor(geography.properties.NAME, countries),
+                        stroke: '#607D8B',
+                        strokeWidth: 0.75,
+                        outline: 'none'
+                      },
+                      hover: {
+                        fill: this.getHoverColor(geography.properties.NAME, countries),
+                        stroke: '#607D8B',
+                        strokeWidth: 0.75,
+                        outline: 'none'
+                      },
+                      pressed: {
+                        fill: '#263238',
+                        stroke: '#607D8B',
+                        strokeWidth: 0.75,
+                        outline: 'none'
+                      }
+                    }}
+                  />
+                ))}
+              </Geographies>
+            </ComposableMap>
+          </React.Fragment>
+          <span className='countryTooltip' style={spanStyle}>{country}</span>
+        </div>
       )
     }
     return <div />
