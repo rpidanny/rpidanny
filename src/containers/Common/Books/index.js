@@ -3,9 +3,11 @@ import Modal from 'react-modal'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Gallery from 'react-photo-gallery'
 import { ForceD3 } from '../Graph'
-// import BookShelf from '../BookShelf'
+import BookShelf from '../BookShelf'
 
 import favoriteBooks from '../../../data/books/favorites.json'
+import readBooks from '../../../data/books/read.json'
+
 import { getGraphData } from './helper'
 
 import './styles.css'
@@ -30,6 +32,7 @@ class Book extends Component {
     super(props)
     this.state = {
       modalIsOpen: false,
+      selectedModal: 0,
       shelves: []
     }
     this.openModal = this.openModal.bind(this)
@@ -39,11 +42,14 @@ class Book extends Component {
 
   componentDidMount () {
     // open modal for development
-    this.openModal()
+    // this.openModal()
   }
 
-  openModal () {
-    this.setState({modalIsOpen: true})
+  openModal (selectedModal) {
+    this.setState({
+      modalIsOpen: true,
+      selectedModal
+    })
   }
 
   afterOpenModal () {
@@ -62,7 +68,8 @@ class Book extends Component {
   }
 
   render () {
-    const { nodes, links } = getGraphData()
+    const { selectedModal } = this.state
+
     return (
       <div>
         <Gallery
@@ -86,39 +93,61 @@ class Book extends Component {
               window.open(obj.photo.link, '_blank')
             }
           }
-          direction='row'
+          direction='column'
+          columns='5'
         />
-        <span className='books_link' onClick={this.openModal}>
-          <Glyphicon glyph='plus' /> Explore Books
-        </span>
+        <div className='bookActions'>
+          <span className='books_link' onClick={() => this.openModal(0)}>
+            <Glyphicon glyph='plus' /> More Books
+          </span>
+          <span className='books_link' onClick={() => this.openModal(1)}>
+            <Glyphicon glyph='plus' /> Explore Books
+          </span>
+        </div>
         <Modal
           isOpen={this.state.modalIsOpen}
           onAfterOpen={this.afterOpenModal}
           onRequestClose={this.closeModal}
-          // style={customStyles}
           className='booksModal'
           overlayClassName='ModalOverlay'
           contentLabel='Books'
         >
           <div className='bookModalContent'>
-            {/* <BookShelf books={readBooks} /> */}
-            <ForceD3
-              nodes={nodes}
-              links={links}
-              entityColors={entityColors}
-              setPropertiesInfo={(data) => console.log(data)}
-              selectedEntityTypes={[]}
-              expandNode={node => {
-                console.log(node)
-                if (node.type === 'BOOK' || node.type === 'AUTHOR') {
-                  window.open(node.link, '_blank')
-                }
-              }}
-              exitHandler={this.closeModal}
-            />
+            { getModalContent(selectedModal, this) }
           </div>
         </Modal>
       </div>
+    )
+  }
+}
+
+const getModalContent = (selectedModal, context) => {
+  if (selectedModal === 0) {
+    return (
+      <div className='bookShelf' >
+        <BookShelf
+          books={readBooks}
+          margin='0'
+          columns='5'
+        />
+      </div>
+    )
+  } else if (selectedModal === 1) {
+    const { nodes, links } = getGraphData()
+    return (
+      <ForceD3
+        nodes={nodes}
+        links={links}
+        entityColors={entityColors}
+        setPropertiesInfo={(data) => console.log(data)}
+        expandNode={node => {
+          console.log(node)
+          if (node.type === 'BOOK' || node.type === 'AUTHOR') {
+            window.open(node.link, '_blank')
+          }
+        }}
+        exitHandler={context.closeModal}
+      />
     )
   }
 }

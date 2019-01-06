@@ -37,6 +37,9 @@ class BookShelf extends Component {
             window.open(obj.photo.link, '_blank')
           }
         }
+        direction='column'
+        margin={this.props.margin}
+        columns={this.props.columns}
       />
     }
     return (<div />)

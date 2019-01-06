@@ -61,10 +61,21 @@
   height: 100%;
 }
 
-.books_link {
+.bookShelf {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+.bookActions {
+  margin-top: 10px;
   font-size: 13px;
   color: #444444;
   text-decoration: none;
+}
+
+.books_link {
+  padding: 10px;
   // box-shadow: 2px 5px 20px rgba(0,0,0,0.20);
 }
 
