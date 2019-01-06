@@ -128,7 +128,7 @@ const getModalContent = (selectedModal, context) => {
         <BookShelf
           books={readBooks}
           margin='0'
-          columns='5'
+          columns='7'
         />
       </div>
     )
