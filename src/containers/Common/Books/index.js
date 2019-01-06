@@ -95,6 +95,7 @@ class Book extends Component {
           }
           direction='column'
           columns='5'
+          margin='0'
         />
         <div className='bookActions'>
           <span className='books_link' onClick={() => this.openModal(0)}>
