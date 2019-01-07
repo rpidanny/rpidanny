@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import LazyLoad from 'react-lazyload'
 import Image from 'react-bootstrap/lib/Image'
 import Tilt from 'react-tilt'
 import PropTypes from 'prop-types'
@@ -54,7 +55,9 @@ class About extends Component {
                         scale: 1.15
                       }}
                     >
-                      <Image src={ProfilePicture} alt={name} circle />
+                      <LazyLoad>
+                        <Image src={ProfilePicture} alt={name} circle />
+                      </LazyLoad>
                     </Tilt>
                   </div>
                   <div className='fol-btn'>
