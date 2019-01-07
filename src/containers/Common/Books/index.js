@@ -4,6 +4,7 @@ import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Gallery from 'react-photo-gallery'
 import { ForceD3 } from '../Graph'
 import BookShelf from '../BookShelf'
+import LazyImage from '../LazyImage'
 
 import favoriteBooks from '../../../data/books/favorites.json'
 import readBooks from '../../../data/books/read.json'
@@ -96,6 +97,7 @@ class Book extends Component {
           direction='column'
           columns='5'
           margin='0'
+          ImageComponent={LazyImage}
         />
         <div className='bookActions'>
           <span className='books_link' onClick={() => this.openModal(0)}>
