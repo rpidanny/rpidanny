@@ -61,7 +61,7 @@
     "isbn13": "9781783961412",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "943"
+      "$t": "944"
     },
     "uri": "kca://book/amzn1.gr.book.v1.fbPazR2wjzs4dAy159d5zw",
     "title": "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics",
@@ -78,7 +78,7 @@
     "publication_year": "2015",
     "publication_month": "7",
     "average_rating": "4.24",
-    "ratings_count": "19761",
+    "ratings_count": "19786",
     "description": "All leaders are constrained by geography. Their choices are limited by mountains, rivers, seas and concrete. Yes, to follow world events you need to understand people, ideas and movements – but if you don’t know geography, you’ll never have the full picture.<br /><br />If you’ve ever wondered why Putin is so obsessed with Crimea, why the USA was destined to become a global superpower, or why China’s power base continues to expand ever outwards, the answers are all here.<br /><br />In ten chapters (covering Russia; China; the USA; Latin America; the Middle East; Africa; India and Pakistan; Europe; Japan and Korea; and the Arctic), using maps, essays and occasionally the personal experiences of the widely travelled author, Prisoners of Geography looks at the past, present and future to offer an essential insight into one of the major factors that determines world history.<br />",
     "authors": {
       "author": {
@@ -95,8 +95,8 @@
         },
         "link": "https://www.goodreads.com/author/show/713466.Tim_Marshall",
         "average_rating": "4.20",
-        "ratings_count": "21634",
-        "text_reviews_count": "2153"
+        "ratings_count": "21663",
+        "text_reviews_count": "2156"
       }
     },
     "published": "2015",
