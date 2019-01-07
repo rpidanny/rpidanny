@@ -22,3 +22,6 @@ yarn-error.log*
 
 # css
 *.css
+
+# Original Pictures
+src/assets/images/photography_original/

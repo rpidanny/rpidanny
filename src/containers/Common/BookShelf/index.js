@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Gallery from 'react-photo-gallery'
+import LazyImage from '../LazyImage'
 
 class BookShelf extends Component {
   constructor (props) {
@@ -37,6 +38,10 @@ class BookShelf extends Component {
             window.open(obj.photo.link, '_blank')
           }
         }
+        direction='column'
+        margin={this.props.margin}
+        columns={this.props.columns}
+        ImageComponent={LazyImage}
       />
     }
     return (<div />)

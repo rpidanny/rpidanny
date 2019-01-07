@@ -11,7 +11,7 @@
       "As a painter understand the world through his art, I use programming as a way to reason about phenomena and model them.",
       "",
       "While I'm a proficient full-stack developer, my experties is in building scalable backend services.",
-      "As a side hobby I love to take pictures."
+      "Besides programming, i love to travel and read books."
     ],
     "location": {
       "address": "Gwarko",
@@ -199,111 +199,6 @@
     }
   ],
   "interests": {
-    "photography": {
-      "photos": [
-        {
-          "src": "IMG_2358.JPG",
-          "width": 3,
-          "height": 2,
-          "alt": "Venice, Italy"
-        },
-        {
-          "src": "IMG_2393.JPG",
-          "width": 4,
-          "height": 3,
-          "alt": "Prague, Czech Republic"
-        },
-        {
-          "src": "IMG_3143.JPG",
-          "width": 1.82,
-          "height": 1,
-          "alt": "Boudha, Nepal"
-        },
-        {
-          "src": "IMG_2280.JPG",
-          "width": 1.12,
-          "height": 2,
-          "alt": "Paris, France"
-        },
-        {
-          "src": "IMG_2820.JPG",
-          "width": 0.8,
-          "height": 1,
-          "alt": "Prague, Czech Republic"
-        },
-        {
-          "src": "IMG_3156.JPG",
-          "width": 3,
-          "height": 2,
-          "alt": "Lungern, Switzerland"
-        },
-        {
-          "src": "IMG_0938.JPG",
-          "width": 0.8,
-          "height": 1,
-          "alt": "Amsterdam, Netherlands"
-        },
-        {
-          "src": "IMG_2352.JPG",
-          "width": 1.55,
-          "height": 1,
-          "alt": "Karon, Thailand"
-        },
-        {
-          "src": "IMG_2942.JPG",
-          "width": 0.8,
-          "height": 1,
-          "alt": "Utrecht, Netherlands"
-        }
-      ],
-      "photos-template": [
-        {
-          "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
-          "width": 4,
-          "height": 3
-        },
-        {
-          "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799",
-          "width": 1,
-          "height": 1
-        },
-        {
-          "src": "https://source.unsplash.com/qDkso9nvCg0/600x799",
-          "width": 3,
-          "height": 4
-        },
-        {
-          "src": "https://source.unsplash.com/iecJiKe_RNg/600x799",
-          "width": 3,
-          "height": 4
-        },
-        {
-          "src": "https://source.unsplash.com/epcsn8Ed8kY/600x799",
-          "width": 3,
-          "height": 4
-        },
-        {
-          "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599",
-          "width": 4,
-          "height": 3
-        },
-        {
-          "src": "https://source.unsplash.com/zh7GEuORbUw/600x799",
-          "width": 3,
-          "height": 4
-        },
-        {
-          "src": "https://source.unsplash.com/PpOHJezOalU/800x599",
-          "width": 4,
-          "height": 3
-        },
-        {
-          "src": "https://source.unsplash.com/I1ASdgphUH4/800x599",
-          "width": 4,
-          "height": 3
-        }
-      ]
-    },
     "travel": {
       "countriesVisited": [
         "Austria",

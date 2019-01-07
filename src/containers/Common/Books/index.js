@@ -2,17 +2,38 @@ import React, { Component } from 'react'
 import Modal from 'react-modal'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Gallery from 'react-photo-gallery'
+import { ForceD3 } from '../Graph'
 import BookShelf from '../BookShelf'
+import LazyImage from '../LazyImage'
+
+import favoriteBooks from '../../../data/books/favorites.json'
+import readBooks from '../../../data/books/read.json'
+
+import { getGraphData } from './helper'
 
 import './styles.css'
 
 // Modal.setAppElement('#root')
+
+const entityColors = {
+  nodeTypes: {
+    BOOK: '#336B87',
+    AUTHOR: '#FB6542',
+    PUBLISHER: '#7D4427'
+  },
+  bookShelf: {
+    'read': '#FFBB00',
+    'to-read': '#375E97',
+    'currently-reading': '#3F681C'
+  }
+}
 
 class Book extends Component {
   constructor (props) {
     super(props)
     this.state = {
       modalIsOpen: false,
+      selectedModal: 0,
       shelves: []
     }
     this.openModal = this.openModal.bind(this)
@@ -20,33 +41,36 @@ class Book extends Component {
     this.closeModal = this.closeModal.bind(this)
   }
 
-  componentWillReceiveProps (props) {
-    this.setState({shelves: props.shelves})
+  componentDidMount () {
+    // open modal for development
+    // this.openModal()
   }
 
-  openModal () {
-    this.setState({modalIsOpen: true})
+  openModal (selectedModal) {
+    this.setState({
+      modalIsOpen: true,
+      selectedModal
+    })
   }
 
   afterOpenModal () {
-    document.getElementById('root').style.filter = 'blur(5px)'
+    const rootElement = document.getElementById('root')
+    if (rootElement) {
+      rootElement.style.filter = 'blur(5px)'
+    }
   }
 
   closeModal () {
-    document.getElementById('root').style.filter = 'blur(0px)'
+    const rootElement = document.getElementById('root')
+    if (rootElement) {
+      rootElement.style.filter = 'blur(0px)'
+    }
     this.setState({modalIsOpen: false})
   }
 
   render () {
-    const { shelves } = this.state
-    // let currentlyReading = []
-    let readBooks = []
-    let favoriteBooks = []
-    if (shelves.length > 0) {
-      readBooks = shelves.filter(shelf => shelf.shelf === 'read')[0].books
-      // currentlyReading = shelves.filter(shelf => shelf.shelf === 'currently-reading')[0].books
-      favoriteBooks = shelves.filter(shelf => shelf.shelf === 'favorites')[0].books
-    }
+    const { selectedModal } = this.state
+
     return (
       <div>
         <Gallery
@@ -70,25 +94,63 @@ class Book extends Component {
               window.open(obj.photo.link, '_blank')
             }
           }
-          direction='row'
+          direction='column'
+          columns='5'
+          margin='0'
+          ImageComponent={LazyImage}
         />
-        <span className='books_link' onClick={this.openModal}>
-          <Glyphicon glyph='plus' /> More Books
-        </span>
+        <div className='bookActions'>
+          <span className='books_link' onClick={() => this.openModal(0)}>
+            <Glyphicon glyph='plus' /> More Books
+          </span>
+          <span className='books_link' onClick={() => this.openModal(1)}>
+            <Glyphicon glyph='plus' /> Explore Books
+          </span>
+        </div>
         <Modal
           isOpen={this.state.modalIsOpen}
           onAfterOpen={this.afterOpenModal}
           onRequestClose={this.closeModal}
-          // style={customStyles}
           className='booksModal'
           overlayClassName='ModalOverlay'
           contentLabel='Books'
         >
           <div className='bookModalContent'>
-            <BookShelf books={readBooks} />
+            { getModalContent(selectedModal, this) }
           </div>
         </Modal>
       </div>
+    )
+  }
+}
+
+const getModalContent = (selectedModal, context) => {
+  if (selectedModal === 0) {
+    return (
+      <div className='bookShelf' >
+        <BookShelf
+          books={readBooks}
+          margin='0'
+          columns='7'
+        />
+      </div>
+    )
+  } else if (selectedModal === 1) {
+    const { nodes, links } = getGraphData()
+    return (
+      <ForceD3
+        nodes={nodes}
+        links={links}
+        entityColors={entityColors}
+        setPropertiesInfo={(data) => console.log(data)}
+        expandNode={node => {
+          console.log(node)
+          if (node.type === 'BOOK' || node.type === 'AUTHOR') {
+            window.open(node.link, '_blank')
+          }
+        }}
+        exitHandler={context.closeModal}
+      />
     )
   }
 }
