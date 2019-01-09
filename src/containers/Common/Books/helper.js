@@ -292,7 +292,7 @@ export function getGraphDataV2 () {
     nodes,
     links: links.map(link => ({
       ...link,
-      strength: 0.1,
+      strength: 0.4,
       distance: 450,
       id: `${link.source}-${link.target}`,
       style: {
