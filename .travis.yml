@@ -37,4 +37,4 @@ deploy:
     email: $EMAIL
     name: $NAME 
     on:
-      branch: develop-graph
+      branch: develop-network-graph
