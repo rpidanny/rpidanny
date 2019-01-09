@@ -198,7 +198,7 @@ export function getGraphDataV2 () {
           radius: 35,
           style: {
             r: 35,
-            stroke: '#375E97',
+            stroke: '#FB6542',
             strokeWidth: '3px'
           }
         }
@@ -209,11 +209,11 @@ export function getGraphDataV2 () {
           id: book.publisher,
           text: book.publisher,
           type: 'PUBLISHER',
-          color: '#7D4427',
+          color: '#DDA487',
           radius: 35,
           style: {
             r: 35,
-            stroke: '#375E97',
+            stroke: '#7D4427',
             strokeWidth: '3px'
           }
         }
