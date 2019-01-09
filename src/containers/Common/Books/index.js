@@ -4,12 +4,13 @@ import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Gallery from 'react-photo-gallery'
 import { ForceD3 } from '../Graph'
 import BookShelf from '../BookShelf'
+import NetworkGraph from '../NetworkGraph'
 import LazyImage from '../LazyImage'
 
 import favoriteBooks from '../../../data/books/favorites.json'
 import readBooks from '../../../data/books/read.json'
 
-import { getGraphData } from './helper'
+import { getGraphData, getGraphDataV2 } from './helper'
 
 import './styles.css'
 
@@ -43,7 +44,7 @@ class Book extends Component {
 
   componentDidMount () {
     // open modal for development
-    // this.openModal()
+    this.openModal(2)
   }
 
   openModal (selectedModal) {
@@ -106,6 +107,9 @@ class Book extends Component {
           <span className='books_link' onClick={() => this.openModal(1)}>
             <Glyphicon glyph='plus' /> Explore Books
           </span>
+          {/* <span className='books_link' onClick={() => this.openModal(2)}>
+            <Glyphicon glyph='plus' /> Network Graph
+          </span> */}
         </div>
         <Modal
           isOpen={this.state.modalIsOpen}
@@ -150,6 +154,14 @@ const getModalContent = (selectedModal, context) => {
           }
         }}
         exitHandler={context.closeModal}
+      />
+    )
+  } else if (selectedModal === 2) {
+    const { nodes, links } = getGraphDataV2()
+    return (
+      <NetworkGraph
+        nodes={nodes}
+        links={links}
       />
     )
   }
