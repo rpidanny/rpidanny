@@ -162,6 +162,8 @@ const getModalContent = (selectedModal, context) => {
       <NetworkGraph
         nodes={nodes}
         links={links}
+        onClick={event => console.log('Click', event)}
+        onDoubleClick={event => console.log('Double Click', event)}
       />
     )
   }

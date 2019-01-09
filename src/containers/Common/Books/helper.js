@@ -240,7 +240,7 @@ export function getGraphDataV2 () {
       links.push({
         source: book.id.$t,
         sourceType: 'BOOK',
-        target: book.publisher,
+        target: typeof book.publisher === 'string' ? book.publisher : 'Self Published',
         targetType: 'PUBLISHER',
         type: 'PUBLISHED_BY',
         typeOccirence: 1,
@@ -290,6 +290,16 @@ export function getGraphDataV2 () {
 
   return {
     nodes,
-    links
+    links: links.map(link => ({
+      ...link,
+      strength: 0.1,
+      distance: 450,
+      id: `${link.source}-${link.target}`,
+      style: {
+        strokeWidth: 1.5,
+        fill: 'none',
+        stroke: 'rgba(50, 50, 50, 0.2)'
+      }
+    }))
   }
 }
