@@ -193,7 +193,7 @@ export function getGraphDataV2 () {
           occurence: 1,
           type: 'AUTHOR',
           typeOccirence: 1,
-          img: author.image_url.$tm,
+          img: author.image_url.$t,
           color: '#FB6542',
           radius: 35,
           style: {
