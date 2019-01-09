@@ -107,9 +107,9 @@ class Book extends Component {
           <span className='books_link' onClick={() => this.openModal(1)}>
             <Glyphicon glyph='plus' /> Explore Books
           </span>
-          {/* <span className='books_link' onClick={() => this.openModal(2)}>
+          <span className='books_link' onClick={() => this.openModal(2)}>
             <Glyphicon glyph='plus' /> Network Graph
-          </span> */}
+          </span>
         </div>
         <Modal
           isOpen={this.state.modalIsOpen}
