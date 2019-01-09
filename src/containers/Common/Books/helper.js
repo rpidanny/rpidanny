@@ -2,6 +2,10 @@ import read from '../../../data/books/read.json'
 import toRead from '../../../data/books/to-read.json'
 import currentlyReading from '../../../data/books/currently-reading'
 
+const minifyString = text => {
+  return text.split(' ').slice(0, 3).map(word => word.charAt(0).toUpperCase()).join('')
+}
+
 export function getGraphData () {
   let books = []
   let bookNodes = {}
@@ -206,8 +210,8 @@ export function getGraphDataV2 () {
       // Create Publisher Nodes
       if (!publisherNodes[book.publisher]) {
         publisherNodes[book.publisher] = {
-          id: book.publisher,
-          text: book.publisher,
+          id: typeof book.publisher === 'string' ? book.publisher : 'Self Published',
+          text: typeof book.publisher === 'string' ? book.publisher : 'Self Published',
           type: 'PUBLISHER',
           color: '#DDA487',
           radius: 35,
@@ -274,7 +278,14 @@ export function getGraphDataV2 () {
       x: 0,
       y: 0,
       fx: null,
-      fy: null
+      fy: null,
+      shortText: minifyString(node.text),
+      textStyle: {
+        fontSize: 15,
+        fill: '#fff',
+        strokeWidth: '2px',
+        fontWeight: 'normal'
+      }
     }))
 
   return {
