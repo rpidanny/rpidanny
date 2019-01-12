@@ -164,6 +164,8 @@ const getModalContent = (selectedModal, context) => {
         links={links}
         onClick={event => console.log('Click', event)}
         onDoubleClick={event => console.log('Double Click', event)}
+        clusterRadiusScale={1.2}
+        cluster
       />
     )
   }
