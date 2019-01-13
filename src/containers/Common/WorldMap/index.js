@@ -11,7 +11,10 @@ class Travel extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      countries: props.countries
+      countries: props.countries,
+      spanStyle: {
+        opacity: 0
+      }
     }
   }
 
@@ -67,16 +70,16 @@ class Travel extends Component {
                     onMouseOver={(event) => {
                       this.setState({
                         spanStyle: {
-                          display: 'visible',
-                          left: event.clientX + 15,
-                          top: event.clientY + 15
+                          opacity: 1,
+                          left: event.clientX - ((window.screen.availWidth - 960) / 2),
+                          top: event.clientY
                         }
                       })
                     }}
-                    onMouseLeave={(country, event) => {
+                    onMouseOut={(country, event) => {
                       this.setState({
                         spanStyle: {
-                          display: 'hidden'
+                          opacity: 0
                         }
                       })
                     }}
