@@ -44,7 +44,7 @@ class Book extends Component {
 
   componentDidMount () {
     // open modal for development
-    this.openModal(2)
+    // this.openModal(2)
   }
 
   openModal (selectedModal) {
