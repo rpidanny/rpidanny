@@ -1,32 +1,21 @@
-import React, { Component } from 'react'
+import React, { Component, lazy, Suspense } from 'react'
 import Modal from 'react-modal'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Gallery from 'react-photo-gallery'
-import { ForceD3 } from '../Graph'
-import BookShelf from '../BookShelf'
+
+import Fallback from '../Fallback'
 import LazyImage from '../LazyImage'
 
 import favoriteBooks from '../../../data/books/favorites.json'
 import readBooks from '../../../data/books/read.json'
 
-import { getGraphData } from './helper'
+import { getGraphDataV2 } from './helper'
 
 import './styles.css'
 
+const BookShelf = lazy(() => import('../BookShelf'))
+const NetworkGraph = lazy(() => import('../NetworkGraph'))
 // Modal.setAppElement('#root')
-
-const entityColors = {
-  nodeTypes: {
-    BOOK: '#336B87',
-    AUTHOR: '#FB6542',
-    PUBLISHER: '#7D4427'
-  },
-  bookShelf: {
-    'read': '#FFBB00',
-    'to-read': '#375E97',
-    'currently-reading': '#3F681C'
-  }
-}
 
 class Book extends Component {
   constructor (props) {
@@ -43,7 +32,7 @@ class Book extends Component {
 
   componentDidMount () {
     // open modal for development
-    // this.openModal()
+    // this.openModal(2)
   }
 
   openModal (selectedModal) {
@@ -95,8 +84,8 @@ class Book extends Component {
             }
           }
           direction='column'
-          columns='5'
-          margin='0'
+          columns={5}
+          margin={0}
           ImageComponent={LazyImage}
         />
         <div className='bookActions'>
@@ -127,30 +116,29 @@ class Book extends Component {
 const getModalContent = (selectedModal, context) => {
   if (selectedModal === 0) {
     return (
-      <div className='bookShelf' >
-        <BookShelf
-          books={readBooks}
-          margin='0'
-          columns='7'
-        />
-      </div>
+      <Suspense fallback={<Fallback />} >
+        <div className='bookShelf' >
+          <BookShelf
+            books={readBooks}
+            margin={0}
+            columns={7}
+          />
+        </div>
+      </Suspense>
     )
   } else if (selectedModal === 1) {
-    const { nodes, links } = getGraphData()
+    const { nodes, links } = getGraphDataV2()
     return (
-      <ForceD3
-        nodes={nodes}
-        links={links}
-        entityColors={entityColors}
-        setPropertiesInfo={(data) => console.log(data)}
-        expandNode={node => {
-          console.log(node)
-          if (node.type === 'BOOK' || node.type === 'AUTHOR') {
-            window.open(node.link, '_blank')
-          }
-        }}
-        exitHandler={context.closeModal}
-      />
+      <Suspense fallback={<Fallback />} >
+        <NetworkGraph
+          nodes={nodes}
+          links={links}
+          onClick={event => console.log('Click', event)}
+          onDoubleClick={event => console.log('Double Click', event)}
+          clusterRadiusScale={1.2}
+          cluster
+        />
+      </Suspense>
     )
   }
 }

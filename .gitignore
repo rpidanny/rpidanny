@@ -25,3 +25,7 @@ yarn-error.log*
 
 # Original Pictures
 src/assets/images/photography_original/
+
+# dev stuffs
+testData.json
+src/data/books/export.js
