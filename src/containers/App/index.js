@@ -1,13 +1,10 @@
 import fetch from 'isomorphic-fetch'
 import React, { Component } from 'react'
 import ReactGA from 'react-ga'
-// import ReactLoading from 'react-loading'
-// import Header from '../Common/Header'
 import Dashboard from '../Dashboard'
 import About from '../About'
 import Resume from '../Resume'
 import Interests from '../Interests'
-// import Travel from '../Travel'
 import Contact from '../Contact'
 import Footer from '../Common/Footer'
 
@@ -42,7 +39,6 @@ class App extends Component {
   }
 
   componentDidMount () {
-    // this.setState({ resumeData })
     this.getQuote()
       .then(quote => {
         this.setState({ quote })
@@ -55,21 +51,14 @@ class App extends Component {
     const { quote } = this.state
     return (
       <div className='App'>
-        {/* <Header /> */}
         <Dashboard name={basics.name} quote={quote} />
         <About data={basics} />
         <Resume education={education} work={work} />
         <Interests data={interests} />
-        {/* <Travel countries={travel} /> */}
         <Contact email={basics.email} />
         <Footer quote={quote} />
       </div>
     )
-    // return (
-    //   <div className='loading-container' >
-    //     <ReactLoading type='bubbles' color='#fff' height={'10%'} width={'10%'} className='mainLoader' />
-    //   </div>
-    // )
   }
 }
 
