@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b6f20a8386a1d04338f4",
+    "revision": "70ee5eb0cc1b33177abe",
     "url": "/static/css/main.a036bf74.chunk.css"
   },
   {
-    "revision": "b6f20a8386a1d04338f4",
-    "url": "/static/js/main.b6f20a83.chunk.js"
+    "revision": "70ee5eb0cc1b33177abe",
+    "url": "/static/js/main.70ee5eb0.chunk.js"
   },
   {
     "revision": "f53d0c697a25cb80bb01",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/static/media/socicon-webfont.ea07d93c.svg"
   },
   {
-    "revision": "7fb24d2f8e64ef259d1faefce3f3b73b",
+    "revision": "10fcf7ab33a627fbe3b5d9d48ea37280",
     "url": "/index.html"
   }
 ];
