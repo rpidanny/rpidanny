@@ -61,7 +61,7 @@
     "isbn13": "9781783961412",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "988"
+      "$t": "989"
     },
     "uri": "kca://book/amzn1.gr.book.v1.fbPazR2wjzs4dAy159d5zw",
     "title": "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics",
@@ -78,7 +78,7 @@
     "publication_year": "2015",
     "publication_month": "7",
     "average_rating": "4.24",
-    "ratings_count": "20887",
+    "ratings_count": "20908",
     "description": "All leaders are constrained by geography. Their choices are limited by mountains, rivers, seas and concrete. Yes, to follow world events you need to understand people, ideas and movements – but if you don’t know geography, you’ll never have the full picture.<br /><br />If you’ve ever wondered why Putin is so obsessed with Crimea, why the USA was destined to become a global superpower, or why China’s power base continues to expand ever outwards, the answers are all here.<br /><br />In ten chapters (covering Russia; China; the USA; Latin America; the Middle East; Africa; India and Pakistan; Europe; Japan and Korea; and the Arctic), using maps, essays and occasionally the personal experiences of the widely travelled author, Prisoners of Geography looks at the past, present and future to offer an essential insight into one of the major factors that determines world history.<br />",
     "authors": {
       "author": {
@@ -95,8 +95,8 @@
         },
         "link": "https://www.goodreads.com/author/show/713466.Tim_Marshall",
         "average_rating": "4.20",
-        "ratings_count": "22961",
-        "text_reviews_count": "2259"
+        "ratings_count": "22985",
+        "text_reviews_count": "2261"
       }
     },
     "published": "2015",
@@ -131,7 +131,7 @@
     "publication_year": "2009",
     "publication_month": "10",
     "average_rating": "3.98",
-    "ratings_count": "110090",
+    "ratings_count": "110096",
     "description": "The New York Times best-selling Freakonomics was a worldwide sensation, selling over four million copies in thirty-five languages and changing the way we look at the world. Now, Steven D. Levitt and Stephen J. Dubner return with SuperFreakonomics, and fans and newcomers alike will find that the freakquel is even bolder, funnier, and more surprising than the first.<br /><br />Four years in the making, SuperFreakonomics asks not only the tough questions, but the unexpected ones: What's more dangerous, driving drunk or walking drunk? Why is chemotherapy prescribed so often if it's so ineffective? Can a sex change boost your salary?<br /><br />SuperFreakonomics challenges the way we think all over again, exploring the hidden side of everything with such questions as:<br /><br />How is a street prostitute like a department-store Santa?<br />Why are doctors so bad at washing their hands?<br />How much good do car seats do?<br />What's the best way to catch a terrorist?<br />Did TV cause a rise in crime?<br />What do hurricanes, heart attacks, and highway deaths have in common?<br />Are people hard-wired for altruism or selfishness?<br />Can eating kangaroo save the planet?<br />Which adds more value: a pimp or a Realtor?<br /><br />Levitt and Dubner mix smart thinking and great storytelling like no one else, whether investigating a solution to global warming or explaining why the price of oral sex has fallen so drastically. By examining how people respond to incentives, they show the world for what it really is – good, bad, ugly, and, in the final analysis, super freaky.<br /><br />Freakonomics has been imitated many times over – but only now, with SuperFreakonomics, has it met its match.",
     "authors": {
       "author": {
@@ -148,8 +148,8 @@
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
         "average_rating": "3.95",
-        "ratings_count": "768613",
-        "text_reviews_count": "23145"
+        "ratings_count": "768703",
+        "text_reviews_count": "23147"
       }
     },
     "published": "2009",
@@ -188,7 +188,7 @@
     "publication_year": "2009",
     "publication_month": "8",
     "average_rating": "4.16",
-    "ratings_count": "13548",
+    "ratings_count": "13551",
     "description": "A short story about the universe.",
     "authors": {
       "author": {
@@ -205,8 +205,8 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.28",
-        "ratings_count": "798153",
-        "text_reviews_count": "86808"
+        "ratings_count": "798353",
+        "text_reviews_count": "86819"
       }
     },
     "published": "2009",
@@ -241,7 +241,7 @@
     "publication_year": "2012",
     "publication_month": "3",
     "average_rating": "3.85",
-    "ratings_count": "21139",
+    "ratings_count": "21145",
     "description": "Belief in free will touches nearly everything that human beings value. It is difficult to think about law, politics, religion, public policy, intimate relationships, morality—as well as feelings of remorse or personal achievement—without first imagining that every person is the true source of his or her thoughts and actions. And yet the facts tell us that free will is an illusion.<br /><br />In this enlightening book, Sam Harris argues that this truth about the human mind does not undermine morality or diminish the importance of social and political freedom, but it can and should change the way we think about some of the most important questions in life.",
     "authors": {
       "author": {
@@ -258,8 +258,8 @@
         },
         "link": "https://www.goodreads.com/author/show/16593.Sam_Harris",
         "average_rating": "3.94",
-        "ratings_count": "154514",
-        "text_reviews_count": "9352"
+        "ratings_count": "154544",
+        "text_reviews_count": "9354"
       }
     },
     "published": "2012",
@@ -294,7 +294,7 @@
     "publication_year": "2009",
     "publication_month": "8",
     "average_rating": "3.95",
-    "ratings_count": "607766",
+    "ratings_count": "607840",
     "description": "Steven D. Levitt and Stephen J. Dubner offer the long-awaited paperback edition of <i>Freakonomics, the runaway bestseller, </i>including six Freakonomics columns from the <em>New York Times Magazine </em>and a Q &amp; A with the authors.",
     "authors": {
       "author": {
@@ -311,8 +311,8 @@
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
         "average_rating": "3.95",
-        "ratings_count": "768613",
-        "text_reviews_count": "23145"
+        "ratings_count": "768703",
+        "text_reviews_count": "23147"
       }
     },
     "published": "2009",
@@ -351,7 +351,7 @@
     "publication_year": "2017",
     "publication_month": {},
     "average_rating": "4.30",
-    "ratings_count": "67190",
+    "ratings_count": "67232",
     "description": "<i>Librarian's Note: Alternate-cover edition for ISBN <a href=\"https://www.goodreads.com/book/show/30965703-homo-deus\" rel=\"nofollow\">1784703931 / 9781784703936</a></i><br /><br />From the author of the number one bestseller <i>Sapiens</i>.<br /><br /><i>Sapiens </i> showed us where we came from. <i>Homo Deus</i> shows us where we're going. War is obsolete. You are more likely to commit suicide than be killed in conflict. Famine is disappearing. You are at more risk of obesity than starvation. Death is just a technical problem. Equality is out - but immortality is in.<br /><br />What does our future hold? Yuval Noah Harari, author of the bestselling phenomenon <i>Sapiens</i> envisions a not-too-distant world in which we face a new set of challenges.<br /><br /><i>Homo Deus</i> explores the projects, dreams and nightmares that will shape the twenty-first century - from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers?",
     "authors": {
       "author": {
@@ -368,8 +368,8 @@
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": "4.40",
-        "ratings_count": "296488",
-        "text_reviews_count": "25407"
+        "ratings_count": "296768",
+        "text_reviews_count": "25429"
       }
     },
     "published": "2017",
@@ -404,7 +404,7 @@
     "publication_year": "2010",
     "publication_month": "12",
     "average_rating": "3.99",
-    "ratings_count": "7480",
+    "ratings_count": "7482",
     "description": "The solar system most of us grew up with included nine planets, with Mercury closest to the sun and Pluto at the outer edge. Then, in 2005, astronomer Mike Brown made the discovery of a lifetime: a tenth planet, Eris, slightly bigger than Pluto. But instead of its resulting in one more planet being added to our solar system, Brown’s find ignited a firestorm of controversy that riled the usually sedate world of astronomy and launched him into the public eye. The debate culminated in the demotion of Pluto from real planet to the newly coined category of “dwarf” planet. Suddenly Brown was receiving hate mail from schoolchildren and being bombarded by TV reporters—all because of the discovery he had spent years searching for and a lifetime dreaming about.<br /><br />Filled with both humor and drama, <i>How I Killed Pluto and Why It Had It Coming</i> is Mike Brown’s engaging first-person account of the most tumultuous year in modern astronomy—which he inadvertently caused. As it guides readers through important scientific concepts and inspires us to think more deeply about our place in the cosmos, it is also an entertaining and enlightening personal story: While Brown sought to expand our understanding of the vast nature of space, his own life was changed in the most immediate, human ways by love, birth, and death. A heartfelt and personal perspective on the demotion of everyone’s favorite farflung planet, <i>How I Killed Pluto and Why It Had It Coming</i> is the book for anyone, young or old, who has ever dreamed of exploring the universe—and who among us hasn’t?",
     "authors": {
       "author": {
@@ -421,8 +421,8 @@
         },
         "link": "https://www.goodreads.com/author/show/234214.Mike_Brown",
         "average_rating": "3.98",
-        "ratings_count": "7653",
-        "text_reviews_count": "1067"
+        "ratings_count": "7655",
+        "text_reviews_count": "1068"
       }
     },
     "published": "2010",
@@ -457,7 +457,7 @@
     "publication_year": "2017",
     "publication_month": "3",
     "average_rating": "4.05",
-    "ratings_count": "18671",
+    "ratings_count": "18676",
     "description": "<b>Seasoned Google executives Eric Schmidt and Jonathan Rosenberg provide an insider's guide to Google, from its business history and disruptive corporate strategy to developing a new managment philosophy and creating a corporate culture where innovation and creativity thrive.</b><br /><br />Google Executive Chairman and ex-CEO Eric Schmidt and former SVP of Products Jonathan Rosenberg came to Google over a decade ago as proven technology executives. At the time, the company was already well-known for doing things differently, reflecting the visionary-and frequently contrarian-principles of founders Larry Page and Sergey Brin. If Eric and Jonathan were going to succeed, they realized they would have to relearn everything they thought they knew about management and business.<br /><br />Today, Google is a global icon that regularly pushes the boundaries of innovation in a variety of fields.<i> How Google Works</i> is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company. The authors explain how technology has shifted the balance of power from companies to consumers, and that the only way to succeed in this ever-changing landscape is to create superior products and attract a new breed of multifaceted employees whom Eric and Jonathan dub \"smart creatives.\" <br /><br />Covering topics including corporate culture, strategy, talent, decision-making, communication, innovation, and dealing with disruption, the authors illustrate management maxims (\"Consensus requires dissension,\" \"Exile knaves but fight for divas,\" \"Think 10X, not 10%\") with numerous insider anecdotes from Google's history, many of which are shared here for the first time.<br /><br />In an era when everything is speeding up, the best way for businesses to succeed is to attract smart-creative people and give them an environment where they can thrive at scale. <i>How Google Works</i> explains how to do just that.<br /><br />",
     "authors": {
       "author": {
@@ -473,9 +473,9 @@
           "$t": "https://images.gr-assets.com/authors/1456105735p2/3887089.jpg"
         },
         "link": "https://www.goodreads.com/author/show/3887089.Eric_Schmidt",
-        "average_rating": "3.97",
-        "ratings_count": "21530",
-        "text_reviews_count": "1378"
+        "average_rating": "3.96",
+        "ratings_count": "21540",
+        "text_reviews_count": "1379"
       }
     },
     "published": "2017",
@@ -514,7 +514,7 @@
     "publication_year": "2012",
     "publication_month": {},
     "average_rating": "4.12",
-    "ratings_count": "206863",
+    "ratings_count": "206918",
     "description": "<b>In the highly anticipated <i>Thinking, Fast and Slow</i>, Kahneman takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think.</b><br /><br />System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. Kahneman exposes the extraordinary capabilities — and also the faults and biases — of fast thinking, and reveals the pervasive influence of intuitive impressions on our thoughts and behavior. <br /><br />The impact of loss aversion and overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the challenges of properly framing risks at work and at home, the profound effect of cognitive biases on everything from playing the stock market to planning the next vacation — each of these can be understood only by knowing how the two systems work together to shape our judgments and decisions.<br /><br />Engaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives — and how we can use different techniques to guard against the mental glitches that often get us into trouble. <br /><br /><i>Thinking, Fast and Slow</i> will transform the way you think about thinking.",
     "authors": {
       "author": {
@@ -531,8 +531,8 @@
         },
         "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
         "average_rating": "4.12",
-        "ratings_count": "210861",
-        "text_reviews_count": "8044"
+        "ratings_count": "210916",
+        "text_reviews_count": "8047"
       }
     },
     "published": "2012",
@@ -567,7 +567,7 @@
     "publication_year": "2014",
     "publication_month": "4",
     "average_rating": "4.04",
-    "ratings_count": "50017",
+    "ratings_count": "50030",
     "description": "Some stories cannot be told in just one lifetime. Harry August is on his deathbed. Again.<br />No matter what he does or the decisions he makes, when death comes, Harry always returns to where he began, a child with all the knowledge of a life he has already lived a dozen times before. Nothing ever changes. <br />Until now. <br />As Harry nears the end of his eleventh life, a little girl appears at his bedside. \"I nearly missed you, Doctor August,\" she says. \"I need to send a message.\"<br />This is the story of what Harry does next, and what he did before, and how he tries to save a past he cannot change and a future he cannot allow.",
     "authors": {
       "author": {
@@ -584,8 +584,8 @@
         },
         "link": "https://www.goodreads.com/author/show/7210024.Claire_North",
         "average_rating": "3.94",
-        "ratings_count": "73572",
-        "text_reviews_count": "10386"
+        "ratings_count": "73604",
+        "text_reviews_count": "10388"
       }
     },
     "published": "2014",
@@ -620,7 +620,7 @@
     "publication_year": "2001",
     "publication_month": "6",
     "average_rating": "3.91",
-    "ratings_count": "3315",
+    "ratings_count": "3316",
     "description": "This is the story of Linus Torvalds, the maverick Finnish computer genius who invented the powerful LINUX operating system. As well as being free, LINUX is more powerful and stable than anything that Microsoft can offer, thus making Torvalds Bill Gates' number one enemy.",
     "authors": {
       "author": {
@@ -637,7 +637,7 @@
         },
         "link": "https://www.goodreads.com/author/show/92867.Linus_Torvalds",
         "average_rating": "3.89",
-        "ratings_count": "3825",
+        "ratings_count": "3826",
         "text_reviews_count": "225"
       }
     },
@@ -656,7 +656,7 @@
     "isbn13": "9780099590088",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "445"
+      "$t": "446"
     },
     "uri": "kca://book/amzn1.gr.book.v1.GV0S_1ZKnMkt7dmJYwbyfg",
     "title": "Sapiens: A Brief History of Humankind",
@@ -673,7 +673,7 @@
     "publication_year": "2015",
     "publication_month": "4",
     "average_rating": "4.45",
-    "ratings_count": "209633",
+    "ratings_count": "209793",
     "description": "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. <i>Homo sapiens</i>.<br /><br />How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come?<br /><br />In <i>Sapiens, </i>Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, palaeontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come?<br /><br />Bold, wide-ranging and provocative, <i>Sapiens </i>challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.",
     "authors": {
       "author": {
@@ -690,8 +690,8 @@
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": "4.40",
-        "ratings_count": "296488",
-        "text_reviews_count": "25407"
+        "ratings_count": "296768",
+        "text_reviews_count": "25429"
       }
     },
     "published": "2015",
@@ -709,7 +709,7 @@
     "isbn13": "9781594203282",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "433"
+      "$t": "434"
     },
     "uri": "kca://book/amzn1.gr.book.v1.jkn_BRTfJoJLvg8U8QVUNg",
     "title": "The Idea Factory: Bell Labs and the Great Age of American Innovation",
@@ -726,7 +726,7 @@
     "publication_year": "2012",
     "publication_month": "3",
     "average_rating": "4.14",
-    "ratings_count": "4556",
+    "ratings_count": "4558",
     "description": "The definitive history of America s greatest incubator of innovation, the birthplace of some of the 20th century s most influential technologies, including the integrated circuit, the communications satellite and the cell phone.<br /><br />From its beginnings in the 1920s until its demise in the 1980s, Bell Labs officially, the research and development wing of AT&amp;T was the biggest, and arguably the best, laboratory for new ideas in the world. From the transistor to the laser, it s hard to find an aspect of modern life that hasn t been touched by Bell Labs. <br />Why did so many transformative ideas come from Bell Labs? In \"The Idea Factory,\" Jon Gertner traces the origins of some of the twentieth century s most important inventions and delivers a riveting and heretofore untold chapter of American history. At its heart this is a story about the life and work of a small group of brilliant and eccentric men Mervin Kelly, Bill Shockley, Claude Shannon, John Pierce, and Bill Baker who spent their careers at Bell Labs. Their job was to research and develop the future of communications. Small-town boys, childhood hobbyists, oddballs: they give the lie to the idea that Bell Labs was a grim cathedral of top-down command and control.<br />Gertner brings to life the powerful alchemy of the forces at work behind Bell Labs inventions, teasing out the intersections between science, business, and society. He distills the lessons that abide: how to recruit and nurture young talent; how to organize and lead fractious employees; how to find solutions to the most stubbornly vexing problems; how to transform a scientific discovery into a marketable product, then make it even better, cheaper, or both. Today, when the drive to invent has become a mantra, Bell Labs offers us a way to enrich our understanding of the challenges and solutions to technological innovation. Here, after all, was where the foundational ideas on the management of innovation were born.<br /> \"The Idea Factory\" is the story of the origins of modern communications and the beginnings of the information age a deeply human story of extraordinary men who were given extraordinary means time, space, funds, and access to one another and edged the world into a new dimension.\"",
     "authors": {
       "author": {
@@ -742,9 +742,9 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
         },
         "link": "https://www.goodreads.com/author/show/5808423.Jon_Gertner",
-        "average_rating": "4.14",
-        "ratings_count": "4558",
-        "text_reviews_count": "468"
+        "average_rating": "4.15",
+        "ratings_count": "4560",
+        "text_reviews_count": "469"
       }
     },
     "published": "2012",
@@ -762,7 +762,7 @@
     "isbn13": "9780804139298",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "3573"
+      "$t": "3576"
     },
     "uri": "kca://book/amzn1.gr.book.v1.bld_eTIK_coG-6BTDY40nQ",
     "title": "Zero to One: Notes on Startups, or How to Build the Future",
@@ -779,7 +779,7 @@
     "publication_year": "2014",
     "publication_month": "9",
     "average_rating": "4.16",
-    "ratings_count": "97105",
+    "ratings_count": "97142",
     "description": "<strong>Comment construire le futur pour l’homme qui a créé PayPal et investi dans Facebook, SpaceX et Linkedin.</strong><br />-« Ce livre propose des idées complètement nouvelles et apporte une véritable bouffée d’air frais sur une question vitale : comment créer de la valeur en ce monde. » <em>\n  <strong>Mark Zuckerberg</strong>\n</em>, PDG de Facebook<br />- « Peter Thiel a créé plusieurs entreprises révolutionnaires et dans <em>Zéro à Un</em>, il nous explique comment il s’y est pris. » <strong>Elon Musk</strong>, PDG de SpaceX et Tesla<br />- « Quand un spécialiste de la prise de risque écrit un livre, lisez-le. Dans le cas de Peter Thiel, lisez-le deux fois ou pour être tout à fait sûr du coup, allez même jusqu’à le lire trois fois. C’est un classique. » <strong>Nassim Nicholas Taleb</strong>, auteur du <em>Cygne noir</em><br />Écrit à partir de cours donnés à Stanford, <em>Zéro à Un</em> propose une vision radicale et nouvelle sur la conception et le management des start-ups.<br />Quelques uns de ses principes :<br />- Le mythe du prochain Facebook, Google…<br />Chaque instant en business n’arrive qu’une fois. Le prochain Bill Gates ne construira pas un système d’exploitation, Sergueï Brin ne fera pas un moteur de recherche et le prochain <em>Zuckerberg ne créera pas un réseau social. Si vous les copiez c’est que vous n’avez rien à offrir de mieux.</em><br />Quelle vérité êtes-vous seul à posséder, quelle est la société que personne ne construit ?<br />- Vive le monopole. La compétition et le capitalisme sont à l’opposé…<br />Certes, il est plus simple de copier un modèle que d’inventer. Faire ce qu’on sait mène le monde de 1 à n.<br />En y ajoutant un élément déjà connu. Mais chaque fois que l’on crée de la nouveauté on passe de zéro à un.Ce livre explique comment y parvenir.<br /><em>Traduit de l’anglais par Johan Frédérik Hel Guedj</em><br />",
     "authors": {
       "author": {
@@ -796,8 +796,8 @@
         },
         "link": "https://www.goodreads.com/author/show/8474721.Peter_Thiel",
         "average_rating": "4.16",
-        "ratings_count": "97299",
-        "text_reviews_count": "4118"
+        "ratings_count": "97336",
+        "text_reviews_count": "4121"
       }
     },
     "published": "2014",
@@ -832,7 +832,7 @@
     "publication_year": "2014",
     "publication_month": "5",
     "average_rating": "4.08",
-    "ratings_count": "11775",
+    "ratings_count": "11776",
     "description": "<b>By Glenn Greenwald, star of <i>Citizenfour</i>, the Academy Award-winning documentary on Edward Snowden</b><br /><br />In May 2013, Glenn Greenwald set out for Hong Kong to meet an anonymous source who claimed to have astonishing evidence of pervasive government spying and insisted on communicating only through heavily encrypted channels. That source turned out to be the twenty-nine-year-old NSA contractor Edward Snowden, and his revelations about the agency's widespread, systemic overreach proved to be some of the most explosive and consequential news in recent history, triggering a fierce debate over national security and information privacy.<br /> Now Greenwald fits all the pieces together, recounting his high-intensity eleven-day trip to Hong Kong, examining the broader implications of the surveillance detailed in his reporting for <i>The Guardian</i>, and revealing fresh information on the NSA's unprecedented abuse of power with documents from the Snowden archive. Fearless and incisive, <i>No Place to Hide</i> has already sparked outrage around the globe and been hailed by voices across the political spectrum as an essential contribution to our understanding of the U.S. surveillance state.",
     "authors": {
       "author": {
@@ -849,7 +849,7 @@
         },
         "link": "https://www.goodreads.com/author/show/205996.Glenn_Greenwald",
         "average_rating": "4.07",
-        "ratings_count": "14239",
+        "ratings_count": "14240",
         "text_reviews_count": "1452"
       }
     },
@@ -868,7 +868,7 @@
     "isbn13": "9780671015206",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "2271"
+      "$t": "2272"
     },
     "uri": "kca://book/amzn1.gr.book.v1.R3WdPu-xXJbrvtJL0S_Wqw",
     "title": "The Millionaire Next Door: The Surprising Secrets of America's Wealthy",
@@ -885,7 +885,7 @@
     "publication_year": "1998",
     "publication_month": "10",
     "average_rating": "4.02",
-    "ratings_count": "59887",
+    "ratings_count": "59898",
     "description": "The incredible national bestseller that is changing people's lives -- and increasing their net worth! <p> <b>CAN YOU SPOT THE MILLIONAIRE NEXT DOOR?</b> </p><p> <b>Who are the rich in this country?</b></p><p> What do they do?</p><p> Where do they shop?</p><p> What do they drive?</p><p> How do they invest?</p><p> Where did their ancestors come from?</p><p> How did they get rich?</p><p> Can I ever become one of them?</p><p> </p><p> Get the answers in <i>The Millionaire Next Door,</i> the never-before-told story about wealth in America. You'll be surprised at what you find out....</p>",
     "authors": {
       "author": {
@@ -902,8 +902,8 @@
         },
         "link": "https://www.goodreads.com/author/show/659.Thomas_J_Stanley",
         "average_rating": "4.06",
-        "ratings_count": "82691",
-        "text_reviews_count": "3186"
+        "ratings_count": "82705",
+        "text_reviews_count": "3187"
       }
     },
     "published": "1998",
@@ -938,7 +938,7 @@
     "publication_year": "2004",
     "publication_month": {},
     "average_rating": "3.63",
-    "ratings_count": "503018",
+    "ratings_count": "503068",
     "description": "<b>Before the multi-million, runaway bestseller <i>The Da Vinci Code</i>, Dan Brown set his razor-sharp research and storytelling skills on the most powerful intelligence organization on earth — the National Security Agency (NSA), an ultra-secret, multibillion-dollar agency many times more powerful than the CIA.</b><br /><br />When the NSA's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant and beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage... not by guns or bombs, but by a code so ingeniously complex that if released it would cripple U.S. intelligence.<br /><br />Caught in an accelerating tempest of secrecy and lies, Susan Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.<br /><br /><i>From the underground hallways of power to the skyscrapers of Tokyo to the towering cathedrals of Spain, a desperate race unfolds. It is a battle for survival — a crucial bid to destroy a creation of inconceivable genius... an impregnable code-writing formula that threatens to obliterate the post-cold war balance of power. Forever.</i>",
     "authors": {
       "author": {
@@ -955,8 +955,8 @@
         },
         "link": "https://www.goodreads.com/author/show/630.Dan_Brown",
         "average_rating": "3.81",
-        "ratings_count": "6141533",
-        "text_reviews_count": "168626"
+        "ratings_count": "6142202",
+        "text_reviews_count": "168645"
       }
     },
     "published": "2004",
@@ -974,7 +974,7 @@
     "isbn13": "9780307887436",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "59987"
+      "$t": "59997"
     },
     "uri": "kca://book/amzn1.gr.book.v1.O7Z7pbcZBweK_cRvReWvwQ",
     "title": "Ready Player One (Ready Player One, #1)",
@@ -991,7 +991,7 @@
     "publication_year": "2011",
     "publication_month": "8",
     "average_rating": "4.28",
-    "ratings_count": "684800",
+    "ratings_count": "685010",
     "description": "In the year 2045, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. When Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.",
     "authors": {
       "author": {
@@ -1008,8 +1008,8 @@
         },
         "link": "https://www.goodreads.com/author/show/31712.Ernest_Cline",
         "average_rating": "4.20",
-        "ratings_count": "770026",
-        "text_reviews_count": "90324"
+        "ratings_count": "770272",
+        "text_reviews_count": "90342"
       }
     },
     "published": "2011",
@@ -1101,7 +1101,7 @@
     "publication_year": "2017",
     "publication_month": "11",
     "average_rating": "3.67",
-    "ratings_count": "118591",
+    "ratings_count": "118659",
     "description": "Jazz Bashara is a criminal.<br /><br />Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent.<br /><br />Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she's stepped square into a conspiracy for control of Artemis itself—and that now, her only chance at survival lies in a gambit even riskier than the first.",
     "authors": {
       "author": {
@@ -1118,8 +1118,8 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.28",
-        "ratings_count": "798153",
-        "text_reviews_count": "86808"
+        "ratings_count": "798353",
+        "text_reviews_count": "86819"
       }
     },
     "published": "2017",
@@ -1137,7 +1137,7 @@
     "isbn13": "9780804139021",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "53626"
+      "$t": "53631"
     },
     "uri": "kca://book/amzn1.gr.book.v1.O5h1YAnBEe0cYP_KkaVAcA",
     "title": "The Martian",
@@ -1154,7 +1154,7 @@
     "publication_year": "2014",
     "publication_month": "2",
     "average_rating": "4.40",
-    "ratings_count": "658088",
+    "ratings_count": "658215",
     "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. <br /><br />Now, he’s sure he’ll be the first person to die there.<br /><br />After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. <br /><br />Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. <br /><br />But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?<br /><br />",
     "authors": {
       "author": {
@@ -1171,8 +1171,8 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.28",
-        "ratings_count": "798153",
-        "text_reviews_count": "86808"
+        "ratings_count": "798353",
+        "text_reviews_count": "86819"
       }
     },
     "published": "2014",
@@ -1206,8 +1206,8 @@
     "publication_day": "16",
     "publication_year": "2011",
     "publication_month": "8",
-    "average_rating": "4.01",
-    "ratings_count": "248400",
+    "average_rating": "4.02",
+    "ratings_count": "248451",
     "description": "<br /><i>Rich Dad Poor Dad</i>, the #1 Personal Finance book of all time, tells the story of <b>Robert Kiyosaki</b> and his two dads—his real father and the father of his best friend, his rich dad—and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you.",
     "authors": {
       "author": {
@@ -1224,8 +1224,8 @@
         },
         "link": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki",
         "average_rating": "4.02",
-        "ratings_count": "357861",
-        "text_reviews_count": "13188"
+        "ratings_count": "357920",
+        "text_reviews_count": "13191"
       }
     },
     "published": "2011",
@@ -1243,7 +1243,7 @@
     "isbn13": "9780062457738",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "13711"
+      "$t": "13721"
     },
     "uri": "kca://book/amzn1.gr.book.v1.ysvaV5CVuyQiR6PtHSekJw",
     "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
@@ -1260,7 +1260,7 @@
     "publication_year": "2016",
     "publication_month": "9",
     "average_rating": "3.99",
-    "ratings_count": "240362",
+    "ratings_count": "240544",
     "description": "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.<br /><br />For decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. <em>The Subtle Art of Not Giving a F**k</em> is his antidote to the coddling, let’s-all-feel-good mindset that has infected American society and spoiled a generation, rewarding them with gold medals just for showing up.<br /><br />Manson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.<br /><br />There are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, <em>The Subtle Art of Not Giving a F**k</em> is a refreshing slap for a generation to help them lead contented, grounded lives.",
     "authors": {
       "author": {
@@ -1277,8 +1277,8 @@
         },
         "link": "https://www.goodreads.com/author/show/8529755.Mark_Manson",
         "average_rating": "4.00",
-        "ratings_count": "248325",
-        "text_reviews_count": "18038"
+        "ratings_count": "248509",
+        "text_reviews_count": "18050"
       }
     },
     "published": "2016",
