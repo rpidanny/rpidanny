@@ -2,6 +2,169 @@
   {
     "id": {
       "type": "integer",
+      "$t": "1618"
+    },
+    "isbn": "1400032717",
+    "isbn13": "9781400032716",
+    "text_reviews_count": {
+      "type": "integer",
+      "$t": "33706"
+    },
+    "uri": "kca://book/amzn1.gr.book.v1.-HbDY4-Aoh2zmGKIXjEwKg",
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "title_without_series": "The Curious Incident of the Dog in the Night-Time",
+    "image_url": "https://images.gr-assets.com/books/1479863624m/1618.jpg",
+    "small_image_url": "https://images.gr-assets.com/books/1479863624s/1618.jpg",
+    "large_image_url": {},
+    "link": "https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time",
+    "num_pages": "226",
+    "format": "Paperback",
+    "edition_information": "Vintage Contemporaries",
+    "publisher": "Vintage",
+    "publication_day": "18",
+    "publication_year": "2004",
+    "publication_month": "5",
+    "average_rating": "3.87",
+    "ratings_count": "1034963",
+    "description": "Christopher John Francis Boone knows all the countries of the world and their capitals and every prime number up to 7,057. He relates well to animals but has no understanding of human emotions. He cannot stand to be touched. And he detests the color yellow.<br /><br />Although gifted with a superbly logical brain, for fifteen-year-old Christopher everyday interactions and admonishments have little meaning. He lives on patterns, rules, and a diagram kept in his pocket. Then one day, a neighbor's dog, Wellington, is killed and his carefully constructive universe is threatened. Christopher sets out to solve the murder in the style of his favourite (logical) detective, Sherlock Holmes. What follows makes for a novel that is funny, poignant and fascinating in its portrayal of a person whose curse and blessing are a mind that perceives the world entirely literally.",
+    "authors": {
+      "author": {
+        "id": "1050",
+        "name": "Mark Haddon",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1337988298p5/1050.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1337988298p2/1050.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/1050.Mark_Haddon",
+        "average_rating": "3.84",
+        "ratings_count": "1090391",
+        "text_reviews_count": "46786"
+      }
+    },
+    "published": "2004",
+    "work": {
+      "id": "4259809",
+      "uri": "kca://work/amzn1.gr.work.v1.8XQyL2-mXgV1VRh3euWYmw"
+    }
+  },
+  {
+    "id": {
+      "type": "integer",
+      "$t": "22816087"
+    },
+    "isbn": {
+      "nil": "true"
+    },
+    "isbn13": {
+      "nil": "true"
+    },
+    "text_reviews_count": {
+      "type": "integer",
+      "$t": "6638"
+    },
+    "uri": "kca://book/amzn1.gr.book.v1.rikByqSFXcdAwSv73el4eQ",
+    "title": "Seveneves",
+    "title_without_series": "Seveneves",
+    "image_url": "https://images.gr-assets.com/books/1449142000m/22816087.jpg",
+    "small_image_url": "https://images.gr-assets.com/books/1449142000s/22816087.jpg",
+    "large_image_url": {},
+    "link": "https://www.goodreads.com/book/show/22816087-seveneves",
+    "num_pages": "880",
+    "format": {},
+    "edition_information": {},
+    "publisher": {},
+    "publication_day": "19",
+    "publication_year": "2015",
+    "publication_month": "5",
+    "average_rating": "3.99",
+    "ratings_count": "74969",
+    "description": "What would happen if the world were ending?<br /><br />A catastrophic event renders the earth a ticking time bomb. In a feverish race against the inevitable, nations around the globe band together to devise an ambitious plan to ensure the survival of humanity far beyond our atmosphere, in outer space.<br /><br />But the complexities and unpredictability of human nature coupled with unforeseen challenges and dangers threaten the intrepid pioneers, until only a handful of survivors remain . . .<br /><br />Five thousand years later, their progeny—seven distinct races now three billion strong—embark on yet another audacious journey into the unknown . . . to an alien world utterly transformed by cataclysm and time: Earth.<br /><br />A writer of dazzling genius and imaginative vision, Neal Stephenson combines science, philosophy, technology, psychology, and literature in a magnificent work of speculative fiction that offers a portrait of a future that is both extraordinary and eerily recognizable. As he did in Anathem, Cryptonomicon, the Baroque Cycle, and Reamde, Stephenson explores some of our biggest ideas and perplexing challenges in a breathtaking saga that is daring, engrossing, and altogether brilliant.",
+    "authors": {
+      "author": {
+        "id": "545",
+        "name": "Neal Stephenson",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1430920344p5/545.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1430920344p2/545.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+        "average_rating": "4.06",
+        "ratings_count": "709740",
+        "text_reviews_count": "43915"
+      }
+    },
+    "published": "2015",
+    "work": {
+      "id": "42299347",
+      "uri": "kca://work/amzn1.gr.work.v1.DfMxa8FnqPOg0uOU358iyw"
+    }
+  },
+  {
+    "id": {
+      "type": "integer",
+      "$t": "15843133"
+    },
+    "isbn": "0465032923",
+    "isbn13": "9780465032921",
+    "text_reviews_count": {
+      "type": "integer",
+      "$t": "23"
+    },
+    "uri": "kca://book/amzn1.gr.book.v1.00S5LfAfp778CRlelHRDEA",
+    "title": "Math on Trial: How Numbers Get Used and Abused in the Courtroom",
+    "title_without_series": "Math on Trial: How Numbers Get Used and Abused in the Courtroom",
+    "image_url": "https://images.gr-assets.com/books/1352794970m/15843133.jpg",
+    "small_image_url": "https://images.gr-assets.com/books/1352794970s/15843133.jpg",
+    "large_image_url": {},
+    "link": "https://www.goodreads.com/book/show/15843133-math-on-trial",
+    "num_pages": "272",
+    "format": "Hardcover",
+    "edition_information": {},
+    "publisher": "Basic Books",
+    "publication_day": "12",
+    "publication_year": "2013",
+    "publication_month": "3",
+    "average_rating": "3.60",
+    "ratings_count": "226",
+    "description": "In the wrong hands, math can be deadly. Even the simplest numbers can become powerful forces when manipulated by politicians or the media, but in the case of the law, your liberty—and your life—can depend on the right calculation.<br /><br />In <i>Math on Trial</i>, mathematicians Leila Schneps and Coralie Colmez describe ten trials spanning from the nineteenth century to today, in which mathematical arguments were used—and disastrously misused—as evidence. They tell the stories of Sally Clark, who was accused of murdering her children by a doctor with a faulty sense of calculation; of nineteenth-century tycoon Hetty Green, whose dispute over her aunt's will became a signal case in the forensic use of mathematics; and of the case of Amanda Knox, in which a judge's misunderstanding of probability led him to discount critical evidence—which might have kept her in jail. Offering a fresh angle on cases from the nineteenth-century Dreyfus affair to the murder trial of Dutch nurse Lucia de Berk, Schneps and Colmez show how the improper application of mathematical concepts can mean the difference between walking free and life in prison.<br /><br />A colorful narrative of mathematical abuse, <i>Math on Trial</i> blends courtroom drama, history, and math to show that legal expertise isn't always enough to prove a person innocent.<br />",
+    "authors": {
+      "author": {
+        "id": "454351",
+        "name": "Leila Schneps",
+        "role": {},
+        "image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+        },
+        "small_image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+        },
+        "link": "https://www.goodreads.com/author/show/454351.Leila_Schneps",
+        "average_rating": "3.62",
+        "ratings_count": "244",
+        "text_reviews_count": "26"
+      }
+    },
+    "published": "2013",
+    "work": {
+      "id": "21585418",
+      "uri": "kca://work/amzn1.gr.work.v1.FeearRenwEaVZ_VTklsL3w"
+    }
+  },
+  {
+    "id": {
+      "type": "integer",
       "$t": "7282390"
     },
     "isbn": "0137030428",
@@ -61,7 +224,7 @@
     "isbn13": "9780385494786",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "10790"
+      "$t": "10791"
     },
     "uri": "kca://book/amzn1.gr.book.v1.-8C3w5knsS0rWdQ0a4tdIw",
     "title": "Into Thin Air: A Personal Account of the Mount Everest Disaster",
@@ -78,7 +241,7 @@
     "publication_year": "1999",
     "publication_month": "10",
     "average_rating": "4.14",
-    "ratings_count": "335779",
+    "ratings_count": "335821",
     "description": "A bank of clouds was assembling on the not-so-distant horizon, but journalist-mountaineer Jon Krakauer, standing on the summit of Mt. Everest, saw nothing that \"suggested that a murderous storm was bearing down.\" He was wrong. The storm, which claimed five lives and left countless more--including Krakauer's--in guilt-ridden disarray, would also provide the impetus for <i>Into Thin Air</i>, Krakauer's epic account of the May 1996 disaster.",
     "authors": {
       "author": {
@@ -95,8 +258,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1235.Jon_Krakauer",
         "average_rating": "4.02",
-        "ratings_count": "1342179",
-        "text_reviews_count": "51404"
+        "ratings_count": "1342340",
+        "text_reviews_count": "51410"
       }
     },
     "published": "1999",
@@ -130,8 +293,8 @@
     "publication_day": "18",
     "publication_year": "2001",
     "publication_month": "1",
-    "average_rating": "4.28",
-    "ratings_count": "67",
+    "average_rating": "4.29",
+    "ratings_count": "68",
     "description": "This classic on games and how to play them intelligently is being re-issued in a new, four volume edition. This book has laid the foundation to a mathematical approach to playing games. The wise authors wield witty words, which wangle wonderfully winning ways. In Volume 1, the authors do the Spade Work, presenting theories and techniques to \"dissect\" games of varied structures and formats in order to develop winning strategies.",
     "authors": {
       "author": {
@@ -147,8 +310,8 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
         },
         "link": "https://www.goodreads.com/author/show/242757.Elwyn_R_Berlekamp",
-        "average_rating": "4.19",
-        "ratings_count": "153",
+        "average_rating": "4.21",
+        "ratings_count": "157",
         "text_reviews_count": "10"
       }
     },
@@ -258,8 +421,8 @@
         },
         "link": "https://www.goodreads.com/author/show/5289593.Ray_Dalio",
         "average_rating": "4.23",
-        "ratings_count": "16058",
-        "text_reviews_count": "1376"
+        "ratings_count": "16074",
+        "text_reviews_count": "1378"
       }
     },
     "published": "2011",
@@ -391,7 +554,7 @@
     "isbn13": "9780393355628",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "254"
+      "$t": "255"
     },
     "uri": "kca://book/amzn1.gr.book.v1.s-xQrV6yyX_suirVo1ixpg",
     "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
@@ -408,7 +571,7 @@
     "publication_year": "2018",
     "publication_month": "2",
     "average_rating": "4.28",
-    "ratings_count": "124543",
+    "ratings_count": "124562",
     "description": "<p>A <em>New York Times</em> bestseller—the outrageous exploits of one of this century's greatest scientific minds and a legendary American original.</p><br />Richard Feynman, winner of the Nobel Prize in physics, thrived on outrageous adventures. Here he recounts in his inimitable voice his experience trading ideas on atomic physics with Einstein and Bohr and ideas on gambling with Nick the Greek; cracking the uncrackable safes guarding the most deeply held nuclear secrets; accompanying a ballet on his bongo drums; painting a naked female toreador. In short, here is Feynman's life in all its eccentric—a combustible mixture of high intelligence, unlimited curiosity, and raging chutzpah.",
     "authors": {
       "author": {
@@ -425,8 +588,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1429989.Richard_Feynman",
         "average_rating": "4.26",
-        "ratings_count": "235152",
-        "text_reviews_count": "8471"
+        "ratings_count": "235184",
+        "text_reviews_count": "8475"
       }
     },
     "published": "2018",
@@ -444,7 +607,7 @@
     "isbn13": "9780316017923",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "20145"
+      "$t": "20148"
     },
     "uri": "kca://book/amzn1.gr.book.v1.nIiVEJt3GaY4eF_wwWwvVw",
     "title": "Outliers: The Story of Success",
@@ -461,7 +624,7 @@
     "publication_year": "2008",
     "publication_month": "11",
     "average_rating": "4.13",
-    "ratings_count": "423837",
+    "ratings_count": "423908",
     "description": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?<br /><br />His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.",
     "authors": {
       "author": {
@@ -478,8 +641,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "3.98",
-        "ratings_count": "1653838",
-        "text_reviews_count": "61496"
+        "ratings_count": "1654040",
+        "text_reviews_count": "61504"
       }
     },
     "published": "2008",
@@ -531,7 +694,7 @@
         },
         "link": "https://www.goodreads.com/author/show/105025.Scott_Berkun",
         "average_rating": "3.91",
-        "ratings_count": "15412",
+        "ratings_count": "15410",
         "text_reviews_count": "795"
       }
     },
@@ -567,7 +730,7 @@
     "publication_year": "2002",
     "publication_month": "1",
     "average_rating": "3.95",
-    "ratings_count": "590767",
+    "ratings_count": "590828",
     "description": "<i>An alternate cover edition exist <a href=\"https://www.goodreads.com/book/show/34668905.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.<br /><br />Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.",
     "authors": {
       "author": {
@@ -584,8 +747,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "3.98",
-        "ratings_count": "1653838",
-        "text_reviews_count": "61496"
+        "ratings_count": "1654040",
+        "text_reviews_count": "61504"
       }
     },
     "published": "2002",
@@ -620,7 +783,7 @@
     "publication_year": "2000",
     "publication_month": "7",
     "average_rating": "3.89",
-    "ratings_count": "23840",
+    "ratings_count": "23841",
     "description": "Adam Smith's masterpiece, first published in 1776, is the foundation of modern economic thought and remains the single most important account of the rise of, and the principles behind, modern capitalism. Written in clear and incisive prose, <i>The Wealth of Nations</i> articulates the concepts indispensable to an understanding of contemporary society; and Robert Reich's Introduction both clarifies Smith's analyses and illuminates his overall relevance to the world in which we live. As Reich writes, \"Smith's mind ranged over issues as fresh and topical today as they were in the late eighteenth century--jobs, wages, politics, government, trade, education, business, and ethics.\"<br /><br /><br /><br /><b><b>Introduction by Robert Reich - Commentary by R. H. Campbell and A. S. Skinner - </b>Includes a Modern Library Reading Group Guide</b>",
     "authors": {
       "author": {
@@ -637,7 +800,7 @@
         },
         "link": "https://www.goodreads.com/author/show/14424.Adam_Smith",
         "average_rating": "3.90",
-        "ratings_count": "28676",
+        "ratings_count": "28678",
         "text_reviews_count": "1040"
       }
     },
@@ -656,7 +819,7 @@
     "isbn13": "9781455586691",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "3030"
+      "$t": "3034"
     },
     "uri": "kca://book/amzn1.gr.book.v1.dfJyoSvYXCfLKXJRd0aKHA",
     "title": "Deep Work: Rules for Focused Success in a Distracted World",
@@ -673,7 +836,7 @@
     "publication_year": "2016",
     "publication_month": "1",
     "average_rating": "4.20",
-    "ratings_count": "36907",
+    "ratings_count": "36944",
     "description": "<b>One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results.</b><br /><br />Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.<br /><br />In <i>Deep Work</i>, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite. Dividing this book into two parts, he first makes the case that in almost any profession, cultivating a deep work ethic will produce massive benefits. He then presents a rigorous training regimen, presented as a series of four \"rules,\" for transforming your mind and habits to support this skill.<br /><br />A mix of cultural criticism and actionable advice, <i>Deep Work</i> takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored. <i>Deep Work</i> is an indispensable guide to anyone seeking focused success in a distracted world.",
     "authors": {
       "author": {
@@ -690,8 +853,8 @@
         },
         "link": "https://www.goodreads.com/author/show/147891.Cal_Newport",
         "average_rating": "4.17",
-        "ratings_count": "61171",
-        "text_reviews_count": "5921"
+        "ratings_count": "61262",
+        "text_reviews_count": "5929"
       }
     },
     "published": "2016",
@@ -725,8 +888,8 @@
     "publication_day": "8",
     "publication_year": "2019",
     "publication_month": "1",
-    "average_rating": "4.04",
-    "ratings_count": "24",
+    "average_rating": "4.08",
+    "ratings_count": "25",
     "description": "<b>The social dynamics of “alternative facts”: why what you believe depends on who you know</b><br /><br />Why should we care about having true beliefs? And why do demonstrably false beliefs persist and spread despite bad, even fatal, consequences for the people who hold them?<br /><br />Philosophers of science Cailin O’Connor and James Weatherall argue that social factors, rather than individual psychology, are what’s essential to understanding the spread and persistence of false beliefs. It might seem that there’s an obvious reason that true beliefs matter: false beliefs will hurt you. But if that’s right, then why is it (apparently) irrelevant to many people whether they believe true things or not?<br /><br /><em>The Misinformation Age</em>, written for a political era riven by “fake news,” “alternative facts,” and disputes over the validity of everything from climate change to the size of inauguration crowds, shows convincingly that what you believe depends on who you know. If social forces explain the persistence of false belief, we must understand how those forces work in order to fight misinformation effectively.",
     "authors": {
       "author": {
@@ -742,8 +905,8 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
         },
         "link": "https://www.goodreads.com/author/show/17882384.Cailin_O_Connor",
-        "average_rating": "4.04",
-        "ratings_count": "24",
+        "average_rating": "4.08",
+        "ratings_count": "25",
         "text_reviews_count": "5"
       }
     },
@@ -779,7 +942,7 @@
     "publication_year": "2016",
     "publication_month": "9",
     "average_rating": "4.45",
-    "ratings_count": "26551",
+    "ratings_count": "26566",
     "description": "With <i>The Three-Body Problem</i>, English-speaking readers got their first chance to experience the multiple-award-winning and bestselling Remembrance of Earth's Past trilogy by China's most beloved science fiction author, Cixin Liu. <i>The Three-Body Problem</i> was released to great acclaim including coverage in The New York Times and The Wall Street Journal and won the Hugo Award for Best SF Novel (2015). It was also named a finalist for the Nebula Award (2014) making it the first translated novel to be nominated for a major SF award since Italo Calvino's <i>Invisible Cities</i> in 1976. <br /><br />Now this epic trilogy concludes with <i>Death's End</i>. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.<br /><br />Cheng Xin, an aerospace engineer from the early 21st century, awakens from hibernation in this new age. She brings with her knowledge of a long-forgotten program dating from the beginning of the Trisolar Crisis and her very presence may upset the delicate balance between two worlds. Will humanity reach for the stars or die in its cradle?",
     "authors": {
       "author": {
@@ -796,8 +959,8 @@
         },
         "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
         "average_rating": "4.20",
-        "ratings_count": "157953",
-        "text_reviews_count": "17237"
+        "ratings_count": "158053",
+        "text_reviews_count": "17246"
       }
     },
     "published": "2016",
@@ -836,7 +999,7 @@
     "publication_year": "2015",
     "publication_month": "8",
     "average_rating": "4.41",
-    "ratings_count": "36142",
+    "ratings_count": "36160",
     "description": "This is the second novel in \"Remembrance of Earth’s Past\", the near-future trilogy written by the China's multiple-award-winning science fiction author, Cixin Liu. <br /><br />In <i>The Dark Forest</i>, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret. <br /><br />This is the motivation for the Wallfacer Project, a daring plan that grants four men enormous resources to design secret strategies hidden through deceit and misdirection from Earth and Trisolaris alike. Three of the Wallfacers are influential statesmen and scientists but the fourth is a total unknown. Luo Ji, an unambitious Chinese astronomer and sociologist, is baffled by his new status. All he knows is that he's the one Wallfacer that Trisolaris wants dead.",
     "authors": {
       "author": {
@@ -853,8 +1016,8 @@
         },
         "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
         "average_rating": "4.20",
-        "ratings_count": "157953",
-        "text_reviews_count": "17237"
+        "ratings_count": "158053",
+        "text_reviews_count": "17246"
       }
     },
     "published": "2015",
@@ -872,7 +1035,7 @@
     "isbn13": "9780765377067",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "7552"
+      "$t": "7557"
     },
     "uri": "kca://book/amzn1.gr.book.v1.oUcAcIZioskWIAd_9N2ijQ",
     "title": "The Three-Body Problem (Remembrance of Earth’s Past #1)",
@@ -889,7 +1052,7 @@
     "publication_year": "2014",
     "publication_month": "11",
     "average_rating": "4.05",
-    "ratings_count": "84396",
+    "ratings_count": "84448",
     "description": "<i>The Three-Body Problem</i> is the first chance for English-speaking readers to experience this multiple award winning phenomenon from China's most beloved science fiction author, Liu Cixin.<br /><br />\"Fans of hard SF will revel in this intricate and imaginative novel by one of China’s most celebrated genre writers. In 1967, physics professor Ye Zhetai is killed after he refuses to denounce the theory of relativity. His daughter, Ye Wenjie, witnesses his gruesome death.<br /><br />\"Shortly after, she’s falsely charged with sedition for promoting the works of environmentalist Rachel Carson, and told she can avoid punishment by working at a defense research facility involved with the search for extraterrestrial intelligence. More than 40 years later, Ye’s work becomes linked to a string of physicist suicides and a complex role-playing game involving the classic physics problem of the title.<br /><br />\"Liu impressively succeeds in integrating complex topics—such as the field of frontier science, which attempts to define the limits of science’s ability to know nature—without slowing down the action or sacrificing characterization. His smooth handling of the disparate plot elements cleverly sets up the second volume of the trilogy.\" —<i>Publishers Weekly</i>",
     "authors": {
       "author": {
@@ -906,8 +1069,8 @@
         },
         "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
         "average_rating": "4.20",
-        "ratings_count": "157953",
-        "text_reviews_count": "17237"
+        "ratings_count": "158053",
+        "text_reviews_count": "17246"
       }
     },
     "published": "2014",
@@ -978,7 +1141,7 @@
     "isbn13": "9781570613814",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "381"
+      "$t": "382"
     },
     "uri": "kca://book/amzn1.gr.book.v1.IxtXg0MPQJcY8VflgEzwtQ",
     "title": "Book Lust: Recommended Reading for Every Mood, Moment, and Reason",
@@ -995,7 +1158,7 @@
     "publication_year": "2003",
     "publication_month": "8",
     "average_rating": "3.77",
-    "ratings_count": "3307",
+    "ratings_count": "3308",
     "description": {},
     "authors": {
       "author": {
@@ -1012,8 +1175,8 @@
         },
         "link": "https://www.goodreads.com/author/show/67412.Nancy_Pearl",
         "average_rating": "3.69",
-        "ratings_count": "12594",
-        "text_reviews_count": "1876"
+        "ratings_count": "12596",
+        "text_reviews_count": "1877"
       }
     },
     "published": "2003",
@@ -1048,7 +1211,7 @@
     "publication_year": "2010",
     "publication_month": "3",
     "average_rating": "4.04",
-    "ratings_count": "540",
+    "ratings_count": "541",
     "description": "<div>\n  <p>If you're like most developers, you rely heavily on JavaScript to build interactive and quick-responding web applications. The problem is that all of those lines of JavaScript code can slow down your apps. This book reveals techniques and strategies to help you eliminate performance bottlenecks during development. You'll learn how to improve execution time, downloading, interaction with the DOM, page life cycle, and more.</p>\n  <p> Yahoo! frontend engineer Nicholas C. Zakas and five other JavaScript experts -- Ross Harmes, Julien Lecomte, Steven Levithan, Stoyan Stefanov, and Matt Sweeney -- demonstrate optimal ways to load code onto a page, and offer programming tips to help your JavaScript run as efficiently and quickly as possible. You'll learn the best practices to build and deploy your files to a production environment, and tools that can help you find problems once your site goes live.</p>\n    Identify problem code and use faster alternatives to accomplish the same task   Improve scripts by learning how JavaScript stores and accesses data   Implement JavaScript code so that it doesn't slow down interaction with the DOM   Use optimization techniques to improve runtime performance   Learn ways to ensure the UI is responsive at all times   Achieve faster client-server communication   Use a build system to minify files, and HTTP compression to deliver them to the browser   </div>",
     "authors": {
       "author": {
@@ -1065,7 +1228,7 @@
         },
         "link": "https://www.goodreads.com/author/show/25509.Nicholas_C_Zakas",
         "average_rating": "4.10",
-        "ratings_count": "2164",
+        "ratings_count": "2165",
         "text_reviews_count": "178"
       }
     },
@@ -1084,7 +1247,7 @@
     "isbn13": "9780739467350",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "7562"
+      "$t": "7563"
     },
     "uri": "kca://book/amzn1.gr.book.v1.TRnr_6OZ7eqO98t3rK7-0A",
     "title": "Guns, Germs, and Steel: The Fates of Human Societies",
@@ -1101,7 +1264,7 @@
     "publication_year": "2005",
     "publication_month": {},
     "average_rating": "4.02",
-    "ratings_count": "226303",
+    "ratings_count": "226351",
     "description": "\"Diamond has written a book of remarkable scope ... one of the most important and readable works on the human past published in recent years.\"<br /><br />Winner of the Pulitzer Prize and a national bestseller: the global account of the rise of civilization that is also a stunning refutation of ideas of human development based on race.<br /><br />In this \"artful, informative, and delightful\" (William H. McNeill, New York Review of Books) book, Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. Societies that had a head start in food production advanced beyond the hunter-gatherer stage, and then developed writing, technology, government, and organized religion—as well as nasty germs and potent weapons of war—and adventured on sea and land to conquer and decimate preliterate cultures. A major advance in our understanding of human societies, <i>Guns, Germs, and Steel</i> chronicles the way that the modern world came to be and stunningly dismantles racially based theories of human history.<br /><br />Winner of the Pulitzer Prize, the Phi Beta Kappa Award in Science, the Rhone-Poulenc Prize, and the Commonwealth Club of California's Gold Medal",
     "authors": {
       "author": {
@@ -1118,8 +1281,8 @@
         },
         "link": "https://www.goodreads.com/author/show/256.Jared_Diamond",
         "average_rating": "3.99",
-        "ratings_count": "314367",
-        "text_reviews_count": "14165"
+        "ratings_count": "314428",
+        "text_reviews_count": "14166"
       }
     },
     "published": "2005",
@@ -1154,7 +1317,7 @@
     "publication_year": "2015",
     "publication_month": "5",
     "average_rating": "3.49",
-    "ratings_count": "10123",
+    "ratings_count": "10125",
     "description": {},
     "authors": {
       "author": {
@@ -1171,8 +1334,8 @@
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
         "average_rating": "3.95",
-        "ratings_count": "770182",
-        "text_reviews_count": "23186"
+        "ratings_count": "770275",
+        "text_reviews_count": "23189"
       }
     },
     "published": "2015",
@@ -1207,7 +1370,7 @@
     "publication_year": "2014",
     "publication_month": "5",
     "average_rating": "3.84",
-    "ratings_count": "38939",
+    "ratings_count": "38950",
     "description": "The New York Times bestselling Freakonomics changed the way we see the world, exposing the hidden side of just about everything. Then came SuperFreakonomics, a documentary film, an award-winning podcast, and more.<br /><br />Now, with Think Like a Freak, Steven D. Levitt and Stephen J. Dubner have written their most revolutionary book yet. With their trademark blend of captivating storytelling and unconventional analysis, they take us inside their thought process and teach us all to think a bit more productively, more creatively, more rationally—to think, that is, like a Freak.<br /><br />Levitt and Dubner offer a blueprint for an entirely new way to solve problems, whether your interest lies in minor lifehacks or major global reforms. As always, no topic is off-limits. They range from business to philanthropy to sports to politics, all with the goal of retraining your brain. Along the way, you’ll learn the secrets of a Japanese hot-dog-eating champion, the reason an Australian doctor swallowed a batch of dangerous bacteria, and why Nigerian e-mail scammers make a point of saying they’re from Nigeria.<br /><br />Some of the steps toward thinking like a Freak:<br /><br />First, put away your moral compass—because it’s hard to see a problem clearly if you’ve already decided what to do about it.<br />Learn to say “I don’t know”—for until you can admit what you don’t yet know, it’s virtually impossible to learn what you need to.<br />Think like a child—because you’ll come up with better ideas and ask better questions.<br />Take a master class in incentives—because for better or worse, incentives rule our world.<br />Learn to persuade people who don’t want to be persuaded—because being right is rarely enough to carry the day.<br />Learn to appreciate the upside of quitting—because you can’t solve tomorrow’s problem if you aren’t willing to abandon today’s dud.<br />Levitt and Dubner plainly see the world like no one else. Now you can too. Never before have such iconoclastic thinkers been so revealing—and so much fun to read.",
     "authors": {
       "author": {
@@ -1224,8 +1387,8 @@
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
         "average_rating": "3.95",
-        "ratings_count": "770182",
-        "text_reviews_count": "23186"
+        "ratings_count": "770275",
+        "text_reviews_count": "23189"
       }
     },
     "published": "2014",
@@ -1260,7 +1423,7 @@
     "publication_year": "2016",
     "publication_month": "9",
     "average_rating": "3.87",
-    "ratings_count": "9686",
+    "ratings_count": "9691",
     "description": "<b>A former Wall Street quant sounds an alarm on mathematical modeling—a pervasive new force in society that threatens to undermine democracy and widen inequality.</b><br />  <br /> We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we get a car loan, how much we pay for health insurance—are being made not by humans, but by mathematical models. In theory, this should lead to greater fairness: Everyone is judged according to the same rules, and bias is eliminated. But as Cathy O’Neil reveals in this shocking book, the opposite is true. The models being used today are opaque, unregulated, and uncontestable, even when they’re wrong. Most troubling, they reinforce discrimination: If a poor student can’t get a loan because a lending model deems him too risky (by virtue of his race or neighborhood), he’s then cut off from the kind of education that could pull him out of poverty, and a vicious spiral ensues. Models are propping up the lucky and punishing the downtrodden, creating a “toxic cocktail for democracy.” Welcome to the dark side of Big Data.<br />  <br /> Tracing the arc of a person’s life, from college to retirement, O’Neil exposes the black box models that shape our future, both as individuals and as a society. Models that score teachers and students, sort resumes, grant (or deny) loans, evaluate workers, target voters, set parole, and monitor our health—all have pernicious feedback loops. They don’t simply <i>describe</i> reality, as proponents claim, they <i>change</i> reality, by expanding or limiting the opportunities people have. O’Neil calls on modelers to take more responsibility for how their algorithms are being used. But in the end, it’s up to us to become more savvy about the models that govern our lives. This important book empowers us to ask the tough questions, uncover the truth, and demand change.",
     "authors": {
       "author": {
@@ -1277,7 +1440,7 @@
         },
         "link": "https://www.goodreads.com/author/show/6928121.Cathy_O_Neil",
         "average_rating": "3.86",
-        "ratings_count": "10253",
+        "ratings_count": "10258",
         "text_reviews_count": "1514"
       }
     },
@@ -1313,7 +1476,7 @@
     "publication_year": "2009",
     "publication_month": "9",
     "average_rating": "4.17",
-    "ratings_count": "42533",
+    "ratings_count": "42536",
     "description": "Charles Darwin’s masterpiece, <i>On the Origin of Species</i>, shook society to its core on publication in 1859. Darwin was only too aware of the storm his theory of evolution would provoke but he would surely have raised an incredulous eyebrow at the controversy still raging a century and a half later. Evolution is accepted as scientific fact by all reputable scientists and indeed theologians, yet millions of people continue to question its veracity.<br /><br />In <i>The Greatest Show on Earth</i> Richard Dawkins takes on creationists, including followers of ‘Intelligent Design’ and all those who question the fact of evolution through natural selection. Like a detective arriving on the scene of a crime, he sifts through fascinating layers of scientific facts and disciplines to build a cast-iron case: from the living examples of natural selection in birds and insects; the ‘time clocks’ of trees and radioactive dating that calibrate a timescale for evolution; the fossil record and the traces of our earliest ancestors; to confirmation from molecular biology and genetics. All of this, and much more, bears witness to the truth of evolution.<br /><br /><i>The Greatest Show on Earth</i> comes at a critical time: systematic opposition to the fact of evolution is now flourishing as never before, especially in America. In Britain and elsewhere in the world, teachers witness insidious attempts to undermine the status of science in their classrooms. Richard Dawkins provides unequivocal evidence that boldly and comprehensively rebuts such nonsense. At the same time he shares with us his palpable love of the natural world and the essential role that science plays in its interpretation. Written with elegance, wit and passion, it is hard-hitting, absorbing and totally convincing.",
     "authors": {
       "author": {
@@ -1330,8 +1493,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "526677",
-        "text_reviews_count": "19814"
+        "ratings_count": "526731",
+        "text_reviews_count": "19816"
       }
     },
     "published": "2009",
@@ -1366,7 +1529,7 @@
     "publication_year": "2007",
     "publication_month": {},
     "average_rating": "3.80",
-    "ratings_count": "22095",
+    "ratings_count": "22096",
     "description": "Who makes most money from the demand for cappuccinos early in the morning at Waterloo Station? Why is it impossible to get a foot on the property ladder? How does the Mafia make money from laundries when street gangs pushing drugs don’t? Who really benefits from immigration? How can China, in just fifty years, go from the world’s worst famine to one of the greatest economic revolutions of all time, lifting a million people out of poverty a month?<br /><br />Looking at familiar situations in unfamiliar ways, THE UNDERCOVER ECONOMIST is a fresh explanation of the fundamental principles of the modern economy, illuminated by examples from the streets of London to the booming skyscrapers of Shanghai to the sleepy canals of Bruges. Leaving behind textbook jargon and equations, Tim Harford will reveal the games of signals and negotiations, contests of strength and battles of wit that drive not only the economy at large but the everyday choices we make.",
     "authors": {
       "author": {
@@ -1383,7 +1546,7 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.83",
-        "ratings_count": "35864",
+        "ratings_count": "35871",
         "text_reviews_count": "2220"
       }
     },
@@ -1421,7 +1584,7 @@
     "publication_year": "2014",
     "publication_month": {},
     "average_rating": "3.88",
-    "ratings_count": "2041",
+    "ratings_count": "2042",
     "description": "<b>A provocative and lively exploration of the increasingly important world of macroeconomics, by the author of the bestselling <i>The Undercover Economist</i>.</b><br /><br /> Thanks to the worldwide financial upheaval, economics is no longer a topic we can ignore. From politicians to hedge-fund managers to middle-class IRA holders, everyone must pay attention to how and why the global economy works the way it does.<br /><br /> Enter <i>Financial Times</i> columnist and bestselling author Tim Harford. In this new book that demystifies macroeconomics, Harford strips away the spin, the hype, and the jargon to reveal the truth about how the world’s economy actually works. With the wit of a raconteur and the clear grasp of an expert, Harford explains what’s really happening beyond today’s headlines, why all of us should care, and what we can do about it to understand it better.<br />",
     "authors": {
       "author": {
@@ -1438,7 +1601,7 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.83",
-        "ratings_count": "35864",
+        "ratings_count": "35871",
         "text_reviews_count": "2220"
       }
     },
@@ -1457,7 +1620,7 @@
     "isbn13": "9780241300657",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "657"
+      "$t": "658"
     },
     "uri": "kca://book/amzn1.gr.book.v1.axE0MsZyK2iuA2ZXFIOGwA",
     "title": "Skin in the Game: The Hidden Asymmetries in Daily Life",
@@ -1474,7 +1637,7 @@
     "publication_year": "2018",
     "publication_month": "6",
     "average_rating": "3.86",
-    "ratings_count": "7352",
+    "ratings_count": "7358",
     "description": "From the <i>New York Times</i> bestselling author of <i>The Black Swan,</i> a bold new work that challenges many of our long-held beliefs about risk and reward, politics and religion, finance and personal responsibility<br /><br /> In his most provocative and practical book yet, one of the foremost thinkers of our time redefines what it means to understand the world, succeed in a profession, contribute to a fair and just society, detect nonsense, and influence others. Citing examples ranging from Hammurabi to Seneca, Antaeus the Giant to Donald Trump, Nassim Nicholas Taleb shows how the willingness to accept one’s own risks is an essential attribute of heroes, saints, and flourishing people in all walks of life.<br /><br /> As always both accessible and iconoclastic, Taleb challenges long-held beliefs about the values of those who spearhead military interventions, make financial investments, and propagate religious faiths. Among his insights:<br /><br /><b>• <i>For social justice, focus on symmetry and risk sharing. </i></b>You cannot make profits and transfer the risks to others, as bankers and large corporations do. You cannot get rich without owning your own risk and paying for your own losses. Forcing skin in the game corrects this asymmetry better than thousands of laws and regulations.<br /><b>• <i>Ethical rules aren’t universal</i>.</b> You’re part of a group larger than you, but it’s still smaller than humanity in general.<br /><b>• <i>Minorities, not majorities, run the world. </i></b>The world is not run by consensus but by stubborn minorities imposing their tastes and ethics on others.<br /><b>• <i>You can be an intellectual yet still be an idiot</i>.</b> “Educated philistines” have been wrong on everything from Stalinism to Iraq to low-carb diets.<br /><b>• <i>Beware of complicated solutions (that someone was paid to find)</i>.</b> A simple barbell can build muscle better than expensive new machines.<br /><b>• <i>True religion is commitment, not just faith</i>.</b> How much you believe in something is manifested only by what you’re willing to risk for it.<br /><br />The phrase “skin in the game” is one we have often heard but rarely stopped to truly dissect. It is the backbone of risk management, but it’s also an astonishingly rich worldview that, as Taleb shows in this book, applies to all aspects of our lives. As Taleb says, “The symmetry of skin in the game is a simple rule that’s necessary for fairness and justice, and the ultimate BS-buster,” and “Never trust anyone who doesn’t have skin in the game. Without it, fools and crooks will benefit, and their mistakes will never come back to haunt them.”",
     "authors": {
       "author": {
@@ -1491,8 +1654,8 @@
         },
         "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
         "average_rating": "3.97",
-        "ratings_count": "145510",
-        "text_reviews_count": "9105"
+        "ratings_count": "145557",
+        "text_reviews_count": "9107"
       }
     },
     "published": "2018",
@@ -1527,7 +1690,7 @@
     "publication_year": "2014",
     "publication_month": "10",
     "average_rating": "4.07",
-    "ratings_count": "21654",
+    "ratings_count": "21656",
     "description": "The computer and the internet are among the most important innovations of our era, but few people know who created them. They were not conjured up in a garret or garage by solo inventors suitable to be singled out on magazine covers or put into a pantheon with Edison, Bell, and Morse. Instead, most of the innovations of the digital age were done collaboratively. There were a lot of fascinating people involved, some ingenious and a few even geniuses. This is the story of these pioneers, hackers, inventors, and entrepreneurs—who they were, how their minds worked, and what made them so creative. It’s also a narrative of how they collaborated and why their ability to work as teams made them even more creative.”",
     "authors": {
       "author": {
@@ -1544,8 +1707,8 @@
         },
         "link": "https://www.goodreads.com/author/show/7111.Walter_Isaacson",
         "average_rating": "4.10",
-        "ratings_count": "1016019",
-        "text_reviews_count": "25844"
+        "ratings_count": "1016203",
+        "text_reviews_count": "25845"
       }
     },
     "published": "2014",
@@ -1580,7 +1743,7 @@
     "publication_year": "2004",
     "publication_month": {},
     "average_rating": "4.20",
-    "ratings_count": "242252",
+    "ratings_count": "242289",
     "description": "In Bryson's biggest book, he confronts his greatest challenge: to understand—and, if possible, answer—the oldest, biggest questions we have posed about the universe and ourselves. Taking as territory everything from the Big Bang to the rise of civilization, Bryson seeks to understand how we got from there being nothing at all to there being us. To that end, he has attached himself to a host of the world’s most advanced (and often obsessed) archaeologists, anthropologists, and mathematicians, travelling to their offices, laboratories, and field camps. He has read (or tried to read) their books, pestered them with questions, apprenticed himself to their powerful minds. <b>A Short History of Nearly Everything</b><i> </i>is the record of this quest, and it is a sometimes profound, sometimes funny, and always supremely clear and entertaining adventure in the realms of human knowledge, as only Bill Bryson can render it. Science has never been more involving or entertaining.",
     "authors": {
       "author": {
@@ -1597,8 +1760,8 @@
         },
         "link": "https://www.goodreads.com/author/show/7.Bill_Bryson",
         "average_rating": "4.02",
-        "ratings_count": "1133457",
-        "text_reviews_count": "68045"
+        "ratings_count": "1133603",
+        "text_reviews_count": "68054"
       }
     },
     "published": "2004",
@@ -1633,7 +1796,7 @@
     "publication_year": {},
     "publication_month": {},
     "average_rating": "4.11",
-    "ratings_count": "1227",
+    "ratings_count": "1228",
     "description": "How much credit do parents deserve when their children turn out well? How much blame when they turn out badly? Judith Rich Harris has a message that will change parents' lives: The \"nurture assumption\"-- the belief that what makes children turn out the way they do, aside from their genes, is the way their parents raise them--is nothing more than a cultural myth. This electrifying book explodes some of our unquestioned beliefs about children and parents and gives us a radically new view of childhood.<br /><br />Harris examines with a fresh eye the lives of real children to show that it is what they experience outside the home, in the company of their peers, that matters most. Parents don't socialize children; children socialize children. With eloquence and humor, Judith Harris explains why parents have little power to determine the sort of people their children will become. <i>The Nurture Assumption</i> brings together insights from psychology, sociology, anthropology, primatology, and evolutionary biology to offer a startling new view of who we are and how we got that way.",
     "authors": {
       "author": {
@@ -1650,7 +1813,7 @@
         },
         "link": "https://www.goodreads.com/author/show/132119.Judith_Rich_Harris",
         "average_rating": "3.84",
-        "ratings_count": "3273",
+        "ratings_count": "3274",
         "text_reviews_count": "364"
       }
     },
@@ -1707,8 +1870,8 @@
         },
         "link": "https://www.goodreads.com/author/show/3915.Steven_Pinker",
         "average_rating": "4.03",
-        "ratings_count": "114280",
-        "text_reviews_count": "8430"
+        "ratings_count": "114313",
+        "text_reviews_count": "8432"
       }
     },
     "published": "2012",
@@ -1783,7 +1946,7 @@
     "isbn13": "9780375831003",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "82874"
+      "$t": "82877"
     },
     "uri": "kca://book/amzn1.gr.book.v1.A1zfLKejdNPkLkjfE8LN8Q",
     "title": "The Book Thief",
@@ -1800,7 +1963,7 @@
     "publication_year": "2006",
     "publication_month": "3",
     "average_rating": "4.37",
-    "ratings_count": "1533478",
+    "ratings_count": "1533718",
     "description": "It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.<br /><br />By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor's wife's library, wherever there are books to be found.<br /><br />But these are dangerous times. When Liesel's foster family hides a Jew in their basement, Liesel's world is both opened up, and closed down.<br /><br />In superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time.",
     "authors": {
       "author": {
@@ -1817,8 +1980,8 @@
         },
         "link": "https://www.goodreads.com/author/show/11466.Markus_Zusak",
         "average_rating": "4.34",
-        "ratings_count": "1677424",
-        "text_reviews_count": "119273"
+        "ratings_count": "1677714",
+        "text_reviews_count": "119289"
       }
     },
     "published": "2006",
@@ -1906,7 +2069,7 @@
     "publication_year": "2004",
     "publication_month": "11",
     "average_rating": "3.97",
-    "ratings_count": "50001",
+    "ratings_count": "50012",
     "description": "\"This is not a book about charismatic visionary leaders. It is not about visionary product concepts or visionary products or visionary market insights. Nor is it about just having a corporate vision. This is a book about something far more important, enduring, and substantial. This is a book about visionary companies.\" So write Jim Collins and Jerry Porras in this groundbreaking book that shatters myths, provides new insights, and gives practical guidance to those who would like to build landmark companies that stand the test of time.<br /><br />Drawing upon a six-year research project at the Stanford University Graduate School of Business, Collins and Porras took eighteen truly exceptional and long-lasting companies -- they have an average age of nearly one hundred years and have outperformed the general stock market by a factor of fifteen since 1926 -- and studied each company in direct comparison to one of its top competitors. They examined the companies from their very beginnings to the present day -- as start-ups, as midsize companies, and as large corporations. Throughout, the authors asked: \"What makes the truly exceptional companies different from other companies?\"<br /><br />What separates General Electric, 3M, Merck, Wal-Mart, Hewlett-Packard, Walt Disney, and Philip Morris from their rivals? How, for example, did Procter &amp; Gamble, which began life substantially behind rival Colgate, eventually prevail as the premier institution in its industry? How was Motorola able to move from a humble battery repair business into integrated circuits and cellular communications, while Zenith never became dominant in anything other than TVs? How did Boeing unseat McDonnell Douglas as the world's best commercial aircraft company -- what did Boeing have that McDonnell Douglas lacked?<br /><br />By answering such questions, Collins and Porras go beyond the incessant barrage of management buzzwords and fads of the day to discover timeless qualities that have consistently distinguished out-standing companies. They also provide inspiration to all executives and entrepreneurs by destroying the false but widely accepted idea that only charismatic visionary leaders can build visionary companies.<br /><br />Filled with hundreds of specific examples and organized into a coherent framework of practical concepts that can be applied by managers and entrepreneurs at all levels, <em>Built to Last</em> provides a master blueprint for building organizations that will prosper long into the twenty-first century and beyond.",
     "authors": {
       "author": {
@@ -1923,8 +2086,8 @@
         },
         "link": "https://www.goodreads.com/author/show/2826.James_C_Collins",
         "average_rating": "4.04",
-        "ratings_count": "181826",
-        "text_reviews_count": "5680"
+        "ratings_count": "181858",
+        "text_reviews_count": "5682"
       }
     },
     "published": "2004",
@@ -1959,7 +2122,7 @@
     "publication_year": "2017",
     "publication_month": "10",
     "average_rating": "4.20",
-    "ratings_count": "23019",
+    "ratings_count": "23038",
     "description": "The author of the acclaimed bestsellers <i>Steve Jobs</i>, <i>Einstein</i>, and <i>Benjamin Franklin</i> brings Leonardo da Vinci to life in this exciting new biography.<br /><br />Based on thousands of pages from Leonardo’s astonishing notebooks and new discoveries about his life and work, Walter Isaacson weaves a narrative that connects his art to his science. He shows how Leonardo’s genius was based on skills we can improve in ourselves, such as passionate curiosity, careful observation, and an imagination so playful that it flirted with fantasy.<br /><br />He produced the two most famous paintings in history, <i>The Last Supper</i> and the <i>Mona Lisa</i>. But in his own mind, he was just as much a man of science and technology. With a passion that sometimes became obsessive, he pursued innovative studies of anatomy, fossils, birds, the heart, flying machines, botany, geology, and weaponry. His ability to stand at the crossroads of the humanities and the sciences, made iconic by his drawing of <i>Vitruvian Man</i>, made him history’s most creative genius.<br /><br />His creativity, like that of other great innovators, came from having wide-ranging passions. He peeled flesh off the faces of cadavers, drew the muscles that move the lips, and then painted history’s most memorable smile. He explored the math of optics, showed how light rays strike the cornea, and produced illusions of changing perspectives in <i>The Last Supper</i>. Isaacson also describes how Leonardo’s lifelong enthusiasm for staging theatrical productions informed his paintings and inventions.<br /><br />Leonardo’s delight at combining diverse passions remains the ultimate recipe for creativity. So, too, does his ease at being a bit of a misfit: illegitimate, gay, vegetarian, left-handed, easily distracted, and at times heretical. His life should remind us of the importance of instilling, both in ourselves and our children, not just received knowledge but a willingness to question it—to be imaginative and, like talented misfits and rebels in any era, to think different.",
     "authors": {
       "author": {
@@ -1976,8 +2139,8 @@
         },
         "link": "https://www.goodreads.com/author/show/7111.Walter_Isaacson",
         "average_rating": "4.10",
-        "ratings_count": "1016019",
-        "text_reviews_count": "25844"
+        "ratings_count": "1016203",
+        "text_reviews_count": "25845"
       }
     },
     "published": "2017",
@@ -1995,7 +2158,7 @@
     "isbn13": "9780192833983",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "5772"
+      "$t": "5774"
     },
     "uri": "kca://book/amzn1.gr.book.v1.fqZ7hlDzSFcuzCN5eCYG4A",
     "title": "War and Peace",
@@ -2012,7 +2175,7 @@
     "publication_year": "1998",
     "publication_month": "6",
     "average_rating": "4.10",
-    "ratings_count": "230864",
+    "ratings_count": "230888",
     "description": {},
     "authors": {
       "author": {
@@ -2029,8 +2192,8 @@
         },
         "link": "https://www.goodreads.com/author/show/128382.Leo_Tolstoy",
         "average_rating": "4.04",
-        "ratings_count": "1009565",
-        "text_reviews_count": "45709"
+        "ratings_count": "1009770",
+        "text_reviews_count": "45729"
       }
     },
     "published": "1998",
@@ -2065,7 +2228,7 @@
     "publication_year": "2016",
     "publication_month": "6",
     "average_rating": "4.17",
-    "ratings_count": "9180",
+    "ratings_count": "9185",
     "description": "Nobel laureate Richard H. Thaler has spent his career studying the radical notion that the central agents in the economy are humans—predictable, error-prone individuals. <em>Misbehaving</em> is his arresting, frequently hilarious account of the struggle to bring an academic discipline back down to earth—and change the way we think about economics, ourselves, and our world.<br /><br />Traditional economics assumes rational actors. Early in his research, Thaler realized these Spock-like automatons were nothing like real people. Whether buying a clock radio, selling basketball tickets, or applying for a mortgage, we all succumb to biases and make decisions that deviate from the standards of rationality assumed by economists. In other words, we misbehave. More importantly, our misbehavior has serious consequences. Dismissed at first by economists as an amusing sideshow, the study of human miscalculations and their effects on markets now drives efforts to make better decisions in our lives, our businesses, and our governments.<br /><br />Coupling recent discoveries in human psychology with a practical understanding of incentives and market behavior, Thaler enlightens readers about how to make smarter decisions in an increasingly mystifying world. He reveals how behavioral economic analysis opens up new ways to look at everything from household finance to assigning faculty offices in a new building, to TV game shows, the NFL draft, and businesses like Uber.<br /><br />Laced with antic stories of Thaler’s spirited battles with the bastions of traditional economic thinking, <em>Misbehaving</em> is a singular look into profound human foibles. When economics meets psychology, the implications for individuals, managers, and policy makers are both profound and entertaining.",
     "authors": {
       "author": {
@@ -2082,8 +2245,8 @@
         },
         "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
         "average_rating": "3.88",
-        "ratings_count": "57512",
-        "text_reviews_count": "3320"
+        "ratings_count": "57534",
+        "text_reviews_count": "3322"
       }
     },
     "published": "2016",
@@ -2118,7 +2281,7 @@
     "publication_year": "2002",
     "publication_month": "6",
     "average_rating": "3.54",
-    "ratings_count": "86078",
+    "ratings_count": "86096",
     "description": "A rousing call to arms whose influence is still felt today, Karl Marx and Friedrich Engels' <i>The Communist Manifesto</i> is edited with an introduction by Gareth Stedman-Jones in Penguin Classics.<br /><br />Marx and Engels's revolutionary summons to the working classes, <i>The Communist Manifesto</i> is one of the most important political theories ever formulated. After four years of collaboration, they produced an incisive account of their idea of Communism, in which they envisage a society without classes, private property or a state, arguing that the exploitation of industrial workers will eventually lead to a revolution in which Capitalism is overthrown. This vision provided the theoretical basis of political systems in Russia, China, Cuba and Eastern Europe, affecting the lives of millions. <i>The Communist Manifesto</i> still remains a landmark text: a work that continues to influence and provoke debate on capitalism and class.<br /><br />Gareth Stedman Jones's extensive and scholarly introduction provides an unique assessment of the place of <i>The Communist Manifesto</i> in history, and its continuing relevance as a depiction of global capitalism. This edition reproduces Samuel Moore's translation of 1888 and contains a guide to further reading, notes and an index.<br /><br />Karl Marx (1818-1883) was born in Trier, Germany and studied law at Bonn and Berlin. He settled in London, where he studied economics and wrote the first volume of his major work, <i>Das Kapital </i>(1867, with two further volumes in 1884 and 1894). He is buried in Highgate Cemetery, London.<br /><br />Friedrich Engels (1820-1895), as well as his collaboration with Marx, was the author of <i>The Condition of the Working Class in England</i> (1845), based on personal observations and research.<br /><br />If you enjoyed <i>The Communist Manifesto</i>, you might like Marx's <i>Capital</i>, also available in Penguin Classics.<br /><br />'The words of the <i>Communist Manifesto </i>flare like the fiery writing on the wall above the crumbling bastions of capitalist society: <i>socialism or barbarism!</i>'<br />Rosa Luxemburg",
     "authors": {
       "author": {
@@ -2135,8 +2298,8 @@
         },
         "link": "https://www.goodreads.com/author/show/7084.Karl_Marx",
         "average_rating": "3.72",
-        "ratings_count": "147301",
-        "text_reviews_count": "6215"
+        "ratings_count": "147327",
+        "text_reviews_count": "6216"
       }
     },
     "published": "2002",
@@ -2171,7 +2334,7 @@
     "publication_year": "2018",
     "publication_month": "10",
     "average_rating": "4.42",
-    "ratings_count": "1220",
+    "ratings_count": "1229",
     "description": "<b>From the #1 <i>New York Times</i>-bestselling author of <i>The 48 Laws of Power</i> comes the definitive new book on decoding the behavior of the people around you</b><br /><br />Robert Greene is a master guide for millions of readers, distilling ancient wisdom and philosophy into essential texts for seekers of power, understanding and mastery. Now he turns to the most important subject of all - understanding people's drives and motivations, even when they are unconscious of them themselves.<br /><br />We are social animals. Our very lives depend on our relationships with people. Knowing why people do what they do is the most important tool we can possess, without which our other talents can only take us so far. Drawing from the ideas and examples of Pericles, Queen Elizabeth I, Martin Luther King Jr, and many others, Greene teaches us how to detach ourselves from our own emotions and master self-control, how to develop the empathy that leads to insight, how to look behind people's masks, and how to resist conformity to develop your singular sense of purpose. Whether at work, in relationships, or in shaping the world around you, <i>The Laws of Human Nature</i> offers brilliant tactics for success, self-improvement, and self-defense.",
     "authors": {
       "author": {
@@ -2188,8 +2351,8 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "107186",
-        "text_reviews_count": "6349"
+        "ratings_count": "107219",
+        "text_reviews_count": "6352"
       }
     },
     "published": "2018",
@@ -2224,7 +2387,7 @@
     "publication_year": "2017",
     "publication_month": "1",
     "average_rating": "3.73",
-    "ratings_count": "2089",
+    "ratings_count": "2091",
     "description": "<b>Groundbreaking book by the Nobel Prize Winner who discovered telomeres, telomerase, and their role in the aging process, and the psychologist who researched specific lifestyle habits to protect them and slow down disease and lengthen life.</b><br />Have you wondered why some 60-year-olds look and feel like 40-year-olds and why some 40-year-olds look and feel like 60-year-olds? While many factors contribute to aging and illness, Nobel Prize-winning Doctor Elizabeth Blackburn discovered biological markers, called telomerase, the enzyme that replenishes telomeres, which protect our DNA. Dr. Blackburn discovered that the length and health of one's telomeres provides a biological basis for the long-hypothesized mind-body connection. But perhaps more importantly, along with leading health psychologist Dr. Elissa Epel, she discovered that there are things we can do to improve and lengthen our telomeres to keep us vital and disease-free. <br /><br />This book will help people increase the reader's lifespan and health-span (the number of years during this time that they remain healthy and active), including information on how sleep, exercise, and diet profoundly affect our telomeres, and how chronic stress can eat away at our telomeres. Included are lists of which foods are healthy for our telomeres; how aging begins in utero (mothers who are highly stressed during pregnancy have children with shorter telomeres), and how thinking you are young and vital helps keep you that way!<br />",
     "authors": {
       "author": {
@@ -2241,8 +2404,8 @@
         },
         "link": "https://www.goodreads.com/author/show/154743.Elizabeth_Blackburn",
         "average_rating": "3.78",
-        "ratings_count": "2385",
-        "text_reviews_count": "312"
+        "ratings_count": "2387",
+        "text_reviews_count": "313"
       }
     },
     "published": "2017",
@@ -2294,8 +2457,8 @@
         },
         "link": "https://www.goodreads.com/author/show/311849.Norman_Doidge",
         "average_rating": "4.09",
-        "ratings_count": "69003",
-        "text_reviews_count": "6494"
+        "ratings_count": "69056",
+        "text_reviews_count": "6496"
       }
     },
     "published": "2008",
@@ -2330,7 +2493,7 @@
     "publication_year": "2019",
     "publication_month": "1",
     "average_rating": "4.02",
-    "ratings_count": "13248",
+    "ratings_count": "13249",
     "description": "At last! A new edition of the economics book that won’t put you to sleep. In fact, you won’t be able to put this bestseller down. In our challenging economic climate, this perennial favorite of students and general readers is more than a good read, it’s a necessary investment—with a blessedly sure rate of return. This revised and updated edition includes commentary on hot topics such as automation, trade, income inequality, and America’s rising debt. Ten years after the financial crisis, <em>Naked Economics</em> examines how policymakers managed the worst economic crisis since the Great Depression.<br /><br /><br />Demystifying buzzwords, laying bare the truths behind oft-quoted numbers, and answering the questions you were always too embarrassed to ask, the breezy <em>Naked Economics</em> gives you the tools to engage with pleasure and confidence in the deeply relevant, not so dismal science.",
     "authors": {
       "author": {
@@ -2347,8 +2510,8 @@
         },
         "link": "https://www.goodreads.com/author/show/18704.Charles_Wheelan",
         "average_rating": "3.99",
-        "ratings_count": "22415",
-        "text_reviews_count": "1865"
+        "ratings_count": "22420",
+        "text_reviews_count": "1867"
       }
     },
     "published": "2019",
@@ -2383,7 +2546,7 @@
     "publication_year": "2006",
     "publication_month": "5",
     "average_rating": "4.13",
-    "ratings_count": "115575",
+    "ratings_count": "115597",
     "description": "<i>The Selfish Gene: 30th Anniversary Edition—with a new Introduction by the Author</i><br /><br />Inheriting the mantle of revolutionary biologist from Darwin, Watson, and Crick, Richard Dawkins forced an enormous change in the way we see ourselves and the world with the publication of <i>The Selfish Gene</i>. Suppose, instead of thinking about organisms using genes to reproduce themselves, as we had since Mendel's work was rediscovered, we turn it around and imagine that \"our\" genes build and maintain us in order to make more genes. That simple reversal seems to answer many puzzlers which had stumped scientists for years, and we haven't thought of evolution in the same way since.<br /><br />Why are there miles and miles of \"unused\" DNA within each of our bodies? Why should a bee give up its own chance to reproduce to help raise her sisters and brothers? With a prophet's clarity, Dawkins told us the answers from the perspective of molecules competing for limited space and resources to produce more of their own kind. Drawing fascinating examples from every field of biology, he paved the way for a serious re-evaluation of evolution. He also introduced the concept of self-reproducing ideas, or memes, which (seemingly) use humans exclusively for their propagation. If we are puppets, he says, at least we can try to understand our strings. —Rob Lightner",
     "authors": {
       "author": {
@@ -2400,8 +2563,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "526677",
-        "text_reviews_count": "19814"
+        "ratings_count": "526731",
+        "text_reviews_count": "19816"
       }
     },
     "published": "2006",
@@ -2436,7 +2599,7 @@
     "publication_year": "2009",
     "publication_month": "2",
     "average_rating": "3.83",
-    "ratings_count": "46055",
+    "ratings_count": "46072",
     "description": "For fans of Malcolm Gladwell's \"Blink \"and Nobel Prize winner Daniel Kahneman's \"Thinking Fast and Slow,\" a revelatory new look at how we make decisions <br />A \"New York Times \"bestsellerAn \"Economist \"Best Book of the YearA \"Financial Times \"Best Book of the Year<br />\"Nudge\" is about choices--how we make them and how we can make better ones. Drawing on decades of research in the fields of behavioral science and economics, authors Richard H. Thaler and Cass R. Sunstein offer a new perspective on preventing the countless mistakes we make--ill-advised personal investments, consumption of unhealthy foods, neglect of our natural resources--and show us how sensible \"choice architecture\" can successfully nudge people toward the best decisions. In the tradition of \"The Tipping Point \"and \"Freakonomics,\" \"Nudge \"is straightforward, informative, and entertaining--a must-read for anyone interested in our individual and collective well-being.",
     "authors": {
       "author": {
@@ -2453,8 +2616,8 @@
         },
         "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
         "average_rating": "3.88",
-        "ratings_count": "57512",
-        "text_reviews_count": "3320"
+        "ratings_count": "57534",
+        "text_reviews_count": "3322"
       }
     },
     "published": "2009",
@@ -2472,7 +2635,7 @@
     "isbn13": "9781400069286",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "11059"
+      "$t": "11062"
     },
     "uri": "kca://book/amzn1.gr.book.v1.REBUj2CAxWQRRLVC3k8QKw",
     "title": "The Power of Habit: Why We Do What We Do in Life and Business",
@@ -2489,7 +2652,7 @@
     "publication_year": "2012",
     "publication_month": "2",
     "average_rating": "4.07",
-    "ratings_count": "235031",
+    "ratings_count": "235104",
     "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed.<br /><br />Marketers at Procter &amp; Gamble study videos of people making their beds. They are desperately trying to figure out how to sell a new product called Febreze, on track to be one of the biggest flops in company history. Suddenly, one of them detects a nearly imperceptible pattern—and with a slight shift in advertising, Febreze goes on to earn a billion dollars a year.<br /><br />An untested CEO takes over one of the largest companies in America. His first order of business is attacking a single pattern among his employees—how they approach worker safety—and soon the firm, Alcoa, becomes the top performer in the Dow Jones.<br /><br />What do all these people have in common? They achieved success by focusing on the patterns that shape every aspect of our lives. <br /><br />They succeeded by transforming habits.<br /><br />In <i>The Power of Habit, </i>award-winning <i>New York Times</i> business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed. With penetrating intelligence and an ability to distill vast amounts of information into engrossing narratives, Duhigg brings to life a whole new understanding of human nature and its potential for transformation. <br /><br />Along the way we learn why some people and companies struggle to change, despite years of trying, while others seem to remake themselves overnight. We visit laboratories where neuroscientists explore how habits work and where, exactly, they reside in our brains. We discover how the right habits were crucial to the success of Olympic swimmer Michael Phelps, Starbucks CEO Howard Schultz, and civil-rights hero Martin Luther King, Jr. We go inside Procter &amp; Gamble, Target superstores, Rick Warren’s Saddleback Church, NFL locker rooms, and the nation’s largest hospitals and see how implementing so-called keystone habits can earn billions and mean the difference between failure and success, life and death.<br /><br />At its core, <i>The Power of Habit</i> contains an exhilarating argument: The key to exercising regularly, losing weight, raising exceptional children, becoming more productive, building revolutionary companies and social movements, and achieving success is understanding how habits work. <br /><br />Habits aren’t destiny. As Charles Duhigg shows, by harnessing this new science, we can transform our businesses, our communities, and our lives.",
     "authors": {
       "author": {
@@ -2506,8 +2669,8 @@
         },
         "link": "https://www.goodreads.com/author/show/5201530.Charles_Duhigg",
         "average_rating": "4.06",
-        "ratings_count": "254863",
-        "text_reviews_count": "14576"
+        "ratings_count": "254941",
+        "text_reviews_count": "14578"
       }
     },
     "published": "2012",
@@ -2542,7 +2705,7 @@
     "publication_year": "2005",
     "publication_month": {},
     "average_rating": "3.91",
-    "ratings_count": "417509",
+    "ratings_count": "417553",
     "description": "Drawing on cutting-edge neuroscience and psychology and displaying all of the brilliance that made The Tipping Point a classic, Blink changes the way you'll understand every decision you make. Never again will you think about thinking the same way.<br /><br />Malcolm Gladwell redefined how we understand the world around us. Now, in Blink, he revolutionizes the way we understand the world within. Blink is a book about how we think without thinking, about choices that seem to be made in an instant - in the blink of an eye - that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error? How do our brains really work - in the office, in the classroom, in the kitchen, and in the bedroom? And why are the best decisions often those that are impossible to explain to others? <br /><br />In Blink we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of \"blink\": the election of Warren Harding; \"New Coke\"; and the shooting of Amadou Diallo by police. Blink reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of \"thin-slicing\" - filtering the very few factors that matter from an overwhelming number of variables. <br /><br />Drawing on cutting-edge neuroscience and psychology and displaying all of the brilliance that made The Tipping Point a classic, Blink changes the way you understand every decision you make. Never again will you think about thinking the same way.",
     "authors": {
       "author": {
@@ -2559,8 +2722,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "3.98",
-        "ratings_count": "1653838",
-        "text_reviews_count": "61496"
+        "ratings_count": "1654040",
+        "text_reviews_count": "61504"
       }
     },
     "published": "2005",
@@ -2612,7 +2775,7 @@
         },
         "link": "https://www.goodreads.com/author/show/3957.Alan_Jacobs",
         "average_rating": "4.03",
-        "ratings_count": "6872",
+        "ratings_count": "6873",
         "text_reviews_count": "1126"
       }
     },
@@ -2648,7 +2811,7 @@
     "publication_year": "2007",
     "publication_month": "5",
     "average_rating": "4.01",
-    "ratings_count": "19936",
+    "ratings_count": "19938",
     "description": "Why do people dodge responsibility when things fall apart? Why the parade of public figures unable to own up when they screw up? Why the endless marital quarrels over who is right? Why can we see hypocrisy in others but not in ourselves? Are we all liars? Or do we really believe the stories we tell? <br /><br />Renowned social psychologists Carol Tavris and Elliot Aronson take a compelling look into how the brain is wired for self-justification. When we make mistakes, we must calm the cognitive dissonance that jars our feelings of self-worth. And so we create fictions that absolve us of responsibility, restoring our belief that we are smart, moral, and right -- a belief that often keeps us on a course that is dumb, immoral, and wrong. <br /><br />Backed by years of research and delivered in lively, energetic prose, <i>Mistakes Were Made (But Not by Me)</i> offers a fascinating explanation of self-deception -- how it works, the harm it can cause, and how we can overcome it.",
     "authors": {
       "author": {
@@ -2665,7 +2828,7 @@
         },
         "link": "https://www.goodreads.com/author/show/58990.Carol_Tavris",
         "average_rating": "4.01",
-        "ratings_count": "20794",
+        "ratings_count": "20796",
         "text_reviews_count": "970"
       }
     },
@@ -2684,7 +2847,7 @@
     "isbn13": "9780525512172",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "1543"
+      "$t": "1553"
     },
     "uri": "kca://book/amzn1.gr.book.v1.HERe_O3tYJRdxlt9m42XFQ",
     "title": "21 Lessons for the 21st Century",
@@ -2701,7 +2864,7 @@
     "publication_year": "2018",
     "publication_month": "9",
     "average_rating": "4.22",
-    "ratings_count": "19875",
+    "ratings_count": "19969",
     "description": "<b>In<i> Sapiens, </i>he explored our past. In <i>Homo Deus, </i>he looked to our future<i>. </i>Now, one of the most innovative thinkers on the planet turns to the present to make sense of today's most pressing issues.</b><br /><br />How do computers and robots change the meaning of being human? How do we deal with the epidemic of fake news? Are nations and religions still relevant? What should we teach our children?<br /><br />Yuval Noah Harari's <i>21 Lessons for the 21st Century</i> is a probing and visionary investigation into today's most urgent issues as we move into the uncharted territory of the future. As technology advances faster than our understanding of it, hacking becomes a tactic of war, and the world feels more polarized than ever, Harari addresses the challenge of navigating life in the face of constant and disorienting change and raises the important questions we need to ask ourselves in order to survive.<br /><br />In twenty-one accessible chapters that are both provocative and profound, Harari builds on the ideas explored in his previous books, untangling political, technological, social, and existential issues and offering advice on how to prepare for a very different future from the world we now live in: How can we retain freedom of choice when Big Data is watching us? What will the future workforce look like, and how should we ready ourselves for it? How should we deal with the threat of terrorism? Why is liberal democracy in crisis?<br /><br />Harari's unique ability to make sense of where we have come from and where we are going has captured the imaginations of millions of readers. Here he invites us to consider values, meaning, and personal engagement in a world full of noise and uncertainty. When we are deluged with irrelevant information, clarity is power. Presenting complex contemporary challenges clearly and accessibly, <i>21 Lessons for the 21st Century</i> is essential reading.",
     "authors": {
       "author": {
@@ -2718,8 +2881,8 @@
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": "4.40",
-        "ratings_count": "302230",
-        "text_reviews_count": "25870"
+        "ratings_count": "302653",
+        "text_reviews_count": "25912"
       }
     },
     "published": "2018",
@@ -2754,7 +2917,7 @@
     "publication_year": "2010",
     "publication_month": "8",
     "average_rating": "3.96",
-    "ratings_count": "1755",
+    "ratings_count": "1757",
     "description": "The hidden brain is the voice in our ear when we make the most important decisions in our lives—but we’re never aware of it. The hidden brain decides whom we fall in love with and whom we hate. It tells us to vote for the white candidate and convict the dark-skinned defendant, to hire the thin woman but pay her less than the man doing the same job. It can direct us to safety when disaster strikes and move us to extraordinary acts of altruism. But it can also be manipulated to turn an ordinary person into a suicide terrorist or a group of bystanders into a mob.<br /><br />In a series of compulsively readable narratives, Shankar Vedantam journeys through the latest discoveries in neuroscience, psychology, and behavioral science to uncover the darkest corner of our minds and its decisive impact on the choices we make as individuals and as a society. Filled with fascinating characters, dramatic storytelling, and cutting-edge science, this is an engrossing exploration of the secrets our brains keep from us—and how they are revealed.",
     "authors": {
       "author": {
@@ -2771,7 +2934,7 @@
         },
         "link": "https://www.goodreads.com/author/show/1591693.Shankar_Vedantam",
         "average_rating": "3.96",
-        "ratings_count": "1759",
+        "ratings_count": "1761",
         "text_reviews_count": "258"
       }
     },
@@ -2790,7 +2953,7 @@
     "isbn13": "9781524731656",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "4193"
+      "$t": "4208"
     },
     "uri": "kca://book/amzn1.gr.book.v1.E8hHn_Xf1KbF5SyEp2vB9Q",
     "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
@@ -2807,7 +2970,7 @@
     "publication_year": "2018",
     "publication_month": "5",
     "average_rating": "4.48",
-    "ratings_count": "44299",
+    "ratings_count": "44455",
     "description": "The full inside story of the breathtaking rise and shocking collapse of Theranos, the multibillion-dollar biotech startup, by the prize-winning journalist who first broke the story and pursued it to the end, despite pressure from its charismatic CEO and threats by her lawyers. <br /><br />In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the female Steve Jobs: a brilliant Stanford dropout whose startup \"unicorn\" promised to revolutionize the medical industry with a machine that would make blood testing significantly faster and easier. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at more than $9 billion, putting Holmes's worth at an estimated $4.7 billion. There was just one problem: The technology didn't work.<br /><br />A riveting story of the biggest corporate fraud since Enron, a tale of ambition and hubris set amid the bold promises of Silicon Valley.",
     "authors": {
       "author": {
@@ -2824,8 +2987,8 @@
         },
         "link": "https://www.goodreads.com/author/show/17575761.John_Carreyrou",
         "average_rating": "4.48",
-        "ratings_count": "44330",
-        "text_reviews_count": "5036"
+        "ratings_count": "44484",
+        "text_reviews_count": "5054"
       }
     },
     "published": "2018",
@@ -2843,7 +3006,7 @@
     "isbn13": "9780393608984",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "60"
+      "$t": "61"
     },
     "uri": "kca://book/amzn1.gr.book.v1.4itY6RouvoX3be3PoWXo8A",
     "title": "Army of None: Autonomous Weapons and the Future of War",
@@ -2860,7 +3023,7 @@
     "publication_year": "2018",
     "publication_month": "4",
     "average_rating": "3.99",
-    "ratings_count": "422",
+    "ratings_count": "429",
     "description": "<b>A Pentagon defense expert and former U.S. Army Ranger explores what it would mean to give machines authority over the ultimate decision of life or death.</b><br /><br />What happens when a Predator drone has as much autonomy as a Google car? Or when a weapon that can hunt its own targets is hacked? Although it sounds like science fiction, the technology already exists to create weapons that can attack targets without human input. Paul Scharre, a leading expert in emerging weapons technologies, draws on deep research and firsthand experience to explore how these next-generation weapons are changing warfare.<br /><br />Scharre’s far-ranging investigation examines the emergence of autonomous weapons, the movement to ban them, and the legal and ethical issues surrounding their use. He spotlights artificial intelligence in military technology, spanning decades of innovation from German noise-seeking Wren torpedoes in World War II―antecedents of today’s homing missiles―to autonomous cyber weapons, submarine-hunting robot ships, and robot tank armies. Through interviews with defense experts, ethicists, psychologists, and activists, Scharre surveys what challenges might face \"centaur warfighters\" on future battlefields, which will combine human and machine cognition. We’ve made tremendous technological progress in the past few decades, but we have also glimpsed the terrifying mishaps that can result from complex automated systems―such as when advanced F-22 fighter jets experienced a computer meltdown the first time they flew over the International Date Line.<br /><br />At least thirty countries already have defensive autonomous weapons that operate under human supervision. Around the globe, militaries are racing to build robotic weapons with increasing autonomy. The ethical questions within this book grow more pressing each day. To what extent should such technologies be advanced? And if responsible democracies ban them, would that stop rogue regimes from taking advantage? At the forefront of a game-changing debate, <i>Army of None</i> engages military history, global policy, and cutting-edge science to argue that we must embrace technology where it can make war more precise and humane, but without surrendering human judgment. When the choice is life or death, there is no replacement for the human heart.",
     "authors": {
       "author": {
@@ -2877,8 +3040,8 @@
         },
         "link": "https://www.goodreads.com/author/show/16278493.Paul_Scharre",
         "average_rating": "3.99",
-        "ratings_count": "427",
-        "text_reviews_count": "66"
+        "ratings_count": "434",
+        "text_reviews_count": "67"
       }
     },
     "published": "2018",
@@ -2896,7 +3059,7 @@
     "isbn13": "9781473637467",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "2848"
+      "$t": "2853"
     },
     "uri": "kca://book/amzn1.gr.book.v1.GXNJG58VRVeD0z487NbnhA",
     "title": "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think",
@@ -2913,7 +3076,7 @@
     "publication_year": "2018",
     "publication_month": "1",
     "average_rating": "4.36",
-    "ratings_count": "32730",
+    "ratings_count": "32807",
     "description": "<b><i>Factfulness:</i> The stress-reducing habit of only carrying opinions for which you have strong supporting facts.</b><br /><br />When asked simple questions about global trends—<i>what percentage of the world’s population live in poverty; why the world’s population is increasing; how many girls finish school</i>—we systematically get the answers wrong. So wrong that a chimpanzee choosing answers at random will consistently outguess teachers, journalists, Nobel laureates, and investment bankers.<br /><br />In <i>Factfulness</i>, Professor of International Health and global TED phenomenon Hans Rosling, together with his two long-time collaborators, Anna and Ola, offers <b>a radical new explanation of why this happens</b>. They reveal <b>the ten instincts that distort our perspective</b>—from our tendency to divide the world into two camps (usually some version of <i>us</i> and <i>them</i>) to the way we consume media (where fear rules) to how we perceive progress (believing that most things are getting worse).<br /><br />Our problem is that we don’t know what we don’t know, and even our guesses are informed by unconscious and predictable biases.<br /><br /><b>It turns out that the world, for all its imperfections, is in a much better state than we might think.</b> That doesn’t mean there aren’t real concerns. But when we worry about everything all the time instead of embracing a worldview based on facts, we can lose our ability to focus on the things that threaten us most.<br /><br />Inspiring and revelatory, filled with lively anecdotes and moving stories, <b><i>Factfulness </i>is an urgent and essential book that will change the way you see the world and empower you to respond to the crises and opportunities of the future. </b><br /><br /><br /><br /><br />“This book is my last battle in my life-long mission to fight devastating ignorance…Previously I armed myself with huge data sets, eye-opening software, an energetic learning style and a Swedish bayonet for sword-swallowing. It wasn’t enough. But I hope this book will be.”<br /> — Hans Rosling, February 2017.",
     "authors": {
       "author": {
@@ -2930,8 +3093,8 @@
         },
         "link": "https://www.goodreads.com/author/show/2790706.Hans_Rosling",
         "average_rating": "4.36",
-        "ratings_count": "33646",
-        "text_reviews_count": "3626"
+        "ratings_count": "33723",
+        "text_reviews_count": "3637"
       }
     },
     "published": "2018",
@@ -2966,7 +3129,7 @@
     "publication_year": "2014",
     "publication_month": "9",
     "average_rating": "4.17",
-    "ratings_count": "96120",
+    "ratings_count": "96141",
     "description": "Randall Munroe left NASA in 2005 to start up his hugely popular site XKCD 'a web comic of romance, sarcasm, math and language' which offers a witty take on the world of science and geeks. It now has 600,000 to a million page hits daily. Every now and then, Munroe would get emails asking him to arbitrate a science debate. 'My friend and I were arguing about what would happen if a bullet got struck by lightning, and we agreed that you should resolve it . . . ' He liked these questions so much that he started up <i>What If</i>. <br /><br /><b>If your cells suddenly lost the power to divide, how long would you survive?</b><br /><br /><b> How dangerous is it, really, to be in a swimming pool in a thunderstorm?</b><br /><br /><b> If we hooked turbines to people exercising in gyms, how much power could we produce?</b><br /><br /><b> What if everyone only had one soulmate?</b><br /><br /><b>When (if ever) did the sun go down on the British empire? </b><br /><br /><b> How fast can you hit a speed bump while driving and live?</b><br /><br /><b>What would happen if the moon went away?</b><br /><br />In pursuit of answers, Munroe runs computer simulations, pores over stacks of declassified military research memos, solves differential equations, and consults with nuclear reactor operators. His responses are masterpieces of clarity and hilarity, studded with memorable cartoons and infographics. They often predict the complete annihilation of humankind, or at least a really big explosion. Far more than a book for geeks, <i>WHAT IF: Serious Scientific Answers to Absurd Hypothetical Questions</i> explains the laws of science in operation in a way that every intelligent reader will enjoy and feel much the smarter for having read.",
     "authors": {
       "author": {
@@ -2983,8 +3146,8 @@
         },
         "link": "https://www.goodreads.com/author/show/3089156.Randall_Munroe",
         "average_rating": "4.16",
-        "ratings_count": "116677",
-        "text_reviews_count": "8602"
+        "ratings_count": "116712",
+        "text_reviews_count": "8605"
       }
     },
     "published": "2014",
@@ -3019,7 +3182,7 @@
     "publication_year": "2016",
     "publication_month": "1",
     "average_rating": "3.98",
-    "ratings_count": "31160",
+    "ratings_count": "31162",
     "description": "The bestselling classic on disruptive innovation, by renowned author Clayton M. Christensen. His work is cited by the world’s best-known thought leaders, from Steve Jobs to Malcolm Gladwell. In this classic bestseller—one of the most influential business books of all time—innovation expert Clayton Christensen shows how even the most outstanding companies can do everything right—yet still lose market leadership. Christensen explains why most companies miss out on new waves of innovation. No matter the industry, he says, a successful company with established products will get pushed aside unless managers know how and when to abandon traditional business practices. Offering both successes and failures from leading companies as a guide, <i>The Innovator’s Dilemma</i> gives you a set of rules for capitalizing on the phenomenon of disruptive innovation. Sharp, cogent, and provocative—and consistently noted as one of the most valuable business ideas of all time—<i>The Innovator’s Dilemma</i> is the book no manager, leader, or entrepreneur should be without.",
     "authors": {
       "author": {
@@ -3036,8 +3199,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1792.Clayton_M_Christensen",
         "average_rating": "4.03",
-        "ratings_count": "74601",
-        "text_reviews_count": "4234"
+        "ratings_count": "74616",
+        "text_reviews_count": "4235"
       }
     },
     "published": "2016",
@@ -3072,7 +3235,7 @@
     "publication_year": "1990",
     "publication_month": "11",
     "average_rating": "4.16",
-    "ratings_count": "83287",
+    "ratings_count": "83297",
     "description": "Hitler boasted that The Third Reich would last a thousand years. It lasted only 12. But those 12 years contained some of the most catastrophic events Western civilization has ever known.<p>No other powerful empire ever bequeathed such mountains of evidence about its birth and destruction as the Third Reich. When the bitter war was over, and before the Nazis could destroy their files, the Allied demand for unconditional surrender produced an almost hour-by-hour record of the nightmare empire built by Adolph Hitler. This record included the testimony of Nazi leaders and of concentration camp inmates, the diaries of officials, transcripts of secret conferences, army orders, private letters—all the vast paperwork behind Hitler's drive to conquer the world.</p><p>The famed foreign correspondent and historian William L. Shirer, who had watched and reported on the Nazis since 1925, spent five and a half years sifting through this massive documentation. The result is a monumental study that has been widely acclaimed as the definitive record of one of the most frightening chapters in the history of mankind.</p><p>This worldwide bestseller has been acclaimed as the definitive book on Nazi Germany; it is a classic work.</p><p>The accounts of how the United States got involved and how Hitler used Mussolini and Japan are astonishing, and the coverage of the war-from Germany's early successes to her eventual defeat-is must reading</p>",
     "authors": {
       "author": {
@@ -3089,7 +3252,7 @@
         },
         "link": "https://www.goodreads.com/author/show/13360.William_L_Shirer",
         "average_rating": "4.17",
-        "ratings_count": "91758",
+        "ratings_count": "91769",
         "text_reviews_count": "2994"
       }
     },
@@ -3108,7 +3271,7 @@
     "isbn13": "9781408839973",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "960"
+      "$t": "961"
     },
     "uri": "kca://book/amzn1.gr.book.v1.ClOjs-Vq9tnePibPRY2WYQ",
     "title": "The Silk Roads: A New History of the World",
@@ -3125,7 +3288,7 @@
     "publication_year": "2015",
     "publication_month": "8",
     "average_rating": "4.25",
-    "ratings_count": "9504",
+    "ratings_count": "9512",
     "description": "<b>The No. 1 Sunday Times and international bestseller - a major reassessment of world history in light of the economic and political renaissance in the re-emerging east.</b><br /><br /><i>'Magnificent' Sunday Times <br /><br />'Immensely entertaining ... so ambitious, so detailed, so fascinating' The Times</i><br /><br />For centuries, fame and fortune were to be found in the west – in the New World of the Americas. Today, it is the east which calls out to those in search of riches and adventure. Sweeping right across Central Asia and deep into China and India, a region that once took centre stage is again rising to dominate global politics, commerce and culture.<br /><br />A major reassessment of world history, <i>The Silk Roads</i> is a dazzling exploration of the forces that have driven the rise and fall of empires, determined the flow of ideas and goods and are now heralding a new dawn in international affairs.",
     "authors": {
       "author": {
@@ -3142,8 +3305,8 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.22",
-        "ratings_count": "10165",
-        "text_reviews_count": "1353"
+        "ratings_count": "10174",
+        "text_reviews_count": "1354"
       }
     },
     "published": "2015",
@@ -3178,7 +3341,7 @@
     "publication_year": "2018",
     "publication_month": "4",
     "average_rating": "4.03",
-    "ratings_count": "441",
+    "ratings_count": "444",
     "description": "<b>'Meticulously scrutinizes the social and political consequences of our increasingly digitized world.' - <i>Kirkus</i></b><br /><br /><b>The internet was meant to set us free.</b><br /><br />Tech has radically changed the way we live our lives. But have we unwittingly handed too much away to shadowy powers behind a wall of code, all manipulated by a handful of Silicon Valley utopians, ad men, and venture capitalists? And, in light of recent data breach scandals around companies like Facebook and Cambridge Analytica, what does that mean for democracy, our delicately balanced system of government that was created long before big data, total information and artificial intelligence? In this urgent polemic, Jamie Bartlett argues that through our unquestioning embrace of big tech, the building blocks of democracy are slowly being removed. The middle class is being eroded, sovereign authority and civil society is weakened, and we citizens are losing our critical faculties, maybe even our free will.<br /><br /><i>The People Vs Tech</i> is an enthralling account of how our fragile political system is being threatened by the digital revolution. Bartlett explains that by upholding six key pillars of democracy, we can save it before it is too late. We need to become active citizens; uphold a shared democratic culture; protect free elections; promote equality; safeguard competitive and civic freedoms; and trust in a sovereign authority. This essential book shows that the stakes couldn’t be higher and that, unless we radically alter our course, democracy will join feudalism, supreme monarchies and communism as just another political experiment that quietly disappeared.",
     "authors": {
       "author": {
@@ -3195,8 +3358,8 @@
         },
         "link": "https://www.goodreads.com/author/show/7489747.Jamie_Bartlett",
         "average_rating": "3.72",
-        "ratings_count": "3914",
-        "text_reviews_count": "522"
+        "ratings_count": "3917",
+        "text_reviews_count": "523"
       }
     },
     "published": "2018",
@@ -3214,7 +3377,7 @@
     "isbn13": "9780241294222",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "1382"
+      "$t": "1384"
     },
     "uri": "kca://book/amzn1.gr.book.v1.DW9BbATj_r92uzVF3hywAQ",
     "title": "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence",
@@ -3231,7 +3394,7 @@
     "publication_year": "2018",
     "publication_month": "5",
     "average_rating": "4.33",
-    "ratings_count": "12959",
+    "ratings_count": "12989",
     "description": "<b>Could psychedelic drugs change our worldview? One of America's most admired writers takes us on a mind-altering journey to the frontiers of human consciousness</b><br /><b></b><br /><b></b>When LSD was first discovered in the 1940s, it seemed to researchers, scientists and doctors as if the world might be on the cusp of psychological revolution. It promised to shed light on the deep mysteries of consciousness, as well as offer relief to addicts and the mentally ill. But in the 1960s, with the vicious backlash against the counter-culture, all further research was banned. In recent years, however, work has quietly begun again on the amazing potential of LSD, psilocybin and DMT. Could these drugs in fact improve the lives of many people? Diving deep into this extraordinary world and putting himself forward as a guinea-pig, Michael Pollan has written a remarkable history of psychedelics and a compelling portrait of the new generation of scientists fascinated by the implications of these drugs. <i>How to Change Your Mind</i> is a report from what could very well be the future of human consciousness.",
     "authors": {
       "author": {
@@ -3248,8 +3411,8 @@
         },
         "link": "https://www.goodreads.com/author/show/2121.Michael_Pollan",
         "average_rating": "4.11",
-        "ratings_count": "386445",
-        "text_reviews_count": "32108"
+        "ratings_count": "386504",
+        "text_reviews_count": "32113"
       }
     },
     "published": "2018",
@@ -3284,7 +3447,7 @@
     "publication_year": "2013",
     "publication_month": "9",
     "average_rating": "4.05",
-    "ratings_count": "20668",
+    "ratings_count": "20677",
     "description": "<b> WHY ARE SOME NATIONS RICH AND OTHERS POOR, DIVIDED BY WEALTH AND POVERTY, HEALTH AND SICKNESS, FOOD AND FAMINE?</b> <br /><br /> Is it culture, the weather, geography that determines prosperity or poverty? As <i>Why Nations Fail</i> shows, none of these factors is either definitive or destiny. <br /><br /> Drawing on fifteen years of original research, Daron Acemoglu and James Robinson conclusively show that it is man-made political and economic institutions that underlie economic success (or lack of it). Korea, to take one example, is a remarkably homogeneous nation, yet the people of North Korea are among the poorest on earth while their brothers and sisters in South Korea are among the richest. The differences between the Koreas is due to the politics that created those two different institutional trajectories. Acemoglu and Robinson marshal extraordinary historical evidence from the Roman Empire, the Mayan city-states, the Soviet Union, the United States, and Africa to build a new theory of political economy with great relevance for the big questions of today, among them: <br /><br />   - Will China's economy continue to grow at such a high speed and ultimately overwhelm the West? <br /><br />   - Are America’s best days behind it? Are we creating a vicious cycle that enriches and empowers a a small minority?",
     "authors": {
       "author": {
@@ -3301,8 +3464,8 @@
         },
         "link": "https://www.goodreads.com/author/show/12817.Daron_Acemo_lu",
         "average_rating": "4.05",
-        "ratings_count": "20963",
-        "text_reviews_count": "2070"
+        "ratings_count": "20972",
+        "text_reviews_count": "2071"
       }
     },
     "published": "2013",
@@ -3337,7 +3500,7 @@
     "publication_year": "1996",
     "publication_month": "2",
     "average_rating": "4.40",
-    "ratings_count": "5010",
+    "ratings_count": "5013",
     "description": "From the development of the U-2 to the Stealth fighter, the never-before-told story behind the high-stakes quest to dominate the skies Skunk Works is the true story of America's most secret &amp; successful aerospace operation. As recounted by Ben Rich, the operation's brilliant boss for nearly two decades, the chronicle of Lockheed's legendary Skunk Works is a drama of cold war confrontations and Gulf War air combat, of extraordinary feats of engineering &amp; achievement against fantastic odds. Here are up-close portraits of the maverick band of scientists &amp; engineers who made the Skunk Works so renowned. Filled with telling personal anecdotes &amp; high adventure, with narratives from the CIA &amp; from Air Force pilots who flew the many classified, risky missions, this book is a portrait of the most spectacular aviation triumphs of the 20th century.",
     "authors": {
       "author": {
@@ -3354,7 +3517,7 @@
         },
         "link": "https://www.goodreads.com/author/show/58593.Ben_R_Rich",
         "average_rating": "4.40",
-        "ratings_count": "5024",
+        "ratings_count": "5027",
         "text_reviews_count": "386"
       }
     },
@@ -3390,7 +3553,7 @@
     "publication_year": "1982",
     "publication_month": {},
     "average_rating": "4.10",
-    "ratings_count": "5606",
+    "ratings_count": "5610",
     "description": "The computer revolution brought with it new methods of getting work done—just look at today's news for reports of hard-driven, highly-motivated young software and online commerce developers who sacrifice evenings and weekends to meet impossible deadlines. Tracy Kidder got a preview of this world in the late 1970s when he observed the engineers of Data General design and build a new 32-bit minicomputer in just one year. His thoughtful, prescient book, <i>The Soul of a New Machine</i>, tells stories of 35-year-old \"veteran\" engineers hiring recent college graduates and encouraging them to work harder and faster on complex and difficult projects, exploiting the youngsters' ignorance of normal scheduling processes while engendering a new kind of work ethic.<br /><br />These days, we are used to the \"total commitment\" philosophy of managing technical creation, but Kidder was surprised and even a little alarmed at the obsessions and compulsions he found. From in-house political struggles to workers being permitted to tease management to marathon 24-hour work sessions, <i>The Soul of a New Machine</i> explores concepts that already seem familiar, even old-hat, less than 20 years later. Kidder plainly admires his subjects; while he admits to hopeless confusion about their work, he finds their dedication heroic. The reader wonders, though, what will become of it all, now and in the future. <i>—Rob Lightner</i>",
     "authors": {
       "author": {
@@ -3407,7 +3570,7 @@
         },
         "link": "https://www.goodreads.com/author/show/4770.Tracy_Kidder",
         "average_rating": "4.14",
-        "ratings_count": "91217",
+        "ratings_count": "91224",
         "text_reviews_count": "7841"
       }
     },
@@ -3460,8 +3623,8 @@
         },
         "link": "https://www.goodreads.com/author/show/3010868.Jaron_Lanier",
         "average_rating": "3.62",
-        "ratings_count": "11128",
-        "text_reviews_count": "1452"
+        "ratings_count": "11136",
+        "text_reviews_count": "1454"
       }
     },
     "published": "2013",
@@ -3479,7 +3642,7 @@
     "isbn13": "9781627790369",
     "text_reviews_count": {
       "type": "integer",
-      "$t": "960"
+      "$t": "962"
     },
     "uri": "kca://book/amzn1.gr.book.v1.-TwRk9z7REp47cbJ7cwJDg",
     "title": "Algorithms to Live By: The Computer Science of Human Decisions",
@@ -3496,7 +3659,7 @@
     "publication_year": "2016",
     "publication_month": "4",
     "average_rating": "4.16",
-    "ratings_count": "11666",
+    "ratings_count": "11674",
     "description": "<b>A fascinating exploration of how insights from computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mind</b><br /><br />All our lives are constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of new activities and familiar favorites is the most fulfilling? These may seem like uniquely human quandaries, but they are not: computers, too, face the same constraints, so computer scientists have been grappling with their version of such issues for decades. And the solutions they've found have much to teach us.<br /><br />In a dazzlingly interdisciplinary work, acclaimed author Brian Christian and cognitive scientist Tom Griffiths show how the algorithms used by computers can also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of memory, <i>Algorithms to Live By</i> transforms the wisdom of computer science into strategies for human living.",
     "authors": {
       "author": {
@@ -3513,8 +3676,8 @@
         },
         "link": "https://www.goodreads.com/author/show/4199891.Brian_Christian",
         "average_rating": "4.10",
-        "ratings_count": "15421",
-        "text_reviews_count": "1613"
+        "ratings_count": "15429",
+        "text_reviews_count": "1615"
       }
     },
     "published": "2016",
@@ -3549,7 +3712,7 @@
     "publication_year": "2000",
     "publication_month": {},
     "average_rating": "4.19",
-    "ratings_count": "54542",
+    "ratings_count": "54562",
     "description": "Amoral, cunning, ruthless, and instructive, this piercing work distills three thousand years of the history of power in to forty-eight well explicated laws. As attention-grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. <br /><br />Some laws teach the need for prudence (\"Law 1: Never Outshine the Master\"), the virtue of stealth (\"Law 3: Conceal Your Intentions\"), and many demand the total absence of mercy (\"Law 15: Crush Your Enemy Totally\"), but like it or not, all have applications in real life. <br /><br />Illustrated through the tactics of Queen Elizabeth I, Henry Kissinger, P. T. Barnum, and other famous figures who have wielded--or been victimized by--power, these laws will fascinate any reader interested in gaining, observing, or defending against ultimate control.",
     "authors": {
       "author": {
@@ -3566,8 +3729,8 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "107186",
-        "text_reviews_count": "6349"
+        "ratings_count": "107219",
+        "text_reviews_count": "6352"
       }
     },
     "published": "2000",
