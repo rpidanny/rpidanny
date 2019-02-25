@@ -2,6 +2,59 @@
   {
     "id": {
       "type": "integer",
+      "$t": "25135194"
+    },
+    "isbn": "1783961414",
+    "isbn13": "9781783961412",
+    "text_reviews_count": {
+      "type": "integer",
+      "$t": "1015"
+    },
+    "uri": "kca://book/amzn1.gr.book.v1.fbPazR2wjzs4dAy159d5zw",
+    "title": "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics",
+    "title_without_series": "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics",
+    "image_url": "https://images.gr-assets.com/books/1432827094m/25135194.jpg",
+    "small_image_url": "https://images.gr-assets.com/books/1432827094s/25135194.jpg",
+    "large_image_url": {},
+    "link": "https://www.goodreads.com/book/show/25135194-prisoners-of-geography",
+    "num_pages": "256",
+    "format": "Hardcover",
+    "edition_information": {},
+    "publisher": "Elliott & Thompson",
+    "publication_day": "9",
+    "publication_year": "2015",
+    "publication_month": "7",
+    "average_rating": "4.24",
+    "ratings_count": "21440",
+    "description": "All leaders are constrained by geography. Their choices are limited by mountains, rivers, seas and concrete. Yes, to follow world events you need to understand people, ideas and movements – but if you don’t know geography, you’ll never have the full picture.<br /><br />If you’ve ever wondered why Putin is so obsessed with Crimea, why the USA was destined to become a global superpower, or why China’s power base continues to expand ever outwards, the answers are all here.<br /><br />In ten chapters (covering Russia; China; the USA; Latin America; the Middle East; Africa; India and Pakistan; Europe; Japan and Korea; and the Arctic), using maps, essays and occasionally the personal experiences of the widely travelled author, Prisoners of Geography looks at the past, present and future to offer an essential insight into one of the major factors that determines world history.<br />",
+    "authors": {
+      "author": {
+        "id": "713466",
+        "name": "Tim Marshall",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1489696759p5/713466.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1489696759p2/713466.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/713466.Tim_Marshall",
+        "average_rating": "4.20",
+        "ratings_count": "23624",
+        "text_reviews_count": "2322"
+      }
+    },
+    "published": "2015",
+    "work": {
+      "id": "44832697",
+      "uri": "kca://work/amzn1.gr.work.v1.yCgLqDJh7OI4QSI68DhAjQ"
+    }
+  },
+  {
+    "id": {
+      "type": "integer",
       "$t": "23281872"
     },
     "isbn": "0143127535",
@@ -82,7 +135,7 @@
     "publication_year": "2012",
     "publication_month": {},
     "average_rating": "4.13",
-    "ratings_count": "209013",
+    "ratings_count": "209015",
     "description": "<b>In the highly anticipated <i>Thinking, Fast and Slow</i>, Kahneman takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think.</b><br /><br />System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. Kahneman exposes the extraordinary capabilities — and also the faults and biases — of fast thinking, and reveals the pervasive influence of intuitive impressions on our thoughts and behavior. <br /><br />The impact of loss aversion and overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the challenges of properly framing risks at work and at home, the profound effect of cognitive biases on everything from playing the stock market to planning the next vacation — each of these can be understood only by knowing how the two systems work together to shape our judgments and decisions.<br /><br />Engaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives — and how we can use different techniques to guard against the mental glitches that often get us into trouble. <br /><br /><i>Thinking, Fast and Slow</i> will transform the way you think about thinking.",
     "authors": {
       "author": {
@@ -99,8 +152,8 @@
         },
         "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
         "average_rating": "4.12",
-        "ratings_count": "213039",
-        "text_reviews_count": "8116"
+        "ratings_count": "213044",
+        "text_reviews_count": "8117"
       }
     },
     "published": "2012",
@@ -135,7 +188,7 @@
     "publication_year": "2014",
     "publication_month": "4",
     "average_rating": "4.04",
-    "ratings_count": "50596",
+    "ratings_count": "50597",
     "description": "Some stories cannot be told in just one lifetime. Harry August is on his deathbed. Again.<br />No matter what he does or the decisions he makes, when death comes, Harry always returns to where he began, a child with all the knowledge of a life he has already lived a dozen times before. Nothing ever changes. <br />Until now. <br />As Harry nears the end of his eleventh life, a little girl appears at his bedside. \"I nearly missed you, Doctor August,\" she says. \"I need to send a message.\"<br />This is the story of what Harry does next, and what he did before, and how he tries to save a past he cannot change and a future he cannot allow.",
     "authors": {
       "author": {
@@ -152,7 +205,7 @@
         },
         "link": "https://www.goodreads.com/author/show/7210024.Claire_North",
         "average_rating": "3.94",
-        "ratings_count": "74538",
+        "ratings_count": "74539",
         "text_reviews_count": "10506"
       }
     },
@@ -188,7 +241,7 @@
     "publication_year": "2015",
     "publication_month": "4",
     "average_rating": "4.45",
-    "ratings_count": "216134",
+    "ratings_count": "216145",
     "description": "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. <i>Homo sapiens</i>.<br /><br />How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come?<br /><br />In <i>Sapiens, </i>Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, palaeontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come?<br /><br />Bold, wide-ranging and provocative, <i>Sapiens </i>challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.",
     "authors": {
       "author": {
@@ -205,8 +258,8 @@
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": "4.40",
-        "ratings_count": "307439",
-        "text_reviews_count": "26322"
+        "ratings_count": "307453",
+        "text_reviews_count": "26323"
       }
     },
     "published": "2015",
@@ -294,7 +347,7 @@
     "publication_year": "2014",
     "publication_month": "2",
     "average_rating": "4.40",
-    "ratings_count": "662449",
+    "ratings_count": "662451",
     "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. <br /><br />Now, he’s sure he’ll be the first person to die there.<br /><br />After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. <br /><br />Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. <br /><br />But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?<br /><br />",
     "authors": {
       "author": {
@@ -311,7 +364,7 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.28",
-        "ratings_count": "804599",
+        "ratings_count": "804612",
         "text_reviews_count": "87184"
       }
     },
