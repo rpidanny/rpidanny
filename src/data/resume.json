@@ -24,11 +24,6 @@
     "profiles": {
       "social": [
         {
-          "network": "Instagram",
-          "username": "rpidanny",
-          "url": "https://instagram.com/rpidanny"
-        },
-        {
           "network": "Twitter",
           "username": "rpidanny",
           "url": "https://twitter.com/rpidanny"
