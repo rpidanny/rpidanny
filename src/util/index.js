@@ -15,4 +15,20 @@ const getSocialIcon = social => {
   }
 }
 
-export { getSocialIcon }
+const getSocialIconClass = social => {
+  // TODO: Add other social icons aswell
+  switch (social.toLowerCase()) {
+    case 'github':
+      return 'socicon-github'
+    case 'twitter':
+      return 'socicon-twitter'
+    case 'instagram':
+      return 'socicon-instagram'
+    case 'linkedin':
+      return 'socicon-linkedin'
+    default:
+      return '-'
+  }
+}
+
+export { getSocialIcon, getSocialIconClass }
