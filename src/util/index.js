@@ -28,6 +28,8 @@ const getSocialIconClass = social => {
       return 'socicon-linkedin'
     case 'medium':
       return 'socicon-medium'
+    case 'whatsapp':
+      return 'socicon-whatsapp'
     default:
       return '-'
   }

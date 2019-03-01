@@ -86,7 +86,7 @@ class About extends Component {
                     <li>
                       <div className='ico'>
                         <a href={`https://wa.me/${phone}`}>
-                          <span className='saucisson'>U</span>
+                          <span className='socicon-whatsapp' />
                         </a>
                       </div>
                       <p>
