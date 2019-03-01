@@ -18,7 +18,7 @@ class Profile extends Component {
       <div className='ico'>
         <a className='no-underline' href={url}>
           {/* <span className='saucisson'>{getSocialIcon(network)}</span> */}
-          <span className={getSocialIconClass(network)} />
+          <span className={getSocialIconClass(network)} title={network}/>
         </a>
       </div>
     )
