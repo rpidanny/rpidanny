@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import { getSocialIcon } from '../../../util'
+import { getSocialIconClass } from '../../../util'
 import './styles.css'
+import './socicon.css'
 
 class Profile extends Component {
   constructor (props) {
@@ -16,7 +17,8 @@ class Profile extends Component {
     return (
       <div className='ico'>
         <a className='no-underline' href={url}>
-          <span className='saucisson'>{getSocialIcon(network)}</span>
+          {/* <span className='saucisson'>{getSocialIcon(network)}</span> */}
+          <span className={getSocialIconClass(network)} title={network}/>
         </a>
       </div>
     )
