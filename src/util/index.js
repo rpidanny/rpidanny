@@ -26,6 +26,8 @@ const getSocialIconClass = social => {
       return 'socicon-instagram'
     case 'linkedin':
       return 'socicon-linkedin'
+    case 'medium':
+      return 'socicon-medium'
     default:
       return '-'
   }
