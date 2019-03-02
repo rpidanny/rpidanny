@@ -413,3 +413,34 @@ p > a {
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
+
+.sc-launcher {
+  z-index: 99;
+  background-color: #2d2d2d;
+  width: 40px;
+  height: 40px;
+  .sc-open-icon {
+    // padding: 10px;
+    width: 40px;
+    height: 40px;
+  }
+  .sc-closed-icon {
+    width: 40px;
+    height: 40px;    
+  }
+
+  &:before {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+.sc-chat-window {
+  z-index: 99;
+  .sc-header {
+    background: #2d2d2d;
+    .sc-header--img {
+      width: 60px;
+    }
+  }
+}
