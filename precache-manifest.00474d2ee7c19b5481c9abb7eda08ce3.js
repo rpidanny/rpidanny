@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6e390de6dccb023889d0",
+    "revision": "bdca4acb74700be05bc6",
     "url": "/static/css/main.5bac6898.chunk.css"
   },
   {
-    "revision": "6e390de6dccb023889d0",
-    "url": "/static/js/main.6e390de6.chunk.js"
+    "revision": "bdca4acb74700be05bc6",
+    "url": "/static/js/main.bdca4acb.chunk.js"
   },
   {
     "revision": "9461df02d55b40f06bcd",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/Socicon.0ae38b31.svg"
   },
   {
-    "revision": "83dccb3c996914c0337c84cf1a7e79a8",
+    "revision": "345802e21aa30e2a791b8e7650579005",
     "url": "/index.html"
   }
 ];
