@@ -92,7 +92,8 @@ class Book extends Component {
           <span className='books_link' onClick={() => this.openModal(0)}>
             <Glyphicon glyph='plus' /> More Books
           </span>
-          <span className='books_link' onClick={() => this.openModal(1)}>
+          {/* <span className='books_link' onClick={() => this.openModal(1)}> */}
+          <span className='books_link' onClick={() => window.open('https://gre.abhishek.pro.np/user/88517742/viz/rgraph', '_blank')}>
             <Glyphicon glyph='plus' /> Explore Books
           </span>
         </div>
