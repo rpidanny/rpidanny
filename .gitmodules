@@ -1,3 +1,0 @@
-[submodule "src/containers/Common/NetworkGraph"]
-	path = src/containers/Common/NetworkGraph
-	url = https://github.com/rpidanny/NetworkGraph.git
