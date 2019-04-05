@@ -9,12 +9,10 @@ import LazyImage from '../LazyImage'
 import favoriteBooks from '../../../data/books/favorites.json'
 import readBooks from '../../../data/books/read.json'
 
-import { getGraphDataV2 } from './helper'
 
 import './styles.css'
 
 const BookShelf = lazy(() => import('../BookShelf'))
-const NetworkGraph = lazy(() => import('../NetworkGraph'))
 // Modal.setAppElement('#root')
 
 class Book extends Component {
@@ -92,7 +90,8 @@ class Book extends Component {
           <span className='books_link' onClick={() => this.openModal(0)}>
             <Glyphicon glyph='plus' /> More Books
           </span>
-          <span className='books_link' onClick={() => this.openModal(1)}>
+          {/* <span className='books_link' onClick={() => this.openModal(1)}> */}
+          <span className='books_link' onClick={() => window.open('https://gre.abhishek.pro.np/user/88517742/viz/rgraph', '_blank')}>
             <Glyphicon glyph='plus' /> Explore Books
           </span>
         </div>
@@ -124,20 +123,6 @@ const getModalContent = (selectedModal, context) => {
             columns={7}
           />
         </div>
-      </Suspense>
-    )
-  } else if (selectedModal === 1) {
-    const { nodes, links } = getGraphDataV2()
-    return (
-      <Suspense fallback={<Fallback />} >
-        <NetworkGraph
-          nodes={nodes}
-          links={links}
-          onClick={event => console.log('Click', event)}
-          onDoubleClick={event => console.log('Double Click', event)}
-          clusterRadiusScale={1.2}
-          cluster
-        />
       </Suspense>
     )
   }
