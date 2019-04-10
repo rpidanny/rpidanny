@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.77ad3f9f.chunk.css",
-  "main.js": "/static/js/main.aa149f76.chunk.js",
-  "main.js.map": "/static/js/main.aa149f76.chunk.js.map",
+  "main.js": "/static/js/main.e85c84ad.chunk.js",
+  "main.js.map": "/static/js/main.e85c84ad.chunk.js.map",
   "static/js/1.603d5482.chunk.js": "/static/js/1.603d5482.chunk.js",
   "static/js/1.603d5482.chunk.js.map": "/static/js/1.603d5482.chunk.js.map",
   "static/css/2.798c0dfe.chunk.css": "/static/css/2.798c0dfe.chunk.css",
@@ -12,10 +12,10 @@
   "static/media/pp_with_linus.jpg": "/static/media/pp_with_linus.8a53edbd.jpg",
   "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.f4769f9b.eot",
   "static/media/styles.css": "/static/media/jGIGWOA.1bea0ced.jpg",
-  "static/media/socicon.css": "/static/media/Socicon.33811ce5.woff",
+  "static/media/socicon.css": "/static/media/Socicon.0ae38b31.svg",
   "static/css/main.77ad3f9f.chunk.css.map": "/static/css/main.77ad3f9f.chunk.css.map",
   "static/css/2.798c0dfe.chunk.css.map": "/static/css/2.798c0dfe.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.02972cf6fed2d9c994a9fb97fae172ce.js": "/precache-manifest.02972cf6fed2d9c994a9fb97fae172ce.js",
+  "precache-manifest.0876bcf1df92c9bcb57f78c2c41c6069.js": "/precache-manifest.0876bcf1df92c9bcb57f78c2c41c6069.js",
   "service-worker.js": "/service-worker.js"
 }
