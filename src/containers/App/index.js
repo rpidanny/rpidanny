@@ -26,8 +26,8 @@ class App extends Component {
       }
     }
 
-    ReactGA.initialize('UA-76263604-1', { testMode: true })
-    ReactGA.pageview(window.location.pathname)
+    ReactGA.initialize('UA-76263604-1', { testMode: process.env.NODE_ENV === 'test' })
+    ReactGA.pageview(window.location.pathname + window.location.search)
   }
 
   getQuote () {
