@@ -3,6 +3,8 @@ import LazyLoad from 'react-lazyload'
 
 import './styles.css'
 
+const separation = 20
+
 const style = {
   backgroundColor: '#eee',
   cursor: 'pointer',
@@ -28,15 +30,21 @@ const LazyImage = ({
     style.left = left
     style.top = top
   }
+  const width = photo.width - separation
+  const height = photo.height - separation
   return (
     <div
-      style={{ margin, height: photo.height, width: photo.width, ...style }}
+      style={{ margin, height, width, ...style }}
       className='lazy-image'
     >
       <LazyLoad>
         <img
           style={
-            { ...imgStyle }
+            {
+              ...imgStyle,
+              height,
+              width
+            }
           }
           {...photo}
           onClick={e => onClick(e, { index, photo })}
