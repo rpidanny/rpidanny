@@ -3,7 +3,7 @@ import LazyLoad from 'react-lazyload'
 
 import './styles.css'
 
-const separation = 20
+const separation = 0.1
 
 const style = {
   backgroundColor: '#eee',
@@ -30,8 +30,8 @@ const LazyImage = ({
     style.left = left
     style.top = top
   }
-  const width = photo.width - separation
-  const height = photo.height - separation
+  const width = Math.floor((1 - separation) * photo.width)
+  const height = Math.floor((1 - separation) * photo.height)
   return (
     <div
       style={{ margin, height, width, ...style }}
