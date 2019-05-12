@@ -168,7 +168,7 @@
     "small_image_url": "https://images.gr-assets.com/books/1555856209s/43319933.jpg",
     "description": "<b>“An imperative how-to for creativity.” —Nick Offerman</b><br /><br /><b>Adam Savage—star of Discovery Channel’s <i>Mythbusters </i>and one of the most beloved figures in science and tech—shares his golden rules of creativity, from finding inspiration to following through and successfully making your idea a reality.</b><br /><br /><i>Every Tool</i>’<i>s a Hammer </i>is a chronicle of my life as a maker. It’s an exploration of making and of my own productive obsessions, but it’s also a permission slip of sorts from me to you. Permission to grab hold of the things you’re interested in, that fascinate you, and to dive deeper into them to see where they lead you.<br /><br />Through stories from forty-plus years of making and molding, building and break­ing, along with the lessons I learned along the way, this book is meant to be a toolbox of problem solving, complete with a shop’s worth of notes on the tools, techniques, and materials that I use most often. Things like: <b>In Every Tool There Is a Hammer</b>—don’t wait until everything is perfect to begin a project, and if you don’t have the exact right tool for a task, just use whatever’s handy; <b>Increase Your Loose Tolerance</b>—making is messy and filled with screwups, but that’s okay, as creativity is a path with twists and turns and not a straight line to be found; <b>Use More Cooling Fluid</b>—it prolongs the life of blades and bits, and it prevents tool failure, but beyond that it’s a reminder to slow down and reduce the fric­tion in your work and relationships; <b>Screw Before You Glue</b>—mechanical fasteners allow you to change and modify a project while glue is forever but sometimes you just need the right glue, so I dig into which ones will do the job with the least harm and best effects.<br /><br />This toolbox also includes lessons from many other incredible makers and creators, including: Jamie Hyneman, Nick Offerman, Pixar director Andrew Stanton, Oscar-winner Guillermo del Toro, artist Tom Sachs, and chef Traci Des Jardins. And if everything goes well, we will hopefully save you a few mistakes (and maybe fingers) as well as help you turn your curiosities into creations.<br /><br />I hope this book inspires you to build, make, invent, explore, and—most of all—enjoy the thrills of being a creator.",
     "num_pages": "320",
-    "average_rating": "4.48"
+    "average_rating": "4.47"
   },
   {
     "link": "https://www.goodreads.com/book/show/34890015-factfulness",
@@ -333,6 +333,15 @@
     "average_rating": "4.40"
   },
   {
+    "link": "https://www.goodreads.com/book/show/385.On_Bullshit",
+    "title": "On Bullshit",
+    "title_without_series": "On Bullshit",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "description": "One of the most salient features of our culture is that there is so much bullshit. Everyone knows this. Each of us contributes his share. But we tend to take the situation for granted. Most people are rather confident of their ability to recognize bullshit and to avoid being taken in by it. So the phenomenon has not aroused much deliberate concern. We have no clear understanding of what bullshit is, why there is so much of it, or what functions it serves. And we lack a conscientiously developed appreciation of what it means to us. In other words, as Harry Frankfurt writes, \"we have no theory.\"<br /><br />Frankfurt, one of the world's most influential moral philosophers, attempts to build such a theory here. With his characteristic combination of philosophical acuity, psychological insight, and wry humor, Frankfurt proceeds by exploring how bullshit and the related concept of humbug are distinct from lying. He argues that bullshitters misrepresent themselves to their audience not as liars do, that is, by deliberately making false claims about what is true. In fact, bullshit need not be untrue at all.<br /><br />Rather, bullshitters seek to convey a certain impression of themselves without being concerned about whether anything at all is true. They quietly change the rules governing their end of the conversation so that claims about truth and falsity are irrelevant. Frankfurt concludes that although bullshit can take many innocent forms, excessive indulgence in it can eventually undermine the practitioner's capacity to tell the truth in a way that lying does not. Liars at least acknowledge that it matters what is true. By virtue of this, Frankfurt writes, bullshit is a greater enemy of the truth than lies are.",
+    "num_pages": "67",
+    "average_rating": "3.57"
+  },
+  {
     "link": "https://www.goodreads.com/book/show/3228917-outliers",
     "title": "Outliers: The Story of Success",
     "title_without_series": "Outliers: The Story of Success",
@@ -492,7 +501,7 @@
     "small_image_url": "https://images.gr-assets.com/books/1548951026s/43722897.jpg",
     "description": "<b>The definitive guide to statistical thinking</b><br />Statistics are everywhere, as integral to science as they are to business, and in the popular media hundreds of times a day. In this age of big data, a basic grasp of statistical literacy is more important than ever if we want to separate the fact from the fiction, the ostentatious embellishments from the raw evidence -- and even more so if we hope to participate in the future, rather than being simple bystanders.<br />In <i>The Art of Statistics</i>, world-renowned statistician David Spiegelhalter shows readers how to derive knowledge from raw data by focusing on the concepts and connections behind the math. Drawing on real world examples to introduce complex issues, he shows us how statistics can help us determine the luckiest passenger on the Titanic, whether a notorious serial killer could have been caught earlier, and if screening for ovarian cancer is beneficial. <i>The Art of Statistics</i> not only shows us how mathematicians have used statistical science to solve these problems -- it teaches us how we too can think like statisticians. We learn how to clarify our questions, assumptions, and expectations when approaching a problem, and -- perhaps even more importantly -- we learn how to responsibly interpret the answers we receive.<br />Combining the incomparable insight of an expert with the playful enthusiasm of an aficionado, <i>The Art of Statistics</i> is the definitive guide to stats that every modern person needs.",
     "num_pages": "448",
-    "average_rating": "4.43"
+    "average_rating": "4.45"
   },
   {
     "link": "https://www.goodreads.com/book/show/10534.The_Art_of_War",
@@ -609,7 +618,7 @@
     "small_image_url": "https://images.gr-assets.com/books/1403541617s/22570670.jpg",
     "description": "In business, performance is key. In performance, how you organize can be the key to growth.<br /><br />In the past five years, the business world has seen the birth of a new breed of company—the Exponential Organization—that has revolutionized how a company can accelerate its growth by using technology. An ExO can eliminate the incremental, linear way traditional companies get bigger, leveraging things like community, big data, algorithms, and new technology into achieving performance benchmarks ten times better than its peers. <br /><br />Three luminaries of in the business world—Salim Ismail, Yuri van Geest, and Mike Malone—have researched this phenomenon and documented ten characteristics of Exponential Organizations. Here, in The Exponential Organization, they walk the reader through how any company, from a startup to a multi-national, can become an ExO, streamline its performance, and grow to the next level.",
     "num_pages": "249",
-    "average_rating": "4.16"
+    "average_rating": "4.17"
   },
   {
     "link": "https://www.goodreads.com/book/show/31868530-the-extended-phenotype",
@@ -882,6 +891,15 @@
     "average_rating": "4.11"
   },
   {
+    "link": "https://www.goodreads.com/book/show/40876575-utopia-for-realists",
+    "title": "Utopia for Realists: How We Can Build the Ideal World",
+    "title_without_series": "Utopia for Realists: How We Can Build the Ideal World",
+    "small_image_url": "https://images.gr-assets.com/books/1532031994s/40876575.jpg",
+    "description": "From a universal basic income to a 15-hour workweek, from a world without borders to a world without poverty – it’s time to return to utopian thinking.<br /><br />Rutger Bregman takes us on a journey through history, beyond the traditional left-right divides, as he introduces ideas whose time has come. Utopia for Realists is one of those rare books that takes you by surprise and challenges what you think you know. In the words of leading social theorist Zygmunt Bauman, it is \"brilliant, truly enlightening, and eminently readable.\"<br /><br />This original Dutch bestseller sparked a national movement for basic income experiments that soon made international headlines.",
+    "num_pages": "262",
+    "average_rating": "4.24"
+  },
+  {
     "link": "https://www.goodreads.com/book/show/42366036-vertically-integrated-architectures",
     "title": "Vertically Integrated Architectures: Versioned Data Models, Implicit Services, and Persistence-Aware Programming",
     "title_without_series": "Vertically Integrated Architectures: Versioned Data Models, Implicit Services, and Persistence-Aware Programming",
@@ -933,7 +951,7 @@
     "small_image_url": "https://images.gr-assets.com/books/1516362309s/36031242.jpg",
     "description": "A timely exploration of the life and work of world-changing thinkers--from Adam Smith to John Maynard Keynes--and how their ideas would solve the great economic problems we face today.",
     "num_pages": "368",
-    "average_rating": "3.58"
+    "average_rating": "3.59"
   },
   {
     "link": "https://www.goodreads.com/book/show/10669.When_Genius_Failed",
