@@ -1,112 +1,20 @@
 [
   {
-    "id": {
-      "type": "integer",
-      "$t": "13030110"
-    },
-    "isbn": {
-      "nil": "true"
-    },
-    "isbn13": {
-      "nil": "true"
-    },
-    "text_reviews_count": {
-      "type": "integer",
-      "$t": "383"
-    },
-    "uri": "kca://book/amzn1.gr.book.v1.KMcb5nRlcGFKD3gCRR2M6A",
-    "title": "All You Zombies",
-    "title_without_series": "All You Zombies",
-    "image_url": "https://images.gr-assets.com/books/1338513108m/13030110.jpg",
-    "small_image_url": "https://images.gr-assets.com/books/1338513108s/13030110.jpg",
-    "large_image_url": {},
-    "link": "https://www.goodreads.com/book/show/13030110-all-you-zombies",
-    "num_pages": "13",
-    "format": "ebook",
-    "edition_information": {},
-    "publisher": "The Heinlein Archives",
-    "publication_day": {},
-    "publication_year": "1959",
-    "publication_month": "3",
-    "average_rating": "4.08",
-    "ratings_count": "4890",
-    "description": "First published in The Magazine of Fantasy and Science Fiction - March, 1959 - the story involves a number of paradoxes caused by time travel. It further develops themes explored by the author in a previous work, \"By His Bootstraps\", published some 18 years earlier.",
-    "authors": {
-      "author": {
-        "id": "205",
-        "name": "Robert A. Heinlein",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1192826560p5/205.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1192826560p2/205.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
-        "average_rating": "3.93",
-        "ratings_count": "1001981",
-        "text_reviews_count": "31206"
-      }
-    },
-    "published": "1959",
-    "work": {
-      "id": "18193411",
-      "uri": "kca://work/amzn1.gr.work.v1.DQSXSJPPPm9FIPezF-674A"
-    }
+    "link": "https://www.goodreads.com/book/show/39722612-the-people-vs-tech",
+    "title": "The People Vs Tech: How the internet is killing democracy",
+    "title_without_series": "The People Vs Tech: How the internet is killing democracy",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "description": "In the ongoing waves of the Facebook scandal, this is the book that explains all the dangers of the digital revolution, and how our mountains of personal cyberdata are being mined by everyone from our own governments and political parties to big business to exploit our trust and threaten our freedom.<br /><br />The internet was meant to set us free. But have we unwittingly handed too much away to shadowy powers behind a wall of code, all manipulated by a handful of Silicon Valley utopians, ad men, and venture capitalists? And, in light of recent data breach scandals around companies like Facebook and Cambridge Analytica, what does that mean for democracy, our delicately balanced system of government that was created long before big data, total information, and artificial intelligence? In this urgent polemic, Jamie Bartlett argues that through our unquestioning embrace of big tech, the building blocks of democracy are slowly being removed. The middle class is being eroded, sovereign authority and civil society is weakened, and we citizens are losing our critical faculties, maybe even our free will.<br /><br /><i>The People Vs Tech</i> is an enthralling account of how our fragile political system is being threatened by the digital revolution. Bartlett explains that by upholding six key pillars of democracy, we can save it before it is too late. We need to become active citizens, uphold a shared democratic culture, protect free elections, promote equality, safeguard competitive and civic freedoms, and trust in a sovereign authority. This essential book shows that the stakes couldn't be higher and that, unless we radically alter our course, democracy will join feudalism, supreme monarchies and communism as just another political experiment that quietly disappeared.",
+    "num_pages": {},
+    "average_rating": "4.04"
   },
   {
-    "id": {
-      "type": "integer",
-      "$t": "23281872"
-    },
-    "isbn": "0143127535",
-    "isbn13": "9780143127536",
-    "text_reviews_count": {
-      "type": "integer",
-      "$t": "56"
-    },
-    "uri": "kca://book/amzn1.gr.book.v1.jvcL3X7CKYPpnNY9HIhhRg",
-    "title": "How Not to Be Wrong: The Power of Mathematical Thinking",
-    "title_without_series": "How Not to Be Wrong: The Power of Mathematical Thinking",
-    "image_url": "https://images.gr-assets.com/books/1432987179m/23281872.jpg",
-    "small_image_url": "https://images.gr-assets.com/books/1432987179s/23281872.jpg",
-    "large_image_url": {},
-    "link": "https://www.goodreads.com/book/show/23281872-how-not-to-be-wrong",
-    "num_pages": "480",
-    "format": "Paperback",
-    "edition_information": {},
-    "publisher": "Penguin Books",
-    "publication_day": "26",
-    "publication_year": "2015",
-    "publication_month": "5",
-    "average_rating": "3.96",
-    "ratings_count": "10117",
-    "description": "<b>The <i>Freakonomics</i> of math—a math-world superstar unveils the hidden beauty and logic of the world and puts its power in our hands</b><br /><br />The math we learn in school can seem like a dull set of rules, laid down by the ancients and not to be questioned. In <i>How Not to Be Wrong</i>, Jordan Ellenberg shows us how terribly limiting this view is: Math isn’t confined to abstract incidents that never occur in real life, but rather touches everything we do—the whole world is shot through with it.<br /><br />Math allows us to see the hidden structures underneath the messy and chaotic surface of our world. It’s a science of not being wrong, hammered out by centuries of hard work and argument. Armed with the tools of mathematics, we can see through to the true meaning of information we take for granted: How early should you get to the airport? What does “public opinion” really represent? Why do tall parents have shorter children? Who really won Florida in 2000? And how likely are you, really, to develop cancer?<br /><br /><i>How Not to Be Wrong</i> presents the surprising revelations behind all of these questions and many more, using the mathematician’s method of analyzing life and exposing the hard-won insights of the academic community to the layman—minus the jargon. Ellenberg chases mathematical threads through a vast range of time and space, from the everyday to the cosmic, encountering, among other things, baseball, Reaganomics, daring lottery schemes, Voltaire, the replicability crisis in psychology, Italian Renaissance painting, artificial languages, the development of non-Euclidean geometry, the coming obesity apocalypse, Antonin Scalia’s views on crime and punishment, the psychology of slime molds, what Facebook can and can’t figure out about you, and the existence of God.<br /><br />Ellenberg pulls from history as well as from the latest theoretical developments to provide those not trained in math with the knowledge they need. Math, as Ellenberg says, is “an atomic-powered prosthesis that you attach to your common sense, vastly multiplying its reach and strength.” With the tools of mathematics in hand, you can understand the world in a deeper, more meaningful way. How Not to Be Wrong will show you how.",
-    "authors": {
-      "author": {
-        "id": "359894",
-        "name": "Jordan Ellenberg",
-        "role": {},
-        "image_url": {
-          "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
-        },
-        "small_image_url": {
-          "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
-        },
-        "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
-        "average_rating": "3.96",
-        "ratings_count": "10205",
-        "text_reviews_count": "1029"
-      }
-    },
-    "published": "2015",
-    "work": {
-      "id": "26542434",
-      "uri": "kca://work/amzn1.gr.work.v1.EtX3wQ_8Ir8J6UIhyZ0hSw"
-    }
+    "link": "https://www.goodreads.com/book/show/20518872-the-three-body-problem",
+    "title": "The Three-Body Problem (Remembrance of Earth’s Past #1)",
+    "title_without_series": "The Three-Body Problem",
+    "small_image_url": "https://images.gr-assets.com/books/1415428227s/20518872.jpg",
+    "description": "<i>The Three-Body Problem</i> is the first chance for English-speaking readers to experience this multiple award winning phenomenon from China's most beloved science fiction author, Liu Cixin.<br /><br />\"Fans of hard SF will revel in this intricate and imaginative novel by one of China’s most celebrated genre writers. In 1967, physics professor Ye Zhetai is killed after he refuses to denounce the theory of relativity. His daughter, Ye Wenjie, witnesses his gruesome death.<br /><br />\"Shortly after, she’s falsely charged with sedition for promoting the works of environmentalist Rachel Carson, and told she can avoid punishment by working at a defense research facility involved with the search for extraterrestrial intelligence. More than 40 years later, Ye’s work becomes linked to a string of physicist suicides and a complex role-playing game involving the classic physics problem of the title.<br /><br />\"Liu impressively succeeds in integrating complex topics—such as the field of frontier science, which attempts to define the limits of science’s ability to know nature—without slowing down the action or sacrificing characterization. His smooth handling of the disparate plot elements cleverly sets up the second volume of the trilogy.\" —<i>Publishers Weekly</i>",
+    "num_pages": "400",
+    "average_rating": "4.05"
   }
 ]
