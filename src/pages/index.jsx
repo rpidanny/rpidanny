@@ -63,14 +63,26 @@ const Footer = styled.footer`
 const Index = () => (
   <>
     <Layout />
-    <Parallax pages={5}>
+    <Parallax pages={3}>
       <Hero offset={0}>
         <BigTitle>
           Hello, <br /> I'm {resume.basics.name}.
         </BigTitle>
         <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
-      <Projects offset={1}>
+      <About offset={1}>
+        <Title>About</Title>
+        <AboutHero>
+          <Avatar src={avatar} alt="John Doe" />
+          <AboutSub>
+            {resume.basics.summary.join(' ')}
+          </AboutSub>
+        </AboutHero>
+        <AboutDesc>
+          {resume.basics.description.join(' ')}
+        </AboutDesc>
+      </About>
+      {/* <Projects offset={2}>
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
@@ -102,20 +114,8 @@ const Index = () => (
             A fantasy image manipulation relocating the habitat of wild animals.
           </ProjectCard>
         </ProjectsWrapper>
-      </Projects>
-      <About offset={3}>
-        <Title>About</Title>
-        <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
-          <AboutSub>
-            {resume.basics.summary.join(' ')}
-          </AboutSub>
-        </AboutHero>
-        <AboutDesc>
-          {resume.basics.description.join(' ')}
-        </AboutDesc>
-      </About>
-      <Contact offset={4}>
+      </Projects> */}
+      <Contact offset={2}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
@@ -125,9 +125,6 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
         </Footer>
       </Contact>
     </Parallax>
