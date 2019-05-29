@@ -30,3 +30,16 @@ src/assets/images/photography_original/
 testData.json
 src/data/books/export.js
 .vscode
+back
+
+# Build Files
+public/
+.cache/
+
+# Gatsby context
+.gatsby-context.js
+
+# Bundle stats
+bundle-stats.json
+
+tailwind.custom.css
