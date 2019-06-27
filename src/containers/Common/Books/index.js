@@ -63,7 +63,7 @@ class Book extends Component {
         <Gallery
           photos={favoriteBooks.map((book, idx) => ({
             ...book,
-            src: book.small_image_url.replace(/.(s\/)/g, str => {
+            src: book.image_url.replace(/.(s\/)/g, str => {
               const tmp = str.split('s/')
               if (tmp[0] < 58) {
                 return tmp[0].concat('l/')
