@@ -63,13 +63,14 @@ class Book extends Component {
         <Gallery
           photos={favoriteBooks.map((book, idx) => ({
             ...book,
-            src: book.image_url.replace(/.(s\/)/g, str => {
-              const tmp = str.split('s/')
-              if (tmp[0] < 58) {
-                return tmp[0].concat('l/')
-              }
-              return str
-            }),
+            // src: book.image_url.replace(/.(s\/)/g, str => {
+            //   const tmp = str.split('s/')
+            //   if (tmp[0] < 58) {
+            //     return tmp[0].concat('l/')
+            //   }
+            //   return str
+            // }),
+            src: book.image_url.replace(/_SX98_./g, ''),
             width: 98,
             height: 148,
             alt: book.title,
