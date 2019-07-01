@@ -54,6 +54,15 @@
       "author": "Alan Kay"
     }
   },
+  "certifications": [
+    {
+      "title": "AWS Certified Solutions Architect - Associate",
+      "issueDate": "Jun 03, 2019",
+      "expirationDate": "Jun 03, 2022",
+      "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-06-03&ci=AWS00868684",
+      "image": "CSAA.png"
+    }
+  ],
   "work": [
     {
       "company": "Javra Software B.V.",

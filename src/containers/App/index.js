@@ -48,13 +48,13 @@ class App extends Component {
   }
 
   render () {
-    const {basics, education, work, interests} = resumeData
+    const {basics, education, work, interests, certifications} = resumeData
     const { quote } = this.state
     return (
       <div className='App'>
         <Dashboard name={basics.name} quote={quote} />        
-        <About data={basics} />        
-        <Resume education={education} work={work} />        
+        <About data={basics} />
+        <Resume education={education} work={work} certifications={certifications} />
         <Interests data={interests} />        
         <Contact email={basics.email} />        
         <Footer quote={quote} />        

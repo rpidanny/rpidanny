@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Work from '../Common/Work'
+
+import Certifications from '../Common/Certifications'
 import Glyphicon from 'react-bootstrap/lib/Glyphicon'
 import Education from '../Common/Education'
 import './styles.css'
@@ -14,7 +16,7 @@ class Resume extends Component {
     }
   }
   render () {
-    const { education, work } = this.state
+    const { education, work, certifications } = this.props
     return (
       <React.Fragment>
         <section className='row resume' id='resume'>
@@ -25,6 +27,12 @@ class Resume extends Component {
           </div>
           <div className='col-md-12'>
             <div className='content'>
+              <Certifications certifications={certifications} />
+              <div className='divider'>
+                <span>
+                  <i className='glyphicon glyphicon-star' />
+                </span>
+              </div>
               <Work companies={work} />
               <div className='divider'>
                 <span>
