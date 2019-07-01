@@ -21,16 +21,32 @@ class Book extends Component {
     this.state = {
       modalIsOpen: false,
       selectedModal: 0,
-      shelves: []
+      shelves: [],
+      width: window.outerWidth,
+      height: window.outerHeight
     }
     this.openModal = this.openModal.bind(this)
     this.afterOpenModal = this.afterOpenModal.bind(this)
     this.closeModal = this.closeModal.bind(this)
+    this.updateDimensions = this.updateDimensions.bind(this)
+    this.getColumnCount = this.getColumnCount.bind(this)
   }
 
   componentDidMount () {
     // open modal for development
     // this.openModal(2)
+    window.addEventListener('resize', this.updateDimensions)
+  }
+
+  componentWillUnmount () {
+    window.removeEventListener('resize', this.updateDimensions)
+  }
+
+  updateDimensions () {
+    this.setState({
+      width: window.outerWidth,
+      height: window.outerHeight
+    })
   }
 
   openModal (selectedModal) {
@@ -53,6 +69,16 @@ class Book extends Component {
       rootElement.style.filter = 'blur(0px)'
     }
     this.setState({modalIsOpen: false})
+  }
+
+  getColumnCount () {
+    const { width } = this.state
+    // if (width >= 1500) return 7
+    if (width >= 959) return 6
+    if (width >= 768) return 5
+    if (width >= 480) return 4
+    if (width >= 240) return 3
+    return 2
   }
 
   render () {
@@ -83,7 +109,7 @@ class Book extends Component {
             }
           }
           direction='column'
-          columns={5}
+          columns={this.getColumnCount()}
           margin={0}
           ImageComponent={LazyImage}
         />
