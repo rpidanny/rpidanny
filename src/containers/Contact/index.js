@@ -199,7 +199,7 @@ class Contact extends Component {
                         disabled={isLoading}
                         onClick={!isLoading ? this.sendEmail : null}
                       >
-                        Send
+                        {isLoading ? 'Sending email....' : 'Send'}
                       </Button>
                     </FormGroup>
                   </Form>
