@@ -61,6 +61,13 @@
       "expirationDate": "Jun 03, 2022",
       "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-06-03&ci=AWS00868684",
       "image": "CSAA.png"
+    },
+    {
+      "title": "AWS Certified Developer - Associate",
+      "issueDate": "Aug 06, 2019",
+      "expirationDate": "Aug 06, 2022",
+      "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-06-03&ci=AWS00868684",
+      "image": "CDVA.png"
     }
   ],
   "work": [
