@@ -66,8 +66,15 @@
       "title": "AWS Certified Developer - Associate",
       "issueDate": "Aug 06, 2019",
       "expirationDate": "Aug 06, 2022",
-      "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-06-03&ci=AWS00868684",
+      "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-08-06&ci=AWS00868684",
       "image": "CDVA.png"
+    },
+    {
+      "title": "AWS Certified SysOps Administrator - Associate",
+      "issueDate": "Aug 06, 2019",
+      "expirationDate": "Aug 06, 2022",
+      "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-09-03&ci=AWS00868684",
+      "image": "CSOA.png"
     }
   ],
   "work": [
