@@ -22,13 +22,15 @@
         },
         "link": "https://www.goodreads.com/author/show/7.Bill_Bryson",
         "average_rating": "4.02",
-        "ratings_count": "1187772",
+        "ratings_count": "1187782",
         "text_reviews_count": "70836"
       }
     },
     "average_rating": "4.20",
     "ratings_count": "257845",
-    "publication_day": "16"
+    "publication_day": "16",
+    "publication_month": "6",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
@@ -53,13 +55,15 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "120212",
-        "text_reviews_count": "7319"
+        "ratings_count": "120215",
+        "text_reviews_count": "7320"
       }
     },
     "average_rating": "4.18",
     "ratings_count": "60666",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2000"
   },
   {
     "link": "https://www.goodreads.com/book/show/36204378-the-book-of-why",
@@ -89,8 +93,10 @@
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "1546",
-    "publication_day": "15"
+    "ratings_count": "1547",
+    "publication_day": "15",
+    "publication_month": "5",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/40921633-the-new-silk-roads",
@@ -121,6 +127,8 @@
     },
     "average_rating": "3.68",
     "ratings_count": "1419",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   }
 ]

@@ -22,13 +22,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1429989.Richard_P_Feynman",
         "average_rating": "4.26",
-        "ratings_count": "250814",
+        "ratings_count": "250815",
         "text_reviews_count": "9098"
       }
     },
     "average_rating": "4.27",
     "ratings_count": "134527",
-    "publication_day": "6"
+    "publication_day": "6",
+    "publication_month": "2",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/2583623-10-books-that-screwed-up-the-world",
@@ -59,7 +61,9 @@
     },
     "average_rating": "3.37",
     "ratings_count": "839",
-    "publication_day": "15"
+    "publication_day": "15",
+    "publication_month": "4",
+    "publication_year": "2008"
   },
   {
     "link": "https://www.goodreads.com/book/show/30257963-12-rules-for-life",
@@ -84,13 +88,15 @@
         },
         "link": "https://www.goodreads.com/author/show/282885.Jordan_B_Peterson",
         "average_rating": "3.97",
-        "ratings_count": "62620",
+        "ratings_count": "62625",
         "text_reviews_count": "6455"
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "60143",
-    "publication_day": "23"
+    "ratings_count": "60146",
+    "publication_day": "23",
+    "publication_month": "1",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow",
@@ -120,8 +126,10 @@
       }
     },
     "average_rating": "4.36",
-    "ratings_count": "192586",
-    "publication_day": "26"
+    "ratings_count": "192588",
+    "publication_day": "26",
+    "publication_month": "3",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/43217751-a-life-of-experimental-economics-volume-i",
@@ -152,7 +160,9 @@
     },
     "average_rating": "0.0",
     "ratings_count": "0",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/43217752-a-life-of-experimental-economics-volume-ii",
@@ -183,7 +193,9 @@
     },
     "average_rating": "0.0",
     "ratings_count": "0",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/40242274-a-random-walk-down-wall-street",
@@ -214,7 +226,9 @@
     },
     "average_rating": "4.09",
     "ratings_count": "21329",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "1",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/25666050-algorithms-to-live-by",
@@ -245,7 +259,9 @@
     },
     "average_rating": "4.16",
     "ratings_count": "14088",
-    "publication_day": "19"
+    "publication_day": "19",
+    "publication_month": "4",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth",
@@ -276,7 +292,9 @@
     },
     "average_rating": "4.17",
     "ratings_count": "39534",
-    "publication_day": "29"
+    "publication_day": "29",
+    "publication_month": "10",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning",
@@ -307,7 +325,9 @@
     },
     "average_rating": "4.60",
     "ratings_count": "1095",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "9",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/35167729-army-of-none",
@@ -338,7 +358,9 @@
     },
     "average_rating": "3.84",
     "ratings_count": "1060",
-    "publication_day": "24"
+    "publication_day": "24",
+    "publication_month": "4",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/37976541-bad-blood",
@@ -369,7 +391,9 @@
     },
     "average_rating": "4.46",
     "ratings_count": "100726",
-    "publication_day": "21"
+    "publication_day": "21",
+    "publication_month": "5",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/1192878.Blink",
@@ -394,13 +418,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "3.99",
-        "ratings_count": "1748022",
+        "ratings_count": "1748034",
         "text_reviews_count": "64458"
       }
     },
     "average_rating": "3.92",
     "ratings_count": "436058",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2005"
   },
   {
     "link": "https://www.goodreads.com/book/show/40696923-blueprint",
@@ -431,7 +457,9 @@
     },
     "average_rating": "4.03",
     "ratings_count": "472",
-    "publication_day": "26"
+    "publication_day": "26",
+    "publication_month": "3",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/116326.Book_Lust",
@@ -462,7 +490,9 @@
     },
     "average_rating": "3.77",
     "ratings_count": "3395",
-    "publication_day": "12"
+    "publication_day": "12",
+    "publication_month": "8",
+    "publication_year": "2003"
   },
   {
     "link": "https://www.goodreads.com/book/show/4122.Built_to_Last",
@@ -493,7 +523,9 @@
     },
     "average_rating": "3.98",
     "ratings_count": "52923",
-    "publication_day": "2"
+    "publication_day": "2",
+    "publication_month": "11",
+    "publication_year": "2004"
   },
   {
     "link": "https://www.goodreads.com/book/show/4191136-business-adventures",
@@ -523,8 +555,10 @@
       }
     },
     "average_rating": "3.81",
-    "ratings_count": "15836",
-    "publication_day": {}
+    "ratings_count": "15837",
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century",
@@ -555,7 +589,9 @@
     },
     "average_rating": "4.04",
     "ratings_count": "19709",
-    "publication_day": "10"
+    "publication_day": "10",
+    "publication_month": "3",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/43885052-change-is-the-only-constant",
@@ -586,7 +622,9 @@
     },
     "average_rating": "4.50",
     "ratings_count": "4",
-    "publication_day": "8"
+    "publication_day": "8",
+    "publication_month": "10",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/32938133-chaos-monkeys",
@@ -617,7 +655,9 @@
     },
     "average_rating": "3.72",
     "ratings_count": "8826",
-    "publication_day": "28"
+    "publication_day": "28",
+    "publication_month": "2",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/36204894-chernobyl",
@@ -648,7 +688,9 @@
     },
     "average_rating": "4.25",
     "ratings_count": "2889",
-    "publication_day": "15"
+    "publication_day": "15",
+    "publication_month": "5",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/273405.Culture_s_Consequences",
@@ -679,7 +721,9 @@
     },
     "average_rating": "4.16",
     "ratings_count": "123",
-    "publication_day": "8"
+    "publication_day": "8",
+    "publication_month": "2",
+    "publication_year": "2003"
   },
   {
     "link": "https://www.goodreads.com/book/show/8306168-dealers-of-lightning",
@@ -710,7 +754,9 @@
     },
     "average_rating": "4.12",
     "ratings_count": "1702",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/25451264-death-s-end",
@@ -741,7 +787,9 @@
     },
     "average_rating": "4.44",
     "ratings_count": "33996",
-    "publication_day": "20"
+    "publication_day": "20",
+    "publication_month": "9",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/18241647-decisive",
@@ -772,7 +820,9 @@
     },
     "average_rating": "3.99",
     "ratings_count": "11503",
-    "publication_day": "6"
+    "publication_day": "6",
+    "publication_month": "2",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/25744928-deep-work",
@@ -797,13 +847,15 @@
         },
         "link": "https://www.goodreads.com/author/show/147891.Cal_Newport",
         "average_rating": "4.15",
-        "ratings_count": "88606",
+        "ratings_count": "88610",
         "text_reviews_count": "8895"
       }
     },
     "average_rating": "4.20",
     "ratings_count": "47434",
-    "publication_day": "5"
+    "publication_day": "5",
+    "publication_month": "1",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/26046333-designing-your-life",
@@ -834,7 +886,9 @@
     },
     "average_rating": "3.94",
     "ratings_count": "7975",
-    "publication_day": "15"
+    "publication_day": "15",
+    "publication_month": "9",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design",
@@ -865,7 +919,9 @@
     },
     "average_rating": "4.15",
     "ratings_count": "3650",
-    "publication_day": "30"
+    "publication_day": "30",
+    "publication_month": "8",
+    "publication_year": "2003"
   },
   {
     "link": "https://www.goodreads.com/book/show/31850765-energy-and-civilization",
@@ -896,7 +952,9 @@
     },
     "average_rating": "4.05",
     "ratings_count": "615",
-    "publication_day": "12"
+    "publication_day": "12",
+    "publication_month": "5",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/43319933-every-tool-s-a-hammer",
@@ -927,7 +985,9 @@
     },
     "average_rating": "4.06",
     "ratings_count": "2414",
-    "publication_day": "7"
+    "publication_day": "7",
+    "publication_month": "5",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/43808723-everything-is-f-cked",
@@ -957,8 +1017,10 @@
       }
     },
     "average_rating": "3.77",
-    "ratings_count": "10184",
-    "publication_day": "14"
+    "ratings_count": "10185",
+    "publication_day": "14",
+    "publication_month": "5",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/38315.Fooled_by_Randomness",
@@ -983,13 +1045,15 @@
         },
         "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
         "average_rating": "3.97",
-        "ratings_count": "158462",
-        "text_reviews_count": "10070"
+        "ratings_count": "158465",
+        "text_reviews_count": "10071"
       }
     },
     "average_rating": "4.05",
     "ratings_count": "41669",
-    "publication_day": "23"
+    "publication_day": "23",
+    "publication_month": "8",
+    "publication_year": "2005"
   },
   {
     "link": "https://www.goodreads.com/book/show/13183927-fooling-houdini",
@@ -1020,7 +1084,9 @@
     },
     "average_rating": "3.70",
     "ratings_count": "2347",
-    "publication_day": "19"
+    "publication_day": "19",
+    "publication_month": "6",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/18554225-gdp",
@@ -1051,7 +1117,9 @@
     },
     "average_rating": "3.62",
     "ratings_count": "441",
-    "publication_day": "23"
+    "publication_day": "23",
+    "publication_month": "2",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/98685.Genius",
@@ -1082,7 +1150,9 @@
     },
     "average_rating": "4.15",
     "ratings_count": "18889",
-    "publication_day": "2"
+    "publication_day": "2",
+    "publication_month": "11",
+    "publication_year": "1993"
   },
   {
     "link": "https://www.goodreads.com/book/show/44512537-growth",
@@ -1113,7 +1183,9 @@
     },
     "average_rating": "4.20",
     "ratings_count": "10",
-    "publication_day": "24"
+    "publication_day": "24",
+    "publication_month": "9",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel",
@@ -1144,7 +1216,9 @@
     },
     "average_rating": "4.02",
     "ratings_count": "247918",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2005"
   },
   {
     "link": "https://www.goodreads.com/book/show/40597264-hacking-darwin",
@@ -1175,7 +1249,9 @@
     },
     "average_rating": "4.10",
     "ratings_count": "537",
-    "publication_day": "23"
+    "publication_day": "23",
+    "publication_month": "4",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/7008656-high-performance-javascript",
@@ -1206,7 +1282,9 @@
     },
     "average_rating": "4.05",
     "ratings_count": "564",
-    "publication_day": "30"
+    "publication_day": "30",
+    "publication_month": "3",
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/42086897-how-to",
@@ -1231,13 +1309,15 @@
         },
         "link": "https://www.goodreads.com/author/show/3089156.Randall_Munroe",
         "average_rating": "4.16",
-        "ratings_count": "127494",
-        "text_reviews_count": "9345"
+        "ratings_count": "127497",
+        "text_reviews_count": "9346"
       }
     },
     "average_rating": "4.31",
     "ratings_count": "921",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/36613747-how-to-change-your-mind",
@@ -1262,13 +1342,15 @@
         },
         "link": "https://www.goodreads.com/author/show/2121.Michael_Pollan",
         "average_rating": "4.11",
-        "ratings_count": "409736",
+        "ratings_count": "409739",
         "text_reviews_count": "33608"
       }
     },
     "average_rating": "4.28",
     "ratings_count": "22744",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "5",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/42771901-how-to-do-nothing",
@@ -1293,13 +1375,15 @@
         },
         "link": "https://www.goodreads.com/author/show/18614151.Jenny_Odell",
         "average_rating": "4.03",
-        "ratings_count": "2165",
+        "ratings_count": "2166",
         "text_reviews_count": "370"
       }
     },
     "average_rating": "4.03",
     "ratings_count": "2165",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/51291.How_to_Lie_with_Statistics",
@@ -1330,7 +1414,9 @@
     },
     "average_rating": "3.87",
     "ratings_count": "8840",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "9",
+    "publication_year": "1982"
   },
   {
     "link": "https://www.goodreads.com/book/show/34050965-how-to-think",
@@ -1361,7 +1447,9 @@
     },
     "average_rating": "3.99",
     "ratings_count": "2163",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "10",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/44595007-indistractable",
@@ -1392,7 +1480,9 @@
     },
     "average_rating": "4.11",
     "ratings_count": "319",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/1898.Into_Thin_Air",
@@ -1417,13 +1507,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1235.Jon_Krakauer",
         "average_rating": "4.02",
-        "ratings_count": "1402553",
+        "ratings_count": "1402556",
         "text_reviews_count": "53454"
       }
     },
     "average_rating": "4.16",
     "ratings_count": "353176",
-    "publication_day": "19"
+    "publication_day": "19",
+    "publication_month": "10",
+    "publication_year": "1999"
   },
   {
     "link": "https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work",
@@ -1454,7 +1546,9 @@
     },
     "average_rating": "4.01",
     "ratings_count": "5919",
-    "publication_day": "2"
+    "publication_day": "2",
+    "publication_month": "10",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/9422683-javascript-patterns",
@@ -1485,7 +1579,9 @@
     },
     "average_rating": "4.18",
     "ratings_count": "1507",
-    "publication_day": "28"
+    "publication_day": "28",
+    "publication_month": "9",
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/34684622-leonardo-da-vinci",
@@ -1516,7 +1612,9 @@
     },
     "average_rating": "4.17",
     "ratings_count": "34315",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "10",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/7641110-life-is-what-you-make-it",
@@ -1547,7 +1645,9 @@
     },
     "average_rating": "3.76",
     "ratings_count": "1327",
-    "publication_day": "27"
+    "publication_day": "27",
+    "publication_month": "4",
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/4806.Longitude",
@@ -1578,7 +1678,9 @@
     },
     "average_rating": "3.96",
     "ratings_count": "50606",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "10",
+    "publication_year": "2005"
   },
   {
     "link": "https://www.goodreads.com/book/show/17941760-making-the-modern-world",
@@ -1609,7 +1711,9 @@
     },
     "average_rating": "3.71",
     "ratings_count": "374",
-    "publication_day": "16"
+    "publication_day": "16",
+    "publication_month": "12",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/13589182-mastery",
@@ -1634,13 +1738,15 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "120212",
-        "text_reviews_count": "7319"
+        "ratings_count": "120215",
+        "text_reviews_count": "7320"
       }
     },
     "average_rating": "4.28",
     "ratings_count": "21865",
-    "publication_day": "13"
+    "publication_day": "13",
+    "publication_month": "11",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/15843133-math-on-trial",
@@ -1671,7 +1777,9 @@
     },
     "average_rating": "3.61",
     "ratings_count": "234",
-    "publication_day": "12"
+    "publication_day": "12",
+    "publication_month": "3",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/26530355-misbehaving",
@@ -1696,13 +1804,15 @@
         },
         "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
         "average_rating": "3.89",
-        "ratings_count": "64208",
-        "text_reviews_count": "3739"
+        "ratings_count": "64210",
+        "text_reviews_count": "3741"
       }
     },
     "average_rating": "4.17",
     "ratings_count": "10870",
-    "publication_day": "14"
+    "publication_day": "14",
+    "publication_month": "6",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/522525.Mistakes_Were_Made_But_Not_by_Me_",
@@ -1733,7 +1843,9 @@
     },
     "average_rating": "4.01",
     "ratings_count": "20716",
-    "publication_day": "7"
+    "publication_day": "7",
+    "publication_month": "5",
+    "publication_year": "2007"
   },
   {
     "link": "https://www.goodreads.com/book/show/40180021-naked-economics",
@@ -1758,13 +1870,15 @@
         },
         "link": "https://www.goodreads.com/author/show/18704.Charles_Wheelan",
         "average_rating": "4.00",
-        "ratings_count": "24137",
+        "ratings_count": "24138",
         "text_reviews_count": "2024"
       }
     },
     "average_rating": "4.03",
     "ratings_count": "13855",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "1",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/26156469-never-split-the-difference",
@@ -1789,13 +1903,15 @@
         },
         "link": "https://www.goodreads.com/author/show/5525291.Chris_Voss",
         "average_rating": "4.39",
-        "ratings_count": "27919",
+        "ratings_count": "27920",
         "text_reviews_count": "2273"
       }
     },
     "average_rating": "4.39",
     "ratings_count": "27914",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "5",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/38232376-nine-pints",
@@ -1826,7 +1942,9 @@
     },
     "average_rating": "3.84",
     "ratings_count": "1096",
-    "publication_day": "23"
+    "publication_day": "23",
+    "publication_month": "10",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/385.On_Bullshit",
@@ -1857,7 +1975,9 @@
     },
     "average_rating": "3.57",
     "ratings_count": "9755",
-    "publication_day": "30"
+    "publication_day": "30",
+    "publication_month": "1",
+    "publication_year": "2005"
   },
   {
     "link": "https://www.goodreads.com/book/show/1384442.On_the_Shortness_of_Life",
@@ -1888,7 +2008,9 @@
     },
     "average_rating": "4.24",
     "ratings_count": "13752",
-    "publication_day": "2"
+    "publication_day": "2",
+    "publication_month": "9",
+    "publication_year": "2004"
   },
   {
     "link": "https://www.goodreads.com/book/show/43532557-outgrowing-god",
@@ -1913,13 +2035,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "552074",
+        "ratings_count": "552076",
         "text_reviews_count": "20692"
       }
     },
     "average_rating": "4.17",
     "ratings_count": "24",
-    "publication_day": "19"
+    "publication_day": "19",
+    "publication_month": "9",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/46223297-permanent-record",
@@ -1950,7 +2074,9 @@
     },
     "average_rating": "4.47",
     "ratings_count": "481",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "9",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/12935037-principles",
@@ -1981,7 +2107,9 @@
     },
     "average_rating": "4.18",
     "ratings_count": "5108",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2011"
   },
   {
     "link": "https://www.goodreads.com/book/show/41022332-princ-pios",
@@ -2012,7 +2140,9 @@
     },
     "average_rating": "4.19",
     "ratings_count": "16590",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "8",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/42868162-programming-skills-for-data-science",
@@ -2043,7 +2173,9 @@
     },
     "average_rating": "4.25",
     "ratings_count": "4",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/23595051-pure-genius",
@@ -2074,7 +2206,9 @@
     },
     "average_rating": "4.13",
     "ratings_count": "171",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/8520610-quiet",
@@ -2104,8 +2238,10 @@
       }
     },
     "average_rating": "4.06",
-    "ratings_count": "273773",
-    "publication_day": "24"
+    "ratings_count": "273777",
+    "publication_day": "24",
+    "publication_month": "1",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/29767627-reality-is-not-what-it-seems",
@@ -2136,7 +2272,9 @@
     },
     "average_rating": "4.30",
     "ratings_count": "5325",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/35068803-rebel-talent",
@@ -2167,7 +2305,9 @@
     },
     "average_rating": "3.82",
     "ratings_count": "624",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "5",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/29502354-rest",
@@ -2198,7 +2338,9 @@
     },
     "average_rating": "3.84",
     "ratings_count": "1815",
-    "publication_day": "6"
+    "publication_day": "6",
+    "publication_month": "12",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/14642813-rich-habits",
@@ -2229,7 +2371,9 @@
     },
     "average_rating": "3.72",
     "ratings_count": "970",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "3",
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/24878325-rocket-science-for-the-rest-of-us",
@@ -2260,7 +2404,9 @@
     },
     "average_rating": "4.17",
     "ratings_count": "41",
-    "publication_day": "7"
+    "publication_day": "7",
+    "publication_month": "4",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/3999258-rules-of-thumb",
@@ -2291,7 +2437,9 @@
     },
     "average_rating": "3.62",
     "ratings_count": "118",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "10",
+    "publication_year": "2008"
   },
   {
     "link": "https://www.goodreads.com/book/show/2715.Salt",
@@ -2316,13 +2464,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1847.Mark_Kurlansky",
         "average_rating": "3.77",
-        "ratings_count": "90465",
+        "ratings_count": "90466",
         "text_reviews_count": "7765"
       }
     },
     "average_rating": "3.74",
     "ratings_count": "50396",
-    "publication_day": "28"
+    "publication_day": "28",
+    "publication_month": "1",
+    "publication_year": "2003"
   },
   {
     "link": "https://www.goodreads.com/book/show/10631.Sam_Walton",
@@ -2353,7 +2503,9 @@
     },
     "average_rating": "4.14",
     "ratings_count": "15057",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "6",
+    "publication_year": "1993"
   },
   {
     "link": "https://www.goodreads.com/book/show/17298300-should-we-eat-meat",
@@ -2384,7 +2536,9 @@
     },
     "average_rating": "3.53",
     "ratings_count": "330",
-    "publication_day": "28"
+    "publication_day": "28",
+    "publication_month": "5",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/36064445-skin-in-the-game",
@@ -2409,13 +2563,15 @@
         },
         "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
         "average_rating": "3.97",
-        "ratings_count": "158462",
-        "text_reviews_count": "10070"
+        "ratings_count": "158465",
+        "text_reviews_count": "10071"
       }
     },
     "average_rating": "3.84",
-    "ratings_count": "10078",
-    "publication_day": "1"
+    "ratings_count": "10079",
+    "publication_day": "1",
+    "publication_month": "6",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/101438.Skunk_Works",
@@ -2446,7 +2602,9 @@
     },
     "average_rating": "4.41",
     "ratings_count": "5846",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "2",
+    "publication_year": "1996"
   },
   {
     "link": "https://www.goodreads.com/book/show/43848929-talking-to-strangers",
@@ -2471,13 +2629,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "3.99",
-        "ratings_count": "1748022",
+        "ratings_count": "1748034",
         "text_reviews_count": "64458"
       }
     },
     "average_rating": "4.05",
-    "ratings_count": "3805",
-    "publication_day": "10"
+    "ratings_count": "3812",
+    "publication_day": "10",
+    "publication_month": "9",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/14461754-tap-dancing-to-work",
@@ -2508,7 +2668,9 @@
     },
     "average_rating": "3.95",
     "ratings_count": "1754",
-    "publication_day": "21"
+    "publication_day": "21",
+    "publication_month": "11",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/41943000-the-1-page-marketing-plan",
@@ -2539,7 +2701,9 @@
     },
     "average_rating": "4.38",
     "ratings_count": "1925",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": "9",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/11594360-the-20-doctrine",
@@ -2570,7 +2734,9 @@
     },
     "average_rating": "3.54",
     "ratings_count": "125",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "4",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/3381336-the-art-of-learning",
@@ -2601,7 +2767,9 @@
     },
     "average_rating": "4.09",
     "ratings_count": "12436",
-    "publication_day": "27"
+    "publication_day": "27",
+    "publication_month": "5",
+    "publication_year": "2008"
   },
   {
     "link": "https://www.goodreads.com/book/show/7282390-the-art-of-scalability",
@@ -2632,7 +2800,9 @@
     },
     "average_rating": "3.97",
     "ratings_count": "270",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "12",
+    "publication_year": "2009"
   },
   {
     "link": "https://www.goodreads.com/book/show/43722897-the-art-of-statistics",
@@ -2663,7 +2833,9 @@
     },
     "average_rating": "4.30",
     "ratings_count": "175",
-    "publication_day": "3"
+    "publication_day": "3",
+    "publication_month": "9",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/10534.The_Art_of_War",
@@ -2693,8 +2865,10 @@
       }
     },
     "average_rating": "3.97",
-    "ratings_count": "277915",
-    "publication_day": "11"
+    "ratings_count": "277919",
+    "publication_day": "11",
+    "publication_month": "1",
+    "publication_year": "2005"
   },
   {
     "link": "https://www.goodreads.com/book/show/223556.The_Bell_Curve",
@@ -2725,7 +2899,9 @@
     },
     "average_rating": "3.54",
     "ratings_count": "2228",
-    "publication_day": "10"
+    "publication_day": "10",
+    "publication_month": "1",
+    "publication_year": "1996"
   },
   {
     "link": "https://www.goodreads.com/book/show/26150770-the-big-picture",
@@ -2756,7 +2932,9 @@
     },
     "average_rating": "4.18",
     "ratings_count": "5007",
-    "publication_day": "10"
+    "publication_day": "10",
+    "publication_month": "5",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/2962025-the-black-swan",
@@ -2781,13 +2959,15 @@
         },
         "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
         "average_rating": "3.97",
-        "ratings_count": "158462",
-        "text_reviews_count": "10070"
+        "ratings_count": "158465",
+        "text_reviews_count": "10071"
       }
     },
     "average_rating": "3.92",
     "ratings_count": "72732",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/30068733-the-blank-slate",
@@ -2812,13 +2992,15 @@
         },
         "link": "https://www.goodreads.com/author/show/3915.Steven_Pinker",
         "average_rating": "4.04",
-        "ratings_count": "126690",
+        "ratings_count": "126691",
         "text_reviews_count": "9435"
       }
     },
     "average_rating": "4.08",
     "ratings_count": "19426",
-    "publication_day": "25"
+    "publication_day": "25",
+    "publication_month": "10",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/117047.The_Blind_Watchmaker",
@@ -2843,13 +3025,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "552074",
+        "ratings_count": "552076",
         "text_reviews_count": "20692"
       }
     },
     "average_rating": "4.09",
-    "ratings_count": "28695",
-    "publication_day": "6"
+    "ratings_count": "28696",
+    "publication_day": "6",
+    "publication_month": "4",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/381355.The_Bogleheads_Guide_to_Investing",
@@ -2880,7 +3064,9 @@
     },
     "average_rating": "4.27",
     "ratings_count": "5330",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "1",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
@@ -2910,8 +3096,10 @@
       }
     },
     "average_rating": "4.37",
-    "ratings_count": "1619432",
-    "publication_day": "14"
+    "ratings_count": "1619438",
+    "publication_day": "14",
+    "publication_month": "3",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/316767.The_Box",
@@ -2942,7 +3130,9 @@
     },
     "average_rating": "3.87",
     "ratings_count": "3677",
-    "publication_day": "9"
+    "publication_day": "9",
+    "publication_month": "4",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/6338310-the-brain-that-changes-itself",
@@ -2967,13 +3157,15 @@
         },
         "link": "https://www.goodreads.com/author/show/311849.Norman_Doidge",
         "average_rating": "4.05",
-        "ratings_count": "89644",
+        "ratings_count": "89648",
         "text_reviews_count": "8371"
       }
     },
     "average_rating": "4.20",
     "ratings_count": "27228",
-    "publication_day": "7"
+    "publication_day": "7",
+    "publication_month": "8",
+    "publication_year": "2008"
   },
   {
     "link": "https://www.goodreads.com/book/show/30474.The_Communist_Manifesto",
@@ -3004,7 +3196,9 @@
     },
     "average_rating": "3.55",
     "ratings_count": "91814",
-    "publication_day": "27"
+    "publication_day": "27",
+    "publication_month": "6",
+    "publication_year": "2002"
   },
   {
     "link": "https://www.goodreads.com/book/show/254799.The_Creative_Habit",
@@ -3034,8 +3228,10 @@
       }
     },
     "average_rating": "4.01",
-    "ratings_count": "21538",
-    "publication_day": "6"
+    "ratings_count": "21539",
+    "publication_day": "6",
+    "publication_month": "1",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/25273650-the-culture-map",
@@ -3066,7 +3262,9 @@
     },
     "average_rating": "4.36",
     "ratings_count": "3767",
-    "publication_day": "5"
+    "publication_day": "5",
+    "publication_month": "1",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time",
@@ -3097,7 +3295,9 @@
     },
     "average_rating": "3.87",
     "ratings_count": "1082028",
-    "publication_day": "18"
+    "publication_day": "18",
+    "publication_month": "5",
+    "publication_year": "2004"
   },
   {
     "link": "https://www.goodreads.com/book/show/23168817-the-dark-forest",
@@ -3127,8 +3327,10 @@
       }
     },
     "average_rating": "4.40",
-    "ratings_count": "45549",
-    "publication_day": "11"
+    "ratings_count": "45550",
+    "publication_day": "11",
+    "publication_month": "8",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things",
@@ -3159,7 +3361,9 @@
     },
     "average_rating": "4.18",
     "ratings_count": "22471",
-    "publication_day": "19"
+    "publication_day": "19",
+    "publication_month": "9",
+    "publication_year": "2002"
   },
   {
     "link": "https://www.goodreads.com/book/show/19170918-the-economic-naturalist",
@@ -3190,7 +3394,9 @@
     },
     "average_rating": "3.48",
     "ratings_count": "2527",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/8049273-the-elegant-universe",
@@ -3221,7 +3427,9 @@
     },
     "average_rating": "4.07",
     "ratings_count": "80841",
-    "publication_day": "11"
+    "publication_day": "11",
+    "publication_month": "10",
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/1446901.The_Emergence_of_Probability",
@@ -3252,7 +3460,9 @@
     },
     "average_rating": "3.93",
     "ratings_count": "134",
-    "publication_day": "31"
+    "publication_day": "31",
+    "publication_month": "8",
+    "publication_year": "1984"
   },
   {
     "link": "https://www.goodreads.com/book/show/17660462-the-everything-store",
@@ -3277,13 +3487,15 @@
         },
         "link": "https://www.goodreads.com/author/show/219908.Brad_Stone",
         "average_rating": "4.13",
-        "ratings_count": "47200",
+        "ratings_count": "47201",
         "text_reviews_count": "2776"
       }
     },
     "average_rating": "4.13",
     "ratings_count": "43117",
-    "publication_day": "15"
+    "publication_day": "15",
+    "publication_month": "10",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/22570670-the-exponential-organization",
@@ -3314,7 +3526,9 @@
     },
     "average_rating": "4.17",
     "ratings_count": "2784",
-    "publication_day": "14"
+    "publication_day": "14",
+    "publication_month": "10",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/31868530-the-extended-phenotype",
@@ -3339,13 +3553,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "552074",
+        "ratings_count": "552076",
         "text_reviews_count": "20692"
       }
     },
     "average_rating": "4.09",
     "ratings_count": "7592",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "11",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/36628413-the-future-of-capitalism",
@@ -3370,13 +3586,15 @@
         },
         "link": "https://www.goodreads.com/author/show/137237.Paul_Collier",
         "average_rating": "3.85",
-        "ratings_count": "9009",
+        "ratings_count": "9010",
         "text_reviews_count": "695"
       }
     },
     "average_rating": "3.89",
     "ratings_count": "847",
-    "publication_day": "4"
+    "publication_day": "4",
+    "publication_month": "12",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/27276428-the-gene",
@@ -3407,7 +3625,9 @@
     },
     "average_rating": "4.37",
     "ratings_count": "24465",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "5",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/14743.The_God_Delusion",
@@ -3432,13 +3652,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "552074",
+        "ratings_count": "552076",
         "text_reviews_count": "20692"
       }
     },
     "average_rating": "3.90",
     "ratings_count": "210057",
-    "publication_day": "18"
+    "publication_day": "18",
+    "publication_month": "10",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/4671.The_Great_Gatsby",
@@ -3468,8 +3690,10 @@
       }
     },
     "average_rating": "3.91",
-    "ratings_count": "3360259",
-    "publication_day": {}
+    "ratings_count": "3360278",
+    "publication_day": {},
+    "publication_month": "9",
+    "publication_year": "2004"
   },
   {
     "link": "https://www.goodreads.com/book/show/6117055-the-greatest-show-on-earth",
@@ -3494,13 +3718,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "552074",
+        "ratings_count": "552076",
         "text_reviews_count": "20692"
       }
     },
     "average_rating": "4.16",
     "ratings_count": "44079",
-    "publication_day": "10"
+    "publication_day": "10",
+    "publication_month": "9",
+    "publication_year": "2009"
   },
   {
     "link": "https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things",
@@ -3531,7 +3757,9 @@
     },
     "average_rating": "4.24",
     "ratings_count": "39724",
-    "publication_day": "4"
+    "publication_day": "4",
+    "publication_month": "3",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/27414493-the-headspace-guide-to-meditation-mindfulness",
@@ -3562,7 +3790,9 @@
     },
     "average_rating": "4.09",
     "ratings_count": "4919",
-    "publication_day": "27"
+    "publication_day": "27",
+    "publication_month": "9",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/7833879-the-hidden-brain",
@@ -3593,7 +3823,9 @@
     },
     "average_rating": "3.97",
     "ratings_count": "1990",
-    "publication_day": "31"
+    "publication_day": "31",
+    "publication_month": "8",
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/25245967-the-hidden-wealth-of-nations",
@@ -3624,7 +3856,9 @@
     },
     "average_rating": "3.96",
     "ratings_count": "556",
-    "publication_day": "22"
+    "publication_day": "22",
+    "publication_month": "9",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/21856367-the-innovators",
@@ -3655,7 +3889,9 @@
     },
     "average_rating": "4.09",
     "ratings_count": "23996",
-    "publication_day": "7"
+    "publication_day": "7",
+    "publication_month": "10",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/25786402-the-innovator-s-dilemma",
@@ -3685,8 +3921,10 @@
       }
     },
     "average_rating": "3.98",
-    "ratings_count": "33896",
-    "publication_day": "5"
+    "ratings_count": "33897",
+    "publication_day": "5",
+    "publication_month": "1",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/18114087-the-knowledge",
@@ -3717,7 +3955,9 @@
     },
     "average_rating": "3.76",
     "ratings_count": "2005",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "4",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/40543821-the-laws-of-human-nature",
@@ -3742,13 +3982,15 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "120212",
-        "text_reviews_count": "7319"
+        "ratings_count": "120215",
+        "text_reviews_count": "7320"
       }
     },
     "average_rating": "4.40",
     "ratings_count": "3397",
-    "publication_day": "24"
+    "publication_day": "24",
+    "publication_month": "10",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing",
@@ -3779,7 +4021,9 @@
     },
     "average_rating": "4.17",
     "ratings_count": "6701",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "3",
+    "publication_year": "2007"
   },
   {
     "link": "https://www.goodreads.com/book/show/189531.The_Man_Who_Fed_the_World",
@@ -3810,7 +4054,9 @@
     },
     "average_rating": "3.83",
     "ratings_count": "308",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "7",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales",
@@ -3835,13 +4081,15 @@
         },
         "link": "https://www.goodreads.com/author/show/843200.Oliver_Sacks",
         "average_rating": "4.03",
-        "ratings_count": "320030",
+        "ratings_count": "320031",
         "text_reviews_count": "17737"
       }
     },
     "average_rating": "4.05",
     "ratings_count": "145565",
-    "publication_day": "2"
+    "publication_day": "2",
+    "publication_month": "4",
+    "publication_year": "1998"
   },
   {
     "link": "https://www.goodreads.com/book/show/39644428-the-misinformation-age",
@@ -3872,7 +4120,9 @@
     },
     "average_rating": "3.71",
     "ratings_count": "127",
-    "publication_day": "8"
+    "publication_day": "8",
+    "publication_month": "1",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/633128.The_Nurture_Assumption",
@@ -3903,7 +4153,9 @@
     },
     "average_rating": "4.10",
     "ratings_count": "1326",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/23482819-the-off-switch",
@@ -3934,7 +4186,9 @@
     },
     "average_rating": "3.45",
     "ratings_count": "44",
-    "publication_day": "25"
+    "publication_day": "25",
+    "publication_month": "6",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/16256798-the-one-thing",
@@ -3959,13 +4213,15 @@
         },
         "link": "https://www.goodreads.com/author/show/78754.Gary_Keller",
         "average_rating": "4.17",
-        "ratings_count": "38256",
+        "ratings_count": "38257",
         "text_reviews_count": "2978"
       }
     },
     "average_rating": "4.16",
     "ratings_count": "32930",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "4",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism",
@@ -3990,13 +4246,15 @@
         },
         "link": "https://www.goodreads.com/author/show/12806.Hannah_Arendt",
         "average_rating": "4.19",
-        "ratings_count": "46486",
+        "ratings_count": "46487",
         "text_reviews_count": "2852"
       }
     },
     "average_rating": "4.28",
     "ratings_count": "6948",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "1973"
   },
   {
     "link": "https://www.goodreads.com/book/show/17255186-the-phoenix-project",
@@ -4026,8 +4284,10 @@
       }
     },
     "average_rating": "4.26",
-    "ratings_count": "21425",
-    "publication_day": "10"
+    "ratings_count": "21426",
+    "publication_day": "10",
+    "publication_month": "1",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/15815606-the-power-of-negative-thinking",
@@ -4058,7 +4318,9 @@
     },
     "average_rating": "3.54",
     "ratings_count": "770",
-    "publication_day": "5"
+    "publication_day": "5",
+    "publication_month": "3",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer",
@@ -4089,7 +4351,9 @@
     },
     "average_rating": "4.31",
     "ratings_count": "13470",
-    "publication_day": "30"
+    "publication_day": "30",
+    "publication_month": "10",
+    "publication_year": "1999"
   },
   {
     "link": "https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon",
@@ -4120,7 +4384,9 @@
     },
     "average_rating": "4.25",
     "ratings_count": "82628",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "2",
+    "publication_year": "2008"
   },
   {
     "link": "https://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich",
@@ -4151,7 +4417,9 @@
     },
     "average_rating": "4.17",
     "ratings_count": "88520",
-    "publication_day": "15"
+    "publication_day": "15",
+    "publication_month": "11",
+    "publication_year": "1990"
   },
   {
     "link": "https://www.goodreads.com/book/show/16181775-the-rosie-project",
@@ -4182,7 +4450,9 @@
     },
     "average_rating": "4.02",
     "ratings_count": "393863",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "10",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/35457692-the-self-driven-child",
@@ -4213,7 +4483,9 @@
     },
     "average_rating": "4.37",
     "ratings_count": "1410",
-    "publication_day": "13"
+    "publication_day": "13",
+    "publication_month": "2",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/25812847-the-silk-roads",
@@ -4244,7 +4516,9 @@
     },
     "average_rating": "4.25",
     "ratings_count": "12432",
-    "publication_day": "27"
+    "publication_day": "27",
+    "publication_month": "8",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/17910054-the-sixth-extinction",
@@ -4275,7 +4549,9 @@
     },
     "average_rating": "4.13",
     "ratings_count": "38351",
-    "publication_day": "11"
+    "publication_day": "11",
+    "publication_month": "2",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/525808.The_Soul_Of_A_New_Machine",
@@ -4306,7 +4582,9 @@
     },
     "average_rating": "4.11",
     "ratings_count": "6150",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "1982"
   },
   {
     "link": "https://www.goodreads.com/book/show/30145147-the-telomere-effect",
@@ -4337,7 +4615,9 @@
     },
     "average_rating": "3.74",
     "ratings_count": "2544",
-    "publication_day": "3"
+    "publication_day": "3",
+    "publication_month": "1",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/2612.The_Tipping_Point",
@@ -4362,13 +4642,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "3.99",
-        "ratings_count": "1748022",
+        "ratings_count": "1748034",
         "text_reviews_count": "64458"
       }
     },
     "average_rating": "3.96",
     "ratings_count": "619071",
-    "publication_day": "7"
+    "publication_day": "7",
+    "publication_month": "1",
+    "publication_year": "2002"
   },
   {
     "link": "https://www.goodreads.com/book/show/45894166-the-triumph-of-injustice",
@@ -4399,7 +4681,9 @@
     },
     "average_rating": "0.0",
     "ratings_count": "0",
-    "publication_day": "15"
+    "publication_day": "15",
+    "publication_month": "10",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/35631386-the-undoing-project",
@@ -4430,7 +4714,9 @@
     },
     "average_rating": "3.98",
     "ratings_count": "37189",
-    "publication_day": "31"
+    "publication_day": "31",
+    "publication_month": "10",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/1319.The_War_of_Art",
@@ -4455,13 +4741,15 @@
         },
         "link": "https://www.goodreads.com/author/show/867.Steven_Pressfield",
         "average_rating": "4.09",
-        "ratings_count": "140167",
-        "text_reviews_count": "11039"
+        "ratings_count": "140168",
+        "text_reviews_count": "11040"
       }
     },
     "average_rating": "4.01",
-    "ratings_count": "59755",
-    "publication_day": "1"
+    "ratings_count": "59756",
+    "publication_day": "1",
+    "publication_month": "4",
+    "publication_year": "2003"
   },
   {
     "link": "https://www.goodreads.com/book/show/25701.The_Wealth_of_Nations",
@@ -4492,7 +4780,9 @@
     },
     "average_rating": "3.88",
     "ratings_count": "25123",
-    "publication_day": "12"
+    "publication_day": "12",
+    "publication_month": "7",
+    "publication_year": "2000"
   },
   {
     "link": "https://www.goodreads.com/book/show/17396014-the-year-without-pants",
@@ -4523,7 +4813,9 @@
     },
     "average_rating": "3.84",
     "ratings_count": "2106",
-    "publication_day": "10"
+    "publication_day": "10",
+    "publication_month": "9",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/35957157-thinking-in-bets",
@@ -4554,7 +4846,9 @@
     },
     "average_rating": "3.84",
     "ratings_count": "4455",
-    "publication_day": "6"
+    "publication_day": "6",
+    "publication_month": "2",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/44334073-tools-and-weapons",
@@ -4585,7 +4879,9 @@
     },
     "average_rating": "4.17",
     "ratings_count": "29",
-    "publication_day": "10"
+    "publication_day": "10",
+    "publication_month": "9",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/43864328-travel-isn-t-the-answer",
@@ -4616,7 +4912,9 @@
     },
     "average_rating": "4.25",
     "ratings_count": "4",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/34594504-travellers-in-the-third-reich",
@@ -4647,7 +4945,9 @@
     },
     "average_rating": "4.08",
     "ratings_count": "1297",
-    "publication_day": "10"
+    "publication_day": "10",
+    "publication_month": "8",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/20958539-unlimited-memory",
@@ -4678,7 +4978,9 @@
     },
     "average_rating": "4.02",
     "ratings_count": "11143",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/41716904-upheaval",
@@ -4709,7 +5011,9 @@
     },
     "average_rating": "3.84",
     "ratings_count": "1682",
-    "publication_day": "7"
+    "publication_day": "7",
+    "publication_month": "5",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/42366036-vertically-integrated-architectures",
@@ -4740,7 +5044,9 @@
     },
     "average_rating": "2.75",
     "ratings_count": "4",
-    "publication_day": "13"
+    "publication_day": "13",
+    "publication_month": "3",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/656.War_and_Peace",
@@ -4771,7 +5077,9 @@
     },
     "average_rating": "4.11",
     "ratings_count": "240138",
-    "publication_day": "25"
+    "publication_day": "25",
+    "publication_month": "6",
+    "publication_year": "1998"
   },
   {
     "link": "https://www.goodreads.com/book/show/32109569-we-are-legion",
@@ -4796,13 +5104,15 @@
         },
         "link": "https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor",
         "average_rating": "4.33",
-        "ratings_count": "100243",
+        "ratings_count": "100246",
         "text_reviews_count": "7243"
       }
     },
     "average_rating": "4.29",
     "ratings_count": "42495",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/31625636-we-have-no-idea",
@@ -4833,7 +5143,9 @@
     },
     "average_rating": "4.26",
     "ratings_count": "3413",
-    "publication_day": "9"
+    "publication_day": "9",
+    "publication_month": "5",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction",
@@ -4864,7 +5176,9 @@
     },
     "average_rating": "3.86",
     "ratings_count": "11772",
-    "publication_day": "6"
+    "publication_day": "6",
+    "publication_month": "9",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/10554433-what-einstein-told-his-barber",
@@ -4895,7 +5209,9 @@
     },
     "average_rating": "3.65",
     "ratings_count": "1366",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/21413662-what-if",
@@ -4920,13 +5236,15 @@
         },
         "link": "https://www.goodreads.com/author/show/3089156.Randall_Munroe",
         "average_rating": "4.16",
-        "ratings_count": "127494",
-        "text_reviews_count": "9345"
+        "ratings_count": "127497",
+        "text_reviews_count": "9346"
       }
     },
     "average_rating": "4.16",
-    "ratings_count": "105007",
-    "publication_day": "2"
+    "ratings_count": "105009",
+    "publication_day": "2",
+    "publication_month": "9",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/36031242-what-would-the-great-economists-do",
@@ -4957,7 +5275,9 @@
     },
     "average_rating": "3.77",
     "ratings_count": "219",
-    "publication_day": "5"
+    "publication_day": "5",
+    "publication_month": "6",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/10669.When_Genius_Failed",
@@ -4988,7 +5308,9 @@
     },
     "average_rating": "4.18",
     "ratings_count": "20793",
-    "publication_day": "9"
+    "publication_day": "9",
+    "publication_month": "10",
+    "publication_year": "2001"
   },
   {
     "link": "https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from",
@@ -5019,7 +5341,9 @@
     },
     "average_rating": "4.03",
     "ratings_count": "11084",
-    "publication_day": "5"
+    "publication_day": "5",
+    "publication_month": "10",
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/15802693-who-owns-the-future",
@@ -5050,7 +5374,9 @@
     },
     "average_rating": "3.78",
     "ratings_count": "2971",
-    "publication_day": "7"
+    "publication_day": "7",
+    "publication_month": "5",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/9135907-why-don-t-penguins-feet-freeze",
@@ -5081,7 +5407,9 @@
     },
     "average_rating": "3.51",
     "ratings_count": "1625",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/15799334-why-nations-fail",
@@ -5112,7 +5440,9 @@
     },
     "average_rating": "4.05",
     "ratings_count": "23472",
-    "publication_day": "17"
+    "publication_day": "17",
+    "publication_month": "9",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/34466963-why-we-sleep",
@@ -5137,13 +5467,15 @@
         },
         "link": "https://www.goodreads.com/author/show/17598726.Matthew_Walker",
         "average_rating": "4.46",
-        "ratings_count": "26561",
+        "ratings_count": "26562",
         "text_reviews_count": "3661"
       }
     },
     "average_rating": "4.47",
     "ratings_count": "26690",
-    "publication_day": "3"
+    "publication_day": "3",
+    "publication_month": "10",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/1293306.Winning_Ways_for_Your_Mathematical_Plays",
@@ -5174,6 +5506,8 @@
     },
     "average_rating": "4.29",
     "ratings_count": "68",
-    "publication_day": "18"
+    "publication_day": "18",
+    "publication_month": "1",
+    "publication_year": "2001"
   }
 ]

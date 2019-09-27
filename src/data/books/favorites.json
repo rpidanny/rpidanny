@@ -28,7 +28,9 @@
     },
     "average_rating": "4.19",
     "ratings_count": "42124",
-    "publication_day": "4"
+    "publication_day": "4",
+    "publication_month": "9",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/13707738-boomerang",
@@ -59,7 +61,9 @@
     },
     "average_rating": "3.90",
     "ratings_count": "38609",
-    "publication_day": "4"
+    "publication_day": "4",
+    "publication_month": "9",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/34890015-factfulness",
@@ -84,13 +88,15 @@
         },
         "link": "https://www.goodreads.com/author/show/2790706.Hans_Rosling",
         "average_rating": "4.36",
-        "ratings_count": "56904",
+        "ratings_count": "56905",
         "text_reviews_count": "5847"
       }
     },
     "average_rating": "4.36",
     "ratings_count": "55743",
-    "publication_day": "25"
+    "publication_day": "25",
+    "publication_month": "1",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/23281872-how-not-to-be-wrong",
@@ -121,7 +127,9 @@
     },
     "average_rating": "3.96",
     "ratings_count": "11438",
-    "publication_day": "26"
+    "publication_day": "26",
+    "publication_month": "5",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/17662487-nudge",
@@ -146,13 +154,15 @@
         },
         "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
         "average_rating": "3.89",
-        "ratings_count": "64208",
-        "text_reviews_count": "3739"
+        "ratings_count": "64210",
+        "text_reviews_count": "3741"
       }
     },
     "average_rating": "3.83",
-    "ratings_count": "50906",
-    "publication_day": "24"
+    "ratings_count": "50908",
+    "publication_day": "24",
+    "publication_month": "2",
+    "publication_year": "2009"
   },
   {
     "link": "https://www.goodreads.com/book/show/25135194-prisoners-of-geography",
@@ -183,7 +193,9 @@
     },
     "average_rating": "4.24",
     "ratings_count": "27823",
-    "publication_day": "9"
+    "publication_day": "9",
+    "publication_month": "7",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/18295861-the-first-fifteen-lives-of-harry-august",
@@ -208,13 +220,15 @@
         },
         "link": "https://www.goodreads.com/author/show/7210024.Claire_North",
         "average_rating": "3.93",
-        "ratings_count": "83292",
+        "ratings_count": "83293",
         "text_reviews_count": "11604"
       }
     },
     "average_rating": "4.04",
     "ratings_count": "55688",
-    "publication_day": "8"
+    "publication_day": "8",
+    "publication_month": "4",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/18007564-the-martian",
@@ -239,13 +253,15 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.27",
-        "ratings_count": "875105",
+        "ratings_count": "875109",
         "text_reviews_count": "91411"
       }
     },
     "average_rating": "4.40",
     "ratings_count": "710302",
-    "publication_day": "11"
+    "publication_day": "11",
+    "publication_month": "2",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/29807115-the-selfish-gene",
@@ -270,13 +286,15 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "552074",
+        "ratings_count": "552076",
         "text_reviews_count": "20692"
       }
     },
     "average_rating": "4.13",
     "ratings_count": "122531",
-    "publication_day": "1"
+    "publication_day": "1",
+    "publication_month": "8",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/599660.The_Undercover_Economist",
@@ -307,7 +325,9 @@
     },
     "average_rating": "3.81",
     "ratings_count": "22796",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2007"
   },
   {
     "link": "https://www.goodreads.com/book/show/25516595-thinking-fast-and-slow",
@@ -332,13 +352,15 @@
         },
         "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
         "average_rating": "4.13",
-        "ratings_count": "237790",
+        "ratings_count": "237797",
         "text_reviews_count": "9043"
       }
     },
     "average_rating": "4.14",
     "ratings_count": "233379",
-    "publication_day": {}
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/40876575-utopia-for-realists",
@@ -369,6 +391,8 @@
     },
     "average_rating": "4.24",
     "ratings_count": "9745",
-    "publication_day": "14"
+    "publication_day": "14",
+    "publication_month": "3",
+    "publication_year": "2017"
   }
 ]
