@@ -1,20 +1,126 @@
 [
   {
-    "link": "https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein",
-    "title": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
-    "title_without_series": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
-    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "description": "<b>The blockbuster phenomenon that charts an amazing journey of the mind while revolutionizing our concept of memory</b><br /><br />An instant bestseller that is poised to become a classic, <i>Moonwalking with Einstein</i> recounts Joshua Foer's yearlong quest to improve his memory under the tutelage of top \"mental athletes.\" He draws on cutting-edge research, a surprising cultural history of remembering, and venerable tricks of the mentalist's trade to transform our understanding of human memory. From the United States Memory Championship to deep within the author's own mind, this is an electrifying work of journalism that reminds us that, in every way that matters, we are the sum of our memories.",
-    "num_pages": "307"
+    "link": "https://www.goodreads.com/book/show/28092883-a-short-history-of-nearly-everything",
+    "title": "A Short History of Nearly Everything",
+    "title_without_series": "A Short History of Nearly Everything",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470437934l/28092883._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470437934l/28092883._SX98_.jpg",
+    "description": "Bill Bryson describes himself as a reluctant traveller, but even when he stays safely at home he can't contain his curiosity about the world around him.<i> A Short History of Nearly Everything </i>is his quest to understand everything that has happened from the Big Bang to the rise of civilization - how we got from there, being nothing at all, to here, being us. Bill Bryson's challenge is to take subjects that normally bore the pants off most of us, like geology, chemistry and particle physics, and see if there isn't some way to render them comprehensible to people who have never thought they could be interested in science.<br /><br />The ultimate eye-opening journey through time and space, A Short History of Nearly Everything is the biggest-selling popular science book of the 21st century, and reveals the world in a way most of us have never seen it before.",
+    "num_pages": "668",
+    "authors": {
+      "author": {
+        "id": "7",
+        "name": "Bill Bryson",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1189096502p5/7.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1189096502p2/7.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/7.Bill_Bryson",
+        "average_rating": "4.02",
+        "ratings_count": "1187772",
+        "text_reviews_count": "70836"
+      }
+    },
+    "average_rating": "4.20",
+    "ratings_count": "257845",
+    "publication_day": "16"
   },
   {
-    "link": "https://www.goodreads.com/book/show/20518872-the-three-body-problem",
-    "title": "The Three-Body Problem (Remembrance of Earth’s Past #1)",
-    "title_without_series": "The Three-Body Problem",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872._SX98_.jpg",
-    "description": "<i>The Three-Body Problem</i> is the first chance for English-speaking readers to experience this multiple award winning phenomenon from China's most beloved science fiction author, Liu Cixin.<br /><br />\"Fans of hard SF will revel in this intricate and imaginative novel by one of China’s most celebrated genre writers. In 1967, physics professor Ye Zhetai is killed after he refuses to denounce the theory of relativity. His daughter, Ye Wenjie, witnesses his gruesome death.<br /><br />\"Shortly after, she’s falsely charged with sedition for promoting the works of environmentalist Rachel Carson, and told she can avoid punishment by working at a defense research facility involved with the search for extraterrestrial intelligence. More than 40 years later, Ye’s work becomes linked to a string of physicist suicides and a complex role-playing game involving the classic physics problem of the title.<br /><br />\"Liu impressively succeeds in integrating complex topics—such as the field of frontier science, which attempts to define the limits of science’s ability to know nature—without slowing down the action or sacrificing characterization. His smooth handling of the disparate plot elements cleverly sets up the second volume of the trilogy.\" —<i>Publishers Weekly</i>",
-    "num_pages": "400"
+    "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
+    "title": "The 48 Laws Of Power",
+    "title_without_series": "The 48 Laws Of Power",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529072201l/984017._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529072201l/984017._SX98_.jpg",
+    "description": "Amoral, cunning, ruthless, and instructive, this piercing work distills three thousand years of the history of power in to forty-eight well explicated laws. As attention-grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. <br /><br />Some laws teach the need for prudence (\"Law 1: Never Outshine the Master\"), the virtue of stealth (\"Law 3: Conceal Your Intentions\"), and many demand the total absence of mercy (\"Law 15: Crush Your Enemy Totally\"), but like it or not, all have applications in real life. <br /><br />Illustrated through the tactics of Queen Elizabeth I, Henry Kissinger, P. T. Barnum, and other famous figures who have wielded--or been victimized by--power, these laws will fascinate any reader interested in gaining, observing, or defending against ultimate control.",
+    "num_pages": "452",
+    "authors": {
+      "author": {
+        "id": "865",
+        "name": "Robert Greene",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1298212921p5/865.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1298212921p2/865.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
+        "average_rating": "4.20",
+        "ratings_count": "120212",
+        "text_reviews_count": "7319"
+      }
+    },
+    "average_rating": "4.18",
+    "ratings_count": "60666",
+    "publication_day": {}
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/36204378-the-book-of-why",
+    "title": "The Book of Why: The New Science of Cause and Effect",
+    "title_without_series": "The Book of Why: The New Science of Cause and Effect",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378._SX98_.jpg",
+    "description": "<b>A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence</b><b>\n  <br />\n</b>\"Correlation is not causation.\" This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality--the study of cause and effect--on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs <i>The Book of Why</i>.<br /><br /><br />",
+    "num_pages": "432",
+    "authors": {
+      "author": {
+        "id": "101708",
+        "name": "Judea Pearl",
+        "role": {},
+        "image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+        },
+        "small_image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+        },
+        "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
+        "average_rating": "3.99",
+        "ratings_count": "2046",
+        "text_reviews_count": "248"
+      }
+    },
+    "average_rating": "3.96",
+    "ratings_count": "1546",
+    "publication_day": "15"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/40921633-the-new-silk-roads",
+    "title": "The New Silk Roads",
+    "title_without_series": "The New Silk Roads",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "'All roads used to lead to Rome. Today, they lead to Beijing.'<br /><br />When The Silk Roads was published in 2015, it became an instant classic. A major reassessment of world history, it compelled us to look at the past from a different perspective. The New Silk Roads brings this story up to date, addressing the present and future of a world that is changing dramatically.<br /><br />Following the Silk Roads eastwards, from Europe through to China, by way of Russia and the Middle East, The New Silk Roads provides a timely reminder that we live in a world that is profoundly interconnected. In an age of Brexit and Trump, the themes of isolation and fragmentation permeating the Western world stand in sharp contrast to events along the Silk Roads since 2015, where ties have been strengthened and mutual cooperation established.<br /><br />With brilliant insight, Peter Frankopan takes a fresh look at the network of relationships being formed along the length and breadth of the Silk Roads today, assessing the global reverberations of these continual shifts in the centre of power - all too often absent from headlines in the West. This important - and ultimately hopeful - book asks us to reassess who we are and where we are in the world, illuminating the themes on which all our lives and livelihood depend.",
+    "num_pages": "313",
+    "authors": {
+      "author": {
+        "id": "3185055",
+        "name": "Peter Frankopan",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1464911422p5/3185055.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1464911422p2/3185055.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
+        "average_rating": "4.19",
+        "ratings_count": "14223",
+        "text_reviews_count": "1813"
+      }
+    },
+    "average_rating": "3.68",
+    "ratings_count": "1419",
+    "publication_day": {}
   }
 ]
