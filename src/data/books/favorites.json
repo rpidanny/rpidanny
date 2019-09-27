@@ -6,7 +6,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SX98_.jpg",
     "description": "<b>In<i> Sapiens, </i>he explored our past. In <i>Homo Deus, </i>he looked to our future<i>. </i>Now, one of the most innovative thinkers on the planet turns to the present to make sense of today's most pressing issues.</b><br /><br />How do computers and robots change the meaning of being human? How do we deal with the epidemic of fake news? Are nations and religions still relevant? What should we teach our children?<br /><br />Yuval Noah Harari's <i>21 Lessons for the 21st Century</i> is a probing and visionary investigation into today's most urgent issues as we move into the uncharted territory of the future. As technology advances faster than our understanding of it, hacking becomes a tactic of war, and the world feels more polarized than ever, Harari addresses the challenge of navigating life in the face of constant and disorienting change and raises the important questions we need to ask ourselves in order to survive.<br /><br />In twenty-one accessible chapters that are both provocative and profound, Harari builds on the ideas explored in his previous books, untangling political, technological, social, and existential issues and offering advice on how to prepare for a very different future from the world we now live in: How can we retain freedom of choice when Big Data is watching us? What will the future workforce look like, and how should we ready ourselves for it? How should we deal with the threat of terrorism? Why is liberal democracy in crisis?<br /><br />Harari's unique ability to make sense of where we have come from and where we are going has captured the imaginations of millions of readers. Here he invites us to consider values, meaning, and personal engagement in a world full of noise and uncertainty. When we are deluged with irrelevant information, clarity is power. Presenting complex contemporary challenges clearly and accessibly, <i>21 Lessons for the 21st Century</i> is essential reading.",
-    "num_pages": "372"
+    "num_pages": "372",
+    "authors": {
+      "author": {
+        "id": "395812",
+        "name": "Yuval Noah Harari",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1546235045p5/395812.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1546235045p2/395812.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
+        "average_rating": "4.38",
+        "ratings_count": "429102",
+        "text_reviews_count": "35080"
+      }
+    },
+    "average_rating": "4.19",
+    "ratings_count": "42124",
+    "publication_day": "4"
   },
   {
     "link": "https://www.goodreads.com/book/show/13707738-boomerang",
@@ -15,7 +37,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345046879l/13707738._SX50_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345046879l/13707738._SX98_.jpg",
     "description": "The tsunami of cheap credit that rolled across the planet between 2002 and 2008 was more than a simple financial phenomenon: it was temptation, offering entire societies the chance to reveal aspects of their characters they could not normally afford to indulge.<br /><br /><br />Icelanders wanted to stop fishing and become investment bankers. The Greeks wanted to turn their country into a pinata stuffed with cash and allow as many citizens as possible to take a whack at it. The Germans wanted to be even more German; the Irish wanted to stop being Irish.<br /><br /><br />Michael Lewis's investigation of bubbles beyond our shores is so brilliantly, sadly hilarious that it leads the American reader to a comfortable complacency: oh, those foolish foreigners. But when he turns a merciless eye on California and Washington, DC, we see that the narrative is a trap baited with humor, and we understand the reckoning that awaits the greatest and greediest of debtor nations.",
-    "num_pages": "218"
+    "num_pages": "218",
+    "authors": {
+      "author": {
+        "id": "776",
+        "name": "Michael   Lewis",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1317447168p5/776.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1317447168p2/776.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
+        "average_rating": "4.15",
+        "ratings_count": "538836",
+        "text_reviews_count": "30733"
+      }
+    },
+    "average_rating": "3.90",
+    "ratings_count": "38609",
+    "publication_day": "4"
   },
   {
     "link": "https://www.goodreads.com/book/show/34890015-factfulness",
@@ -24,7 +68,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544963815l/34890015._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544963815l/34890015._SX98_.jpg",
     "description": "<i>Factfulness:</i> The stress-reducing habit of only carrying opinions for which you have strong supporting facts.<br /><br />When asked simple questions about global trends—<i>what percentage of the world’s population live in poverty; why the world’s population is increasing; how many girls finish school</i>—we systematically get the answers wrong. In <i>Factfulness</i>, Professor of International Health and global TED phenomenon Hans Rosling, together with his two long-time collaborators, Anna and Ola, offers <b>a radical new explanation of why this happens</b>. They reveal <b>the ten instincts that distort our perspective</b>—from our tendency to divide the world into two camps (usually some version of <i>us</i> and <i>them</i>) to the way we consume media (where fear rules) to how we perceive progress (believing that most things are getting worse).<br /><br />Our problem is that we don’t know what we don’t know, and even our guesses are informed by unconscious and predictable biases.<br /><br /><b>It turns out that the world, for all its imperfections, is in a much better state than we might think.</b> That doesn’t mean there aren’t real concerns. But when we worry about everything all the time instead of embracing a worldview based on facts, we can lose our ability to focus on the things that threaten us most.",
-    "num_pages": "342"
+    "num_pages": "342",
+    "authors": {
+      "author": {
+        "id": "2790706",
+        "name": "Hans Rosling",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1486521286p5/2790706.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1486521286p2/2790706.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/2790706.Hans_Rosling",
+        "average_rating": "4.36",
+        "ratings_count": "56904",
+        "text_reviews_count": "5847"
+      }
+    },
+    "average_rating": "4.36",
+    "ratings_count": "55743",
+    "publication_day": "25"
   },
   {
     "link": "https://www.goodreads.com/book/show/23281872-how-not-to-be-wrong",
@@ -33,7 +99,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SX98_.jpg",
     "description": "<b>The <i>Freakonomics</i> of math—a math-world superstar unveils the hidden beauty and logic of the world and puts its power in our hands</b><br /><br />The math we learn in school can seem like a dull set of rules, laid down by the ancients and not to be questioned. In <i>How Not to Be Wrong</i>, Jordan Ellenberg shows us how terribly limiting this view is: Math isn’t confined to abstract incidents that never occur in real life, but rather touches everything we do—the whole world is shot through with it.<br /><br />Math allows us to see the hidden structures underneath the messy and chaotic surface of our world. It’s a science of not being wrong, hammered out by centuries of hard work and argument. Armed with the tools of mathematics, we can see through to the true meaning of information we take for granted: How early should you get to the airport? What does “public opinion” really represent? Why do tall parents have shorter children? Who really won Florida in 2000? And how likely are you, really, to develop cancer?<br /><br /><i>How Not to Be Wrong</i> presents the surprising revelations behind all of these questions and many more, using the mathematician’s method of analyzing life and exposing the hard-won insights of the academic community to the layman—minus the jargon. Ellenberg chases mathematical threads through a vast range of time and space, from the everyday to the cosmic, encountering, among other things, baseball, Reaganomics, daring lottery schemes, Voltaire, the replicability crisis in psychology, Italian Renaissance painting, artificial languages, the development of non-Euclidean geometry, the coming obesity apocalypse, Antonin Scalia’s views on crime and punishment, the psychology of slime molds, what Facebook can and can’t figure out about you, and the existence of God.<br /><br />Ellenberg pulls from history as well as from the latest theoretical developments to provide those not trained in math with the knowledge they need. Math, as Ellenberg says, is “an atomic-powered prosthesis that you attach to your common sense, vastly multiplying its reach and strength.” With the tools of mathematics in hand, you can understand the world in a deeper, more meaningful way. How Not to Be Wrong will show you how.",
-    "num_pages": "480"
+    "num_pages": "480",
+    "authors": {
+      "author": {
+        "id": "359894",
+        "name": "Jordan Ellenberg",
+        "role": {},
+        "image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+        },
+        "small_image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+        },
+        "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
+        "average_rating": "3.96",
+        "ratings_count": "11535",
+        "text_reviews_count": "1134"
+      }
+    },
+    "average_rating": "3.96",
+    "ratings_count": "11438",
+    "publication_day": "26"
   },
   {
     "link": "https://www.goodreads.com/book/show/17662487-nudge",
@@ -42,7 +130,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363727799l/17662487._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363727799l/17662487._SX98_.jpg",
     "description": "For fans of Malcolm Gladwell’s Blink and Nobel Prize winner Daniel Kahneman’s Thinking Fast and Slow, a revelatory new look at how we make decisions<br /><br />A New York Times bestseller<br />An Economist Best Book of the Year<br />A Financial Times Best Book of the Year<br /><br />Nudge is about choices—how we make them and how we can make better ones. Drawing on decades of research in the fields of behavioral science and economics, authors Richard H. Thaler and Cass R. Sunstein offer a new perspective on preventing the countless mistakes we make—ill-advised personal investments, consumption of unhealthy foods, neglect of our natural resources—and show us how sensible “choice architecture” can successfully nudge people toward the best decisions. In the tradition of The Tipping Point and Freakonomics, Nudge is straightforward, informative, and entertaining—a must-read for anyone interested in our individual and collective well-being.",
-    "num_pages": "324"
+    "num_pages": "324",
+    "authors": {
+      "author": {
+        "id": "65483",
+        "name": "Richard H. Thaler",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1438885744p5/65483.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1438885744p2/65483.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
+        "average_rating": "3.89",
+        "ratings_count": "64208",
+        "text_reviews_count": "3739"
+      }
+    },
+    "average_rating": "3.83",
+    "ratings_count": "50906",
+    "publication_day": "24"
   },
   {
     "link": "https://www.goodreads.com/book/show/25135194-prisoners-of-geography",
@@ -51,7 +161,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432827094l/25135194._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432827094l/25135194._SX98_.jpg",
     "description": "In the bestselling tradition of <i>Why Nations Fail</i> and <i>The Revenge of Geography</i>, an award-winning journalist uses ten maps of crucial regions to explain the geo-political strategies of the world powers.<br /><br />All leaders of nations are constrained by geography. Their choices are limited by mountains, rivers, seas, and concrete. To understand world events, news organizations and other authorities often focus on people, ideas, and political movements, but without geography, we never have the full picture. Now, in the relevant and timely <i>Prisoners of Geography</i>, seasoned journalist Tim Marshall examines Russia, China, the USA, Latin America, the Middle East, Africa, Europe, Japan and Korea, and Greenland and the Arctic—their weather, seas, mountains, rivers, deserts, and borders—to provide a context often missing from our political reportage: how the physical characteristics of these countries affect their strengths and vulnerabilities and the decisions made by their leaders.<br /><br />In ten, up-to-date maps of each region, Marshall explains in clear and engaging prose the complex geo-political strategies of these key parts of the globe. What does it mean that Russia must have a navy, but also has frozen ports six months a year? How does this affect Putin’s treatment of the Ukraine? How is China’s future constrained by its geography? Why will Europe never be united? Why will America never be invaded? Shining a light on the unavoidable physical realities that shape all of our aspirations and endeavors, <i>Prisoners of Geography</i> is the critical guide to one of the major (and most often overlooked) determining factors in world history.",
-    "num_pages": "256"
+    "num_pages": "256",
+    "authors": {
+      "author": {
+        "id": "713466",
+        "name": "Tim Marshall",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1489696759p5/713466.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1489696759p2/713466.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/713466.Tim_Marshall",
+        "average_rating": "4.19",
+        "ratings_count": "31166",
+        "text_reviews_count": "2975"
+      }
+    },
+    "average_rating": "4.24",
+    "ratings_count": "27823",
+    "publication_day": "9"
   },
   {
     "link": "https://www.goodreads.com/book/show/18295861-the-first-fifteen-lives-of-harry-august",
@@ -60,7 +192,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379133081l/18295861._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379133081l/18295861._SX98_.jpg",
     "description": "Some stories cannot be told in just one lifetime. Harry August is on his deathbed. Again. No matter what he does or the decisions he makes, when death comes, Harry always returns to where he began, a child with all the knowledge of a life he has already lived a dozen times before. Nothing ever changes. Until now. As Harry nears the end of his eleventh life, a little girl appears at his bedside. \"I nearly missed you, Doctor August,\" she says. \"I need to send a message.\" This is the story of what Harry does next, and what he did before, and how he tries to save a past he cannot change and a future he cannot allow.",
-    "num_pages": "416"
+    "num_pages": "416",
+    "authors": {
+      "author": {
+        "id": "7210024",
+        "name": "Claire North",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1440105009p5/7210024.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1440105009p2/7210024.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/7210024.Claire_North",
+        "average_rating": "3.93",
+        "ratings_count": "83292",
+        "text_reviews_count": "11604"
+      }
+    },
+    "average_rating": "4.04",
+    "ratings_count": "55687",
+    "publication_day": "8"
   },
   {
     "link": "https://www.goodreads.com/book/show/18007564-the-martian",
@@ -69,7 +223,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg",
     "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. <br /><br />Now, he’s sure he’ll be the first person to die there.<br /><br />After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. <br /><br />Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. <br /><br />But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?<br /><br />",
-    "num_pages": "369"
+    "num_pages": "369",
+    "authors": {
+      "author": {
+        "id": "6540057",
+        "name": "Andy Weir",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1382592903p5/6540057.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1382592903p2/6540057.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
+        "average_rating": "4.27",
+        "ratings_count": "875105",
+        "text_reviews_count": "91411"
+      }
+    },
+    "average_rating": "4.40",
+    "ratings_count": "710302",
+    "publication_day": "11"
   },
   {
     "link": "https://www.goodreads.com/book/show/29807115-the-selfish-gene",
@@ -78,7 +254,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463949436l/29807115._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463949436l/29807115._SX98_.jpg",
     "description": "The million copy international bestseller, critically acclaimed and translated into over 25 languages. <br />As influential today as when it was first published, The Selfish Gene has become a classic exposition of evolutionary thought. Professor Dawkins articulates a gene's eye view of evolution - a view giving centre stage to these persistent units of information, and in which organisms can be seen as vehicles for their replication. This imaginative, powerful, and stylistically brilliant work not only brought the insights of Neo-Darwinism to a wide audience, but galvanized the biology community, generating much debate and stimulating whole new areas of research. Forty years later, its insights remain as relevant today as on the day it was published. <br />This 40th anniversary edition includes a new epilogue from the author discussing the continuing relevance of these ideas in evolutionary biology today, as well as the original prefaces and foreword, and extracts from early reviews. <br />Oxford Landmark Science books are 'must-read' classics of modern science writing which have crystallized big ideas, and shaped the way we think.<br />",
-    "num_pages": "496"
+    "num_pages": "496",
+    "authors": {
+      "author": {
+        "id": "1194",
+        "name": "Richard Dawkins",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1377030297p5/1194.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1377030297p2/1194.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
+        "average_rating": "4.01",
+        "ratings_count": "552074",
+        "text_reviews_count": "20692"
+      }
+    },
+    "average_rating": "4.13",
+    "ratings_count": "122531",
+    "publication_day": "1"
   },
   {
     "link": "https://www.goodreads.com/book/show/599660.The_Undercover_Economist",
@@ -87,7 +285,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383177118l/599660._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383177118l/599660._SX98_.jpg",
     "description": "Who makes most money from the demand for cappuccinos early in the morning at Waterloo Station? Why is it impossible to get a foot on the property ladder? How does the Mafia make money from laundries when street gangs pushing drugs don’t? Who really benefits from immigration? How can China, in just fifty years, go from the world’s worst famine to one of the greatest economic revolutions of all time, lifting a million people out of poverty a month?<br /><br />Looking at familiar situations in unfamiliar ways, THE UNDERCOVER ECONOMIST is a fresh explanation of the fundamental principles of the modern economy, illuminated by examples from the streets of London to the booming skyscrapers of Shanghai to the sleepy canals of Bruges. Leaving behind textbook jargon and equations, Tim Harford will reveal the games of signals and negotiations, contests of strength and battles of wit that drive not only the economy at large but the everyday choices we make.",
-    "num_pages": "278"
+    "num_pages": "278",
+    "authors": {
+      "author": {
+        "id": "14442",
+        "name": "Tim Harford",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1271375056p5/14442.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1271375056p2/14442.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
+        "average_rating": "3.83",
+        "ratings_count": "37854",
+        "text_reviews_count": "2351"
+      }
+    },
+    "average_rating": "3.81",
+    "ratings_count": "22796",
+    "publication_day": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/25516595-thinking-fast-and-slow",
@@ -96,7 +316,29 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431276290l/25516595._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431276290l/25516595._SX98_.jpg",
     "description": "<b>In the highly anticipated <i>Thinking, Fast and Slow</i>, Kahneman takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think.</b><br /><br />System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. Kahneman exposes the extraordinary capabilities — and also the faults and biases — of fast thinking, and reveals the pervasive influence of intuitive impressions on our thoughts and behavior. <br /><br />The impact of loss aversion and overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the challenges of properly framing risks at work and at home, the profound effect of cognitive biases on everything from playing the stock market to planning the next vacation — each of these can be understood only by knowing how the two systems work together to shape our judgments and decisions.<br /><br />Engaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives — and how we can use different techniques to guard against the mental glitches that often get us into trouble. <br /><br /><i>Thinking, Fast and Slow</i> will transform the way you think about thinking.",
-    "num_pages": "504"
+    "num_pages": "504",
+    "authors": {
+      "author": {
+        "id": "72401",
+        "name": "Daniel Kahneman",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1227145976p5/72401.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1227145976p2/72401.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
+        "average_rating": "4.13",
+        "ratings_count": "237790",
+        "text_reviews_count": "9043"
+      }
+    },
+    "average_rating": "4.14",
+    "ratings_count": "233379",
+    "publication_day": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/40876575-utopia-for-realists",
@@ -105,6 +347,28 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532031994l/40876575._SX50_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532031994l/40876575._SX98_.jpg",
     "description": "From a universal basic income to a 15-hour workweek, from a world without borders to a world without poverty – it’s time to return to utopian thinking.<br /><br />Rutger Bregman takes us on a journey through history, beyond the traditional left-right divides, as he introduces ideas whose time has come. Utopia for Realists is one of those rare books that takes you by surprise and challenges what you think you know. In the words of leading social theorist Zygmunt Bauman, it is \"brilliant, truly enlightening, and eminently readable.\"<br /><br />This original Dutch bestseller sparked a national movement for basic income experiments that soon made international headlines.",
-    "num_pages": "262"
+    "num_pages": "262",
+    "authors": {
+      "author": {
+        "id": "5781839",
+        "name": "Rutger Bregman",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1517928864p5/5781839.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1517928864p2/5781839.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/5781839.Rutger_Bregman",
+        "average_rating": "4.22",
+        "ratings_count": "10713",
+        "text_reviews_count": "1226"
+      }
+    },
+    "average_rating": "4.24",
+    "ratings_count": "9745",
+    "publication_day": "14"
   }
 ]
