@@ -22,48 +22,15 @@
         },
         "link": "https://www.goodreads.com/author/show/7.Bill_Bryson",
         "average_rating": "4.02",
-        "ratings_count": "1200769",
-        "text_reviews_count": "71805"
+        "ratings_count": "1200924",
+        "text_reviews_count": "71814"
       }
     },
     "average_rating": "4.20",
-    "ratings_count": "261130",
+    "ratings_count": "261169",
     "publication_day": "16",
     "publication_month": "6",
     "publication_year": "2016"
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/43808723-everything-is-f-cked",
-    "title": "Everything is F*cked: A Book About Hope",
-    "title_without_series": "Everything is F*cked: A Book About Hope",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550685003l/43808723._SX50_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550685003l/43808723._SX98_.jpg",
-    "description": "<b>From the author of the international mega-bestseller The Subtle Art of Not Giving A F*ck comes a counterintuitive guide to the problems of hope. </b><br /><br />We live in an interesting time. Materially, everything is the best it’s ever been—we are freer, healthier and wealthier than any people in human history. Yet, somehow everything seems to be irreparably and horribly f*cked—the planet is warming, governments are failing, economies are collapsing, and everyone is perpetually offended on Twitter. At this moment in history, when we have access to technology, education and communication our ancestors couldn’t even dream of, so many of us come back to an overriding feeling of hopelessness.<br /><br />What’s going on? If anyone can put a name to our current malaise and help fix it, it’s Mark Manson. In 2016, Manson published <i>The Subtle Art of Not Giving A F*ck</i>, a book that brilliantly gave shape to the ever-present, low-level hum of anxiety that permeates modern living. He showed us that technology had made it too easy to care about the wrong things, that our culture had convinced us that the world owed us something when it didn’t—and worst of all, that our modern and maddening urge to always find happiness only served to make us unhappier. Instead, the “subtle art” of that title turned out to be a bold challenge: to choose your struggle; to narrow and focus and find the pain you want to sustain. The result was a book that became an international phenomenon, selling millions of copies worldwide while becoming the #1 bestseller in 13 different countries.<br /><br />Now, in <i>Everthing Is F*cked</i>, Manson turns his gaze from the inevitable flaws within each individual self to the endless calamities taking place in the world around us. Drawing from the pool of psychological research on these topics, as well as the timeless wisdom of philosophers such as Plato, Nietzsche, and Tom Waits, he dissects religion and politics and the uncomfortable ways they have come to resemble one another. He looks at our relationships with money, entertainment and the internet, and how too much of a good thing can psychologically eat us alive. He openly defies our definitions of faith, happiness, freedom—and even of hope itself.<br /><br />With his usual mix of erudition and where-the-f*ck-did-that-come-from humor, Manson takes us by the collar and challenges us to be more honest with ourselves and connected with the world in ways we probably haven’t considered before. It’s another counterintuitive romp through the pain in our hearts and the stress of our soul. One of the great modern writers has produced another book that will set the agenda for years to come.",
-    "num_pages": "288",
-    "authors": {
-      "author": {
-        "id": "8529755",
-        "name": "Mark Manson",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1410365708p5/8529755.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1410365708p2/8529755.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/8529755.Mark_Manson",
-        "average_rating": "3.97",
-        "ratings_count": "371093",
-        "text_reviews_count": "26906"
-      }
-    },
-    "average_rating": "3.77",
-    "ratings_count": "13168",
-    "publication_day": "14",
-    "publication_month": "5",
-    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
@@ -88,12 +55,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "123018",
-        "text_reviews_count": "7512"
+        "ratings_count": "123058",
+        "text_reviews_count": "7514"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "61919",
+    "ratings_count": "61933",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
@@ -121,12 +88,12 @@
         },
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
         "average_rating": "3.98",
-        "ratings_count": "2192",
-        "text_reviews_count": "262"
+        "ratings_count": "2196",
+        "text_reviews_count": "263"
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "1686",
+    "ratings_count": "1690",
     "publication_day": "15",
     "publication_month": "5",
     "publication_year": "2018"
@@ -154,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.18",
-        "ratings_count": "15125",
+        "ratings_count": "15139",
         "text_reviews_count": "1904"
       }
     },
     "average_rating": "3.69",
-    "ratings_count": "1659",
+    "ratings_count": "1660",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}

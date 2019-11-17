@@ -22,12 +22,12 @@
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": "4.38",
-        "ratings_count": "456591",
-        "text_reviews_count": "36841"
+        "ratings_count": "456914",
+        "text_reviews_count": "36856"
       }
     },
     "average_rating": "4.19",
-    "ratings_count": "46571",
+    "ratings_count": "46619",
     "publication_day": "4",
     "publication_month": "9",
     "publication_year": "2018"
@@ -55,8 +55,8 @@
         },
         "link": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
         "average_rating": "3.93",
-        "ratings_count": "1039762",
-        "text_reviews_count": "33134"
+        "ratings_count": "1039799",
+        "text_reviews_count": "33135"
       }
     },
     "average_rating": "4.08",
@@ -88,12 +88,12 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.27",
-        "ratings_count": "891445",
-        "text_reviews_count": "92541"
+        "ratings_count": "891584",
+        "text_reviews_count": "92538"
       }
     },
     "average_rating": "3.67",
-    "ratings_count": "142661",
+    "ratings_count": "142696",
     "publication_day": "14",
     "publication_month": "11",
     "publication_year": "2017"
@@ -121,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": "4.15",
-        "ratings_count": "544990",
-        "text_reviews_count": "31093"
+        "ratings_count": "545060",
+        "text_reviews_count": "31094"
       }
     },
     "average_rating": "3.90",
-    "ratings_count": "38814",
+    "ratings_count": "38817",
     "publication_day": "4",
     "publication_month": "9",
     "publication_year": "2012"
@@ -154,15 +154,48 @@
         },
         "link": "https://www.goodreads.com/author/show/630.Dan_Brown",
         "average_rating": "3.82",
-        "ratings_count": "6440755",
-        "text_reviews_count": "175009"
+        "ratings_count": "6441253",
+        "text_reviews_count": "175005"
       }
     },
     "average_rating": "3.64",
-    "ratings_count": "524483",
+    "ratings_count": "524525",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2004"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/43808723-everything-is-f-cked",
+    "title": "Everything is F*cked: A Book About Hope",
+    "title_without_series": "Everything is F*cked: A Book About Hope",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550685003l/43808723._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550685003l/43808723._SX98_.jpg",
+    "description": "<b>From the author of the international mega-bestseller The Subtle Art of Not Giving A F*ck comes a counterintuitive guide to the problems of hope. </b><br /><br />We live in an interesting time. Materially, everything is the best it’s ever been—we are freer, healthier and wealthier than any people in human history. Yet, somehow everything seems to be irreparably and horribly f*cked—the planet is warming, governments are failing, economies are collapsing, and everyone is perpetually offended on Twitter. At this moment in history, when we have access to technology, education and communication our ancestors couldn’t even dream of, so many of us come back to an overriding feeling of hopelessness.<br /><br />What’s going on? If anyone can put a name to our current malaise and help fix it, it’s Mark Manson. In 2016, Manson published <i>The Subtle Art of Not Giving A F*ck</i>, a book that brilliantly gave shape to the ever-present, low-level hum of anxiety that permeates modern living. He showed us that technology had made it too easy to care about the wrong things, that our culture had convinced us that the world owed us something when it didn’t—and worst of all, that our modern and maddening urge to always find happiness only served to make us unhappier. Instead, the “subtle art” of that title turned out to be a bold challenge: to choose your struggle; to narrow and focus and find the pain you want to sustain. The result was a book that became an international phenomenon, selling millions of copies worldwide while becoming the #1 bestseller in 13 different countries.<br /><br />Now, in <i>Everthing Is F*cked</i>, Manson turns his gaze from the inevitable flaws within each individual self to the endless calamities taking place in the world around us. Drawing from the pool of psychological research on these topics, as well as the timeless wisdom of philosophers such as Plato, Nietzsche, and Tom Waits, he dissects religion and politics and the uncomfortable ways they have come to resemble one another. He looks at our relationships with money, entertainment and the internet, and how too much of a good thing can psychologically eat us alive. He openly defies our definitions of faith, happiness, freedom—and even of hope itself.<br /><br />With his usual mix of erudition and where-the-f*ck-did-that-come-from humor, Manson takes us by the collar and challenges us to be more honest with ourselves and connected with the world in ways we probably haven’t considered before. It’s another counterintuitive romp through the pain in our hearts and the stress of our soul. One of the great modern writers has produced another book that will set the agenda for years to come.",
+    "num_pages": "288",
+    "authors": {
+      "author": {
+        "id": "8529755",
+        "name": "Mark Manson",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1410365708p5/8529755.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1410365708p2/8529755.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/8529755.Mark_Manson",
+        "average_rating": "3.97",
+        "ratings_count": "371325",
+        "text_reviews_count": "26918"
+      }
+    },
+    "average_rating": "3.77",
+    "ratings_count": "13201",
+    "publication_day": "14",
+    "publication_month": "5",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/34890015-factfulness",
@@ -187,12 +220,12 @@
         },
         "link": "https://www.goodreads.com/author/show/2790706.Hans_Rosling",
         "average_rating": "4.36",
-        "ratings_count": "61310",
-        "text_reviews_count": "6240"
+        "ratings_count": "61383",
+        "text_reviews_count": "6241"
       }
     },
     "average_rating": "4.36",
-    "ratings_count": "60094",
+    "ratings_count": "60167",
     "publication_day": "25",
     "publication_month": "1",
     "publication_year": "2018"
@@ -220,7 +253,7 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.83",
-        "ratings_count": "38205",
+        "ratings_count": "38209",
         "text_reviews_count": "2377"
       }
     },
@@ -253,12 +286,12 @@
         },
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": "4.15",
-        "ratings_count": "544990",
-        "text_reviews_count": "31093"
+        "ratings_count": "545060",
+        "text_reviews_count": "31094"
       }
     },
     "average_rating": "4.14",
-    "ratings_count": "58859",
+    "ratings_count": "58868",
     "publication_day": "23",
     "publication_month": "3",
     "publication_year": "2015"
@@ -286,12 +319,12 @@
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
         "average_rating": "3.95",
-        "ratings_count": "809240",
-        "text_reviews_count": "24044"
+        "ratings_count": "809296",
+        "text_reviews_count": "24043"
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "640333",
+    "ratings_count": "640377",
     "publication_day": "25",
     "publication_month": "8",
     "publication_year": "2009"
@@ -319,12 +352,12 @@
         },
         "link": "https://www.goodreads.com/author/show/16593.Sam_Harris",
         "average_rating": "3.94",
-        "ratings_count": "168158",
-        "text_reviews_count": "10216"
+        "ratings_count": "168184",
+        "text_reviews_count": "10218"
       }
     },
     "average_rating": "3.86",
-    "ratings_count": "23216",
+    "ratings_count": "23217",
     "publication_day": "6",
     "publication_month": "3",
     "publication_year": "2012"
@@ -352,12 +385,12 @@
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": "4.38",
-        "ratings_count": "456591",
-        "text_reviews_count": "36841"
+        "ratings_count": "456914",
+        "text_reviews_count": "36856"
       }
     },
     "average_rating": "4.27",
-    "ratings_count": "98229",
+    "ratings_count": "98300",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2017"
@@ -385,12 +418,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3887089.Eric_Schmidt",
         "average_rating": "3.98",
-        "ratings_count": "27046",
-        "text_reviews_count": "1861"
+        "ratings_count": "27059",
+        "text_reviews_count": "1863"
       }
     },
     "average_rating": "4.05",
-    "ratings_count": "20774",
+    "ratings_count": "20779",
     "publication_day": "21",
     "publication_month": "3",
     "publication_year": "2017"
@@ -418,48 +451,15 @@
         },
         "link": "https://www.goodreads.com/author/show/234214.Mike_Brown",
         "average_rating": "3.99",
-        "ratings_count": "8061",
+        "ratings_count": "8064",
         "text_reviews_count": "1120"
       }
     },
     "average_rating": "4.00",
-    "ratings_count": "7872",
+    "ratings_count": "7876",
     "publication_day": "7",
     "publication_month": "12",
     "publication_year": "2010"
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/23281872-how-not-to-be-wrong",
-    "title": "How Not to Be Wrong: The Power of Mathematical Thinking",
-    "title_without_series": "How Not to Be Wrong: The Power of Mathematical Thinking",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SX98_.jpg",
-    "description": "<b>The <i>Freakonomics</i> of math—a math-world superstar unveils the hidden beauty and logic of the world and puts its power in our hands</b><br /><br />The math we learn in school can seem like a dull set of rules, laid down by the ancients and not to be questioned. In <i>How Not to Be Wrong</i>, Jordan Ellenberg shows us how terribly limiting this view is: Math isn’t confined to abstract incidents that never occur in real life, but rather touches everything we do—the whole world is shot through with it.<br /><br />Math allows us to see the hidden structures underneath the messy and chaotic surface of our world. It’s a science of not being wrong, hammered out by centuries of hard work and argument. Armed with the tools of mathematics, we can see through to the true meaning of information we take for granted: How early should you get to the airport? What does “public opinion” really represent? Why do tall parents have shorter children? Who really won Florida in 2000? And how likely are you, really, to develop cancer?<br /><br /><i>How Not to Be Wrong</i> presents the surprising revelations behind all of these questions and many more, using the mathematician’s method of analyzing life and exposing the hard-won insights of the academic community to the layman—minus the jargon. Ellenberg chases mathematical threads through a vast range of time and space, from the everyday to the cosmic, encountering, among other things, baseball, Reaganomics, daring lottery schemes, Voltaire, the replicability crisis in psychology, Italian Renaissance painting, artificial languages, the development of non-Euclidean geometry, the coming obesity apocalypse, Antonin Scalia’s views on crime and punishment, the psychology of slime molds, what Facebook can and can’t figure out about you, and the existence of God.<br /><br />Ellenberg pulls from history as well as from the latest theoretical developments to provide those not trained in math with the knowledge they need. Math, as Ellenberg says, is “an atomic-powered prosthesis that you attach to your common sense, vastly multiplying its reach and strength.” With the tools of mathematics in hand, you can understand the world in a deeper, more meaningful way. How Not to Be Wrong will show you how.",
-    "num_pages": "480",
-    "authors": {
-      "author": {
-        "id": "359894",
-        "name": "Jordan Ellenberg",
-        "role": {},
-        "image_url": {
-          "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
-        },
-        "small_image_url": {
-          "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
-        },
-        "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
-        "average_rating": "3.96",
-        "ratings_count": "11825",
-        "text_reviews_count": "1157"
-      }
-    },
-    "average_rating": "3.96",
-    "ratings_count": "11727",
-    "publication_day": "26",
-    "publication_month": "5",
-    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/18693884-how-not-to-be-wrong",
@@ -484,15 +484,48 @@
         },
         "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
         "average_rating": "3.96",
-        "ratings_count": "11825",
-        "text_reviews_count": "1157"
+        "ratings_count": "11831",
+        "text_reviews_count": "1158"
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "11727",
+    "ratings_count": "11733",
     "publication_day": "29",
     "publication_month": "5",
     "publication_year": "2014"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/23281872-how-not-to-be-wrong",
+    "title": "How Not to Be Wrong: The Power of Mathematical Thinking",
+    "title_without_series": "How Not to Be Wrong: The Power of Mathematical Thinking",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SX98_.jpg",
+    "description": "<b>The <i>Freakonomics</i> of math—a math-world superstar unveils the hidden beauty and logic of the world and puts its power in our hands</b><br /><br />The math we learn in school can seem like a dull set of rules, laid down by the ancients and not to be questioned. In <i>How Not to Be Wrong</i>, Jordan Ellenberg shows us how terribly limiting this view is: Math isn’t confined to abstract incidents that never occur in real life, but rather touches everything we do—the whole world is shot through with it.<br /><br />Math allows us to see the hidden structures underneath the messy and chaotic surface of our world. It’s a science of not being wrong, hammered out by centuries of hard work and argument. Armed with the tools of mathematics, we can see through to the true meaning of information we take for granted: How early should you get to the airport? What does “public opinion” really represent? Why do tall parents have shorter children? Who really won Florida in 2000? And how likely are you, really, to develop cancer?<br /><br /><i>How Not to Be Wrong</i> presents the surprising revelations behind all of these questions and many more, using the mathematician’s method of analyzing life and exposing the hard-won insights of the academic community to the layman—minus the jargon. Ellenberg chases mathematical threads through a vast range of time and space, from the everyday to the cosmic, encountering, among other things, baseball, Reaganomics, daring lottery schemes, Voltaire, the replicability crisis in psychology, Italian Renaissance painting, artificial languages, the development of non-Euclidean geometry, the coming obesity apocalypse, Antonin Scalia’s views on crime and punishment, the psychology of slime molds, what Facebook can and can’t figure out about you, and the existence of God.<br /><br />Ellenberg pulls from history as well as from the latest theoretical developments to provide those not trained in math with the knowledge they need. Math, as Ellenberg says, is “an atomic-powered prosthesis that you attach to your common sense, vastly multiplying its reach and strength.” With the tools of mathematics in hand, you can understand the world in a deeper, more meaningful way. How Not to Be Wrong will show you how.",
+    "num_pages": "480",
+    "authors": {
+      "author": {
+        "id": "359894",
+        "name": "Jordan Ellenberg",
+        "role": {},
+        "image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+        },
+        "small_image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+        },
+        "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
+        "average_rating": "3.96",
+        "ratings_count": "11831",
+        "text_reviews_count": "1158"
+      }
+    },
+    "average_rating": "3.96",
+    "ratings_count": "11733",
+    "publication_day": "26",
+    "publication_month": "5",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/39074550-humble-pi",
@@ -517,12 +550,12 @@
         },
         "link": "https://www.goodreads.com/author/show/17598525.Matt_Parker",
         "average_rating": "4.23",
-        "ratings_count": "2592",
-        "text_reviews_count": "262"
+        "ratings_count": "2595",
+        "text_reviews_count": "263"
       }
     },
     "average_rating": "4.24",
-    "ratings_count": "1032",
+    "ratings_count": "1035",
     "publication_day": "7",
     "publication_month": "3",
     "publication_year": "2019"
@@ -583,12 +616,12 @@
         },
         "link": "https://www.goodreads.com/author/show/2867569.Joshua_Foer",
         "average_rating": "3.89",
-        "ratings_count": "69860",
-        "text_reviews_count": "5481"
+        "ratings_count": "69868",
+        "text_reviews_count": "5482"
       }
     },
     "average_rating": "3.87",
-    "ratings_count": "65781",
+    "ratings_count": "65788",
     "publication_day": "3",
     "publication_month": "3",
     "publication_year": "2011"
@@ -682,12 +715,12 @@
         },
         "link": "https://www.goodreads.com/author/show/205996.Glenn_Greenwald",
         "average_rating": "4.07",
-        "ratings_count": "14912",
+        "ratings_count": "14911",
         "text_reviews_count": "1493"
       }
     },
     "average_rating": "4.08",
-    "ratings_count": "12350",
+    "ratings_count": "12349",
     "publication_day": "13",
     "publication_month": "5",
     "publication_year": "2014"
@@ -715,12 +748,12 @@
         },
         "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
         "average_rating": "3.89",
-        "ratings_count": "65522",
+        "ratings_count": "65536",
         "text_reviews_count": "3819"
       }
     },
     "average_rating": "3.84",
-    "ratings_count": "51853",
+    "ratings_count": "51863",
     "publication_day": "24",
     "publication_month": "2",
     "publication_year": "2009"
@@ -748,12 +781,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "3.99",
-        "ratings_count": "1784588",
-        "text_reviews_count": "67095"
+        "ratings_count": "1784919",
+        "text_reviews_count": "67114"
       }
     },
     "average_rating": "4.14",
-    "ratings_count": "464137",
+    "ratings_count": "464197",
     "publication_day": "18",
     "publication_month": "11",
     "publication_year": "2008"
@@ -781,12 +814,12 @@
         },
         "link": "https://www.goodreads.com/author/show/713466.Tim_Marshall",
         "average_rating": "4.19",
-        "ratings_count": "32856",
-        "text_reviews_count": "3103"
+        "ratings_count": "32885",
+        "text_reviews_count": "3108"
       }
     },
     "average_rating": "4.24",
-    "ratings_count": "29214",
+    "ratings_count": "29239",
     "publication_day": "9",
     "publication_month": "7",
     "publication_year": "2015"
@@ -814,12 +847,12 @@
         },
         "link": "https://www.goodreads.com/author/show/31712.Ernest_Cline",
         "average_rating": "4.19",
-        "ratings_count": "850698",
-        "text_reviews_count": "95168"
+        "ratings_count": "850814",
+        "text_reviews_count": "95172"
       }
     },
     "average_rating": "4.27",
-    "ratings_count": "757248",
+    "ratings_count": "757339",
     "publication_day": "16",
     "publication_month": "8",
     "publication_year": "2011"
@@ -847,12 +880,12 @@
         },
         "link": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki",
         "average_rating": "4.04",
-        "ratings_count": "404807",
-        "text_reviews_count": "15379"
+        "ratings_count": "404917",
+        "text_reviews_count": "15378"
       }
     },
     "average_rating": "4.04",
-    "ratings_count": "284471",
+    "ratings_count": "284553",
     "publication_day": "16",
     "publication_month": "8",
     "publication_year": "2011"
@@ -880,12 +913,12 @@
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": "4.38",
-        "ratings_count": "456591",
-        "text_reviews_count": "36841"
+        "ratings_count": "456914",
+        "text_reviews_count": "36856"
       }
     },
     "average_rating": "4.44",
-    "ratings_count": "310245",
+    "ratings_count": "310449",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2014"
@@ -913,12 +946,12 @@
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": "4.38",
-        "ratings_count": "456591",
-        "text_reviews_count": "36841"
+        "ratings_count": "456914",
+        "text_reviews_count": "36856"
       }
     },
     "average_rating": "4.44",
-    "ratings_count": "310245",
+    "ratings_count": "310449",
     "publication_day": "4",
     "publication_month": "9",
     "publication_year": "2014"
@@ -946,12 +979,12 @@
         },
         "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
         "average_rating": "4.05",
-        "ratings_count": "754472",
-        "text_reviews_count": "47737"
+        "ratings_count": "754517",
+        "text_reviews_count": "47731"
       }
     },
     "average_rating": "3.99",
-    "ratings_count": "82285",
+    "ratings_count": "82292",
     "publication_day": "19",
     "publication_month": "5",
     "publication_year": "2015"
@@ -979,7 +1012,7 @@
         },
         "link": "https://www.goodreads.com/author/show/7567448.Shane_Snow",
         "average_rating": "3.93",
-        "ratings_count": "5433",
+        "ratings_count": "5434",
         "text_reviews_count": "418"
       }
     },
@@ -1012,12 +1045,12 @@
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
         "average_rating": "3.95",
-        "ratings_count": "809240",
-        "text_reviews_count": "24044"
+        "ratings_count": "809296",
+        "text_reviews_count": "24043"
       }
     },
     "average_rating": "3.98",
-    "ratings_count": "114289",
+    "ratings_count": "114297",
     "publication_day": "20",
     "publication_month": "10",
     "publication_year": "2009"
@@ -1045,12 +1078,12 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.27",
-        "ratings_count": "891445",
-        "text_reviews_count": "92541"
+        "ratings_count": "891584",
+        "text_reviews_count": "92538"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "15009",
+    "ratings_count": "15012",
     "publication_day": "15",
     "publication_month": "8",
     "publication_year": "2009"
@@ -1078,12 +1111,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7210024.Claire_North",
         "average_rating": "3.93",
-        "ratings_count": "84817",
-        "text_reviews_count": "11805"
+        "ratings_count": "84841",
+        "text_reviews_count": "11808"
       }
     },
     "average_rating": "4.04",
-    "ratings_count": "56635",
+    "ratings_count": "56651",
     "publication_day": "8",
     "publication_month": "4",
     "publication_year": "2014"
@@ -1111,12 +1144,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5808423.Jon_Gertner",
         "average_rating": "4.16",
-        "ratings_count": "5316",
+        "ratings_count": "5318",
         "text_reviews_count": "551"
       }
     },
-    "average_rating": "4.16",
-    "ratings_count": "5071",
+    "average_rating": "4.15",
+    "ratings_count": "5073",
     "publication_day": "15",
     "publication_month": "3",
     "publication_year": "2012"
@@ -1144,7 +1177,7 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.83",
-        "ratings_count": "38205",
+        "ratings_count": "38209",
         "text_reviews_count": "2377"
       }
     },
@@ -1177,12 +1210,12 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.27",
-        "ratings_count": "891445",
-        "text_reviews_count": "92541"
+        "ratings_count": "891584",
+        "text_reviews_count": "92538"
       }
     },
     "average_rating": "4.40",
-    "ratings_count": "719550",
+    "ratings_count": "719629",
     "publication_day": "11",
     "publication_month": "2",
     "publication_year": "2014"
@@ -1210,12 +1243,12 @@
         },
         "link": "https://www.goodreads.com/author/show/659.Thomas_J_Stanley",
         "average_rating": "4.06",
-        "ratings_count": "88640",
-        "text_reviews_count": "3572"
+        "ratings_count": "88651",
+        "text_reviews_count": "3573"
       }
     },
     "average_rating": "4.02",
-    "ratings_count": "64809",
+    "ratings_count": "64821",
     "publication_day": "1",
     "publication_month": "10",
     "publication_year": "1998"
@@ -1243,7 +1276,7 @@
         },
         "link": "https://www.goodreads.com/author/show/7489747.Jamie_Bartlett",
         "average_rating": "3.73",
-        "ratings_count": "4588",
+        "ratings_count": "4589",
         "text_reviews_count": "586"
       }
     },
@@ -1276,12 +1309,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5201530.Charles_Duhigg",
         "average_rating": "4.07",
-        "ratings_count": "295517",
-        "text_reviews_count": "16486"
+        "ratings_count": "295586",
+        "text_reviews_count": "16480"
       }
     },
     "average_rating": "4.09",
-    "ratings_count": "273015",
+    "ratings_count": "273081",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2013"
@@ -1309,12 +1342,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "557841",
-        "text_reviews_count": "21011"
+        "ratings_count": "557917",
+        "text_reviews_count": "21013"
       }
     },
     "average_rating": "4.13",
-    "ratings_count": "124058",
+    "ratings_count": "124074",
     "publication_day": "1",
     "publication_month": "8",
     "publication_year": "2016"
@@ -1342,12 +1375,12 @@
         },
         "link": "https://www.goodreads.com/author/show/8529755.Mark_Manson",
         "average_rating": "3.97",
-        "ratings_count": "371093",
-        "text_reviews_count": "26906"
+        "ratings_count": "371325",
+        "text_reviews_count": "26918"
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "347890",
+    "ratings_count": "348088",
     "publication_day": "13",
     "publication_month": "9",
     "publication_year": "2016"
@@ -1375,12 +1408,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.83",
-        "ratings_count": "38205",
+        "ratings_count": "38209",
         "text_reviews_count": "2377"
       }
     },
     "average_rating": "3.81",
-    "ratings_count": "22928",
+    "ratings_count": "22930",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2007"
@@ -1408,12 +1441,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.83",
-        "ratings_count": "38205",
+        "ratings_count": "38209",
         "text_reviews_count": "2377"
       }
     },
     "average_rating": "3.90",
-    "ratings_count": "2259",
+    "ratings_count": "2260",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -1441,12 +1474,12 @@
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
         "average_rating": "3.95",
-        "ratings_count": "809240",
-        "text_reviews_count": "24044"
+        "ratings_count": "809296",
+        "text_reviews_count": "24043"
       }
     },
     "average_rating": "3.85",
-    "ratings_count": "41609",
+    "ratings_count": "41611",
     "publication_day": "12",
     "publication_month": "5",
     "publication_year": "2014"
@@ -1474,12 +1507,12 @@
         },
         "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
         "average_rating": "4.14",
-        "ratings_count": "243396",
-        "text_reviews_count": "9240"
+        "ratings_count": "243467",
+        "text_reviews_count": "9239"
       }
     },
     "average_rating": "4.14",
-    "ratings_count": "238875",
+    "ratings_count": "238943",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2012"
@@ -1507,12 +1540,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5781839.Rutger_Bregman",
         "average_rating": "4.23",
-        "ratings_count": "12058",
-        "text_reviews_count": "1395"
+        "ratings_count": "12088",
+        "text_reviews_count": "1398"
       }
     },
     "average_rating": "4.24",
-    "ratings_count": "10530",
+    "ratings_count": "10539",
     "publication_day": "14",
     "publication_month": "3",
     "publication_year": "2017"
@@ -1540,12 +1573,12 @@
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
         "average_rating": "3.95",
-        "ratings_count": "809240",
-        "text_reviews_count": "24044"
+        "ratings_count": "809296",
+        "text_reviews_count": "24043"
       }
     },
     "average_rating": "3.49",
-    "ratings_count": "10984",
+    "ratings_count": "10985",
     "publication_day": "10",
     "publication_month": "5",
     "publication_year": "2016"
@@ -1573,12 +1606,12 @@
         },
         "link": "https://www.goodreads.com/author/show/8474721.Peter_Thiel",
         "average_rating": "4.16",
-        "ratings_count": "131017",
+        "ratings_count": "131080",
         "text_reviews_count": "4793"
       }
     },
     "average_rating": "4.16",
-    "ratings_count": "130849",
+    "ratings_count": "130910",
     "publication_day": "16",
     "publication_month": "9",
     "publication_year": "2014"
