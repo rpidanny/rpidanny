@@ -1,36 +1,36 @@
 [
   {
-    "link": "https://www.goodreads.com/book/show/28092883-a-short-history-of-nearly-everything",
-    "title": "A Short History of Nearly Everything",
-    "title_without_series": "A Short History of Nearly Everything",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470437934l/28092883._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470437934l/28092883._SX98_.jpg",
-    "description": "Bill Bryson describes himself as a reluctant traveller, but even when he stays safely at home he can't contain his curiosity about the world around him.<i> A Short History of Nearly Everything </i>is his quest to understand everything that has happened from the Big Bang to the rise of civilization - how we got from there, being nothing at all, to here, being us. Bill Bryson's challenge is to take subjects that normally bore the pants off most of us, like geology, chemistry and particle physics, and see if there isn't some way to render them comprehensible to people who have never thought they could be interested in science.<br /><br />The ultimate eye-opening journey through time and space, A Short History of Nearly Everything is the biggest-selling popular science book of the 21st century, and reveals the world in a way most of us have never seen it before.",
-    "num_pages": "668",
+    "link": "https://www.goodreads.com/book/show/17308035-norwegian-wood",
+    "title": "Norwegian Wood",
+    "title_without_series": "Norwegian Wood",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389107313l/17308035._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389107313l/17308035._SX98_.jpg",
+    "description": "When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki. Immediately he is transported back almost twenty years to his student days in Tokyo, adrift in a world of uneasy friendships, casual sex, passion, loss and desire - to a time when an impetuous young woman called Midori marches into his life and he has to choose between the future and the past.",
+    "num_pages": "400",
     "authors": {
       "author": {
-        "id": "7",
-        "name": "Bill Bryson",
+        "id": "3354",
+        "name": "Haruki Murakami",
         "role": {},
         "image_url": {
           "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1189096502p5/7.jpg"
+          "$t": "https://images.gr-assets.com/authors/1539035376p5/3354.jpg"
         },
         "small_image_url": {
           "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1189096502p2/7.jpg"
+          "$t": "https://images.gr-assets.com/authors/1539035376p2/3354.jpg"
         },
-        "link": "https://www.goodreads.com/author/show/7.Bill_Bryson",
-        "average_rating": "4.02",
-        "ratings_count": "1204925",
-        "text_reviews_count": "72149"
+        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+        "average_rating": "3.95",
+        "ratings_count": "2084757",
+        "text_reviews_count": "152441"
       }
     },
-    "average_rating": "4.20",
-    "ratings_count": "262148",
-    "publication_day": "16",
-    "publication_month": "6",
-    "publication_year": "2016"
+    "average_rating": "4.03",
+    "ratings_count": "295768",
+    "publication_day": "8",
+    "publication_month": "11",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
@@ -55,12 +55,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "123883",
+        "ratings_count": "123915",
         "text_reviews_count": "7558"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "62353",
+    "ratings_count": "62374",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
@@ -88,7 +88,7 @@
         },
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
         "average_rating": "3.98",
-        "ratings_count": "2238",
+        "ratings_count": "2239",
         "text_reviews_count": "267"
       }
     },
@@ -121,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.18",
-        "ratings_count": "15362",
-        "text_reviews_count": "1922"
+        "ratings_count": "15373",
+        "text_reviews_count": "1923"
       }
     },
-    "average_rating": "3.69",
-    "ratings_count": "1720",
+    "average_rating": "3.70",
+    "ratings_count": "1726",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
