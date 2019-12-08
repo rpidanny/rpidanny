@@ -1,38 +1,5 @@
 [
   {
-    "link": "https://www.goodreads.com/book/show/17161156-norwegian-wood",
-    "title": "Norwegian Wood",
-    "title_without_series": "Norwegian Wood",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493851993l/17161156._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493851993l/17161156._SX98_.jpg",
-    "description": "<i>This is an alternate cover edition for <a href=\"https://www.goodreads.com/book/show/818108.Norwegian_Wood\" rel=\"nofollow\">9780099448822</a> </i><br /><br />The haunting, enigmatic love story that turned Murakami into a literary superstar in Japan, and is his bestselling title throughout the world <br /><br />When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki. Immediately he is transported back almost twenty years to his student days in Tokyo, adrift in a world of uneasy friendships, casual sex, passion, loss and desire - to a time when an impetuous young woman called Midori marches into his life and he has to choose between the future and the past.",
-    "num_pages": "389",
-    "authors": {
-      "author": {
-        "id": "3354",
-        "name": "Haruki Murakami",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1539035376p5/3354.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1539035376p2/3354.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
-        "average_rating": "3.95",
-        "ratings_count": "2088585",
-        "text_reviews_count": "152730"
-      }
-    },
-    "average_rating": "4.03",
-    "ratings_count": "296365",
-    "publication_day": "4",
-    "publication_month": "7",
-    "publication_year": "2003"
-  },
-  {
     "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
     "title": "The 48 Laws Of Power",
     "title_without_series": "The 48 Laws Of Power",
@@ -55,12 +22,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "124308",
-        "text_reviews_count": "7578"
+        "ratings_count": "124343",
+        "text_reviews_count": "7582"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "62574",
+    "ratings_count": "62589",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
@@ -88,12 +55,12 @@
         },
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
         "average_rating": "3.98",
-        "ratings_count": "2269",
-        "text_reviews_count": "270"
+        "ratings_count": "2272",
+        "text_reviews_count": "271"
       }
     },
     "average_rating": "3.95",
-    "ratings_count": "1751",
+    "ratings_count": "1754",
     "publication_day": "15",
     "publication_month": "5",
     "publication_year": "2018"
@@ -121,14 +88,47 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.18",
-        "ratings_count": "15480",
+        "ratings_count": "15492",
         "text_reviews_count": "1932"
       }
     },
     "average_rating": "3.69",
-    "ratings_count": "1748",
+    "ratings_count": "1751",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/2612.The_Tipping_Point",
+    "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "title_without_series": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SX98_.jpg",
+    "description": "<i>An alternate cover edition exists <a href=\"https://www.goodreads.com/book/show/34668905.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.<br /><br />Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.",
+    "num_pages": "301",
+    "authors": {
+      "author": {
+        "id": "1439",
+        "name": "Malcolm Gladwell",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1564001739p5/1439.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
+        "average_rating": "3.99",
+        "ratings_count": "1802820",
+        "text_reviews_count": "68166"
+      }
+    },
+    "average_rating": "3.96",
+    "ratings_count": "628725",
+    "publication_day": "7",
+    "publication_month": "1",
+    "publication_year": "2002"
   }
 ]
