@@ -22,12 +22,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "131423",
-        "text_reviews_count": "7975"
+        "ratings_count": "131443",
+        "text_reviews_count": "7977"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "66251",
+    "ratings_count": "66258",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
@@ -47,20 +47,20 @@
         "role": {},
         "image_url": {
           "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
         },
         "small_image_url": {
           "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
         },
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
         "average_rating": "3.98",
-        "ratings_count": "2581",
+        "ratings_count": "2585",
         "text_reviews_count": "308"
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "2036",
+    "ratings_count": "2040",
     "publication_day": "15",
     "publication_month": "5",
     "publication_year": "2018"
@@ -88,12 +88,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.17",
-        "ratings_count": "17366",
+        "ratings_count": "17379",
         "text_reviews_count": "2109"
       }
     },
     "average_rating": "3.69",
-    "ratings_count": "2210",
+    "ratings_count": "2215",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -121,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "4.00",
-        "ratings_count": "1899755",
-        "text_reviews_count": "73194"
+        "ratings_count": "1900144",
+        "text_reviews_count": "73219"
       }
     },
     "average_rating": "3.97",
-    "ratings_count": "647030",
+    "ratings_count": "647109",
     "publication_day": "7",
     "publication_month": "1",
     "publication_year": "2002"
