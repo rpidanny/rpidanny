@@ -1,38 +1,5 @@
 [
   {
-    "link": "https://www.goodreads.com/book/show/37976541-bad-blood",
-    "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
-    "title_without_series": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556268702l/37976541._SX50_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556268702l/37976541._SX98_.jpg",
-    "description": "<b>The full inside story of the breathtaking rise and shocking collapse of a multibillion-dollar startup, by the prize-winning journalist who first broke the story and pursued it to the end in the face of pressure and threats from the CEO and her lawyers.</b><br /><br />In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the female Steve Jobs: a brilliant Stanford dropout whose startup \"unicorn\" promised to revolutionize the medical industry with a machine that would make blood tests significantly faster and easier. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at $9 billion, putting Holmes's worth at an estimated $4.7 billion. There was just one problem: The technology didn't work.<br /><br />For years, Holmes had been misleading investors, FDA officials, and her own employees. When Carreyrou, working at <i>The Wall Street Journal,</i> got a tip from a former Theranos employee and started asking questions, both Carreyrou and the <i>Journal</i> were threatened with lawsuits. Undaunted, the newspaper ran the first of dozens of Theranos articles in late 2015. By early 2017, the company's value was zero and Holmes faced potential legal action from the government and her investors. Here is the riveting story of the biggest corporate fraud since Enron, a disturbing cautionary tale set amid the bold promises and gold-rush frenzy of Silicon Valley.",
-    "num_pages": "339",
-    "authors": {
-      "author": {
-        "id": "17575761",
-        "name": "John Carreyrou",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1557850844p5/17575761.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1557850844p2/17575761.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/17575761.John_Carreyrou",
-        "average_rating": "4.45",
-        "ratings_count": "128759",
-        "text_reviews_count": "13176"
-      }
-    },
-    "average_rating": "4.45",
-    "ratings_count": "128703",
-    "publication_day": "21",
-    "publication_month": "5",
-    "publication_year": "2018"
-  },
-  {
     "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
     "title": "The 48 Laws Of Power",
     "title_without_series": "The 48 Laws Of Power",
@@ -55,12 +22,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "131632",
-        "text_reviews_count": "7985"
+        "ratings_count": "131665",
+        "text_reviews_count": "7987"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "66349",
+    "ratings_count": "66373",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
@@ -88,7 +55,7 @@
         },
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
         "average_rating": "3.98",
-        "ratings_count": "2590",
+        "ratings_count": "2592",
         "text_reviews_count": "309"
       }
     },
@@ -121,7 +88,7 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.17",
-        "ratings_count": "17433",
+        "ratings_count": "17436",
         "text_reviews_count": "2120"
       }
     },
@@ -154,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "4.00",
-        "ratings_count": "1902554",
-        "text_reviews_count": "73336"
+        "ratings_count": "1903023",
+        "text_reviews_count": "73356"
       }
     },
     "average_rating": "3.97",
-    "ratings_count": "647531",
+    "ratings_count": "647616",
     "publication_day": "7",
     "publication_month": "1",
     "publication_year": "2002"
