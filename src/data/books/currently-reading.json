@@ -1,5 +1,38 @@
 [
   {
+    "link": "https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns",
+    "title": "A Thousand Splendid Suns",
+    "title_without_series": "A Thousand Splendid Suns",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345958969l/128029._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345958969l/128029._SX98_.jpg",
+    "description": "<i>A Thousand Splendid Suns</i> is a breathtaking story set against the volatile events of Afghanistan's last thirty years—from the Soviet invasion to the reign of the Taliban to post-Taliban rebuilding—that puts the violence, fear, hope, and faith of this country in intimate, human terms. It is a tale of two generations of characters brought jarringly together by the tragic sweep of war, where personal lives—the struggle to survive, raise a family, find happiness—are inextricable from the history playing out around them.<br /><br />Propelled by the same storytelling instinct that made <i>The Kite Runner</i> a beloved classic, <i>A Thousand Splendid Suns</i> is at once a remarkable chronicle of three decades of Afghan history and a deeply moving account of family and friendship. It is a striking, heart-wrenching novel of an unforgiving time, an unlikely friendship, and an indestructible love—a stunning accomplishment.<br />--front flap",
+    "num_pages": "372",
+    "authors": {
+      "author": {
+        "id": "569",
+        "name": "Khaled Hosseini",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1359753468p5/569.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1359753468p2/569.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/569.Khaled_Hosseini",
+        "average_rating": "4.29",
+        "ratings_count": "3713674",
+        "text_reviews_count": "154901"
+      }
+    },
+    "average_rating": "4.37",
+    "ratings_count": "1071707",
+    "publication_day": "1",
+    "publication_month": "6",
+    "publication_year": "2007"
+  },
+  {
     "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
     "title": "The 48 Laws Of Power",
     "title_without_series": "The 48 Laws Of Power",
@@ -22,12 +55,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "131665",
-        "text_reviews_count": "7987"
+        "ratings_count": "131688",
+        "text_reviews_count": "7990"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "66373",
+    "ratings_count": "66381",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
@@ -88,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.17",
-        "ratings_count": "17436",
-        "text_reviews_count": "2120"
+        "ratings_count": "17443",
+        "text_reviews_count": "2121"
       }
     },
     "average_rating": "3.69",
-    "ratings_count": "2229",
+    "ratings_count": "2231",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -121,12 +154,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "4.00",
-        "ratings_count": "1903023",
-        "text_reviews_count": "73356"
+        "ratings_count": "1903540",
+        "text_reviews_count": "73383"
       }
     },
     "average_rating": "3.97",
-    "ratings_count": "647616",
+    "ratings_count": "647712",
     "publication_day": "7",
     "publication_month": "1",
     "publication_year": "2002"
