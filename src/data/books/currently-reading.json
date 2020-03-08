@@ -22,12 +22,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4101935.Susan_Cain",
         "average_rating": "4.06",
-        "ratings_count": "296608",
-        "text_reviews_count": "22797"
+        "ratings_count": "296676",
+        "text_reviews_count": "22799"
       }
     },
     "average_rating": "4.06",
-    "ratings_count": "292607",
+    "ratings_count": "292674",
     "publication_day": "24",
     "publication_month": "1",
     "publication_year": "2012"
@@ -55,12 +55,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "131980",
-        "text_reviews_count": "8009"
+        "ratings_count": "132023",
+        "text_reviews_count": "8010"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "66547",
+    "ratings_count": "66568",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
@@ -88,12 +88,12 @@
         },
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
         "average_rating": "3.98",
-        "ratings_count": "2609",
+        "ratings_count": "2612",
         "text_reviews_count": "312"
       }
     },
     "average_rating": "3.95",
-    "ratings_count": "2061",
+    "ratings_count": "2064",
     "publication_day": "15",
     "publication_month": "5",
     "publication_year": "2018"
@@ -121,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.17",
-        "ratings_count": "17535",
-        "text_reviews_count": "2132"
+        "ratings_count": "17545",
+        "text_reviews_count": "2134"
       }
     },
-    "average_rating": "3.69",
-    "ratings_count": "2251",
+    "average_rating": "3.70",
+    "ratings_count": "2253",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -154,14 +154,47 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "4.00",
-        "ratings_count": "1907764",
-        "text_reviews_count": "73632"
+        "ratings_count": "1908187",
+        "text_reviews_count": "73659"
       }
     },
     "average_rating": "3.97",
-    "ratings_count": "648457",
+    "ratings_count": "648528",
     "publication_day": "7",
     "publication_month": "1",
     "publication_year": "2002"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/12158480-why-nations-fail",
+    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "title_without_series": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "<b><i>Brilliant and engagingly written,</i> Why Nations Fail <i>answers the question that has stumped the experts for centuries: Why are some nations rich and others poor, divided by wealth and poverty, health and sickness, food and famine? <br /><br /></i></b>Is it culture, the weather, geography? Perhaps ignorance of what the right policies are? <br /><br />Simply, no. None of these factors is either definitive or destiny. Otherwise, how to explain why Botswana has become one of the fastest growing countries in the world, while other African nations, such as Zimbabwe, the Congo, and Sierra Leone, are mired in poverty and violence? <br /><br />Daron Acemoglu and James Robinson conclusively show that it is man-made political and economic institutions that underlie economic success (or lack of it). Korea, to take just one of their fascinating examples, is a remarkably homogeneous nation, yet the people of North Korea are among the poorest on earth while their brothers and sisters in South Korea are among the richest. The south forged a society that created incentives, rewarded innovation, and allowed everyone to participate in economic opportunities. The economic success thus spurred was sustained because the government became accountable and responsive to citizens and the great mass of people. Sadly, the people of the north have endured decades of famine, political repression, and very different economic institutions—with no end in sight. The differences between the Koreas is due to the politics that created these completely different institutional trajectories. <br /><br />Based on fifteen years of original research Acemoglu and Robinson marshall extraordinary historical evidence from the Roman Empire, the Mayan city-states, medieval Venice, the Soviet Union, Latin America, England, Europe, the United States, and Africa to build a new theory of political economy with great relevance for the big questions of today, including: <br /><br />   - China has built an authoritarian growth machine. Will it continue to grow at such high speed and overwhelm the West? <br />   - Are America’s best days behind it? Are we moving from a virtuous circle in which efforts by elites to aggrandize power are resisted to a vicious one that enriches and empowers a small minority? <br />   - What is the most effective way to help move billions of people from the rut of poverty to prosperity? More <br />philanthropy from the wealthy nations of the West? Or learning the hard-won lessons of Acemoglu and Robinson’s breakthrough ideas on the interplay between inclusive political and economic institutions? <br /><br /><i>Why Nations Fail </i>will change the way you look at—and understand—the world.",
+    "num_pages": "544",
+    "authors": {
+      "author": {
+        "id": "12817",
+        "name": "Daron Acemoğlu",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1354435300p5/12817.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1354435300p2/12817.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/12817.Daron_Acemo_lu",
+        "average_rating": "4.06",
+        "ratings_count": "26849",
+        "text_reviews_count": "2620"
+      }
+    },
+    "average_rating": "4.06",
+    "ratings_count": "26247",
+    "publication_day": "20",
+    "publication_month": "3",
+    "publication_year": "2012"
   }
 ]
