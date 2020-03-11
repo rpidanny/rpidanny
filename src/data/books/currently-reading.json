@@ -1,38 +1,5 @@
 [
   {
-    "link": "https://www.goodreads.com/book/show/8520610-quiet",
-    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
-    "title_without_series": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610._SX98_.jpg",
-    "description": "At least one-third of the people we know are introverts. They are the ones who prefer listening to speaking; who innovate and create but dislike self-promotion; who favor working on their own over working in teams. It is to introverts—Rosa Parks, Chopin, Dr. Seuss, Steve Wozniak—that we owe many of the great contributions to society.<br /><br />In <i>Quiet</i>, Susan Cain argues that we dramatically undervalue introverts and shows how much we lose in doing so. She charts the rise of the Extrovert Ideal throughout the twentieth century and explores how deeply it has come to permeate our culture. She also introduces us to successful introverts--from a witty, high-octane public speaker who recharges in solitude after his talks, to a record-breaking salesman who quietly taps into the power of questions. Passionately argued, superbly researched, and filled with indelible stories of real people, <i>Quiet</i> has the power to permanently change how we see introverts and, equally important, how they see themselves.",
-    "num_pages": "333",
-    "authors": {
-      "author": {
-        "id": "4101935",
-        "name": "Susan Cain",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1315319296p5/4101935.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1315319296p2/4101935.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/4101935.Susan_Cain",
-        "average_rating": "4.06",
-        "ratings_count": "296972",
-        "text_reviews_count": "22813"
-      }
-    },
-    "average_rating": "4.06",
-    "ratings_count": "292968",
-    "publication_day": "24",
-    "publication_month": "1",
-    "publication_year": "2012"
-  },
-  {
     "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
     "title": "The 48 Laws Of Power",
     "title_without_series": "The 48 Laws Of Power",
@@ -55,15 +22,48 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "132186",
-        "text_reviews_count": "8020"
+        "ratings_count": "132220",
+        "text_reviews_count": "8023"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "66653",
+    "ratings_count": "66667",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
+    "title": "The Book Thief",
+    "title_without_series": "The Book Thief",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SX98_.jpg",
+    "description": "It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.<br /><br />By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor's wife's library, wherever there are books to be found.<br /><br />But these are dangerous times. When Liesel's foster family hides a Jew in their basement, Liesel's world is both opened up, and closed down.<br /><br />In superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time.",
+    "num_pages": "552",
+    "authors": {
+      "author": {
+        "id": "11466",
+        "name": "Markus Zusak",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1537240528p5/11466.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1537240528p2/11466.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/11466.Markus_Zusak",
+        "average_rating": "4.34",
+        "ratings_count": "1869861",
+        "text_reviews_count": "128290"
+      }
+    },
+    "average_rating": "4.37",
+    "ratings_count": "1702109",
+    "publication_day": "14",
+    "publication_month": "3",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/36204378-the-book-of-why",
@@ -93,7 +93,7 @@
       }
     },
     "average_rating": "3.95",
-    "ratings_count": "2079",
+    "ratings_count": "2080",
     "publication_day": "15",
     "publication_month": "5",
     "publication_year": "2018"
@@ -121,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.17",
-        "ratings_count": "17589",
-        "text_reviews_count": "2139"
+        "ratings_count": "17598",
+        "text_reviews_count": "2140"
       }
     },
     "average_rating": "3.70",
-    "ratings_count": "2259",
+    "ratings_count": "2261",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -154,12 +154,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "4.00",
-        "ratings_count": "1910321",
-        "text_reviews_count": "73799"
+        "ratings_count": "1910657",
+        "text_reviews_count": "73814"
       }
     },
     "average_rating": "3.97",
-    "ratings_count": "648872",
+    "ratings_count": "648942",
     "publication_day": "7",
     "publication_month": "1",
     "publication_year": "2002"
@@ -187,12 +187,12 @@
         },
         "link": "https://www.goodreads.com/author/show/12817.Daron_Acemo_lu",
         "average_rating": "4.06",
-        "ratings_count": "26876",
+        "ratings_count": "26883",
         "text_reviews_count": "2620"
       }
     },
     "average_rating": "4.06",
-    "ratings_count": "26271",
+    "ratings_count": "26278",
     "publication_day": "20",
     "publication_month": "3",
     "publication_year": "2012"
