@@ -22,12 +22,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1429989.Richard_P_Feynman",
         "average_rating": "4.27",
-        "ratings_count": "265777",
-        "text_reviews_count": "9645"
+        "ratings_count": "265822",
+        "text_reviews_count": "9649"
       }
     },
     "average_rating": "4.28",
-    "ratings_count": "142749",
+    "ratings_count": "142779",
     "publication_day": "6",
     "publication_month": "2",
     "publication_year": "2018"
@@ -88,12 +88,12 @@
         },
         "link": "https://www.goodreads.com/author/show/282885.Jordan_B_Peterson",
         "average_rating": "3.96",
-        "ratings_count": "79620",
-        "text_reviews_count": "7735"
+        "ratings_count": "79670",
+        "text_reviews_count": "7741"
       }
     },
     "average_rating": "3.95",
-    "ratings_count": "76465",
+    "ratings_count": "76515",
     "publication_day": "23",
     "publication_month": "1",
     "publication_year": "2018"
@@ -121,12 +121,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
         "average_rating": "3.96",
-        "ratings_count": "2172882",
-        "text_reviews_count": "158838"
+        "ratings_count": "2173354",
+        "text_reviews_count": "158885"
       }
     },
     "average_rating": "3.92",
-    "ratings_count": "184165",
+    "ratings_count": "184191",
     "publication_day": "25",
     "publication_month": "10",
     "publication_year": "2011"
@@ -154,12 +154,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4536964.Amor_Towles",
         "average_rating": "4.15",
-        "ratings_count": "467688",
-        "text_reviews_count": "47740"
+        "ratings_count": "467841",
+        "text_reviews_count": "47753"
       }
     },
     "average_rating": "4.35",
-    "ratings_count": "231584",
+    "ratings_count": "231695",
     "publication_day": "26",
     "publication_month": "3",
     "publication_year": "2019"
@@ -253,12 +253,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14600.Burton_G_Malkiel",
         "average_rating": "4.09",
-        "ratings_count": "32600",
-        "text_reviews_count": "1479"
+        "ratings_count": "32606",
+        "text_reviews_count": "1480"
       }
     },
     "average_rating": "4.10",
-    "ratings_count": "22873",
+    "ratings_count": "22878",
     "publication_day": "1",
     "publication_month": "1",
     "publication_year": "2019"
@@ -286,12 +286,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4199891.Brian_Christian",
         "average_rating": "4.11",
-        "ratings_count": "20249",
+        "ratings_count": "20253",
         "text_reviews_count": "2032"
       }
     },
     "average_rating": "4.16",
-    "ratings_count": "16142",
+    "ratings_count": "16146",
     "publication_day": "19",
     "publication_month": "4",
     "publication_year": "2016"
@@ -319,12 +319,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1136925.Chris_Hadfield",
         "average_rating": "4.18",
-        "ratings_count": "45485",
+        "ratings_count": "45491",
         "text_reviews_count": "4393"
       }
     },
     "average_rating": "4.17",
-    "ratings_count": "41847",
+    "ratings_count": "41853",
     "publication_day": "29",
     "publication_month": "10",
     "publication_year": "2013"
@@ -352,12 +352,12 @@
         },
         "link": "https://www.goodreads.com/author/show/461456.Gareth_James",
         "average_rating": "4.58",
-        "ratings_count": "1298",
+        "ratings_count": "1300",
         "text_reviews_count": "106"
       }
     },
     "average_rating": "4.61",
-    "ratings_count": "1263",
+    "ratings_count": "1265",
     "publication_day": "1",
     "publication_month": "9",
     "publication_year": "2017"
@@ -384,13 +384,13 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
         },
         "link": "https://www.goodreads.com/author/show/16278493.Paul_Scharre",
-        "average_rating": "3.82",
-        "ratings_count": "1363",
+        "average_rating": "3.81",
+        "ratings_count": "1366",
         "text_reviews_count": "183"
       }
     },
-    "average_rating": "3.82",
-    "ratings_count": "1357",
+    "average_rating": "3.81",
+    "ratings_count": "1360",
     "publication_day": "24",
     "publication_month": "4",
     "publication_year": "2018"
@@ -451,12 +451,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "4.00",
-        "ratings_count": "1913279",
-        "text_reviews_count": "73970"
+        "ratings_count": "1913749",
+        "text_reviews_count": "73991"
       }
     },
     "average_rating": "3.93",
-    "ratings_count": "456651",
+    "ratings_count": "456700",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2005"
@@ -484,12 +484,12 @@
         },
         "link": "https://www.goodreads.com/author/show/145637.Nicholas_A_Christakis",
         "average_rating": "3.83",
-        "ratings_count": "4559",
+        "ratings_count": "4562",
         "text_reviews_count": "476"
       }
     },
     "average_rating": "3.95",
-    "ratings_count": "996",
+    "ratings_count": "998",
     "publication_day": "26",
     "publication_month": "3",
     "publication_year": "2019"
@@ -517,8 +517,8 @@
         },
         "link": "https://www.goodreads.com/author/show/67412.Nancy_Pearl",
         "average_rating": "3.67",
-        "ratings_count": "13541",
-        "text_reviews_count": "1976"
+        "ratings_count": "13544",
+        "text_reviews_count": "1977"
       }
     },
     "average_rating": "3.77",
@@ -550,12 +550,12 @@
         },
         "link": "https://www.goodreads.com/author/show/2826.James_C_Collins",
         "average_rating": "4.06",
-        "ratings_count": "207237",
+        "ratings_count": "207265",
         "text_reviews_count": "6364"
       }
     },
     "average_rating": "4.00",
-    "ratings_count": "55765",
+    "ratings_count": "55771",
     "publication_day": "2",
     "publication_month": "11",
     "publication_year": "2004"
@@ -583,12 +583,12 @@
         },
         "link": "https://www.goodreads.com/author/show/250754.John_Brooks",
         "average_rating": "3.82",
-        "ratings_count": "17676",
+        "ratings_count": "17680",
         "text_reviews_count": "645"
       }
     },
     "average_rating": "3.81",
-    "ratings_count": "17037",
+    "ratings_count": "17041",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -616,12 +616,12 @@
         },
         "link": "https://www.goodreads.com/author/show/795282.Thomas_Piketty",
         "average_rating": "4.01",
-        "ratings_count": "23387",
-        "text_reviews_count": "2057"
+        "ratings_count": "23392",
+        "text_reviews_count": "2058"
       }
     },
     "average_rating": "4.04",
-    "ratings_count": "21033",
+    "ratings_count": "21036",
     "publication_day": "10",
     "publication_month": "3",
     "publication_year": "2014"
@@ -649,7 +649,7 @@
         },
         "link": "https://www.goodreads.com/author/show/17149272.Ben_Orlin",
         "average_rating": "4.28",
-        "ratings_count": "714",
+        "ratings_count": "715",
         "text_reviews_count": "119"
       }
     },
@@ -682,12 +682,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14781763.Antonio_Garc_a_Mart_nez",
         "average_rating": "3.72",
-        "ratings_count": "9383",
+        "ratings_count": "9386",
         "text_reviews_count": "919"
       }
     },
     "average_rating": "3.72",
-    "ratings_count": "9383",
+    "ratings_count": "9386",
     "publication_day": "28",
     "publication_month": "2",
     "publication_year": "2017"
@@ -715,12 +715,12 @@
         },
         "link": "https://www.goodreads.com/author/show/8125679.Serhii_Plokhy",
         "average_rating": "4.21",
-        "ratings_count": "6568",
-        "text_reviews_count": "875"
+        "ratings_count": "6573",
+        "text_reviews_count": "876"
       }
     },
     "average_rating": "4.23",
-    "ratings_count": "4270",
+    "ratings_count": "4274",
     "publication_day": "15",
     "publication_month": "5",
     "publication_year": "2018"
@@ -814,12 +814,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
         "average_rating": "4.20",
-        "ratings_count": "233899",
-        "text_reviews_count": "23989"
+        "ratings_count": "233995",
+        "text_reviews_count": "23994"
       }
     },
     "average_rating": "4.44",
-    "ratings_count": "39774",
+    "ratings_count": "39789",
     "publication_day": "20",
     "publication_month": "9",
     "publication_year": "2016"
@@ -847,12 +847,12 @@
         },
         "link": "https://www.goodreads.com/author/show/29101.David_Graeber",
         "average_rating": "4.08",
-        "ratings_count": "22667",
-        "text_reviews_count": "2949"
+        "ratings_count": "22675",
+        "text_reviews_count": "2950"
       }
     },
     "average_rating": "4.16",
-    "ratings_count": "10830",
+    "ratings_count": "10833",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -880,12 +880,12 @@
         },
         "link": "https://www.goodreads.com/author/show/39021.Chip_Heath",
         "average_rating": "4.00",
-        "ratings_count": "130736",
-        "text_reviews_count": "7275"
+        "ratings_count": "130755",
+        "text_reviews_count": "7276"
       }
     },
     "average_rating": "3.99",
-    "ratings_count": "12067",
+    "ratings_count": "12069",
     "publication_day": "6",
     "publication_month": "2",
     "publication_year": "2014"
@@ -913,12 +913,12 @@
         },
         "link": "https://www.goodreads.com/author/show/48723.Garry_Kasparov",
         "average_rating": "3.98",
-        "ratings_count": "6896",
+        "ratings_count": "6900",
         "text_reviews_count": "719"
       }
     },
     "average_rating": "3.94",
-    "ratings_count": "1587",
+    "ratings_count": "1589",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -946,12 +946,12 @@
         },
         "link": "https://www.goodreads.com/author/show/147891.Cal_Newport",
         "average_rating": "4.15",
-        "ratings_count": "110830",
-        "text_reviews_count": "10992"
+        "ratings_count": "110907",
+        "text_reviews_count": "10998"
       }
     },
     "average_rating": "4.20",
-    "ratings_count": "57515",
+    "ratings_count": "57546",
     "publication_day": "5",
     "publication_month": "1",
     "publication_year": "2016"
@@ -978,13 +978,13 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
         },
         "link": "https://www.goodreads.com/author/show/15663762.Bill_Burnett",
-        "average_rating": "3.93",
-        "ratings_count": "9480",
-        "text_reviews_count": "936"
+        "average_rating": "3.94",
+        "ratings_count": "9491",
+        "text_reviews_count": "938"
       }
     },
     "average_rating": "3.93",
-    "ratings_count": "9364",
+    "ratings_count": "9373",
     "publication_day": "15",
     "publication_month": "9",
     "publication_year": "2016"
@@ -1017,7 +1017,7 @@
       }
     },
     "average_rating": "4.09",
-    "ratings_count": "5629",
+    "ratings_count": "5630",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2000"
@@ -1078,12 +1078,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5003.Vaclav_Smil",
         "average_rating": "3.90",
-        "ratings_count": "4553",
-        "text_reviews_count": "495"
+        "ratings_count": "4559",
+        "text_reviews_count": "496"
       }
     },
     "average_rating": "4.12",
-    "ratings_count": "925",
+    "ratings_count": "929",
     "publication_day": "12",
     "publication_month": "5",
     "publication_year": "2017"
@@ -1111,12 +1111,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3352714.Adam_Savage",
         "average_rating": "4.08",
-        "ratings_count": "4389",
-        "text_reviews_count": "492"
+        "ratings_count": "4393",
+        "text_reviews_count": "493"
       }
     },
     "average_rating": "4.09",
-    "ratings_count": "4119",
+    "ratings_count": "4123",
     "publication_day": "7",
     "publication_month": "5",
     "publication_year": "2019"
@@ -1144,12 +1144,12 @@
         },
         "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
         "average_rating": "3.98",
-        "ratings_count": "170362",
-        "text_reviews_count": "10849"
+        "ratings_count": "170406",
+        "text_reviews_count": "10854"
       }
     },
     "average_rating": "4.06",
-    "ratings_count": "44136",
+    "ratings_count": "44151",
     "publication_day": "23",
     "publication_month": "8",
     "publication_year": "2005"
@@ -1243,12 +1243,12 @@
         },
         "link": "https://www.goodreads.com/author/show/10401.James_Gleick",
         "average_rating": "4.01",
-        "ratings_count": "79986",
-        "text_reviews_count": "4139"
+        "ratings_count": "79995",
+        "text_reviews_count": "4140"
       }
     },
     "average_rating": "4.15",
-    "ratings_count": "19511",
+    "ratings_count": "19513",
     "publication_day": "2",
     "publication_month": "11",
     "publication_year": "1993"
@@ -1276,12 +1276,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5302812.Abhijit_V_Banerjee",
         "average_rating": "4.25",
-        "ratings_count": "12768",
-        "text_reviews_count": "1111"
+        "ratings_count": "12779",
+        "text_reviews_count": "1112"
       }
     },
     "average_rating": "4.28",
-    "ratings_count": "806",
+    "ratings_count": "810",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -1309,12 +1309,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5003.Vaclav_Smil",
         "average_rating": "3.90",
-        "ratings_count": "4553",
-        "text_reviews_count": "495"
+        "ratings_count": "4559",
+        "text_reviews_count": "496"
       }
     },
-    "average_rating": "3.86",
-    "ratings_count": "127",
+    "average_rating": "3.87",
+    "ratings_count": "128",
     "publication_day": "24",
     "publication_month": "9",
     "publication_year": "2019"
@@ -1342,12 +1342,12 @@
         },
         "link": "https://www.goodreads.com/author/show/256.Jared_Diamond",
         "average_rating": "4.00",
-        "ratings_count": "368302",
+        "ratings_count": "368385",
         "text_reviews_count": "16077"
       }
     },
     "average_rating": "4.03",
-    "ratings_count": "267741",
+    "ratings_count": "267803",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2005"
@@ -1375,12 +1375,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7561162.Jamie_Metzl",
         "average_rating": "3.87",
-        "ratings_count": "1539",
+        "ratings_count": "1541",
         "text_reviews_count": "212"
       }
     },
     "average_rating": "4.04",
-    "ratings_count": "1083",
+    "ratings_count": "1085",
     "publication_day": "23",
     "publication_month": "4",
     "publication_year": "2019"
@@ -1441,12 +1441,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3089156.Randall_Munroe",
         "average_rating": "4.16",
-        "ratings_count": "141466",
-        "text_reviews_count": "10504"
+        "ratings_count": "141499",
+        "text_reviews_count": "10506"
       }
     },
     "average_rating": "4.20",
-    "ratings_count": "5755",
+    "ratings_count": "5768",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -1474,12 +1474,12 @@
         },
         "link": "https://www.goodreads.com/author/show/42326.Julian_Baggini",
         "average_rating": "3.74",
-        "ratings_count": "9819",
+        "ratings_count": "9826",
         "text_reviews_count": "995"
       }
     },
-    "average_rating": "3.66",
-    "ratings_count": "450",
+    "average_rating": "3.65",
+    "ratings_count": "453",
     "publication_day": "4",
     "publication_month": "10",
     "publication_year": "2018"
@@ -1507,12 +1507,12 @@
         },
         "link": "https://www.goodreads.com/author/show/2121.Michael_Pollan",
         "average_rating": "4.11",
-        "ratings_count": "435012",
-        "text_reviews_count": "35671"
+        "ratings_count": "435089",
+        "text_reviews_count": "35675"
       }
     },
     "average_rating": "4.27",
-    "ratings_count": "30194",
+    "ratings_count": "30209",
     "publication_day": "17",
     "publication_month": "5",
     "publication_year": "2018"
@@ -1540,12 +1540,12 @@
         },
         "link": "https://www.goodreads.com/author/show/18614151.Jenny_Odell",
         "average_rating": "3.89",
-        "ratings_count": "8260",
-        "text_reviews_count": "1099"
+        "ratings_count": "8287",
+        "text_reviews_count": "1101"
       }
     },
     "average_rating": "3.89",
-    "ratings_count": "8260",
+    "ratings_count": "8286",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -1573,12 +1573,12 @@
         },
         "link": "https://www.goodreads.com/author/show/28848.Darrell_Huff",
         "average_rating": "3.87",
-        "ratings_count": "9648",
+        "ratings_count": "9650",
         "text_reviews_count": "1011"
       }
     },
     "average_rating": "3.87",
-    "ratings_count": "9578",
+    "ratings_count": "9580",
     "publication_day": "1",
     "publication_month": "9",
     "publication_year": "1982"
@@ -1639,12 +1639,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7284116.Nir_Eyal",
         "average_rating": "4.03",
-        "ratings_count": "25540",
-        "text_reviews_count": "2026"
+        "ratings_count": "25560",
+        "text_reviews_count": "2028"
       }
     },
     "average_rating": "3.81",
-    "ratings_count": "4409",
+    "ratings_count": "4418",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -1672,12 +1672,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1235.Jon_Krakauer",
         "average_rating": "4.03",
-        "ratings_count": "1463035",
-        "text_reviews_count": "55243"
+        "ratings_count": "1463189",
+        "text_reviews_count": "55247"
       }
     },
     "average_rating": "4.17",
-    "ratings_count": "370282",
+    "ratings_count": "370316",
     "publication_day": "19",
     "publication_month": "10",
     "publication_year": "1999"
@@ -1705,12 +1705,12 @@
         },
         "link": "https://www.goodreads.com/author/show/60619.Jason_Fried",
         "average_rating": "3.95",
-        "ratings_count": "148916",
-        "text_reviews_count": "5458"
+        "ratings_count": "148947",
+        "text_reviews_count": "5461"
       }
     },
     "average_rating": "4.04",
-    "ratings_count": "7382",
+    "ratings_count": "7385",
     "publication_day": "2",
     "publication_month": "10",
     "publication_year": "2018"
@@ -1771,12 +1771,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
         "average_rating": "3.96",
-        "ratings_count": "2172882",
-        "text_reviews_count": "158838"
+        "ratings_count": "2173354",
+        "text_reviews_count": "158885"
       }
     },
     "average_rating": "4.14",
-    "ratings_count": "276020",
+    "ratings_count": "276073",
     "publication_day": "3",
     "publication_month": "1",
     "publication_year": "2006"
@@ -1804,12 +1804,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7111.Walter_Isaacson",
         "average_rating": "4.12",
-        "ratings_count": "1204056",
-        "text_reviews_count": "28889"
+        "ratings_count": "1204302",
+        "text_reviews_count": "28894"
       }
     },
     "average_rating": "4.17",
-    "ratings_count": "44221",
+    "ratings_count": "44244",
     "publication_day": "17",
     "publication_month": "10",
     "publication_year": "2017"
@@ -1870,12 +1870,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4113892.Conor_Grennan",
         "average_rating": "4.27",
-        "ratings_count": "19540",
-        "text_reviews_count": "2606"
+        "ratings_count": "19542",
+        "text_reviews_count": "2605"
       }
     },
     "average_rating": "4.28",
-    "ratings_count": "19405",
+    "ratings_count": "19407",
     "publication_day": "27",
     "publication_month": "1",
     "publication_year": "2011"
@@ -1903,12 +1903,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3277.Dava_Sobel",
         "average_rating": "3.86",
-        "ratings_count": "91991",
-        "text_reviews_count": "5760"
+        "ratings_count": "91999",
+        "text_reviews_count": "5762"
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "54396",
+    "ratings_count": "54402",
     "publication_day": "1",
     "publication_month": "10",
     "publication_year": "2005"
@@ -1936,8 +1936,8 @@
         },
         "link": "https://www.goodreads.com/author/show/5003.Vaclav_Smil",
         "average_rating": "3.90",
-        "ratings_count": "4553",
-        "text_reviews_count": "495"
+        "ratings_count": "4559",
+        "text_reviews_count": "496"
       }
     },
     "average_rating": "3.73",
@@ -1969,12 +1969,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "132415",
-        "text_reviews_count": "8035"
+        "ratings_count": "132454",
+        "text_reviews_count": "8038"
       }
     },
     "average_rating": "4.29",
-    "ratings_count": "23783",
+    "ratings_count": "23787",
     "publication_day": "13",
     "publication_month": "11",
     "publication_year": "2012"
@@ -2035,12 +2035,12 @@
         },
         "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
         "average_rating": "3.89",
-        "ratings_count": "70025",
-        "text_reviews_count": "4042"
+        "ratings_count": "70053",
+        "text_reviews_count": "4045"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "12305",
+    "ratings_count": "12311",
     "publication_day": "14",
     "publication_month": "6",
     "publication_year": "2016"
@@ -2101,12 +2101,12 @@
         },
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": "4.15",
-        "ratings_count": "568040",
-        "text_reviews_count": "32071"
+        "ratings_count": "568119",
+        "text_reviews_count": "32076"
       }
     },
     "average_rating": "4.26",
-    "ratings_count": "93247",
+    "ratings_count": "93261",
     "publication_day": "17",
     "publication_month": "3",
     "publication_year": "2004"
@@ -2134,12 +2134,12 @@
         },
         "link": "https://www.goodreads.com/author/show/18704.Charles_Wheelan",
         "average_rating": "4.01",
-        "ratings_count": "25564",
+        "ratings_count": "25568",
         "text_reviews_count": "2165"
       }
     },
     "average_rating": "4.03",
-    "ratings_count": "14343",
+    "ratings_count": "14344",
     "publication_day": "1",
     "publication_month": "1",
     "publication_year": "2019"
@@ -2166,13 +2166,13 @@
           "$t": "https://images.gr-assets.com/authors/1449859932p2/5525291.jpg"
         },
         "link": "https://www.goodreads.com/author/show/5525291.Chris_Voss",
-        "average_rating": "4.41",
-        "ratings_count": "39121",
-        "text_reviews_count": "3063"
+        "average_rating": "4.40",
+        "ratings_count": "39168",
+        "text_reviews_count": "3067"
       }
     },
     "average_rating": "4.41",
-    "ratings_count": "39084",
+    "ratings_count": "39132",
     "publication_day": "17",
     "publication_month": "5",
     "publication_year": "2016"
@@ -2233,12 +2233,12 @@
         },
         "link": "https://www.goodreads.com/author/show/219.Harry_G_Frankfurt",
         "average_rating": "3.57",
-        "ratings_count": "12168",
+        "ratings_count": "12170",
         "text_reviews_count": "1319"
       }
     },
     "average_rating": "3.57",
-    "ratings_count": "10190",
+    "ratings_count": "10191",
     "publication_day": "30",
     "publication_month": "1",
     "publication_year": "2005"
@@ -2266,12 +2266,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4918776.Seneca",
         "average_rating": "4.19",
-        "ratings_count": "52797",
-        "text_reviews_count": "3323"
+        "ratings_count": "52812",
+        "text_reviews_count": "3324"
       }
     },
     "average_rating": "4.24",
-    "ratings_count": "15555",
+    "ratings_count": "15561",
     "publication_day": "2",
     "publication_month": "9",
     "publication_year": "2004"
@@ -2299,12 +2299,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "575838",
-        "text_reviews_count": "21677"
+        "ratings_count": "575908",
+        "text_reviews_count": "21681"
       }
     },
     "average_rating": "3.98",
-    "ratings_count": "1494",
+    "ratings_count": "1495",
     "publication_day": "19",
     "publication_month": "9",
     "publication_year": "2019"
@@ -2332,12 +2332,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7140597.Edward_Snowden",
         "average_rating": "4.39",
-        "ratings_count": "16771",
-        "text_reviews_count": "1971"
+        "ratings_count": "16815",
+        "text_reviews_count": "1976"
       }
     },
     "average_rating": "4.40",
-    "ratings_count": "16539",
+    "ratings_count": "16589",
     "publication_day": "17",
     "publication_month": "9",
     "publication_year": "2019"
@@ -2365,12 +2365,12 @@
         },
         "link": "https://www.goodreads.com/author/show/18748225.Diane_Tavenner",
         "average_rating": "4.03",
-        "ratings_count": "744",
-        "text_reviews_count": "90"
+        "ratings_count": "746",
+        "text_reviews_count": "91"
       }
     },
     "average_rating": "4.03",
-    "ratings_count": "744",
+    "ratings_count": "746",
     "publication_day": "17",
     "publication_month": "9",
     "publication_year": "2019"
@@ -2398,12 +2398,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5289593.Ray_Dalio",
         "average_rating": "4.19",
-        "ratings_count": "29358",
-        "text_reviews_count": "2234"
+        "ratings_count": "29379",
+        "text_reviews_count": "2236"
       }
     },
     "average_rating": "4.17",
-    "ratings_count": "5477",
+    "ratings_count": "5479",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2011"
@@ -2431,12 +2431,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5289593.Ray_Dalio",
         "average_rating": "4.19",
-        "ratings_count": "29358",
-        "text_reviews_count": "2234"
+        "ratings_count": "29379",
+        "text_reviews_count": "2236"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "22357",
+    "ratings_count": "22374",
     "publication_day": "1",
     "publication_month": "8",
     "publication_year": "2018"
@@ -2563,12 +2563,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7164089.David_Epstein",
         "average_rating": "4.19",
-        "ratings_count": "22177",
-        "text_reviews_count": "2185"
+        "ratings_count": "22214",
+        "text_reviews_count": "2190"
       }
     },
     "average_rating": "4.19",
-    "ratings_count": "12597",
+    "ratings_count": "12633",
     "publication_day": "28",
     "publication_month": "5",
     "publication_year": "2019"
@@ -2596,12 +2596,12 @@
         },
         "link": "https://www.goodreads.com/author/show/108952.Carlo_Rovelli",
         "average_rating": "4.02",
-        "ratings_count": "51090",
-        "text_reviews_count": "5781"
+        "ratings_count": "51119",
+        "text_reviews_count": "5783"
       }
     },
     "average_rating": "4.30",
-    "ratings_count": "6225",
+    "ratings_count": "6228",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -2629,12 +2629,12 @@
         },
         "link": "https://www.goodreads.com/author/show/6467969.Francesca_Gino",
         "average_rating": "3.73",
-        "ratings_count": "1054",
+        "ratings_count": "1056",
         "text_reviews_count": "152"
       }
     },
     "average_rating": "3.79",
-    "ratings_count": "831",
+    "ratings_count": "833",
     "publication_day": "1",
     "publication_month": "5",
     "publication_year": "2018"
@@ -2662,12 +2662,12 @@
         },
         "link": "https://www.goodreads.com/author/show/127789.Alex_Soojung_Kim_Pang",
         "average_rating": "3.79",
-        "ratings_count": "2600",
-        "text_reviews_count": "413"
+        "ratings_count": "2604",
+        "text_reviews_count": "414"
       }
     },
     "average_rating": "3.85",
-    "ratings_count": "2082",
+    "ratings_count": "2086",
     "publication_day": "6",
     "publication_month": "12",
     "publication_year": "2016"
@@ -2695,12 +2695,12 @@
         },
         "link": "https://www.goodreads.com/author/show/6107996.Thomas_C_Corley",
         "average_rating": "3.82",
-        "ratings_count": "1558",
-        "text_reviews_count": "167"
+        "ratings_count": "1559",
+        "text_reviews_count": "168"
       }
     },
     "average_rating": "3.72",
-    "ratings_count": "1062",
+    "ratings_count": "1063",
     "publication_day": "1",
     "publication_month": "3",
     "publication_year": "2010"
@@ -2794,12 +2794,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1847.Mark_Kurlansky",
         "average_rating": "3.77",
-        "ratings_count": "94551",
+        "ratings_count": "94563",
         "text_reviews_count": "8089"
       }
     },
     "average_rating": "3.74",
-    "ratings_count": "52810",
+    "ratings_count": "52818",
     "publication_day": "28",
     "publication_month": "1",
     "publication_year": "2003"
@@ -2827,12 +2827,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1350.Sam_Walton",
         "average_rating": "4.15",
-        "ratings_count": "16051",
-        "text_reviews_count": "707"
+        "ratings_count": "16053",
+        "text_reviews_count": "708"
       }
     },
     "average_rating": "4.15",
-    "ratings_count": "16032",
+    "ratings_count": "16033",
     "publication_day": "1",
     "publication_month": "6",
     "publication_year": "1993"
@@ -2860,7 +2860,7 @@
         },
         "link": "https://www.goodreads.com/author/show/2636.Tom_Standage",
         "average_rating": "3.78",
-        "ratings_count": "26871",
+        "ratings_count": "26878",
         "text_reviews_count": "3100"
       }
     },
@@ -2893,8 +2893,8 @@
         },
         "link": "https://www.goodreads.com/author/show/5003.Vaclav_Smil",
         "average_rating": "3.90",
-        "ratings_count": "4553",
-        "text_reviews_count": "495"
+        "ratings_count": "4559",
+        "text_reviews_count": "496"
       }
     },
     "average_rating": "3.53",
@@ -2926,12 +2926,12 @@
         },
         "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
         "average_rating": "3.98",
-        "ratings_count": "170362",
-        "text_reviews_count": "10849"
+        "ratings_count": "170406",
+        "text_reviews_count": "10854"
       }
     },
     "average_rating": "3.86",
-    "ratings_count": "12152",
+    "ratings_count": "12158",
     "publication_day": "1",
     "publication_month": "6",
     "publication_year": "2018"
@@ -2992,12 +2992,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
         "average_rating": "4.00",
-        "ratings_count": "1913279",
-        "text_reviews_count": "73970"
+        "ratings_count": "1913749",
+        "text_reviews_count": "73991"
       }
     },
-    "average_rating": "4.05",
-    "ratings_count": "68245",
+    "average_rating": "4.04",
+    "ratings_count": "68400",
     "publication_day": "10",
     "publication_month": "9",
     "publication_year": "2019"
@@ -3058,12 +3058,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14931109.Allan_Dib",
         "average_rating": "4.38",
-        "ratings_count": "2527",
+        "ratings_count": "2528",
         "text_reviews_count": "260"
       }
     },
     "average_rating": "4.38",
-    "ratings_count": "2525",
+    "ratings_count": "2526",
     "publication_day": {},
     "publication_month": "9",
     "publication_year": "2018"
@@ -3190,12 +3190,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1126543.David_Spiegelhalter",
         "average_rating": "3.99",
-        "ratings_count": "1144",
-        "text_reviews_count": "146"
+        "ratings_count": "1146",
+        "text_reviews_count": "147"
       }
     },
     "average_rating": "4.25",
-    "ratings_count": "632",
+    "ratings_count": "634",
     "publication_day": "3",
     "publication_month": "9",
     "publication_year": "2019"
@@ -3223,12 +3223,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1771.Sun_Tzu",
         "average_rating": "3.97",
-        "ratings_count": "304029",
+        "ratings_count": "304089",
         "text_reviews_count": "9962"
       }
     },
     "average_rating": "3.97",
-    "ratings_count": "294633",
+    "ratings_count": "294907",
     "publication_day": "11",
     "publication_month": "1",
     "publication_year": "2005"
@@ -3256,12 +3256,12 @@
         },
         "link": "https://www.goodreads.com/author/show/92598.Richard_J_Herrnstein",
         "average_rating": "3.63",
-        "ratings_count": "2071",
+        "ratings_count": "2072",
         "text_reviews_count": "194"
       }
     },
     "average_rating": "3.55",
-    "ratings_count": "2344",
+    "ratings_count": "2346",
     "publication_day": "10",
     "publication_month": "1",
     "publication_year": "1996"
@@ -3289,12 +3289,12 @@
         },
         "link": "https://www.goodreads.com/author/show/151771.Sean_Carroll",
         "average_rating": "4.04",
-        "ratings_count": "18387",
-        "text_reviews_count": "1686"
+        "ratings_count": "18393",
+        "text_reviews_count": "1687"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "5534",
+    "ratings_count": "5536",
     "publication_day": "10",
     "publication_month": "5",
     "publication_year": "2016"
@@ -3322,12 +3322,12 @@
         },
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": "4.15",
-        "ratings_count": "568040",
-        "text_reviews_count": "32071"
+        "ratings_count": "568119",
+        "text_reviews_count": "32076"
       }
     },
     "average_rating": "4.29",
-    "ratings_count": "126120",
+    "ratings_count": "126133",
     "publication_day": "16",
     "publication_month": "11",
     "publication_year": "2015"
@@ -3355,12 +3355,12 @@
         },
         "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
         "average_rating": "3.98",
-        "ratings_count": "170362",
-        "text_reviews_count": "10849"
+        "ratings_count": "170406",
+        "text_reviews_count": "10854"
       }
     },
     "average_rating": "3.92",
-    "ratings_count": "76981",
+    "ratings_count": "76995",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2010"
@@ -3388,12 +3388,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3915.Steven_Pinker",
         "average_rating": "4.03",
-        "ratings_count": "136711",
-        "text_reviews_count": "10227"
+        "ratings_count": "136739",
+        "text_reviews_count": "10229"
       }
     },
     "average_rating": "4.08",
-    "ratings_count": "20131",
+    "ratings_count": "20133",
     "publication_day": "25",
     "publication_month": "10",
     "publication_year": "2012"
@@ -3421,8 +3421,8 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "575838",
-        "text_reviews_count": "21677"
+        "ratings_count": "575908",
+        "text_reviews_count": "21681"
       }
     },
     "average_rating": "4.09",
@@ -3454,12 +3454,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7.Bill_Bryson",
         "average_rating": "4.02",
-        "ratings_count": "1249950",
-        "text_reviews_count": "75105"
+        "ratings_count": "1250131",
+        "text_reviews_count": "75123"
       }
     },
     "average_rating": "4.33",
-    "ratings_count": "13153",
+    "ratings_count": "13203",
     "publication_day": "15",
     "publication_month": "10",
     "publication_year": "2019"
@@ -3487,12 +3487,12 @@
         },
         "link": "https://www.goodreads.com/author/show/66008.Taylor_Larimore",
         "average_rating": "4.24",
-        "ratings_count": "6894",
+        "ratings_count": "6896",
         "text_reviews_count": "389"
       }
     },
     "average_rating": "4.28",
-    "ratings_count": "5797",
+    "ratings_count": "5799",
     "publication_day": "1",
     "publication_month": "1",
     "publication_year": "2006"
@@ -3520,12 +3520,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1009728.Philippa_Perry",
         "average_rating": "3.93",
-        "ratings_count": "4702",
-        "text_reviews_count": "464"
+        "ratings_count": "4708",
+        "text_reviews_count": "465"
       }
     },
     "average_rating": "4.14",
-    "ratings_count": "2211",
+    "ratings_count": "2216",
     "publication_day": "4",
     "publication_month": "2",
     "publication_year": "2020"
@@ -3586,12 +3586,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7195.John_Boyne",
         "average_rating": "4.15",
-        "ratings_count": "611501",
-        "text_reviews_count": "47093"
+        "ratings_count": "611637",
+        "text_reviews_count": "47096"
       }
     },
     "average_rating": "4.14",
-    "ratings_count": "463940",
+    "ratings_count": "464022",
     "publication_day": "12",
     "publication_month": "9",
     "publication_year": "2006"
@@ -3619,12 +3619,12 @@
         },
         "link": "https://www.goodreads.com/author/show/311849.Norman_Doidge",
         "average_rating": "4.03",
-        "ratings_count": "106643",
-        "text_reviews_count": "9566"
+        "ratings_count": "106689",
+        "text_reviews_count": "9572"
       }
     },
     "average_rating": "4.20",
-    "ratings_count": "28489",
+    "ratings_count": "28493",
     "publication_day": "7",
     "publication_month": "8",
     "publication_year": "2008"
@@ -3652,12 +3652,12 @@
         },
         "link": "https://www.goodreads.com/author/show/2868678.Mary_Robinette_Kowal",
         "average_rating": "3.95",
-        "ratings_count": "99215",
-        "text_reviews_count": "13738"
+        "ratings_count": "99231",
+        "text_reviews_count": "13742"
       }
     },
     "average_rating": "4.04",
-    "ratings_count": "15052",
+    "ratings_count": "15061",
     "publication_day": "3",
     "publication_month": "7",
     "publication_year": "2018"
@@ -3685,7 +3685,7 @@
         },
         "link": "https://www.goodreads.com/author/show/3169010.Mikael_Krogerus",
         "average_rating": "3.63",
-        "ratings_count": "5024",
+        "ratings_count": "5025",
         "text_reviews_count": "558"
       }
     },
@@ -3718,12 +3718,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7084.Karl_Marx",
         "average_rating": "3.73",
-        "ratings_count": "164818",
-        "text_reviews_count": "7291"
+        "ratings_count": "164848",
+        "text_reviews_count": "7294"
       }
     },
     "average_rating": "3.56",
-    "ratings_count": "97302",
+    "ratings_count": "97319",
     "publication_day": "27",
     "publication_month": "6",
     "publication_year": "2002"
@@ -3751,12 +3751,12 @@
         },
         "link": "https://www.goodreads.com/author/show/148884.Twyla_Tharp",
         "average_rating": "4.03",
-        "ratings_count": "25983",
+        "ratings_count": "25993",
         "text_reviews_count": "1147"
       }
     },
     "average_rating": "4.03",
-    "ratings_count": "24986",
+    "ratings_count": "24995",
     "publication_day": "6",
     "publication_month": "1",
     "publication_year": "2006"
@@ -3784,12 +3784,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7178109.Erin_Meyer",
         "average_rating": "4.36",
-        "ratings_count": "4923",
+        "ratings_count": "4928",
         "text_reviews_count": "549"
       }
     },
     "average_rating": "4.36",
-    "ratings_count": "4918",
+    "ratings_count": "4923",
     "publication_day": "5",
     "publication_month": "1",
     "publication_year": "2015"
@@ -3817,12 +3817,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1050.Mark_Haddon",
         "average_rating": "3.85",
-        "ratings_count": "1187650",
-        "text_reviews_count": "50220"
+        "ratings_count": "1187759",
+        "text_reviews_count": "50222"
       }
     },
     "average_rating": "3.88",
-    "ratings_count": "1126351",
+    "ratings_count": "1126454",
     "publication_day": "18",
     "publication_month": "5",
     "publication_year": "2004"
@@ -3850,12 +3850,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
         "average_rating": "4.20",
-        "ratings_count": "233899",
-        "text_reviews_count": "23989"
+        "ratings_count": "233995",
+        "text_reviews_count": "23994"
       }
     },
     "average_rating": "4.41",
-    "ratings_count": "52871",
+    "ratings_count": "52893",
     "publication_day": "11",
     "publication_month": "8",
     "publication_year": "2015"
@@ -3883,12 +3883,12 @@
         },
         "link": "https://www.goodreads.com/author/show/552.Donald_A_Norman",
         "average_rating": "4.11",
-        "ratings_count": "31150",
-        "text_reviews_count": "2199"
+        "ratings_count": "31160",
+        "text_reviews_count": "2200"
       }
     },
     "average_rating": "4.17",
-    "ratings_count": "25060",
+    "ratings_count": "25067",
     "publication_day": "19",
     "publication_month": "9",
     "publication_year": "2002"
@@ -3916,8 +3916,8 @@
         },
         "link": "https://www.goodreads.com/author/show/14632.Robert_H_Frank",
         "average_rating": "3.58",
-        "ratings_count": "5208",
-        "text_reviews_count": "508"
+        "ratings_count": "5210",
+        "text_reviews_count": "509"
       }
     },
     "average_rating": "3.48",
@@ -3949,12 +3949,12 @@
         },
         "link": "https://www.goodreads.com/author/show/509.Brian_Greene",
         "average_rating": "4.08",
-        "ratings_count": "133649",
-        "text_reviews_count": "3845"
+        "ratings_count": "133667",
+        "text_reviews_count": "3847"
       }
     },
     "average_rating": "4.07",
-    "ratings_count": "82985",
+    "ratings_count": "82993",
     "publication_day": "11",
     "publication_month": "10",
     "publication_year": "2010"
@@ -4015,12 +4015,12 @@
         },
         "link": "https://www.goodreads.com/author/show/219908.Brad_Stone",
         "average_rating": "4.14",
-        "ratings_count": "52106",
-        "text_reviews_count": "2990"
+        "ratings_count": "52119",
+        "text_reviews_count": "2991"
       }
     },
     "average_rating": "4.14",
-    "ratings_count": "47682",
+    "ratings_count": "47695",
     "publication_day": "15",
     "publication_month": "10",
     "publication_year": "2013"
@@ -4048,12 +4048,12 @@
         },
         "link": "https://www.goodreads.com/author/show/16819826.Richard_O_Prum",
         "average_rating": "4.05",
-        "ratings_count": "1500",
+        "ratings_count": "1501",
         "text_reviews_count": "253"
       }
     },
     "average_rating": "4.05",
-    "ratings_count": "1500",
+    "ratings_count": "1501",
     "publication_day": "9",
     "publication_month": "5",
     "publication_year": "2017"
@@ -4081,12 +4081,12 @@
         },
         "link": "https://www.goodreads.com/author/show/8333658.Salim_Ismail",
         "average_rating": "4.17",
-        "ratings_count": "3111",
+        "ratings_count": "3112",
         "text_reviews_count": "235"
       }
     },
     "average_rating": "4.17",
-    "ratings_count": "3091",
+    "ratings_count": "3092",
     "publication_day": "14",
     "publication_month": "10",
     "publication_year": "2014"
@@ -4114,12 +4114,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "575838",
-        "text_reviews_count": "21677"
+        "ratings_count": "575908",
+        "text_reviews_count": "21681"
       }
     },
     "average_rating": "4.09",
-    "ratings_count": "7866",
+    "ratings_count": "7867",
     "publication_day": "1",
     "publication_month": "11",
     "publication_year": "2016"
@@ -4147,12 +4147,12 @@
         },
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": "4.15",
-        "ratings_count": "568040",
-        "text_reviews_count": "32071"
+        "ratings_count": "568119",
+        "text_reviews_count": "32076"
       }
     },
     "average_rating": "4.06",
-    "ratings_count": "26766",
+    "ratings_count": "26776",
     "publication_day": "3",
     "publication_month": "12",
     "publication_year": "2019"
@@ -4179,13 +4179,13 @@
           "$t": "https://images.gr-assets.com/authors/1380904822p2/137237.jpg"
         },
         "link": "https://www.goodreads.com/author/show/137237.Paul_Collier",
-        "average_rating": "3.85",
-        "ratings_count": "10059",
-        "text_reviews_count": "804"
+        "average_rating": "3.86",
+        "ratings_count": "10066",
+        "text_reviews_count": "805"
       }
     },
     "average_rating": "3.86",
-    "ratings_count": "1541",
+    "ratings_count": "1544",
     "publication_day": "4",
     "publication_month": "12",
     "publication_year": "2018"
@@ -4213,12 +4213,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3032451.Siddhartha_Mukherjee",
         "average_rating": "4.31",
-        "ratings_count": "105131",
-        "text_reviews_count": "9632"
+        "ratings_count": "105150",
+        "text_reviews_count": "9633"
       }
     },
     "average_rating": "4.36",
-    "ratings_count": "27331",
+    "ratings_count": "27334",
     "publication_day": "17",
     "publication_month": "5",
     "publication_year": "2016"
@@ -4246,12 +4246,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "575838",
-        "text_reviews_count": "21677"
+        "ratings_count": "575908",
+        "text_reviews_count": "21681"
       }
     },
     "average_rating": "3.90",
-    "ratings_count": "217438",
+    "ratings_count": "217455",
     "publication_day": "18",
     "publication_month": "10",
     "publication_year": "2006"
@@ -4279,12 +4279,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald",
         "average_rating": "3.90",
-        "ratings_count": "3880075",
-        "text_reviews_count": "84341"
+        "ratings_count": "3880535",
+        "text_reviews_count": "84346"
       }
     },
     "average_rating": "3.92",
-    "ratings_count": "3529908",
+    "ratings_count": "3530331",
     "publication_day": {},
     "publication_month": "9",
     "publication_year": "2004"
@@ -4312,12 +4312,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "575838",
-        "text_reviews_count": "21677"
+        "ratings_count": "575908",
+        "text_reviews_count": "21681"
       }
     },
     "average_rating": "4.16",
-    "ratings_count": "45480",
+    "ratings_count": "45486",
     "publication_day": "10",
     "publication_month": "9",
     "publication_year": "2009"
@@ -4345,12 +4345,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7155094.Ben_Horowitz",
         "average_rating": "4.23",
-        "ratings_count": "49163",
-        "text_reviews_count": "2676"
+        "ratings_count": "49187",
+        "text_reviews_count": "2677"
       }
     },
     "average_rating": "4.24",
-    "ratings_count": "46979",
+    "ratings_count": "46996",
     "publication_day": "4",
     "publication_month": "3",
     "publication_year": "2014"
@@ -4378,12 +4378,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4874424.Andy_Puddicombe",
         "average_rating": "4.04",
-        "ratings_count": "6656",
+        "ratings_count": "6658",
         "text_reviews_count": "586"
       }
     },
     "average_rating": "4.09",
-    "ratings_count": "6001",
+    "ratings_count": "6003",
     "publication_day": "27",
     "publication_month": "9",
     "publication_year": "2016"
@@ -4444,8 +4444,8 @@
         },
         "link": "https://www.goodreads.com/author/show/7567571.Gabriel_Zucman",
         "average_rating": "4.08",
-        "ratings_count": "968",
-        "text_reviews_count": "135"
+        "ratings_count": "970",
+        "text_reviews_count": "136"
       }
     },
     "average_rating": "3.96",
@@ -4476,13 +4476,13 @@
           "$t": "https://images.gr-assets.com/authors/1564186998p2/17064958.jpg"
         },
         "link": "https://www.goodreads.com/author/show/17064958.Seema_Yasmin",
-        "average_rating": "4.40",
-        "ratings_count": "50",
+        "average_rating": "4.39",
+        "ratings_count": "51",
         "text_reviews_count": "5"
       }
     },
     "average_rating": "4.31",
-    "ratings_count": "35",
+    "ratings_count": "36",
     "publication_day": "3",
     "publication_month": "9",
     "publication_year": "2018"
@@ -4510,12 +4510,12 @@
         },
         "link": "https://www.goodreads.com/author/show/7111.Walter_Isaacson",
         "average_rating": "4.12",
-        "ratings_count": "1204056",
-        "text_reviews_count": "28889"
+        "ratings_count": "1204302",
+        "text_reviews_count": "28894"
       }
     },
     "average_rating": "4.11",
-    "ratings_count": "25827",
+    "ratings_count": "25832",
     "publication_day": "7",
     "publication_month": "10",
     "publication_year": "2014"
@@ -4543,12 +4543,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1792.Clayton_M_Christensen",
         "average_rating": "4.04",
-        "ratings_count": "89299",
-        "text_reviews_count": "4943"
+        "ratings_count": "89318",
+        "text_reviews_count": "4944"
       }
     },
     "average_rating": "3.99",
-    "ratings_count": "36280",
+    "ratings_count": "36285",
     "publication_day": "5",
     "publication_month": "1",
     "publication_year": "2016"
@@ -4576,7 +4576,7 @@
         },
         "link": "https://www.goodreads.com/author/show/1020467.Lewis_Dartnell",
         "average_rating": "3.85",
-        "ratings_count": "2841",
+        "ratings_count": "2843",
         "text_reviews_count": "408"
       }
     },
@@ -4609,12 +4609,12 @@
         },
         "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
         "average_rating": "4.20",
-        "ratings_count": "132415",
-        "text_reviews_count": "8035"
+        "ratings_count": "132454",
+        "text_reviews_count": "8038"
       }
     },
     "average_rating": "4.39",
-    "ratings_count": "4852",
+    "ratings_count": "4855",
     "publication_day": "24",
     "publication_month": "10",
     "publication_year": "2018"
@@ -4642,12 +4642,12 @@
         },
         "link": "https://www.goodreads.com/author/show/88909.John_C_Bogle",
         "average_rating": "4.10",
-        "ratings_count": "15037",
+        "ratings_count": "15042",
         "text_reviews_count": "1231"
       }
     },
     "average_rating": "4.18",
-    "ratings_count": "7825",
+    "ratings_count": "7829",
     "publication_day": "1",
     "publication_month": "3",
     "publication_year": "2007"
@@ -4708,12 +4708,12 @@
         },
         "link": "https://www.goodreads.com/author/show/843200.Oliver_Sacks",
         "average_rating": "4.03",
-        "ratings_count": "336269",
-        "text_reviews_count": "18666"
+        "ratings_count": "336316",
+        "text_reviews_count": "18668"
       }
     },
     "average_rating": "4.06",
-    "ratings_count": "153075",
+    "ratings_count": "153098",
     "publication_day": "2",
     "publication_month": "4",
     "publication_year": "1998"
@@ -4774,7 +4774,7 @@
         },
         "link": "https://www.goodreads.com/author/show/132119.Judith_Rich_Harris",
         "average_rating": "3.86",
-        "ratings_count": "3656",
+        "ratings_count": "3657",
         "text_reviews_count": "394"
       }
     },
@@ -4840,12 +4840,12 @@
         },
         "link": "https://www.goodreads.com/author/show/78754.Gary_Keller",
         "average_rating": "4.17",
-        "ratings_count": "43114",
-        "text_reviews_count": "3297"
+        "ratings_count": "43123",
+        "text_reviews_count": "3299"
       }
     },
     "average_rating": "4.16",
-    "ratings_count": "37297",
+    "ratings_count": "37305",
     "publication_day": "1",
     "publication_month": "4",
     "publication_year": "2013"
@@ -4873,8 +4873,8 @@
         },
         "link": "https://www.goodreads.com/author/show/12806.Hannah_Arendt",
         "average_rating": "4.20",
-        "ratings_count": "49521",
-        "text_reviews_count": "3090"
+        "ratings_count": "49527",
+        "text_reviews_count": "3091"
       }
     },
     "average_rating": "4.28",
@@ -4906,12 +4906,12 @@
         },
         "link": "https://www.goodreads.com/author/show/328437.Gene_Kim",
         "average_rating": "4.25",
-        "ratings_count": "33063",
-        "text_reviews_count": "3152"
+        "ratings_count": "33088",
+        "text_reviews_count": "3153"
       }
     },
     "average_rating": "4.27",
-    "ratings_count": "25041",
+    "ratings_count": "25055",
     "publication_day": "10",
     "publication_month": "1",
     "publication_year": "2013"
@@ -4939,12 +4939,12 @@
         },
         "link": "https://www.goodreads.com/author/show/96184.Bob_Knight",
         "average_rating": "3.73",
-        "ratings_count": "1563",
+        "ratings_count": "1564",
         "text_reviews_count": "128"
       }
     },
     "average_rating": "3.55",
-    "ratings_count": "819",
+    "ratings_count": "820",
     "publication_day": "5",
     "publication_month": "3",
     "publication_year": "2013"
@@ -5038,12 +5038,12 @@
         },
         "link": "https://www.goodreads.com/author/show/688.George_S_Clason",
         "average_rating": "4.26",
-        "ratings_count": "93196",
-        "text_reviews_count": "5042"
+        "ratings_count": "93234",
+        "text_reviews_count": "5046"
       }
     },
     "average_rating": "4.26",
-    "ratings_count": "92105",
+    "ratings_count": "92142",
     "publication_day": "1",
     "publication_month": "2",
     "publication_year": "2008"
@@ -5071,12 +5071,12 @@
         },
         "link": "https://www.goodreads.com/author/show/13360.William_L_Shirer",
         "average_rating": "4.17",
-        "ratings_count": "102694",
-        "text_reviews_count": "3352"
+        "ratings_count": "102707",
+        "text_reviews_count": "3353"
       }
     },
     "average_rating": "4.17",
-    "ratings_count": "93470",
+    "ratings_count": "93483",
     "publication_day": "15",
     "publication_month": "11",
     "publication_year": "1990"
@@ -5104,12 +5104,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1895943.Graeme_Simsion",
         "average_rating": "3.93",
-        "ratings_count": "549409",
-        "text_reviews_count": "52998"
+        "ratings_count": "549512",
+        "text_reviews_count": "53006"
       }
     },
     "average_rating": "4.02",
-    "ratings_count": "415283",
+    "ratings_count": "415343",
     "publication_day": "1",
     "publication_month": "10",
     "publication_year": "2013"
@@ -5170,12 +5170,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": "4.17",
-        "ratings_count": "17661",
+        "ratings_count": "17668",
         "text_reviews_count": "2149"
       }
     },
     "average_rating": "4.25",
-    "ratings_count": "14969",
+    "ratings_count": "14975",
     "publication_day": "27",
     "publication_month": "8",
     "publication_year": "2015"
@@ -5203,12 +5203,12 @@
         },
         "link": "https://www.goodreads.com/author/show/45840.Elizabeth_Kolbert",
         "average_rating": "4.12",
-        "ratings_count": "46401",
+        "ratings_count": "46411",
         "text_reviews_count": "5211"
       }
     },
     "average_rating": "4.13",
-    "ratings_count": "42427",
+    "ratings_count": "42436",
     "publication_day": "11",
     "publication_month": "2",
     "publication_year": "2014"
@@ -5236,12 +5236,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4770.Tracy_Kidder",
         "average_rating": "4.14",
-        "ratings_count": "98836",
-        "text_reviews_count": "8234"
+        "ratings_count": "98841",
+        "text_reviews_count": "8235"
       }
     },
     "average_rating": "4.11",
-    "ratings_count": "6501",
+    "ratings_count": "6502",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "1982"
@@ -5269,12 +5269,12 @@
         },
         "link": "https://www.goodreads.com/author/show/154743.Elizabeth_Blackburn",
         "average_rating": "3.79",
-        "ratings_count": "3247",
-        "text_reviews_count": "400"
+        "ratings_count": "3248",
+        "text_reviews_count": "401"
       }
     },
     "average_rating": "3.74",
-    "ratings_count": "2884",
+    "ratings_count": "2885",
     "publication_day": "3",
     "publication_month": "1",
     "publication_year": "2017"
@@ -5334,13 +5334,13 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
         },
         "link": "https://www.goodreads.com/author/show/5755683.Emmanuel_Saez",
-        "average_rating": "4.30",
-        "ratings_count": "371",
-        "text_reviews_count": "58"
+        "average_rating": "4.29",
+        "ratings_count": "373",
+        "text_reviews_count": "59"
       }
     },
     "average_rating": "4.32",
-    "ratings_count": "331",
+    "ratings_count": "333",
     "publication_day": "15",
     "publication_month": "10",
     "publication_year": "2019"
@@ -5368,12 +5368,12 @@
         },
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": "4.15",
-        "ratings_count": "568040",
-        "text_reviews_count": "32071"
+        "ratings_count": "568119",
+        "text_reviews_count": "32076"
       }
     },
     "average_rating": "3.98",
-    "ratings_count": "40608",
+    "ratings_count": "40618",
     "publication_day": "31",
     "publication_month": "10",
     "publication_year": "2017"
@@ -5401,12 +5401,12 @@
         },
         "link": "https://www.goodreads.com/author/show/867.Steven_Pressfield",
         "average_rating": "4.08",
-        "ratings_count": "150011",
-        "text_reviews_count": "11813"
+        "ratings_count": "150043",
+        "text_reviews_count": "11816"
       }
     },
     "average_rating": "4.00",
-    "ratings_count": "65072",
+    "ratings_count": "65092",
     "publication_day": "1",
     "publication_month": "4",
     "publication_year": "2003"
@@ -5434,12 +5434,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14424.Adam_Smith",
         "average_rating": "3.90",
-        "ratings_count": "31880",
+        "ratings_count": "31885",
         "text_reviews_count": "1225"
       }
     },
     "average_rating": "3.88",
-    "ratings_count": "26256",
+    "ratings_count": "26258",
     "publication_day": "12",
     "publication_month": "7",
     "publication_year": "2000"
@@ -5500,12 +5500,12 @@
         },
         "link": "https://www.goodreads.com/author/show/312231.Annie_Duke",
         "average_rating": "3.96",
-        "ratings_count": "9968",
-        "text_reviews_count": "1088"
+        "ratings_count": "9977",
+        "text_reviews_count": "1090"
       }
     },
     "average_rating": "3.84",
-    "ratings_count": "5975",
+    "ratings_count": "5984",
     "publication_day": "6",
     "publication_month": "2",
     "publication_year": "2018"
@@ -5533,12 +5533,12 @@
         },
         "link": "https://www.goodreads.com/author/show/19277463.Brad_Smith",
         "average_rating": "3.96",
-        "ratings_count": "552",
-        "text_reviews_count": "77"
+        "ratings_count": "553",
+        "text_reviews_count": "78"
       }
     },
     "average_rating": "3.97",
-    "ratings_count": "632",
+    "ratings_count": "633",
     "publication_day": "10",
     "publication_month": "9",
     "publication_year": "2019"
@@ -5665,12 +5665,12 @@
         },
         "link": "https://www.goodreads.com/author/show/256.Jared_Diamond",
         "average_rating": "4.00",
-        "ratings_count": "368302",
+        "ratings_count": "368385",
         "text_reviews_count": "16077"
       }
     },
     "average_rating": "3.85",
-    "ratings_count": "3342",
+    "ratings_count": "3345",
     "publication_day": "7",
     "publication_month": "5",
     "publication_year": "2019"
@@ -5731,12 +5731,12 @@
         },
         "link": "https://www.goodreads.com/author/show/128382.Leo_Tolstoy",
         "average_rating": "4.05",
-        "ratings_count": "1137929",
-        "text_reviews_count": "51098"
+        "ratings_count": "1138092",
+        "text_reviews_count": "51104"
       }
     },
     "average_rating": "4.11",
-    "ratings_count": "247651",
+    "ratings_count": "247680",
     "publication_day": "25",
     "publication_month": "6",
     "publication_year": "1998"
@@ -5764,12 +5764,12 @@
         },
         "link": "https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor",
         "average_rating": "4.32",
-        "ratings_count": "113200",
-        "text_reviews_count": "8007"
+        "ratings_count": "113234",
+        "text_reviews_count": "8009"
       }
     },
     "average_rating": "4.29",
-    "ratings_count": "47096",
+    "ratings_count": "47110",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -5797,12 +5797,12 @@
         },
         "link": "https://www.goodreads.com/author/show/300070.Jorge_Cham",
         "average_rating": "4.27",
-        "ratings_count": "5281",
-        "text_reviews_count": "699"
+        "ratings_count": "5282",
+        "text_reviews_count": "700"
       }
     },
     "average_rating": "4.26",
-    "ratings_count": "3874",
+    "ratings_count": "3875",
     "publication_day": "9",
     "publication_month": "5",
     "publication_year": "2017"
@@ -5830,12 +5830,12 @@
         },
         "link": "https://www.goodreads.com/author/show/6928121.Cathy_O_Neil",
         "average_rating": "3.86",
-        "ratings_count": "14041",
+        "ratings_count": "14043",
         "text_reviews_count": "1947"
       }
     },
     "average_rating": "3.86",
-    "ratings_count": "13385",
+    "ratings_count": "13387",
     "publication_day": "6",
     "publication_month": "9",
     "publication_year": "2016"
@@ -5896,12 +5896,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3089156.Randall_Munroe",
         "average_rating": "4.16",
-        "ratings_count": "141466",
-        "text_reviews_count": "10504"
+        "ratings_count": "141499",
+        "text_reviews_count": "10506"
       }
     },
     "average_rating": "4.16",
-    "ratings_count": "113324",
+    "ratings_count": "113341",
     "publication_day": "2",
     "publication_month": "9",
     "publication_year": "2014"
@@ -5962,12 +5962,12 @@
         },
         "link": "https://www.goodreads.com/author/show/762.Roger_Lowenstein",
         "average_rating": "4.18",
-        "ratings_count": "48345",
+        "ratings_count": "48349",
         "text_reviews_count": "1632"
       }
     },
     "average_rating": "4.19",
-    "ratings_count": "21774",
+    "ratings_count": "21776",
     "publication_day": "9",
     "publication_month": "10",
     "publication_year": "2001"
@@ -5995,12 +5995,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1563.Steven_Johnson",
         "average_rating": "3.91",
-        "ratings_count": "79024",
-        "text_reviews_count": "7282"
+        "ratings_count": "79035",
+        "text_reviews_count": "7283"
       }
     },
     "average_rating": "4.03",
-    "ratings_count": "11534",
+    "ratings_count": "11536",
     "publication_day": "5",
     "publication_month": "10",
     "publication_year": "2010"
@@ -6028,7 +6028,7 @@
         },
         "link": "https://www.goodreads.com/author/show/3010868.Jaron_Lanier",
         "average_rating": "3.61",
-        "ratings_count": "14499",
+        "ratings_count": "14504",
         "text_reviews_count": "1929"
       }
     },
@@ -6061,7 +6061,7 @@
         },
         "link": "https://www.goodreads.com/author/show/8570831.New_Scientist",
         "average_rating": "3.65",
-        "ratings_count": "6640",
+        "ratings_count": "6642",
         "text_reviews_count": "566"
       }
     },
@@ -6094,12 +6094,12 @@
         },
         "link": "https://www.goodreads.com/author/show/12817.Daron_Acemo_lu",
         "average_rating": "4.06",
-        "ratings_count": "26930",
+        "ratings_count": "26938",
         "text_reviews_count": "2624"
       }
     },
     "average_rating": "4.06",
-    "ratings_count": "26318",
+    "ratings_count": "26326",
     "publication_day": "17",
     "publication_month": "9",
     "publication_year": "2013"
@@ -6127,12 +6127,12 @@
         },
         "link": "https://www.goodreads.com/author/show/17598726.Matthew_Walker",
         "average_rating": "4.44",
-        "ratings_count": "43293",
-        "text_reviews_count": "5502"
+        "ratings_count": "43353",
+        "text_reviews_count": "5513"
       }
     },
     "average_rating": "4.44",
-    "ratings_count": "43537",
+    "ratings_count": "43598",
     "publication_day": "3",
     "publication_month": "10",
     "publication_year": "2017"
@@ -6160,12 +6160,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4412018.Ezra_Klein",
         "average_rating": "4.38",
-        "ratings_count": "1187",
-        "text_reviews_count": "207"
+        "ratings_count": "1198",
+        "text_reviews_count": "208"
       }
     },
     "average_rating": "4.38",
-    "ratings_count": "1187",
+    "ratings_count": "1198",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -6226,7 +6226,7 @@
         },
         "link": "https://www.goodreads.com/author/show/20757.Martha_C_Nussbaum",
         "average_rating": "3.88",
-        "ratings_count": "10894",
+        "ratings_count": "10898",
         "text_reviews_count": "1023"
       }
     },
