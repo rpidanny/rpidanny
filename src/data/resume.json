@@ -86,11 +86,24 @@
   ],
   "work": [
     {
+      "company": "Trivago Services B.V.",
+      "position": "Cloud Engineer",
+      "website": "https://trivago.com",
+      "startDate": "2020-02-01",
+      "endDate": "Present",
+      "summary": "AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, DevOps, Helm, Kafka, Hadoop, Spark, Apache Airflow, ElasticSearch.",
+      "highlights": [
+        "Working with cross-functional team of data scientists, software engineers and product managers to build products that directly impact how millions of travellers find their ideal hotel.",
+        "Design and implement scalable data pipelines on AWS and GCP that can handle billions of events.",
+        "Working with tools and technologies like: Docker, Kubernetes, Terraform, CI/CD, DevOps, Helm, Kafka, Hadoop, Spark, Apache Airflow, ElasticSearch."
+      ]
+    },
+    {
       "company": "Javra Software B.V.",
       "position": "R&D Engineer",
       "website": "https://javra.com",
       "startDate": "2018-03-01",
-      "endDate": "Present",
+      "endDate": "2020-01-31",
       "summary": "AWS, Azure, GCP, Serverless, Docker, Kubernetes, Tensorflow, Keras, Node.js, Python, React.js",
       "highlights": []
     },
