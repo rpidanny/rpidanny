@@ -2,7 +2,7 @@ import fetch from 'isomorphic-fetch'
 import React, { Component } from 'react'
 import ReactGA from 'react-ga'
 
-import Dashboard from '../Dashboard'
+import Dashboard from '../DashboardV2'
 import About from '../About'
 import Resume from '../Resume'
 import Interests from '../Interests'
@@ -52,7 +52,8 @@ class App extends Component {
     const { quote } = this.state
     return (
       <div className='App'>
-        <Dashboard name={basics.name} quote={quote} />        
+        {/* <Dashboard name={basics.name} quote={quote} /> */}
+        <Dashboard name={basics.name} />
         <About data={basics} />
         <Resume education={education} work={work} certifications={certifications} />
         <Interests data={interests} />        
