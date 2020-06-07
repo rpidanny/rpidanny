@@ -80,14 +80,14 @@ class Contact extends Component {
     const {myEmail, name, email, message} = this.state
     if (this.validateInputs()) {
       const payload = {
-        from: 'Contact Me',
+        from: email,
         to: myEmail,
-        subject: `Msg from: ${email}`,
+        subject: `Msg from: ${name}`,
         text: `Name: ${name}\n\nEmail: ${email}\n\nMessage: ${message}`
       }
       // Send Email
       this.setState({isLoading: true})
-      fetch('https://us-central1-mailer-69581.cloudfunctions.net/mail/', {
+      fetch('https://dqf5ayzbgf.execute-api.eu-west-1.amazonaws.com/mabhishek/', {
         method: 'POST',
         body: JSON.stringify(payload),
         headers: {
