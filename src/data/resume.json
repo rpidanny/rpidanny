@@ -86,11 +86,22 @@
   ],
   "work": [
     {
+      "company": "DAZN",
+      "position": "Senior Software Engineer",
+      "website": "https://dazn.com",
+      "startDate": "2020-07-06",
+      "endDate": "Present",
+      "summary": "AWS, Docker, Terraform, Vault, CI/CD, DevOps, TypeScript, Node.js",
+      "highlights": [
+        "Building highly scalable backend microservices that handles requests for millions of users worldwide."
+      ]
+    },
+    {
       "company": "Trivago Services B.V.",
       "position": "Cloud Engineer",
       "website": "https://trivago.com",
       "startDate": "2020-02-01",
-      "endDate": "Present",
+      "endDate": "2020-07-05",
       "summary": "AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, DevOps, Helm, Kafka, Hadoop, Spark, Apache Airflow, ElasticSearch.",
       "highlights": [
         "Working with cross-functional team of data scientists, software engineers and product managers to build products that directly impact how millions of travellers find their ideal hotel.",
