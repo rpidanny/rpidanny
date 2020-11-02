@@ -1,69 +1,36 @@
 [
   {
-    "link": "https://www.goodreads.com/book/show/46223297-permanent-record",
-    "title": "Permanent Record",
-    "title_without_series": "Permanent Record",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SX98_.jpg",
-    "description": "<b>Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down.</b><br /><br />In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it.<br /><br />Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, <i>Permanent Record</i> is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, <i>Permanent Record</i> is a crucial memoir of our digital age and destined to be a classic.",
-    "num_pages": "339",
+    "link": "https://www.goodreads.com/book/show/25451264-death-s-end",
+    "title": "Death's End (Remembrance of Earth’s Past #3)",
+    "title_without_series": "Death's End",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SX98_.jpg",
+    "description": "Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.<br /><br />Cheng Xin, an aerospace engineer from the early twenty-first century, awakens from hibernation in this new age. She brings with her knowledge of a long-forgotten program dating from the beginning of the Trisolar Crisis, and her very presence may upset the delicate balance between two worlds. Will humanity reach for the stars or die in its cradle?",
+    "num_pages": "604",
     "authors": {
       "author": {
-        "id": "7140597",
-        "name": "Edward Snowden",
+        "id": "5780686",
+        "name": "Liu Cixin",
         "role": {},
         "image_url": {
           "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1425078029p5/7140597.jpg"
+          "$t": "https://images.gr-assets.com/authors/1454974329p5/5780686.jpg"
         },
         "small_image_url": {
           "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1425078029p2/7140597.jpg"
+          "$t": "https://images.gr-assets.com/authors/1454974329p2/5780686.jpg"
         },
-        "link": "https://www.goodreads.com/author/show/7140597.Edward_Snowden",
-        "average_rating": "4.38",
-        "ratings_count": "17954",
-        "text_reviews_count": "2103"
+        "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
+        "average_rating": "4.19",
+        "ratings_count": "287581",
+        "text_reviews_count": "28564"
       }
     },
-    "average_rating": "4.39",
-    "ratings_count": "17718",
-    "publication_day": "17",
+    "average_rating": "4.44",
+    "ratings_count": "48730",
+    "publication_day": "20",
     "publication_month": "9",
-    "publication_year": "2019"
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
-    "title": "The 48 Laws Of Power",
-    "title_without_series": "The 48 Laws Of Power",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529072201l/984017._SX50_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529072201l/984017._SX98_.jpg",
-    "description": "Amoral, cunning, ruthless, and instructive, this piercing work distills three thousand years of the history of power in to forty-eight well explicated laws. As attention-grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. <br /><br />Some laws teach the need for prudence (\"Law 1: Never Outshine the Master\"), the virtue of stealth (\"Law 3: Conceal Your Intentions\"), and many demand the total absence of mercy (\"Law 15: Crush Your Enemy Totally\"), but like it or not, all have applications in real life. <br /><br />Illustrated through the tactics of Queen Elizabeth I, Henry Kissinger, P. T. Barnum, and other famous figures who have wielded--or been victimized by--power, these laws will fascinate any reader interested in gaining, observing, or defending against ultimate control.",
-    "num_pages": "452",
-    "authors": {
-      "author": {
-        "id": "865",
-        "name": "Robert Greene",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1298212921p5/865.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1298212921p2/865.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
-        "average_rating": "4.20",
-        "ratings_count": "133994",
-        "text_reviews_count": "8145"
-      }
-    },
-    "average_rating": "4.18",
-    "ratings_count": "67526",
-    "publication_day": {},
-    "publication_month": {},
-    "publication_year": "2000"
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/36204378-the-book-of-why",
@@ -71,7 +38,7 @@
     "title_without_series": "The Book of Why: The New Science of Cause and Effect",
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378._SX98_.jpg",
-    "description": "<b>A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence</b><b>\n  <br />\n</b>\"Correlation is not causation.\" This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality--the study of cause and effect--on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs <i>The Book of Why</i>.<br /><br /><br /><br />",
+    "description": "<b>A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence</b><br /><br /> \"Correlation is not causation.\" This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality -- the study of cause and effect -- on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs <i>The Book of Why</i>.",
     "num_pages": "432",
     "authors": {
       "author": {
@@ -88,12 +55,12 @@
         },
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
         "average_rating": "3.97",
-        "ratings_count": "2689",
-        "text_reviews_count": "323"
+        "ratings_count": "3359",
+        "text_reviews_count": "403"
       }
     },
     "average_rating": "3.95",
-    "ratings_count": "2140",
+    "ratings_count": "2774",
     "publication_day": "15",
     "publication_month": "5",
     "publication_year": "2018"
@@ -120,81 +87,15 @@
           "$t": "https://images.gr-assets.com/authors/1464911422p2/3185055.jpg"
         },
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
-        "average_rating": "4.17",
-        "ratings_count": "18159",
-        "text_reviews_count": "2195"
+        "average_rating": "4.14",
+        "ratings_count": "23958",
+        "text_reviews_count": "2670"
       }
     },
-    "average_rating": "3.69",
-    "ratings_count": "2379",
+    "average_rating": "3.67",
+    "ratings_count": "3367",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/2612.The_Tipping_Point",
-    "title": "The Tipping Point: How Little Things Can Make a Big Difference",
-    "title_without_series": "The Tipping Point: How Little Things Can Make a Big Difference",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SX98_.jpg",
-    "description": "<i>An alternate cover edition exists <a href=\"https://www.goodreads.com/book/show/34668905.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.<br /><br />Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.",
-    "num_pages": "301",
-    "authors": {
-      "author": {
-        "id": "1439",
-        "name": "Malcolm Gladwell",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1564001739p5/1439.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
-        "average_rating": "4.00",
-        "ratings_count": "1933347",
-        "text_reviews_count": "74923"
-      }
-    },
-    "average_rating": "3.97",
-    "ratings_count": "653304",
-    "publication_day": "7",
-    "publication_month": "1",
-    "publication_year": "2002"
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/12158480-why-nations-fail",
-    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
-    "title_without_series": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
-    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "description": "<b><i>Brilliant and engagingly written,</i> Why Nations Fail <i>answers the question that has stumped the experts for centuries: Why are some nations rich and others poor, divided by wealth and poverty, health and sickness, food and famine? <br /><br /></i></b>Is it culture, the weather, geography? Perhaps ignorance of what the right policies are? <br /><br />Simply, no. None of these factors is either definitive or destiny. Otherwise, how to explain why Botswana has become one of the fastest growing countries in the world, while other African nations, such as Zimbabwe, the Congo, and Sierra Leone, are mired in poverty and violence? <br /><br />Daron Acemoglu and James Robinson conclusively show that it is man-made political and economic institutions that underlie economic success (or lack of it). Korea, to take just one of their fascinating examples, is a remarkably homogeneous nation, yet the people of North Korea are among the poorest on earth while their brothers and sisters in South Korea are among the richest. The south forged a society that created incentives, rewarded innovation, and allowed everyone to participate in economic opportunities. The economic success thus spurred was sustained because the government became accountable and responsive to citizens and the great mass of people. Sadly, the people of the north have endured decades of famine, political repression, and very different economic institutions—with no end in sight. The differences between the Koreas is due to the politics that created these completely different institutional trajectories. <br /><br />Based on fifteen years of original research Acemoglu and Robinson marshall extraordinary historical evidence from the Roman Empire, the Mayan city-states, medieval Venice, the Soviet Union, Latin America, England, Europe, the United States, and Africa to build a new theory of political economy with great relevance for the big questions of today, including: <br /><br />   - China has built an authoritarian growth machine. Will it continue to grow at such high speed and overwhelm the West? <br />   - Are America’s best days behind it? Are we moving from a virtuous circle in which efforts by elites to aggrandize power are resisted to a vicious one that enriches and empowers a small minority? <br />   - What is the most effective way to help move billions of people from the rut of poverty to prosperity? More <br />philanthropy from the wealthy nations of the West? Or learning the hard-won lessons of Acemoglu and Robinson’s breakthrough ideas on the interplay between inclusive political and economic institutions? <br /><br /><i>Why Nations Fail </i>will change the way you look at—and understand—the world.",
-    "num_pages": "544",
-    "authors": {
-      "author": {
-        "id": "12817",
-        "name": "Daron Acemoğlu",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1354435300p5/12817.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1354435300p2/12817.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/12817.Daron_Acemo_lu",
-        "average_rating": "4.06",
-        "ratings_count": "27391",
-        "text_reviews_count": "2677"
-      }
-    },
-    "average_rating": "4.06",
-    "ratings_count": "26734",
-    "publication_day": "20",
-    "publication_month": "3",
-    "publication_year": "2012"
   }
 ]

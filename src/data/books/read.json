@@ -1,5 +1,38 @@
 [
   {
+    "link": "https://www.goodreads.com/book/show/30257963-12-rules-for-life",
+    "title": "12 Rules for Life: An Antidote to Chaos",
+    "title_without_series": "12 Rules for Life: An Antidote to Chaos",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SX98_.jpg",
+    "description": "<b>What does everyone in the modern world need to know? Renowned psychologist Jordan B. Peterson's answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.</b><br /><br />Humorous, surprising, and informative, Dr. Peterson tells us why skateboarding boys and girls must be left alone, what terrible fate awaits those who criticize too easily, and why you should always pet a cat when you meet one on the street.<br /><br />What does the nervous system of the lowly lobster have to tell us about standing up straight (with our shoulders back) and about success in life? Why did ancient Egyptians worship the capacity to pay careful attention as the highest of gods? What dreadful paths do people tread when they become resentful, arrogant, and vengeful? Dr. Peterson journeys broadly, discussing discipline, freedom, adventure, and responsibility, distilling the world's wisdom into 12 practical and profound rules for life. <i>12 Rules for Life</i> shatters the modern commonplaces of science, faith, and human nature while transforming and ennobling the mind and spirit of its listeners.",
+    "num_pages": "409",
+    "authors": {
+      "author": {
+        "id": "282885",
+        "name": "Jordan B. Peterson",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1476702454p5/282885.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1476702454p2/282885.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/282885.Jordan_B_Peterson",
+        "average_rating": "3.94",
+        "ratings_count": "107295",
+        "text_reviews_count": "9603"
+      }
+    },
+    "average_rating": "3.94",
+    "ratings_count": "102915",
+    "publication_day": "23",
+    "publication_month": "1",
+    "publication_year": "2018"
+  },
+  {
     "link": "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century",
     "title": "21 Lessons for the 21st Century",
     "title_without_series": "21 Lessons for the 21st Century",
@@ -21,13 +54,13 @@
           "$t": "https://images.gr-assets.com/authors/1546235045p2/395812.jpg"
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
-        "average_rating": "4.37",
-        "ratings_count": "562878",
-        "text_reviews_count": "42466"
+        "average_rating": "4.35",
+        "ratings_count": "744516",
+        "text_reviews_count": "51807"
       }
     },
-    "average_rating": "4.19",
-    "ratings_count": "62050",
+    "average_rating": "4.16",
+    "ratings_count": "88549",
     "publication_day": "4",
     "publication_month": "9",
     "publication_year": "2018"
@@ -54,13 +87,13 @@
           "$t": "https://images.gr-assets.com/authors/1578597522p2/7.jpg"
         },
         "link": "https://www.goodreads.com/author/show/7.Bill_Bryson",
-        "average_rating": "4.02",
-        "ratings_count": "1257804",
-        "text_reviews_count": "75717"
+        "average_rating": "4.03",
+        "ratings_count": "1353507",
+        "text_reviews_count": "81678"
       }
     },
-    "average_rating": "4.21",
-    "ratings_count": "274239",
+    "average_rating": "4.20",
+    "ratings_count": "298738",
     "publication_day": "16",
     "publication_month": "6",
     "publication_year": "2016"
@@ -87,16 +120,49 @@
           "$t": "https://images.gr-assets.com/authors/1359753468p2/569.jpg"
         },
         "link": "https://www.goodreads.com/author/show/569.Khaled_Hosseini",
-        "average_rating": "4.29",
-        "ratings_count": "3744764",
-        "text_reviews_count": "156005"
+        "average_rating": "4.30",
+        "ratings_count": "3971897",
+        "text_reviews_count": "163810"
       }
     },
-    "average_rating": "4.37",
-    "ratings_count": "1081172",
+    "average_rating": "4.38",
+    "ratings_count": "1152859",
     "publication_day": "1",
     "publication_month": "6",
     "publication_year": "2007"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/25666050-algorithms-to-live-by",
+    "title": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "title_without_series": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SX98_.jpg",
+    "description": "<b>A fascinating exploration of how insights from computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mind</b><br /><br />All our lives are constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of new activities and familiar favorites is the most fulfilling? These may seem like uniquely human quandaries, but they are not: computers, too, face the same constraints, so computer scientists have been grappling with their version of such issues for decades. And the solutions they've found have much to teach us.<br /><br />In a dazzlingly interdisciplinary work, acclaimed author Brian Christian and cognitive scientist Tom Griffiths show how the algorithms used by computers can also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of memory, <i>Algorithms to Live By</i> transforms the wisdom of computer science into strategies for human living.",
+    "num_pages": "368",
+    "authors": {
+      "author": {
+        "id": "4199891",
+        "name": "Brian Christian",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1453834169p5/4199891.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1453834169p2/4199891.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/4199891.Brian_Christian",
+        "average_rating": "4.11",
+        "ratings_count": "23343",
+        "text_reviews_count": "2311"
+      }
+    },
+    "average_rating": "4.15",
+    "ratings_count": "19122",
+    "publication_day": "19",
+    "publication_month": "4",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/13030110-all-you-zombies",
@@ -120,16 +186,49 @@
           "$t": "https://images.gr-assets.com/authors/1192826560p2/205.jpg"
         },
         "link": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
-        "average_rating": "3.93",
-        "ratings_count": "1061702",
-        "text_reviews_count": "34251"
+        "average_rating": "3.94",
+        "ratings_count": "1109665",
+        "text_reviews_count": "36272"
       }
     },
     "average_rating": "4.08",
-    "ratings_count": "4983",
+    "ratings_count": "5201",
     "publication_day": {},
     "publication_month": "3",
     "publication_year": "1959"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/13530973-antifragile",
+    "title": "Antifragile: Things That Gain from Disorder",
+    "title_without_series": "Antifragile: Things That Gain from Disorder",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422827l/13530973._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422827l/13530973._SX98_.jpg",
+    "description": "From the bestselling author of The Black Swan and one of the foremost philosophers of our time, Nassim Nicholas Taleb, a book on how some systems actually benefit from disorder.<br /><br />In The Black Swan Taleb outlined a problem; in <i>Antifragile</i> he offers a definitive solution: how to gain from disorder and chaos while being protected from fragilities and adverse events. For what he calls the \"antifragile\" is one step beyond robust, as it benefits from adversity, uncertainty and stressors, just as human bones get stronger when subjected to stress and tension.<br /><br />Taleb stands uncertainty on its head, making it desirable, and proposing that things be built in an antifragile manner. Extremely ambitious and multidisciplinary, <i>Antifragile</i> provides a blueprint for how to behave-and thrive-in a world we don't understand and which is too uncertain for us to even try to understand. He who is not antifragile will perish. Why is the city state better than the nation state, why is debt bad for you, and why is almost everything modern bound to fail? The book covers innovation, health, biology, medicine, life decisions, politics, foreign policy, urban planning, war, personal finance, and economic systems. Throughout, the voice and recipes of the ancient wisdom from Phoenician, Roman, Greek, and Medieval sources are heard loud and clear.",
+    "num_pages": "426",
+    "authors": {
+      "author": {
+        "id": "21559",
+        "name": "Nassim Nicholas Taleb",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1206025993p5/21559.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1206025993p2/21559.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
+        "average_rating": "3.99",
+        "ratings_count": "192234",
+        "text_reviews_count": "12551"
+      }
+    },
+    "average_rating": "4.10",
+    "ratings_count": "35082",
+    "publication_day": "27",
+    "publication_month": "11",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/37707396-artemis",
@@ -154,12 +253,12 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.26",
-        "ratings_count": "948933",
-        "text_reviews_count": "95304"
+        "ratings_count": "1033035",
+        "text_reviews_count": "99097"
       }
     },
-    "average_rating": "3.67",
-    "ratings_count": "155084",
+    "average_rating": "3.66",
+    "ratings_count": "174719",
     "publication_day": "14",
     "publication_month": "11",
     "publication_year": "2017"
@@ -186,16 +285,49 @@
           "$t": "https://images.gr-assets.com/authors/1557850844p2/17575761.jpg"
         },
         "link": "https://www.goodreads.com/author/show/17575761.John_Carreyrou",
-        "average_rating": "4.45",
-        "ratings_count": "134015",
-        "text_reviews_count": "13638"
+        "average_rating": "4.41",
+        "ratings_count": "167591",
+        "text_reviews_count": "15844"
       }
     },
-    "average_rating": "4.45",
-    "ratings_count": "133959",
+    "average_rating": "4.41",
+    "ratings_count": "167521",
     "publication_day": "21",
     "publication_month": "5",
     "publication_year": "2018"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/873537.Blink",
+    "title": "Blink: The Power of Thinking Without Thinking",
+    "title_without_series": "Blink: The Power of Thinking Without Thinking",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "<b>'Mesmerizing' <i>Time</i></b><br /><br />An art expert instantly spots a fake. A cop decides whether to shoot. A psychologist accurately predicts a couple's future in minutes. This book is about those moments when we 'know' something without knowing why. It shows that honing your instincts could change the way you think about thinking forever. <br /><br />'Trust my snap judgement, buy this book: you'll be delighted' David Brooks, <i>The New York Times</i><br /><br />'Fiendishly clever' <i>Evening Standard</i><br /><br />'Provocative, fascinating, radical' Fergal Byrne, <i>Financial Times</i>",
+    "num_pages": "277",
+    "authors": {
+      "author": {
+        "id": "1439",
+        "name": "Malcolm Gladwell",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1564001739p5/1439.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
+        "average_rating": "4.01",
+        "ratings_count": "2129942",
+        "text_reviews_count": "84173"
+      }
+    },
+    "average_rating": "3.94",
+    "ratings_count": "488157",
+    "publication_day": "23",
+    "publication_month": "2",
+    "publication_year": "2006"
   },
   {
     "link": "https://www.goodreads.com/book/show/13707738-boomerang",
@@ -220,15 +352,48 @@
         },
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": "4.15",
-        "ratings_count": "571451",
-        "text_reviews_count": "32248"
+        "ratings_count": "613163",
+        "text_reviews_count": "34024"
       }
     },
     "average_rating": "3.90",
-    "ratings_count": "39681",
+    "ratings_count": "40801",
     "publication_day": "4",
     "publication_month": "9",
     "publication_year": "2012"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays",
+    "title": "Consider the Lobster and Other Essays",
+    "title_without_series": "Consider the Lobster and Other Essays",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "Do lobsters feel pain? Did Franz Kafka have a funny bone? What is John Updike's deal, anyway? And what happens when adult video starlets meet their fans in person? David Foster Wallace answers these questions and more in essays that are also enthralling narrative adventures. Whether covering the three-ring circus of a vicious presidential race, plunging into the wars between dictionary writers, or confronting the World's Largest Lobster Cooker at the annual Maine Lobster Festival, Wallace projects a quality of thought that is uniquely his and a voice as powerful and distinct as any in American letters.<br /><br />Contains: \"Big Red Son,\" \"Certainly the End of Something or Other, One Would Sort of Have to Think,\" \"Some Remarks on Kafka's Funniness from Which Probably Not Enough Has Been Removed,\" \"Authority and American Usage,\" \"The View from Mrs. Thompson's,\" \"How Tracy Austin Broke My Heart,\" \"Up, Simba,\" \"Consider the Lobster,\" \"Joseph Frank's Dostoevsky\" and \"Host.\"",
+    "num_pages": "343",
+    "authors": {
+      "author": {
+        "id": "4339",
+        "name": "David Foster Wallace",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1580514295p5/4339.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1580514295p2/4339.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/4339.David_Foster_Wallace",
+        "average_rating": "4.13",
+        "ratings_count": "298066",
+        "text_reviews_count": "27993"
+      }
+    },
+    "average_rating": "4.22",
+    "ratings_count": "40255",
+    "publication_day": "13",
+    "publication_month": "12",
+    "publication_year": "2005"
   },
   {
     "link": "https://www.goodreads.com/book/show/25744928-deep-work",
@@ -253,12 +418,12 @@
         },
         "link": "https://www.goodreads.com/author/show/147891.Cal_Newport",
         "average_rating": "4.15",
-        "ratings_count": "113337",
-        "text_reviews_count": "11250"
+        "ratings_count": "143357",
+        "text_reviews_count": "13901"
       }
     },
     "average_rating": "4.20",
-    "ratings_count": "58700",
+    "ratings_count": "73727",
     "publication_day": "5",
     "publication_month": "1",
     "publication_year": "2016"
@@ -285,16 +450,82 @@
           "$t": "https://images.gr-assets.com/authors/1399396714p2/630.jpg"
         },
         "link": "https://www.goodreads.com/author/show/630.Dan_Brown",
-        "average_rating": "3.83",
-        "ratings_count": "6688657",
-        "text_reviews_count": "178274"
+        "average_rating": "3.84",
+        "ratings_count": "7057680",
+        "text_reviews_count": "184737"
       }
     },
-    "average_rating": "3.65",
-    "ratings_count": "538503",
+    "average_rating": "3.66",
+    "ratings_count": "561637",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2004"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/40672036-digital-minimalism",
+    "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+    "title_without_series": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549433350l/40672036._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549433350l/40672036._SX98_.jpg",
+    "description": "Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It's the key to living a focused life in an increasingly noisy world.<br /><br />In this timely and enlightening book, the bestselling author of Deep Work introduces a philosophy for technology use that has already improved countless lives.<br /><br />Digital minimalists are all around us. They're the calm, happy people who can hold long conversations without furtive glances at their phones. They can get lost in a good book, a woodworking project, or a leisurely morning run. They can have fun with friends and family without the obsessive urge to document the experience. They stay informed about the news of the day, but don't feel overwhelmed by it. They don't experience \"fear of missing out\" because they already know which activities provide them meaning and satisfaction.<br /><br />Now, Newport gives us a name for this quiet movement, and makes a persuasive case for its urgency in our tech-saturated world. Common sense tips, like turning off notifications, or occasional rituals like observing a digital sabbath, don't go far enough in helping us take back control of our technological lives, and attempts to unplug completely are complicated by the demands of family, friends and work. What we need instead is a thoughtful method to decide what tools to use, for what purposes, and under what conditions.<br /><br />Drawing on a diverse array of real-life examples, from Amish farmers to harried parents to Silicon Valley programmers, Newport identifies the common practices of digital minimalists and the ideas that underpin them. He shows how digital minimalists are rethinking their relationship to social media, rediscovering the pleasures of the offline world, and reconnecting with their inner selves through regular periods of solitude. He then shares strategies for integrating these practices into your life, starting with a thirty-day \"digital declutter\" process that has already helped thousands feel less overwhelmed and more in control.<br /><br />Technology is intrinsically neither good nor bad. The key is using it to support your goals and values, rather than letting it use you. This book shows the way.",
+    "num_pages": "302",
+    "authors": {
+      "author": {
+        "id": "147891",
+        "name": "Cal Newport",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1542539623p5/147891.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1542539623p2/147891.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/147891.Cal_Newport",
+        "average_rating": "4.15",
+        "ratings_count": "143357",
+        "text_reviews_count": "13901"
+      }
+    },
+    "average_rating": "4.07",
+    "ratings_count": "33184",
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/43319933-every-tool-s-a-hammer",
+    "title": "Every Tool's a Hammer: Life Is What You Make It",
+    "title_without_series": "Every Tool's a Hammer: Life Is What You Make It",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555856209l/43319933._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555856209l/43319933._SX98_.jpg",
+    "description": "<b>In this <i>New York Times</i> bestselling “imperative how-to for creativity” (Nick Offerman), Adam Savage—</b><b>star of Discovery Channel’s <i>Mythbusters</i>—shares his golden rules of creativity, from finding inspiration to following through and successfully making your idea a reality.</b><br /><br /><i>Every Tool</i>’<i>s a Hammer </i>is a chronicle of my life as a maker. It’s an exploration of making, but it’s also a permission slip of sorts from me to you. Permission to grab hold of the things you’re interested in, that fascinate you, and to dive deeper into them to see where they lead you.<br /> <br />Through stories from forty-plus years of making and molding, building and break­ing, along with the lessons I learned along the way, this book is meant to be a toolbox of problem solving, complete with a shop’s worth of notes on the tools, techniques, and materials that I use most often. Things like: <b>In Every Tool There Is a Hammer</b>—don’t wait until everything is perfect to begin a project, and if you don’t have the exact right tool for a task, just use whatever’s handy; <b>Increase Your Loose Tolerance</b>—making is messy and filled with screwups, but that’s okay, as creativity is a path with twists and turns and not a straight line to be found; <b>Use More Cooling Fluid</b>—it prolongs the life of blades and bits, and it prevents tool failure, but beyond that it’s a reminder to slow down and reduce the fric­tion in your work and relationships; <b>Screw Before You Glue</b>—mechanical fasteners allow you to change and modify a project while glue is forever but sometimes you just need the right glue, so I dig into which ones will do the job with the least harm and best effects.<br /> <br />This toolbox also includes lessons from many other incredible makers and creators, including: Jamie Hyneman, Nick Offerman, Pixar director Andrew Stanton, Oscar-winner Guillermo del Toro, artist Tom Sachs, and chef Traci Des Jardins. And if everything goes well, we will hopefully save you a few mistakes (and maybe fingers) as well as help you turn your curiosities into creations.<br /> <br />I hope this book serves as “creative rocket fuel” (Ed Helms) to build, make, invent, explore, and—most of all—enjoy the thrills of being a creator.",
+    "num_pages": "320",
+    "authors": {
+      "author": {
+        "id": "3352714",
+        "name": "Adam Savage",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1412809454p5/3352714.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1412809454p2/3352714.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/3352714.Adam_Savage",
+        "average_rating": "4.12",
+        "ratings_count": "5671",
+        "text_reviews_count": "644"
+      }
+    },
+    "average_rating": "4.12",
+    "ratings_count": "5324",
+    "publication_day": "7",
+    "publication_month": "5",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/43808723-everything-is-f-cked",
@@ -318,13 +549,13 @@
           "$t": "https://images.gr-assets.com/authors/1410365708p2/8529755.jpg"
         },
         "link": "https://www.goodreads.com/author/show/8529755.Mark_Manson",
-        "average_rating": "3.96",
-        "ratings_count": "461369",
-        "text_reviews_count": "31630"
+        "average_rating": "3.93",
+        "ratings_count": "582555",
+        "text_reviews_count": "38324"
       }
     },
-    "average_rating": "3.76",
-    "ratings_count": "23540",
+    "average_rating": "3.75",
+    "ratings_count": "37202",
     "publication_day": "14",
     "publication_month": "5",
     "publication_year": "2019"
@@ -351,13 +582,13 @@
           "$t": "https://images.gr-assets.com/authors/1486521286p2/2790706.jpg"
         },
         "link": "https://www.goodreads.com/author/show/2790706.Hans_Rosling",
-        "average_rating": "4.37",
-        "ratings_count": "78233",
-        "text_reviews_count": "7559"
+        "average_rating": "4.36",
+        "ratings_count": "105408",
+        "text_reviews_count": "9432"
       }
     },
-    "average_rating": "4.37",
-    "ratings_count": "76805",
+    "average_rating": "4.36",
+    "ratings_count": "103626",
     "publication_day": "25",
     "publication_month": "1",
     "publication_year": "2018"
@@ -385,12 +616,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.84",
-        "ratings_count": "39412",
-        "text_reviews_count": "2456"
+        "ratings_count": "41422",
+        "text_reviews_count": "2614"
       }
     },
-    "average_rating": "4.06",
-    "ratings_count": "1844",
+    "average_rating": "4.07",
+    "ratings_count": "2235",
     "publication_day": "29",
     "publication_month": "8",
     "publication_year": "2017"
@@ -418,15 +649,48 @@
         },
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": "4.15",
-        "ratings_count": "571451",
-        "text_reviews_count": "32248"
+        "ratings_count": "613163",
+        "text_reviews_count": "34024"
       }
     },
-    "average_rating": "4.15",
-    "ratings_count": "62036",
+    "average_rating": "4.14",
+    "ratings_count": "66954",
     "publication_day": "23",
     "publication_month": "3",
     "publication_year": "2015"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/38315.Fooled_by_Randomness",
+    "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+    "title_without_series": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "<b><i>Fooled by Randomness </i>is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are <i>The Black Swan, Antifragile,</i>and <i>The Bed of Procrustes</i>.</b>",
+    "num_pages": "368",
+    "authors": {
+      "author": {
+        "id": "21559",
+        "name": "Nassim Nicholas Taleb",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1206025993p5/21559.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1206025993p2/21559.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
+        "average_rating": "3.99",
+        "ratings_count": "192234",
+        "text_reviews_count": "12551"
+      }
+    },
+    "average_rating": "4.07",
+    "ratings_count": "48410",
+    "publication_day": "23",
+    "publication_month": "8",
+    "publication_year": "2005"
   },
   {
     "link": "https://www.goodreads.com/book/show/1022022.Freakonomics",
@@ -450,13 +714,13 @@
           "$t": "https://images.gr-assets.com/authors/1215370905p2/798.jpg"
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
-        "average_rating": "3.96",
-        "ratings_count": "842854",
-        "text_reviews_count": "24584"
+        "average_rating": "3.97",
+        "ratings_count": "891250",
+        "text_reviews_count": "25458"
       }
     },
-    "average_rating": "3.97",
-    "ratings_count": "668777",
+    "average_rating": "3.98",
+    "ratings_count": "709518",
     "publication_day": "25",
     "publication_month": "8",
     "publication_year": "2009"
@@ -484,12 +748,12 @@
         },
         "link": "https://www.goodreads.com/author/show/16593.Sam_Harris",
         "average_rating": "3.94",
-        "ratings_count": "176133",
-        "text_reviews_count": "10705"
+        "ratings_count": "190138",
+        "text_reviews_count": "11520"
       }
     },
-    "average_rating": "3.86",
-    "ratings_count": "24498",
+    "average_rating": "3.87",
+    "ratings_count": "26494",
     "publication_day": "6",
     "publication_month": "3",
     "publication_year": "2012"
@@ -500,7 +764,7 @@
     "title_without_series": "Homo Deus: A Brief History of Tomorrow",
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543157430l/42950805._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543157430l/42950805._SX98_.jpg",
-    "description": "<i>Librarian's Note: Alternate-cover edition for ISBN <a href=\"https://www.goodreads.com/book/show/30965703-homo-deus\" rel=\"nofollow\">1784703931 / 9781784703936</a></i><br /><br />From the author of the number one bestseller <i>Sapiens</i>.<br /><br /><i>Sapiens </i> showed us where we came from. <i>Homo Deus</i> shows us where we're going. War is obsolete. You are more likely to commit suicide than be killed in conflict. Famine is disappearing. You are at more risk of obesity than starvation. Death is just a technical problem. Equality is out - but immortality is in.<br /><br />What does our future hold? Yuval Noah Harari, author of the bestselling phenomenon <i>Sapiens</i> envisions a not-too-distant world in which we face a new set of challenges.<br /><br /><i>Homo Deus</i> explores the projects, dreams and nightmares that will shape the twenty-first century - from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers?",
+    "description": "<i>Librarian's Note: Alternate-cover edition for ISBN <a href=\"https://www.goodreads.com/book/show/30965703-homo-deus\" rel=\"nofollow noopener\">1784703931 / 9781784703936</a></i><br /><br />From the author of the number one bestseller <i>Sapiens</i>.<br /><br /><i>Sapiens </i> showed us where we came from. <i>Homo Deus</i> shows us where we're going. War is obsolete. You are more likely to commit suicide than be killed in conflict. Famine is disappearing. You are at more risk of obesity than starvation. Death is just a technical problem. Equality is out - but immortality is in.<br /><br />What does our future hold? Yuval Noah Harari, author of the bestselling phenomenon <i>Sapiens</i> envisions a not-too-distant world in which we face a new set of challenges.<br /><br /><i>Homo Deus</i> explores the projects, dreams and nightmares that will shape the twenty-first century - from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers?",
     "num_pages": "513",
     "authors": {
       "author": {
@@ -516,13 +780,13 @@
           "$t": "https://images.gr-assets.com/authors/1546235045p2/395812.jpg"
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
-        "average_rating": "4.37",
-        "ratings_count": "562878",
-        "text_reviews_count": "42466"
+        "average_rating": "4.35",
+        "ratings_count": "744516",
+        "text_reviews_count": "51807"
       }
     },
-    "average_rating": "4.26",
-    "ratings_count": "115971",
+    "average_rating": "4.24",
+    "ratings_count": "147821",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2017"
@@ -533,7 +797,7 @@
     "title_without_series": "How Google Works",
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481060659l/26245868._SX50_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481060659l/26245868._SX98_.jpg",
-    "description": "<b>Seasoned Google executives Eric Schmidt and Jonathan Rosenberg provide an insider's guide to Google, from its business history and disruptive corporate strategy to developing a new managment philosophy and creating a corporate culture where innovation and creativity thrive.</b><br /><br />Google Executive Chairman and ex-CEO Eric Schmidt and former SVP of Products Jonathan Rosenberg came to Google over a decade ago as proven technology executives. At the time, the company was already well-known for doing things differently, reflecting the visionary-and frequently contrarian-principles of founders Larry Page and Sergey Brin. If Eric and Jonathan were going to succeed, they realized they would have to relearn everything they thought they knew about management and business.<br /><br />Today, Google is a global icon that regularly pushes the boundaries of innovation in a variety of fields.<i> How Google Works</i> is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company. The authors explain how technology has shifted the balance of power from companies to consumers, and that the only way to succeed in this ever-changing landscape is to create superior products and attract a new breed of multifaceted employees whom Eric and Jonathan dub \"smart creatives.\" <br /><br />Covering topics including corporate culture, strategy, talent, decision-making, communication, innovation, and dealing with disruption, the authors illustrate management maxims (\"Consensus requires dissension,\" \"Exile knaves but fight for divas,\" \"Think 10X, not 10%\") with numerous insider anecdotes from Google's history, many of which are shared here for the first time.<br /><br />In an era when everything is speeding up, the best way for businesses to succeed is to attract smart-creative people and give them an environment where they can thrive at scale. <i>How Google Works</i> explains how to do just that.<br /><br />",
+    "description": "<b>Seasoned Google executives Eric Schmidt and Jonathan Rosenberg provide an insider's guide to Google, from its business history and disruptive corporate strategy to developing a new managment philosophy and creating a corporate culture where innovation and creativity thrive.</b><br /><br /> <b>Seasoned Google executives Eric Schmidt and Jonathan Rosenberg provide an insider's guide to Google, from its business history and disruptive corporate strategy to developing a new managment philosophy and creating a corporate culture where innovation and creativity thrive.</b><br /><br /> <br /><br />Google Executive Chairman and ex-CEO Eric Schmidt and former SVP of Products Jonathan Rosenberg came to Google over a decade ago as proven technology executives. At the time, the company was already well-known for doing things differently, reflecting the visionary-and frequently contrarian-principles of founders Larry Page and Sergey Brin. If Eric and Jonathan were going to succeed, they realized they would have to relearn everything they thought they knew about management and business.<br /> <br />Today, Google is a global icon that regularly pushes the boundaries of innovation in a variety of fields.<i> How Google Works</i> is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company. The authors explain how technology has shifted the balance of power from companies to consumers, and that the only way to succeed in this ever-changing landscape is to create superior products and attract a new breed of multifaceted employees whom Eric and Jonathan dub \"smart creatives.\" <br /> <br />Covering topics including corporate culture, strategy, talent, decision-making, communication, innovation, and dealing with disruption, the authors illustrate management maxims (\"Consensus requires dissension,\" \"Exile knaves but fight for divas,\" \"Think 10X, not 10%\") with numerous insider anecdotes from Google's history, many of which are shared here for the first time.<br /> In an era when everything is speeding up, the best way for businesses to succeed is to attract smart-creative people and give them an environment where they can thrive at scale. <i>How Google Works</i> explains how to do just that.",
     "num_pages": "320",
     "authors": {
       "author": {
@@ -550,12 +814,12 @@
         },
         "link": "https://www.goodreads.com/author/show/3887089.Eric_Schmidt",
         "average_rating": "3.99",
-        "ratings_count": "30363",
-        "text_reviews_count": "2083"
+        "ratings_count": "34054",
+        "text_reviews_count": "2315"
       }
     },
-    "average_rating": "4.05",
-    "ratings_count": "21988",
+    "average_rating": "4.06",
+    "ratings_count": "23492",
     "publication_day": "21",
     "publication_month": "3",
     "publication_year": "2017"
@@ -582,49 +846,16 @@
           "$t": "https://images.gr-assets.com/authors/1291870808p2/234214.jpg"
         },
         "link": "https://www.goodreads.com/author/show/234214.Mike_Brown",
-        "average_rating": "3.99",
-        "ratings_count": "8261",
-        "text_reviews_count": "1156"
+        "average_rating": "4.02",
+        "ratings_count": "8601",
+        "text_reviews_count": "1187"
       }
     },
-    "average_rating": "4.00",
-    "ratings_count": "8063",
+    "average_rating": "4.01",
+    "ratings_count": "8263",
     "publication_day": "7",
     "publication_month": "12",
     "publication_year": "2010"
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/23281872-how-not-to-be-wrong",
-    "title": "How Not to Be Wrong: The Power of Mathematical Thinking",
-    "title_without_series": "How Not to Be Wrong: The Power of Mathematical Thinking",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SX98_.jpg",
-    "description": "<b>The <i>Freakonomics</i> of math—a math-world superstar unveils the hidden beauty and logic of the world and puts its power in our hands</b><br /><br />The math we learn in school can seem like a dull set of rules, laid down by the ancients and not to be questioned. In <i>How Not to Be Wrong</i>, Jordan Ellenberg shows us how terribly limiting this view is: Math isn’t confined to abstract incidents that never occur in real life, but rather touches everything we do—the whole world is shot through with it.<br /><br />Math allows us to see the hidden structures underneath the messy and chaotic surface of our world. It’s a science of not being wrong, hammered out by centuries of hard work and argument. Armed with the tools of mathematics, we can see through to the true meaning of information we take for granted: How early should you get to the airport? What does “public opinion” really represent? Why do tall parents have shorter children? Who really won Florida in 2000? And how likely are you, really, to develop cancer?<br /><br /><i>How Not to Be Wrong</i> presents the surprising revelations behind all of these questions and many more, using the mathematician’s method of analyzing life and exposing the hard-won insights of the academic community to the layman—minus the jargon. Ellenberg chases mathematical threads through a vast range of time and space, from the everyday to the cosmic, encountering, among other things, baseball, Reaganomics, daring lottery schemes, Voltaire, the replicability crisis in psychology, Italian Renaissance painting, artificial languages, the development of non-Euclidean geometry, the coming obesity apocalypse, Antonin Scalia’s views on crime and punishment, the psychology of slime molds, what Facebook can and can’t figure out about you, and the existence of God.<br /><br />Ellenberg pulls from history as well as from the latest theoretical developments to provide those not trained in math with the knowledge they need. Math, as Ellenberg says, is “an atomic-powered prosthesis that you attach to your common sense, vastly multiplying its reach and strength.” With the tools of mathematics in hand, you can understand the world in a deeper, more meaningful way. How Not to Be Wrong will show you how.",
-    "num_pages": "480",
-    "authors": {
-      "author": {
-        "id": "359894",
-        "name": "Jordan Ellenberg",
-        "role": {},
-        "image_url": {
-          "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
-        },
-        "small_image_url": {
-          "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
-        },
-        "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
-        "average_rating": "3.96",
-        "ratings_count": "12806",
-        "text_reviews_count": "1243"
-      }
-    },
-    "average_rating": "3.96",
-    "ratings_count": "12707",
-    "publication_day": "26",
-    "publication_month": "5",
-    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/18693884-how-not-to-be-wrong",
@@ -649,15 +880,114 @@
         },
         "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
         "average_rating": "3.96",
-        "ratings_count": "12806",
-        "text_reviews_count": "1243"
+        "ratings_count": "14256",
+        "text_reviews_count": "1359"
       }
     },
     "average_rating": "3.96",
-    "ratings_count": "12707",
+    "ratings_count": "14153",
     "publication_day": "29",
     "publication_month": "5",
     "publication_year": "2014"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/23281872-how-not-to-be-wrong",
+    "title": "How Not to Be Wrong: The Power of Mathematical Thinking",
+    "title_without_series": "How Not to Be Wrong: The Power of Mathematical Thinking",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432987179l/23281872._SX98_.jpg",
+    "description": "<b>The <i>Freakonomics</i> of math—a math-world superstar unveils the hidden beauty and logic of the world and puts its power in our hands</b><br /><br />The math we learn in school can seem like a dull set of rules, laid down by the ancients and not to be questioned. In <i>How Not to Be Wrong</i>, Jordan Ellenberg shows us how terribly limiting this view is: Math isn’t confined to abstract incidents that never occur in real life, but rather touches everything we do—the whole world is shot through with it.<br /><br />Math allows us to see the hidden structures underneath the messy and chaotic surface of our world. It’s a science of not being wrong, hammered out by centuries of hard work and argument. Armed with the tools of mathematics, we can see through to the true meaning of information we take for granted: How early should you get to the airport? What does “public opinion” really represent? Why do tall parents have shorter children? Who really won Florida in 2000? And how likely are you, really, to develop cancer?<br /><br /><i>How Not to Be Wrong</i> presents the surprising revelations behind all of these questions and many more, using the mathematician’s method of analyzing life and exposing the hard-won insights of the academic community to the layman—minus the jargon. Ellenberg chases mathematical threads through a vast range of time and space, from the everyday to the cosmic, encountering, among other things, baseball, Reaganomics, daring lottery schemes, Voltaire, the replicability crisis in psychology, Italian Renaissance painting, artificial languages, the development of non-Euclidean geometry, the coming obesity apocalypse, Antonin Scalia’s views on crime and punishment, the psychology of slime molds, what Facebook can and can’t figure out about you, and the existence of God.<br /><br />Ellenberg pulls from history as well as from the latest theoretical developments to provide those not trained in math with the knowledge they need. Math, as Ellenberg says, is “an atomic-powered prosthesis that you attach to your common sense, vastly multiplying its reach and strength.” With the tools of mathematics in hand, you can understand the world in a deeper, more meaningful way. How Not to Be Wrong will show you how.",
+    "num_pages": "480",
+    "authors": {
+      "author": {
+        "id": "359894",
+        "name": "Jordan Ellenberg",
+        "role": {},
+        "image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+        },
+        "small_image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+        },
+        "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
+        "average_rating": "3.96",
+        "ratings_count": "14256",
+        "text_reviews_count": "1359"
+      }
+    },
+    "average_rating": "3.96",
+    "ratings_count": "14153",
+    "publication_day": "26",
+    "publication_month": "5",
+    "publication_year": "2015"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/43852758-how-to",
+    "title": "How To: Absurd Scientific Advice for Common Real-World Problems",
+    "title_without_series": "How To: Absurd Scientific Advice for Common Real-World Problems",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550145086l/43852758._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550145086l/43852758._SX98_.jpg",
+    "description": "<b>The world's most entertaining and useless self-help guide, from the brilliant mind behind the wildly popular webcomic xkcd and the #1 <i>New York Times</i> bestsellers <i>What If?</i> and <i>Thing Explainer</i></b><br /><br />For any task you might want to do, there's a right way, a wrong way, and a way so monumentally complex, excessive, and inadvisable that no one would ever try it. <i>How To</i> is a guide to the third kind of approach. It's full of highly impractical advice for everything from landing a plane to digging a hole.<br /><br />Bestselling author and cartoonist Randall Munroe explains how to predict the weather by analyzing the pixels of your Facebook photos. He teaches you how to tell if you're a baby boomer or a 90's kid by measuring the radioactivity of your teeth. He offers tips for taking a selfie with a telescope, crossing a river by boiling it, and powering your house by destroying the fabric of space-time. And if you want to get rid of the book once you're done with it, he walks you through your options for proper disposal, including dissolving it in the ocean, converting it to a vapor, using tectonic plates to subduct it into the Earth's mantle, or launching it into the Sun.<br /><br />By exploring the most complicated ways to do simple tasks, Munroe doesn't just make things difficult for himself and his readers. As he did so brilliantly in <i>What If?</i>, Munroe invites us to explore the most absurd reaches of the possible. Full of clever infographics and amusing illustrations, <i>How To</i> is a delightfully mind-bending way to better understand the science and technology underlying the things we do every day.",
+    "num_pages": "320",
+    "authors": {
+      "author": {
+        "id": "3089156",
+        "name": "Randall Munroe",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1406058780p5/3089156.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1406058780p2/3089156.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/3089156.Randall_Munroe",
+        "average_rating": "4.15",
+        "ratings_count": "159872",
+        "text_reviews_count": "11628"
+      }
+    },
+    "average_rating": "4.18",
+    "ratings_count": "9171",
+    "publication_day": "3",
+    "publication_month": "9",
+    "publication_year": "2019"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/53406646-humankind",
+    "title": "Humankind: A Hopeful History",
+    "title_without_series": "Humankind: A Hopeful History",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "FROM THE AUTHOR OF THE 'NEW YORK TIMES' BEST SELLER 'UTOPIA FOR REALISTS', A \"BOLD\" (DANIEL H. PINK), \"PROVOCATIVE\" (ADAM GRANT) ARGUMENT THAT OUR INNATE GOODNESS AND COOPERATION HAVE BEEN THE GREATEST FACTORS IN HUMANITY'S SUCCESS.<br /><br />If there is one belief that has united the left and the right, psychologists and philosophers, ancient thinkers and modern ones, it is the tacit assumption that humans are bad. It's a notion that drives newspaper headlines and guides the laws that shape our lives. From Machiavelli to Hobbes, Freud to Pinker, the roots of this belief have sunk deep into Western thought. Human beings, we're taught, are by nature selfish and governed primarily by self-interest.<br /><br />But what if it isn't true? International best seller Rutger Bregman provides new perspective on the past 200,000 years of human history, setting out to prove that we are hardwired for kindness, geared toward cooperation rather than competition, and more inclined to trust rather than distrust one another, in fact this instinct has a firm evolutionary basis going back to the beginning of 'Homo Sapiens'.<br /><br />From the real-life 'Lord of the Flies' to the solidarity in the aftermath of the Blitz, the hidden flaws in the Stanford prison experiment to the true story of twin brothers on opposite sides who helped Mandela end apartheid, Bregman shows us that believing in human generosity and collaboration isn't merely optimistic - it's realistic. Moreover, it has huge implications for how society functions. When we think the worst of people, it brings out the worst in our politics and economics. But if we believe in the reality of humanity's kindness and altruism, it will form the foundation for achieving true change in society, a case that Bregman makes convincingly with his signature wit, refreshing frankness, and memorable storytelling.<br /><br />\"I greatly enjoyed reading 'HUMANKIND'. It made me see humanity from a fresh perspective and challenged me to rethink my long-held beliefs. I warmly recommend it to others, and trust it will stir a lot of fruitful discussions.\" (Yuval Noah Harari, author of the number best seller 'Sapiens')<br /><br />THE NUMBER ONE DUTCH BEST SELLER<br /><br /><br /><br />RUNNING TIME ⇒ 11hrs. and 37mins.<br /><br />©2020 Rutger Bregman (P)2020 Little, Brown &amp; Company",
+    "num_pages": "496",
+    "authors": {
+      "author": {
+        "id": "5781839",
+        "name": "Rutger Bregman",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1517928864p5/5781839.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1517928864p2/5781839.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/5781839.Rutger_Bregman",
+        "average_rating": "4.25",
+        "ratings_count": "32063",
+        "text_reviews_count": "3715"
+      }
+    },
+    "average_rating": "4.33",
+    "ratings_count": "11442",
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": {}
   },
   {
     "link": "https://www.goodreads.com/book/show/39074550-humble-pi",
@@ -665,7 +995,7 @@
     "title_without_series": "Humble Pi: A Comedy of Maths Errors",
     "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "description": "Most of the time, the maths in our everyday lives works quietly behind the scenes. Until someone forgets to carry a '1' and a bridge collapses, a plane drops out of the sky or a building rocks when its resonant frequency matches a gym class leaping to Snap's 1990 hit <i>I've Got The Power</i>. This book is all about what happens when maths goes wrong in the real world.<br /><br />Exploring and explaining a litany of near-misses and mishaps involving the internet, big data, elections, street signs, lotteries and the Roman empire, Matt Parker shows us the bizarre ways maths trips us all up, and what this reveals about its essential place in our world. Mathematics doesn't have good 'people skills', but we would all be better off, he argues, if we saw it as a practical ally. By making maths our friend, we can use it to our advantage and learn from its pitfalls.",
+    "description": "<b>An international bestseller </b><br /><br />The book-length answer to anyone who ever put their hand up in math class and asked, \"When am I ever going to use this in the real world?\"<br /><br />\"Fun, informative, and relentlessly entertaining, <i>Humble Pi</i> is a charming and very readable guide to some of humanity's all-time greatest miscalculations--that also gives you permission to feel a little better about some of your own mistakes.\" --Ryan North, author of <i>How to Invent Everything</i><br /><br />Our whole world is built on math, from the code running a website to the equations enabling the design of skyscrapers and bridges. Most of the time this math works quietly behind the scenes . . . until it doesn't. All sorts of seemingly innocuous mathematical mistakes can have significant consequences.<br /><br />Math is easy to ignore until a misplaced decimal point upends the stock market, a unit conversion error causes a plane to crash, or someone divides by zero and stalls a battleship in the middle of the ocean.<br /><br />Exploring and explaining a litany of glitches, near misses, and mathematical mishaps involving the internet, big data, elections, street signs, lotteries, the Roman Empire, and an Olympic team, Matt Parker uncovers the bizarre ways math trips us up, and what this reveals about its essential place in our world. Getting it wrong has never been more fun.",
     "num_pages": "314",
     "authors": {
       "author": {
@@ -681,13 +1011,13 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
         },
         "link": "https://www.goodreads.com/author/show/17598525.Matt_Parker",
-        "average_rating": "4.19",
-        "ratings_count": "3756",
-        "text_reviews_count": "411"
+        "average_rating": "4.15",
+        "ratings_count": "6351",
+        "text_reviews_count": "719"
       }
     },
-    "average_rating": "4.19",
-    "ratings_count": "2150",
+    "average_rating": "4.13",
+    "ratings_count": "4818",
     "publication_day": "7",
     "publication_month": "3",
     "publication_year": "2019"
@@ -714,16 +1044,82 @@
           "$t": "https://images.gr-assets.com/authors/1308057205p2/92867.jpg"
         },
         "link": "https://www.goodreads.com/author/show/92867.Linus_Torvalds",
-        "average_rating": "3.90",
-        "ratings_count": "4219",
-        "text_reviews_count": "259"
+        "average_rating": "3.91",
+        "ratings_count": "4402",
+        "text_reviews_count": "277"
       }
     },
-    "average_rating": "3.92",
-    "ratings_count": "3671",
+    "average_rating": "3.93",
+    "ratings_count": "3833",
     "publication_day": "1",
     "publication_month": "6",
     "publication_year": "2001"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning",
+    "title": "Man's Search for Meaning",
+    "title_without_series": "Man's Search for Meaning",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SX98_.jpg",
+    "description": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Based on his own experience and the stories of his patients, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. At the heart of his theory, known as logotherapy, is a conviction that the primary human drive is not pleasure but the pursuit of what we find meaningful. <i>Man's Search for Meaning</i> has become one of the most influential books in America; it continues to inspire us all to find significance in the very act of living.",
+    "num_pages": "165",
+    "authors": {
+      "author": {
+        "id": "2782",
+        "name": "Viktor E. Frankl",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1542894524p5/2782.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1542894524p2/2782.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/2782.Viktor_E_Frankl",
+        "average_rating": "4.35",
+        "ratings_count": "412501",
+        "text_reviews_count": "22411"
+      }
+    },
+    "average_rating": "4.36",
+    "ratings_count": "402109",
+    "publication_day": "1",
+    "publication_month": "6",
+    "publication_year": "2006"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/1301.Moneyball",
+    "title": "Moneyball: The Art of Winning an Unfair Game",
+    "title_without_series": "Moneyball: The Art of Winning an Unfair Game",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "Billy Beane, general manager of MLB's Oakland A's and protagonist of Michael Lewis's <i>Moneyball</i>, had a problem: how to win in the Major Leagues with a budget that's smaller than that of nearly every other team. Conventional wisdom long held that big name, highly athletic hitters and young pitchers with rocket arms were the ticket to success. But Beane and his staff, buoyed by massive amounts of carefully interpreted statistical data, believed that wins could be had by more affordable methods such as hitters with high on-base percentage and pitchers who get lots of ground outs. Given this information and a tight budget, Beane defied tradition and his own scouting department to build winning teams of young affordable players and inexpensive castoff veterans. <p> Lewis was in the room with the A's top management as they spent the summer of 2002 adding and subtracting players and he provides outstanding play-by-play. In the June player draft, Beane acquired nearly every prospect he coveted (few of whom were coveted by other teams) and at the July trading deadline he engaged in a tense battle of nerves to acquire a lefty reliever. Besides being one of the most insider accounts ever written about baseball, <i>Moneyball</i> is populated with fascinating characters. We meet Jeremy Brown, an overweight college catcher who most teams project to be a 15th round draft pick (Beane takes him in the first). Sidearm pitcher Chad Bradford is plucked from the White Sox triple-A club to be a key set-up man and catcher Scott Hatteberg is rebuilt as a first baseman. But the most interesting character is Beane himself. A speedy athletic can't-miss prospect who somehow missed, Beane reinvents himself as a front-office guru, relying on players completely unlike, say, Billy Beane. Lewis, one of the top nonfiction writers of his era (<i>Liar's Poker</i>, <i>The New New Thing</i>), offers highly accessible explanations of baseball stats and his roadmap of Beane's economic approach makes <i>Moneyball</i> an appealing reading experience for business people and sports fans alike. <i>--John Moe</i></p>",
+    "num_pages": "317",
+    "authors": {
+      "author": {
+        "id": "776",
+        "name": "Michael   Lewis",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1317447168p5/776.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1317447168p2/776.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
+        "average_rating": "4.15",
+        "ratings_count": "613163",
+        "text_reviews_count": "34024"
+      }
+    },
+    "average_rating": "4.26",
+    "ratings_count": "100805",
+    "publication_day": "17",
+    "publication_month": "3",
+    "publication_year": "2004"
   },
   {
     "link": "https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein",
@@ -747,13 +1143,13 @@
           "$t": "https://images.gr-assets.com/authors/1322436441p2/2867569.jpg"
         },
         "link": "https://www.goodreads.com/author/show/2867569.Joshua_Foer",
-        "average_rating": "3.89",
-        "ratings_count": "72866",
-        "text_reviews_count": "5723"
+        "average_rating": "3.90",
+        "ratings_count": "78850",
+        "text_reviews_count": "6218"
       }
     },
-    "average_rating": "3.87",
-    "ratings_count": "68381",
+    "average_rating": "3.88",
+    "ratings_count": "73720",
     "publication_day": "3",
     "publication_month": "3",
     "publication_year": "2011"
@@ -780,13 +1176,13 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
         },
         "link": "https://www.goodreads.com/author/show/1684350.Tessa_Feller",
-        "average_rating": "3.75",
-        "ratings_count": "91",
+        "average_rating": "3.79",
+        "ratings_count": "95",
         "text_reviews_count": "4"
       }
     },
-    "average_rating": "3.72",
-    "ratings_count": "76",
+    "average_rating": "3.78",
+    "ratings_count": "80",
     "publication_day": "1",
     "publication_month": "6",
     "publication_year": "2008"
@@ -813,13 +1209,13 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
         },
         "link": "https://www.goodreads.com/author/show/1104428.Sheryl_Buckland",
-        "average_rating": "3.63",
-        "ratings_count": "51",
+        "average_rating": "3.65",
+        "ratings_count": "57",
         "text_reviews_count": "7"
       }
     },
     "average_rating": "3.61",
-    "ratings_count": "46",
+    "ratings_count": "49",
     "publication_day": "21",
     "publication_month": "6",
     "publication_year": "2018"
@@ -847,12 +1243,12 @@
         },
         "link": "https://www.goodreads.com/author/show/205996.Glenn_Greenwald",
         "average_rating": "4.07",
-        "ratings_count": "15285",
-        "text_reviews_count": "1517"
+        "ratings_count": "15741",
+        "text_reviews_count": "1535"
       }
     },
-    "average_rating": "4.08",
-    "ratings_count": "12683",
+    "average_rating": "4.07",
+    "ratings_count": "13098",
     "publication_day": "13",
     "publication_month": "5",
     "publication_year": "2014"
@@ -863,7 +1259,7 @@
     "title_without_series": "Norwegian Wood",
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493851993l/17161156._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493851993l/17161156._SX98_.jpg",
-    "description": "<i>This is an alternate cover edition for <a href=\"https://www.goodreads.com/book/show/818108.Norwegian_Wood\" rel=\"nofollow\">9780099448822</a> </i><br /><br />The haunting, enigmatic love story that turned Murakami into a literary superstar in Japan, and is his bestselling title throughout the world <br /><br />When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki. Immediately he is transported back almost twenty years to his student days in Tokyo, adrift in a world of uneasy friendships, casual sex, passion, loss and desire - to a time when an impetuous young woman called Midori marches into his life and he has to choose between the future and the past.",
+    "description": "<i>This is an alternate cover edition for <a href=\"https://www.goodreads.com/book/show/818108.Norwegian_Wood\" rel=\"nofollow noopener\">9780099448822</a> </i><br /><br />The haunting, enigmatic love story that turned Murakami into a literary superstar in Japan, and is his bestselling title throughout the world <br /><br />When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki. Immediately he is transported back almost twenty years to his student days in Tokyo, adrift in a world of uneasy friendships, casual sex, passion, loss and desire - to a time when an impetuous young woman called Midori marches into his life and he has to choose between the future and the past.",
     "num_pages": "389",
     "authors": {
       "author": {
@@ -879,13 +1275,13 @@
           "$t": "https://images.gr-assets.com/authors/1539035376p2/3354.jpg"
         },
         "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
-        "average_rating": "3.96",
-        "ratings_count": "2191798",
-        "text_reviews_count": "160357"
+        "average_rating": "3.95",
+        "ratings_count": "2399566",
+        "text_reviews_count": "175846"
       }
     },
     "average_rating": "4.03",
-    "ratings_count": "313257",
+    "ratings_count": "347964",
     "publication_day": "4",
     "publication_month": "7",
     "publication_year": "2003"
@@ -912,13 +1308,13 @@
           "$t": "https://images.gr-assets.com/authors/1438885744p2/65483.jpg"
         },
         "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
-        "average_rating": "3.89",
-        "ratings_count": "70715",
-        "text_reviews_count": "4094"
+        "average_rating": "3.90",
+        "ratings_count": "79088",
+        "text_reviews_count": "4541"
       }
     },
     "average_rating": "3.84",
-    "ratings_count": "55696",
+    "ratings_count": "62161",
     "publication_day": "24",
     "publication_month": "2",
     "publication_year": "2009"
@@ -945,16 +1341,49 @@
           "$t": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
         },
         "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
-        "average_rating": "4.00",
-        "ratings_count": "1933347",
-        "text_reviews_count": "74923"
+        "average_rating": "4.01",
+        "ratings_count": "2129942",
+        "text_reviews_count": "84173"
       }
     },
     "average_rating": "4.16",
-    "ratings_count": "501029",
+    "ratings_count": "557307",
     "publication_day": "18",
     "publication_month": "11",
     "publication_year": "2008"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/46223297-permanent-record",
+    "title": "Permanent Record",
+    "title_without_series": "Permanent Record",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SX98_.jpg",
+    "description": "<b>Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down.</b><br /><br />In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it.<br /><br />Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, <i>Permanent Record</i> is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, <i>Permanent Record</i> is a crucial memoir of our digital age and destined to be a classic.",
+    "num_pages": "339",
+    "authors": {
+      "author": {
+        "id": "7140597",
+        "name": "Edward Snowden",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1425078029p5/7140597.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1425078029p2/7140597.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/7140597.Edward_Snowden",
+        "average_rating": "4.33",
+        "ratings_count": "28907",
+        "text_reviews_count": "3081"
+      }
+    },
+    "average_rating": "4.34",
+    "ratings_count": "28625",
+    "publication_day": "17",
+    "publication_month": "9",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/25135194-prisoners-of-geography",
@@ -978,13 +1407,13 @@
           "$t": "https://images.gr-assets.com/authors/1489696759p2/713466.jpg"
         },
         "link": "https://www.goodreads.com/author/show/713466.Tim_Marshall",
-        "average_rating": "4.18",
-        "ratings_count": "39383",
-        "text_reviews_count": "3637"
+        "average_rating": "4.17",
+        "ratings_count": "51081",
+        "text_reviews_count": "4538"
       }
     },
-    "average_rating": "4.23",
-    "ratings_count": "34785",
+    "average_rating": "4.21",
+    "ratings_count": "44930",
     "publication_day": "9",
     "publication_month": "7",
     "publication_year": "2015"
@@ -1012,12 +1441,12 @@
         },
         "link": "https://www.goodreads.com/author/show/4101935.Susan_Cain",
         "average_rating": "4.06",
-        "ratings_count": "299907",
-        "text_reviews_count": "22960"
+        "ratings_count": "328899",
+        "text_reviews_count": "24261"
       }
     },
     "average_rating": "4.06",
-    "ratings_count": "295850",
+    "ratings_count": "324479",
     "publication_day": "24",
     "publication_month": "1",
     "publication_year": "2012"
@@ -1028,7 +1457,7 @@
     "title_without_series": "Ready Player One",
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SX98_.jpg",
-    "description": "<b>IN THE YEAR 2044, reality is an ugly place.</b> The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. <br /><br />But when Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.",
+    "description": "<i>Librarian's note: An alternate cover edition can be found <a href=\"https://www.goodreads.com/book/show/54733514.here\" title=\"here\" rel=\"nofollow noopener\">here</a></i><br /><br /><b>IN THE YEAR 2044, reality is an ugly place.</b> The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. <br /><br />But when Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.",
     "num_pages": "374",
     "authors": {
       "author": {
@@ -1044,13 +1473,13 @@
           "$t": "https://images.gr-assets.com/authors/1310753539p2/31712.jpg"
         },
         "link": "https://www.goodreads.com/author/show/31712.Ernest_Cline",
-        "average_rating": "4.19",
-        "ratings_count": "895284",
-        "text_reviews_count": "97291"
+        "average_rating": "4.18",
+        "ratings_count": "965623",
+        "text_reviews_count": "100903"
       }
     },
-    "average_rating": "4.27",
-    "ratings_count": "797738",
+    "average_rating": "4.26",
+    "ratings_count": "862206",
     "publication_day": "16",
     "publication_month": "8",
     "publication_year": "2011"
@@ -1077,49 +1506,16 @@
           "$t": "https://images.gr-assets.com/authors/1236463010p2/600.jpg"
         },
         "link": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki",
-        "average_rating": "4.05",
-        "ratings_count": "442481",
-        "text_reviews_count": "16788"
+        "average_rating": "4.07",
+        "ratings_count": "506183",
+        "text_reviews_count": "19472"
       }
     },
-    "average_rating": "4.06",
-    "ratings_count": "317234",
+    "average_rating": "4.08",
+    "ratings_count": "370589",
     "publication_day": "16",
     "publication_month": "8",
     "publication_year": "2011"
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/23692271-sapiens",
-    "title": "Sapiens: A Brief History of Humankind",
-    "title_without_series": "Sapiens: A Brief History of Humankind",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420585954l/23692271._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420585954l/23692271._SX98_.jpg",
-    "description": "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. <br /><br />How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come? <br /><br />In <i>Sapiens</i>, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? <br /><br />Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.",
-    "num_pages": "498",
-    "authors": {
-      "author": {
-        "id": "395812",
-        "name": "Yuval Noah Harari",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1546235045p5/395812.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1546235045p2/395812.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
-        "average_rating": "4.37",
-        "ratings_count": "562878",
-        "text_reviews_count": "42466"
-      }
-    },
-    "average_rating": "4.43",
-    "ratings_count": "382897",
-    "publication_day": {},
-    "publication_month": {},
-    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/23346740-sapiens",
@@ -1143,14 +1539,80 @@
           "$t": "https://images.gr-assets.com/authors/1546235045p2/395812.jpg"
         },
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
-        "average_rating": "4.37",
-        "ratings_count": "562878",
-        "text_reviews_count": "42466"
+        "average_rating": "4.35",
+        "ratings_count": "744516",
+        "text_reviews_count": "51807"
       }
     },
-    "average_rating": "4.43",
-    "ratings_count": "382897",
+    "average_rating": "4.42",
+    "ratings_count": "504949",
     "publication_day": "4",
+    "publication_month": "9",
+    "publication_year": "2014"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/23692271-sapiens",
+    "title": "Sapiens: A Brief History of Humankind",
+    "title_without_series": "Sapiens: A Brief History of Humankind",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SX98_.jpg",
+    "description": "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. <br /><br />How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come? <br /><br />In <i>Sapiens</i>, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? <br /><br />Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.",
+    "num_pages": "498",
+    "authors": {
+      "author": {
+        "id": "395812",
+        "name": "Yuval Noah Harari",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1546235045p5/395812.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1546235045p2/395812.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
+        "average_rating": "4.35",
+        "ratings_count": "744516",
+        "text_reviews_count": "51807"
+      }
+    },
+    "average_rating": "4.42",
+    "ratings_count": "504949",
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2014"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/19288230-scrum",
+    "title": "Scrum: The Art of Doing Twice the Work in Half the Time",
+    "title_without_series": "Scrum: The Art of Doing Twice the Work in Half the Time",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393221649l/19288230._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393221649l/19288230._SX98_.jpg",
+    "description": "Se você já foi surpreendido por quão rápido o mundo está mudando, Scrum é uma das razões. Para aqueles que acreditam que deve haver uma maneira mais eficiente de se fazer as coisas, este é um livro sobre o processo de gestão que está mudando a maneira como vivemos. Desde o advento do método, já foram registrados ganhos de produtividade de até 1.200%. Tecida com insights de artes marciais, tomadas de decisão judicial, combate aéreo avançado, robótica e muitas outras disciplinas, Scrum é sempre fascinante. Seja para inventar uma tecnologia pioneira ou para estabelecer os alicerces de prosperidade de uma família.",
+    "num_pages": "237",
+    "authors": {
+      "author": {
+        "id": "2290725",
+        "name": "Jeff Sutherland",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1508058646p5/2290725.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1508058646p2/2290725.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/2290725.Jeff_Sutherland",
+        "average_rating": "4.17",
+        "ratings_count": "16129",
+        "text_reviews_count": "1496"
+      }
+    },
+    "average_rating": "4.19",
+    "ratings_count": "14731",
+    "publication_day": "30",
     "publication_month": "9",
     "publication_year": "2014"
   },
@@ -1176,16 +1638,82 @@
           "$t": "https://images.gr-assets.com/authors/1430920344p2/545.jpg"
         },
         "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
-        "average_rating": "4.05",
-        "ratings_count": "776765",
-        "text_reviews_count": "49354"
+        "average_rating": "4.04",
+        "ratings_count": "821160",
+        "text_reviews_count": "51592"
       }
     },
     "average_rating": "3.99",
-    "ratings_count": "86012",
+    "ratings_count": "94834",
     "publication_day": "19",
     "publication_month": "5",
     "publication_year": "2015"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/27220736-shoe-dog",
+    "title": "Shoe Dog: A Memoir by the Creator of NIKE",
+    "title_without_series": "Shoe Dog: A Memoir by the Creator of NIKE",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736._SX98_.jpg",
+    "description": "In this candid and riveting memoir, for the first time ever, Nike founder and CEO Phil Knight shares the inside story of the company’s early days as an intrepid start-up and its evolution into one of the world’s most iconic, game-changing, and profitable brands.<br /><br />In 1962, fresh out of business school, Phil Knight borrowed $50 from his father and created a company with a simple mission: import high-quality, low-cost athletic shoes from Japan. Selling the shoes from the trunk of his lime green Plymouth Valiant, Knight grossed $8,000 his first year. Today, Nike’s annual sales top $30 billion. In an age of startups, Nike is the <i>ne plus ultra</i> of all startups, and the swoosh has become a revolutionary, globe-spanning icon, one of the most ubiquitous and recognizable symbols in the world today.<br /><br />But Knight, the man behind the swoosh, has always remained a mystery. Now, for the first time, in a memoir that is candid, humble, gutsy, and wry, he tells his story, beginning with his crossroads moment. At 24, after backpacking around the world, he decided to take the unconventional path, to start his own business—a business that would be dynamic, <i>different.</i><br /><br />Knight details the many risks and daunting setbacks that stood between him and his dream—along with his early triumphs. Above all, he recalls the formative relationships with his first partners and employees, a ragtag group of misfits and seekers who became a tight-knit band of brothers. Together, harnessing the transcendent power of a shared mission, and a deep belief in the spirit of sport, they built a brand that changed everything.",
+    "num_pages": "400",
+    "authors": {
+      "author": {
+        "id": "3319233",
+        "name": "Phil Knight",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1541244521p5/3319233.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1541244521p2/3319233.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/3319233.Phil_Knight",
+        "average_rating": "4.48",
+        "ratings_count": "151118",
+        "text_reviews_count": "10421"
+      }
+    },
+    "average_rating": "4.48",
+    "ratings_count": "147896",
+    "publication_day": "26",
+    "publication_month": "4",
+    "publication_year": "2016"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/36064445-skin-in-the-game",
+    "title": "Skin in the Game: The Hidden Asymmetries in Daily Life",
+    "title_without_series": "Skin in the Game: The Hidden Asymmetries in Daily Life",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510319798l/36064445._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510319798l/36064445._SX98_.jpg",
+    "description": "From the <i>New York Times</i> bestselling author of <i>The Black Swan,</i> a bold new work that challenges many of our long-held beliefs about risk and reward, politics and religion, finance and personal responsibility<br /><br /> In his most provocative and practical book yet, one of the foremost thinkers of our time redefines what it means to understand the world, succeed in a profession, contribute to a fair and just society, detect nonsense, and influence others. Citing examples ranging from Hammurabi to Seneca, Antaeus the Giant to Donald Trump, Nassim Nicholas Taleb shows how the willingness to accept one’s own risks is an essential attribute of heroes, saints, and flourishing people in all walks of life.<br /><br /> As always both accessible and iconoclastic, Taleb challenges long-held beliefs about the values of those who spearhead military interventions, make financial investments, and propagate religious faiths. Among his insights:<br /><br /> <b>• <i>For social justice, focus on symmetry and risk sharing. </i></b>You cannot make profits and transfer the risks to others, as bankers and large corporations do. You cannot get rich without owning your own risk and paying for your own losses. Forcing skin in the game corrects this asymmetry better than thousands of laws and regulations.<br /> <b>• <i>Ethical rules aren’t universal</i>.</b> You’re part of a group larger than you, but it’s still smaller than humanity in general.<br /> <b>• <i>Minorities, not majorities, run the world. </i></b>The world is not run by consensus but by stubborn minorities imposing their tastes and ethics on others.<br /> <b>• <i>You can be an intellectual yet still be an idiot</i>.</b> “Educated philistines” have been wrong on everything from Stalinism to Iraq to low-carb diets.<br /> <b>• <i>Beware of complicated solutions (that someone was paid to find)</i>.</b> A simple barbell can build muscle better than expensive new machines.<br /> <b>• <i>True religion is commitment, not just faith</i>.</b> How much you believe in something is manifested only by what you’re willing to risk for it.<br /><br />The phrase “skin in the game” is one we have often heard but rarely stopped to truly dissect. It is the backbone of risk management, but it’s also an astonishingly rich worldview that, as Taleb shows in this book, applies to all aspects of our lives. As Taleb says, “The symmetry of skin in the game is a simple rule that’s necessary for fairness and justice, and the ultimate BS-buster,” and “Never trust anyone who doesn’t have skin in the game. Without it, fools and crooks will benefit, and their mistakes will never come back to haunt them.”",
+    "num_pages": "272",
+    "authors": {
+      "author": {
+        "id": "21559",
+        "name": "Nassim Nicholas Taleb",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1206025993p5/21559.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1206025993p2/21559.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
+        "average_rating": "3.99",
+        "ratings_count": "192234",
+        "text_reviews_count": "12551"
+      }
+    },
+    "average_rating": "3.88",
+    "ratings_count": "15085",
+    "publication_day": "1",
+    "publication_month": "6",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/20910174-smartcuts",
@@ -1209,16 +1737,82 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
         },
         "link": "https://www.goodreads.com/author/show/7567448.Shane_Snow",
-        "average_rating": "3.92",
-        "ratings_count": "5719",
-        "text_reviews_count": "453"
+        "average_rating": "3.91",
+        "ratings_count": "6001",
+        "text_reviews_count": "478"
       }
     },
     "average_rating": "3.93",
-    "ratings_count": "5169",
+    "ratings_count": "5356",
     "publication_day": "9",
     "publication_month": "9",
     "publication_year": "2014"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/25733966-smarter-faster-better",
+    "title": "Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+    "title_without_series": "Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057544l/25733966._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057544l/25733966._SX98_.jpg",
+    "description": "A new book that explores the science of productivity, and why, in today’s world, managing <i>how</i> you think—rather than <i>what</i> you think—can transform your life.",
+    "num_pages": "400",
+    "authors": {
+      "author": {
+        "id": "5201530",
+        "name": "Charles Duhigg",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1349273209p5/5201530.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1349273209p2/5201530.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/5201530.Charles_Duhigg",
+        "average_rating": "4.09",
+        "ratings_count": "370386",
+        "text_reviews_count": "19255"
+      }
+    },
+    "average_rating": "3.93",
+    "ratings_count": "25938",
+    "publication_day": "8",
+    "publication_month": "3",
+    "publication_year": "2016"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/44573628-super-pumped",
+    "title": "Super Pumped: The Battle for Uber",
+    "title_without_series": "Super Pumped: The Battle for Uber",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553648438l/44573628._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553648438l/44573628._SX98_.jpg",
+    "description": "In June 2017, Travis Kalanick, the hard-charging CEO of Uber, was ousted in a boardroom coup that capped a brutal year for the transportation giant. Uber had catapulted to the top of the tech world, yet for many came to symbolize everything wrong with Silicon Valley.<br /><br /><br />Award-winning <em>New York Times</em> technology correspondent Mike Isaac’s <em>Super Pumped</em> presents the dramatic rise and fall of Uber, set against an era of rapid upheaval in Silicon Valley. Backed by billions in venture capital dollars and led by a brash and ambitious founder, Uber promised to revolutionize the way we move people and goods through the world. A near instant “unicorn,” Uber seemed poised to take its place next to Amazon, Apple, and Google as a technology giant.<br /><br /><br />What followed would become a corporate cautionary tale about the perils of startup culture and a vivid example of how blind worship of startup founders can go wildly wrong. Isaac recounts Uber’s pitched battles with taxi unions and drivers, the company’s toxic internal culture, and the bare-knuckle tactics it devised to overcome obstacles in its quest for dominance. With billions of dollars at stake, Isaac shows how venture capitalists asserted their power and seized control of the startup as it fought its way toward its fateful IPO.<br /><br /><br />Based on hundreds of interviews with current and former Uber employees, along with previously unpublished documents, <em>Super Pumped</em> is a page-turning story of ambition and deception, obscene wealth, and bad behavior that explores how blistering technological and financial innovation culminated in one of the most catastrophic twelve-month periods in American corporate history.",
+    "num_pages": "387",
+    "authors": {
+      "author": {
+        "id": "18993769",
+        "name": "Mike Isaac",
+        "role": {},
+        "image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+        },
+        "small_image_url": {
+          "nophoto": "true",
+          "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+        },
+        "link": "https://www.goodreads.com/author/show/18993769.Mike_Isaac",
+        "average_rating": "4.16",
+        "ratings_count": "6959",
+        "text_reviews_count": "632"
+      }
+    },
+    "average_rating": "4.16",
+    "ratings_count": "6958",
+    "publication_day": "3",
+    "publication_month": "9",
+    "publication_year": "2019"
   },
   {
     "link": "https://www.goodreads.com/book/show/6402364-superfreakonomics",
@@ -1242,16 +1836,148 @@
           "$t": "https://images.gr-assets.com/authors/1215370905p2/798.jpg"
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
-        "average_rating": "3.96",
-        "ratings_count": "842854",
-        "text_reviews_count": "24584"
+        "average_rating": "3.97",
+        "ratings_count": "891250",
+        "text_reviews_count": "25458"
       }
     },
     "average_rating": "3.99",
-    "ratings_count": "117143",
+    "ratings_count": "121314",
     "publication_day": "20",
     "publication_month": "10",
     "publication_year": "2009"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/43848929-talking-to-strangers",
+    "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
+    "title_without_series": "Talking to Strangers: What We Should Know About the People We Don’t Know",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "<b>Malcolm Gladwell, host of the podcast Revisionist History and author of the #1 New York Times bestseller <i>Outliers</i>, offers a powerful examination of our interactions with strangers -- and why they often go wrong.</b><br /><br />How did Fidel Castro fool the CIA for a generation? Why did Neville Chamberlain think he could trust Adolf Hitler? Why are campus sexual assaults on the rise? Do television sitcoms teach us something about the way we relate to each other that isn't true?<br /><br />While tackling these questions, Malcolm Gladwell was not solely writing a book for the page. He was also producing for the ear. In the audiobook version of Talking to Strangers, you'll hear the voices of people he interviewed--scientists, criminologists, military psychologists. Court transcripts are brought to life with re-enactments. You actually hear the contentious arrest of Sandra Bland by the side of the road in Texas. As Gladwell revisits the deceptions of Bernie Madoff, the trial of Amanda Knox, and the suicide of Sylvia Plath, you hear directly from many of the players in these real-life tragedies. There's even a theme song - Janelle Monae's \"Hell You Talmbout.\"<br /><br />Something is very wrong, Gladwell argues, with the tools and strategies we use to make sense of people we don't know. And because we don't know how to talk to strangers, we are inviting conflict and misunderstanding in ways that have a profound effect on our lives and our world.",
+    "num_pages": "388",
+    "authors": {
+      "author": {
+        "id": "1439",
+        "name": "Malcolm Gladwell",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1564001739p5/1439.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
+        "average_rating": "4.01",
+        "ratings_count": "2129942",
+        "text_reviews_count": "84173"
+      }
+    },
+    "average_rating": "4.04",
+    "ratings_count": "134607",
+    "publication_day": "10",
+    "publication_month": "9",
+    "publication_year": "2019"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/44428950-that-will-never-work",
+    "title": "That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea",
+    "title_without_series": "That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565067558l/44428950._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565067558l/44428950._SX98_.jpg",
+    "description": "<b>In the tradition of Phil Knight's <i>Shoe Dog</i> comes the incredible untold story of how Netflix went from concept to company-all revealed by co-founder and first CEO Marc Randolph.</b><br /><br />Once upon a time, brick-and-mortar video stores were king. Late fees were ubiquitous, video-streaming unheard was of, and widespread DVD adoption seemed about as imminent as flying cars. Indeed, these were the widely accepted laws of the land in 1997, when Marc Randolph had an idea. It was a simple thought-leveraging the internet to rent movies-and was just one of many more and far worse proposals, like personalized baseball bats and a shampoo delivery service, that Randolph would pitch to his business partner, Reed Hastings, on their commute to work each morning.<br /><br /> But Hastings was intrigued, and the pair-with Hastings as the primary investor and Randolph as the CEO-founded a company. Now with over 150 million subscribers, Netflix's triumph feels inevitable, but the twenty first century's most disruptive start up began with few believers and calamity at every turn. From having to pitch his own mother on being an early investor, to the motel conference room that served as a first office, to server crashes on launch day, to the now-infamous meeting when Netflix brass pitched Blockbuster to acquire them, Marc Randolph's transformational journey exemplifies how anyone with grit, gut instincts and determination can change the world-even with an idea that many think will never work.<br /><br /> What emerges,though, isn't just the inside story of one of the world's most iconic companies. Full of counter-intuitive concepts and written in binge-worthy prose, it answers some of our most fundamental questions about taking that leap of faith in business or in life: How do you begin? How do you weather disappointment and failure? How do you deal with success? What even <i>is</i> success?<br /><br /> From idea generation to team building to knowing when it's time to let go, <i>That Will Never Work</i> is not only the ultimate follow-your-dreams parable, but also one of the most dramatic and insightful entrepreneurial stories of our time.",
+    "num_pages": "336",
+    "authors": {
+      "author": {
+        "id": "18965880",
+        "name": "Marc Randolph",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1557353143p5/18965880.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1557353143p2/18965880.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/18965880.Marc_Randolph",
+        "average_rating": "4.27",
+        "ratings_count": "5073",
+        "text_reviews_count": "512"
+      }
+    },
+    "average_rating": "4.27",
+    "ratings_count": "5071",
+    "publication_day": "17",
+    "publication_month": "9",
+    "publication_year": "2019"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/984017.The_48_Laws_Of_Power",
+    "title": "The 48 Laws Of Power",
+    "title_without_series": "The 48 Laws Of Power",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529072201l/984017._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529072201l/984017._SX98_.jpg",
+    "description": "Amoral, cunning, ruthless, and instructive, this piercing work distills three thousand years of the history of power in to forty-eight well explicated laws. As attention-grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. <br /><br />Some laws teach the need for prudence (\"Law 1: Never Outshine the Master\"), the virtue of stealth (\"Law 3: Conceal Your Intentions\"), and many demand the total absence of mercy (\"Law 15: Crush Your Enemy Totally\"), but like it or not, all have applications in real life. <br /><br />Illustrated through the tactics of Queen Elizabeth I, Henry Kissinger, P. T. Barnum, and other famous figures who have wielded--or been victimized by--power, these laws will fascinate any reader interested in gaining, observing, or defending against ultimate control.",
+    "num_pages": "452",
+    "authors": {
+      "author": {
+        "id": "865",
+        "name": "Robert Greene",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1298212921p5/865.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1298212921p2/865.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/865.Robert_Greene",
+        "average_rating": "4.19",
+        "ratings_count": "154542",
+        "text_reviews_count": "9290"
+      }
+    },
+    "average_rating": "4.16",
+    "ratings_count": "79475",
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2000"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/2962025-the-black-swan",
+    "title": "The Black Swan: The Impact of the Highly Improbable",
+    "title_without_series": "The Black Swan: The Impact of the Highly Improbable",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436042482l/2962025._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436042482l/2962025._SX98_.jpg",
+    "description": "<p><i>In Black Swan: The Impact of The Highly Improbable</i>, the author projects randomness and uncertainty as a single idea. He puts forth a theory that promotes the idea and value of a society that stands robust in the face of negative events, and manipulates the positive ones to its advantage.According to Taleb, a Black Swan event is a rare event that has large magnitude and powerful consequences owing to its unpredictability. Such an event is initially a surprise to its observer, but is rationalized by him/her in retrospect. World War I, the rise of the Internet, and the 9/11 attacks on the World Trade Center are cited as examples of Black Swan events. Taleb introduces a fictional character called Yevgenia Nikolayevna Krasnova to elucidate his theory. Krasnova is a neuroscientist, who is interested in philosophy. She writes a book called A Story Of Recursion. A small publishing firm picks up the book and publishes it in its unedited form. In an unexpected turn of events, the book goes on to become an international bestseller, catapulting the author and the publishing firm to fame. This event is described as a Black Swan Event.The book is divided into four parts. Part 1 and the first section of Part 2 deal with psychology. The author then moves on to the subjects of science and business in the later part of Part 2 and the whole of Part 3. Part 4 provides strategies to enjoy life amidst all the uncertainties in the world. The book was first released in 2007 and went on to become extremely successful. It was listed by The Sunday Times as one of the 12 most influential books post World War II. It stayed on The New York Times bestseller list for 36 weeks. It was published in 32 languages, and sold almost 3 million copies as of February 2011.</p>",
+    "num_pages": "444",
+    "authors": {
+      "author": {
+        "id": "21559",
+        "name": "Nassim Nicholas Taleb",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1206025993p5/21559.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1206025993p2/21559.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
+        "average_rating": "3.99",
+        "ratings_count": "192234",
+        "text_reviews_count": "12551"
+      }
+    },
+    "average_rating": "3.94",
+    "ratings_count": "85641",
+    "publication_day": {},
+    "publication_month": {},
+    "publication_year": "2010"
   },
   {
     "link": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
@@ -1259,7 +1985,7 @@
     "title_without_series": "The Book Thief",
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SX98_.jpg",
-    "description": "It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.<br /><br />By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor's wife's library, wherever there are books to be found.<br /><br />But these are dangerous times. When Liesel's foster family hides a Jew in their basement, Liesel's world is both opened up, and closed down.<br /><br />In superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time.",
+    "description": "<i>Librarian's note: An alternate cover edition can be found <a href=\"https://www.goodreads.com/book/show/41048862.here\" title=\"here\" rel=\"nofollow noopener\">here</a></i><br /><br />It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.<br /><br />By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor's wife's library, wherever there are books to be found.<br /><br />But these are dangerous times. When Liesel's foster family hides a Jew in their basement, Liesel's world is both opened up, and closed down.<br /><br />In superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time.<br /><br />(Note: this title was not published as YA fiction)",
     "num_pages": "552",
     "authors": {
       "author": {
@@ -1276,15 +2002,48 @@
         },
         "link": "https://www.goodreads.com/author/show/11466.Markus_Zusak",
         "average_rating": "4.34",
-        "ratings_count": "1884054",
-        "text_reviews_count": "128923"
+        "ratings_count": "2019701",
+        "text_reviews_count": "134475"
       }
     },
     "average_rating": "4.37",
-    "ratings_count": "1715045",
+    "ratings_count": "1836673",
     "publication_day": "14",
     "publication_month": "3",
     "publication_year": "2006"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/23168817-the-dark-forest",
+    "title": "The Dark Forest (Remembrance of Earth’s Past, #2)",
+    "title_without_series": "The Dark Forest",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg",
+    "description": "This is the second novel in \"Remembrance of Earth’s Past\", the near-future trilogy written by the China's multiple-award-winning science fiction author, Cixin Liu. <br /><br />In <i>The Dark Forest</i>, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret. <br /><br />This is the motivation for the Wallfacer Project, a daring plan that grants four men enormous resources to design secret strategies hidden through deceit and misdirection from Earth and Trisolaris alike. Three of the Wallfacers are influential statesmen and scientists but the fourth is a total unknown. Luo Ji, an unambitious Chinese astronomer and sociologist, is baffled by his new status. All he knows is that he's the one Wallfacer that Trisolaris wants dead.",
+    "num_pages": "512",
+    "authors": {
+      "author": {
+        "id": "5780686",
+        "name": "Liu Cixin",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1454974329p5/5780686.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1454974329p2/5780686.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
+        "average_rating": "4.19",
+        "ratings_count": "287581",
+        "text_reviews_count": "28564"
+      }
+    },
+    "average_rating": "4.41",
+    "ratings_count": "64141",
+    "publication_day": "11",
+    "publication_month": "8",
+    "publication_year": "2015"
   },
   {
     "link": "https://www.goodreads.com/book/show/17563539-the-egg",
@@ -1309,15 +2068,48 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.26",
-        "ratings_count": "948933",
-        "text_reviews_count": "95304"
+        "ratings_count": "1033035",
+        "text_reviews_count": "99097"
       }
     },
-    "average_rating": "4.18",
-    "ratings_count": "15884",
+    "average_rating": "4.19",
+    "ratings_count": "17333",
     "publication_day": "15",
     "publication_month": "8",
     "publication_year": "2009"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/17660462-the-everything-store",
+    "title": "The Everything Store: Jeff Bezos and the Age of Amazon",
+    "title_without_series": "The Everything Store: Jeff Bezos and the Age of Amazon",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365394361l/17660462._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365394361l/17660462._SX98_.jpg",
+    "description": "<b>The definitive story of Amazon.com, one of the most successful companies in the world, and of its driven, brilliant founder, Jeff Bezos.</b><br /><br />Amazon.com started off delivering books through the mail. But its visionary founder, Jeff Bezos, wasn't content with being a bookseller. He wanted Amazon to become the everything store, offering limitless selection and seductive convenience at disruptively low prices. To do so, he developed a corporate culture of relentless ambition and secrecy that's never been cracked. Until now. Brad Stone enjoyed unprecedented access to current and former Amazon employees and Bezos family members, giving readers the first in-depth, fly-on-the-wall account of life at Amazon. Compared to tech's other elite innovators--Jobs, Gates, Zuckerberg--Bezos is a private man. But he stands out for his restless pursuit of new markets, leading Amazon into risky new ventures like the Kindle and cloud computing, and transforming retail in the same way Henry Ford revolutionized manufacturing.<br /><br /><i>The Everything Store</i> will be the revealing, definitive biography of the company that placed one of the first and largest bets on the Internet and forever changed the way we shop and read.",
+    "num_pages": "384",
+    "authors": {
+      "author": {
+        "id": "219908",
+        "name": "Brad Stone",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1483551689p5/219908.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1483551689p2/219908.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/219908.Brad_Stone",
+        "average_rating": "4.14",
+        "ratings_count": "60004",
+        "text_reviews_count": "3298"
+      }
+    },
+    "average_rating": "4.14",
+    "ratings_count": "54861",
+    "publication_day": "15",
+    "publication_month": "10",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/18295861-the-first-fifteen-lives-of-harry-august",
@@ -1341,16 +2133,49 @@
           "$t": "https://images.gr-assets.com/authors/1440105009p2/7210024.jpg"
         },
         "link": "https://www.goodreads.com/author/show/7210024.Claire_North",
-        "average_rating": "3.93",
-        "ratings_count": "90796",
-        "text_reviews_count": "12545"
+        "average_rating": "3.91",
+        "ratings_count": "101800",
+        "text_reviews_count": "13483"
       }
     },
-    "average_rating": "4.04",
-    "ratings_count": "59789",
+    "average_rating": "4.03",
+    "ratings_count": "67655",
     "publication_day": "8",
     "publication_month": "4",
     "publication_year": "2014"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/30165919-the-god-delusion",
+    "title": "The God Delusion",
+    "title_without_series": "The God Delusion",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476116806l/30165919._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476116806l/30165919._SX98_.jpg",
+    "description": "<i>The God Delusion</i> caused a sensation when it was published in 2006. Within weeks it became the most hotly debated topic, with Dawkins himself branded as either saint or sinner for presenting his hard-hitting, impassioned rebuttal of religion of all types.<br /><br />His argument could hardly be more topical. While Europe is becoming increasingly secularized, the rise of religious fundamentalism, whether in the Middle East or Middle America, is dramatically and dangerously dividing opinion around the world. In America, and elsewhere, a vigorous dispute between 'intelligent design' and Darwinism is seriously undermining and restricting the teaching of science. In many countries religious dogma from medieval times still serves to abuse basic human rights such as women's and gay rights. And all from a belief in a God whose existence lacks evidence of any kind.<br /><br />Dawkins attacks God in all his forms. He eviscerates the major arguments for religion and demonstrates the supreme improbability of a supreme being. He shows how religion fuels war, foments bigotry and abuses children.<br /><br /><i>The God Delusion </i>is a brilliantly argued, fascinating polemic that will be required reading for anyone interested in this most emotional and important subject.",
+    "num_pages": "471",
+    "authors": {
+      "author": {
+        "id": "1194",
+        "name": "Richard Dawkins",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1377030297p5/1194.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1377030297p2/1194.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
+        "average_rating": "4.01",
+        "ratings_count": "614308",
+        "text_reviews_count": "23078"
+      }
+    },
+    "average_rating": "3.90",
+    "ratings_count": "231743",
+    "publication_day": "19",
+    "publication_month": "5",
+    "publication_year": "2016"
   },
   {
     "link": "https://www.goodreads.com/book/show/11797471-the-idea-factory",
@@ -1374,16 +2199,49 @@
           "$t": "https://images.gr-assets.com/authors/1554851617p2/5808423.jpg"
         },
         "link": "https://www.goodreads.com/author/show/5808423.Jon_Gertner",
-        "average_rating": "4.16",
-        "ratings_count": "5755",
-        "text_reviews_count": "613"
+        "average_rating": "4.17",
+        "ratings_count": "6265",
+        "text_reviews_count": "678"
       }
     },
-    "average_rating": "4.16",
-    "ratings_count": "5332",
+    "average_rating": "4.17",
+    "ratings_count": "5699",
     "publication_day": "15",
     "publication_month": "3",
     "publication_year": "2012"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/37751071-the-little-book-of-common-sense-investing",
+    "title": "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns, 10th Anniversary Edition",
+    "title_without_series": "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns, 10th Anniversary Edition",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515011941l/37751071._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515011941l/37751071._SX98_.jpg",
+    "description": "The best-selling investing \"bible\" offers new information, new insights, and new perspectives<br /><br /><i>The Little Book of Common Sense Investing</i> is the classic guide to getting smart about the market. Legendary mutual fund pioneer John C. Bogle reveals his key to getting more out of investing: low-cost index funds. Bogle describes the simplest and most effective investment strategy for building wealth over the long term: buy and hold, at very low cost, a mutual fund that tracks a broad stock market Index such as the S&amp;P 500.<br /><br />While the stock market has tumbled and then soared since the first edition of <i>The Little Book of Common Sense Investing</i> was published in April 2007, Bogle's investment principles have endured and served investors well. This tenth anniversary edition includes updated data and new information but maintains the same long-term perspective as in its predecessor. Bogle has also added two new chapters designed to provide further guidance to investors: one on asset allocation, the other on retirement investing.<br /><br />A portfolio focused on index funds is the only investment that effectively guarantees your fair share of stock market returns. This strategy is favored by Warren Buffett, who said this about Bogle: \"For decades, Jack has urged investors to invest in ultra-low-cost index funds.... Today, however, he has the satisfaction of knowing that he helped millions of investors realize far better returns on their savings than they otherwise would have earned. He is a hero to them and to me.\"<br /><br />Bogle shows you how to make index investing work for you and help you achieve your financial goals and finds support from some of the world's best financial minds: not only Warren Buffett but Benjamin Graham, Paul Samuelson, Burton Malkiel, Yale's David Swensen, Cliff Asness of AQR, and many others.<br /><br />This new edition of <i>The Little Book of Common Sense Investing</i> offers you the same solid strategy as its predecessor for building your financial future.<br /><br /><br />Build a broadly diversified, low-cost portfolio without the risks of individual stocks, manager selection, or sector rotation.<br />Forget the fads and marketing hype, and focus on what works in the real world.<br />Understand that stock returns are generated by three sources (dividend yield, earnings growth, and change in market valuation) in order to establish rational expectations for stock returns over the coming decade.<br />Recognize that in the long run, business reality trumps market expectations.<br />Learn how to harness the magic of compounding returns while avoiding the tyranny of compounding costs.<br />While index investing allows you to sit back and let the market do the work for you, too many investors trade frantically, turning a winner's game into a loser's game. <i>The Little Book of Common Sense Investing</i> is a solid guidebook to your financial future.",
+    "num_pages": {},
+    "authors": {
+      "author": {
+        "id": "88909",
+        "name": "John C. Bogle",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1340728619p5/88909.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1340728619p2/88909.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/88909.John_C_Bogle",
+        "average_rating": "4.12",
+        "ratings_count": "17842",
+        "text_reviews_count": "1462"
+      }
+    },
+    "average_rating": "4.19",
+    "ratings_count": "9939",
+    "publication_day": "27",
+    "publication_month": "2",
+    "publication_year": "2018"
   },
   {
     "link": "https://www.goodreads.com/book/show/1249095.The_Logic_of_Life",
@@ -1408,12 +2266,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.84",
-        "ratings_count": "39412",
-        "text_reviews_count": "2456"
+        "ratings_count": "41422",
+        "text_reviews_count": "2614"
       }
     },
     "average_rating": "3.81",
-    "ratings_count": "5254",
+    "ratings_count": "5355",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
@@ -1425,7 +2283,7 @@
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg",
     "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. <br /><br />Now, he’s sure he’ll be the first person to die there.<br /><br />After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. <br /><br />Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. <br /><br />But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?<br /><br />",
-    "num_pages": "369",
+    "num_pages": "384",
     "authors": {
       "author": {
         "id": "6540057",
@@ -1441,12 +2299,12 @@
         },
         "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
         "average_rating": "4.26",
-        "ratings_count": "948933",
-        "text_reviews_count": "95304"
+        "ratings_count": "1033035",
+        "text_reviews_count": "99097"
       }
     },
     "average_rating": "4.40",
-    "ratings_count": "759258",
+    "ratings_count": "818617",
     "publication_day": "11",
     "publication_month": "2",
     "publication_year": "2014"
@@ -1473,13 +2331,13 @@
           "$t": "https://images.gr-assets.com/authors/1555867691p2/659.jpg"
         },
         "link": "https://www.goodreads.com/author/show/659.Thomas_J_Stanley",
-        "average_rating": "4.06",
-        "ratings_count": "93796",
-        "text_reviews_count": "3785"
+        "average_rating": "4.07",
+        "ratings_count": "102171",
+        "text_reviews_count": "4123"
       }
     },
-    "average_rating": "4.03",
-    "ratings_count": "69115",
+    "average_rating": "4.04",
+    "ratings_count": "76430",
     "publication_day": "1",
     "publication_month": "10",
     "publication_year": "1998"
@@ -1506,16 +2364,49 @@
           "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
         },
         "link": "https://www.goodreads.com/author/show/7489747.Jamie_Bartlett",
-        "average_rating": "3.73",
-        "ratings_count": "4969",
-        "text_reviews_count": "616"
+        "average_rating": "3.72",
+        "ratings_count": "5443",
+        "text_reviews_count": "667"
       }
     },
-    "average_rating": "3.99",
-    "ratings_count": "851",
+    "average_rating": "3.98",
+    "ratings_count": "1051",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/17255186-the-phoenix-project",
+    "title": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+    "title_without_series": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361113128l/17255186._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361113128l/17255186._SX98_.jpg",
+    "description": "Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO. <br /><br />The company's new IT initiative, code named Phoenix Project, is critical to the future of Parts Unlimited, but the project is massively over budget and very late. The CEO wants Bill to report directly to him and fix the mess in ninety days or else Bill's entire department will be outsourced. <br /><br />With the help of a prospective board member and his mysterious philosophy of The Three Ways, Bill starts to see that IT work has more in common with manufacturing plant work than he ever imagined. With the clock ticking, Bill must organize work flow streamline interdepartmental communications, and effectively serve the other business functions at Parts Unlimited. <br /><br />In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.",
+    "num_pages": "345",
+    "authors": {
+      "author": {
+        "id": "328437",
+        "name": "Gene Kim",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1361113444p5/328437.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1361113444p2/328437.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/328437.Gene_Kim",
+        "average_rating": "4.24",
+        "ratings_count": "40332",
+        "text_reviews_count": "3734"
+      }
+    },
+    "average_rating": "4.27",
+    "ratings_count": "28917",
+    "publication_day": "10",
+    "publication_month": "1",
+    "publication_year": "2013"
   },
   {
     "link": "https://www.goodreads.com/book/show/17248798-the-power-of-habit",
@@ -1540,12 +2431,12 @@
         },
         "link": "https://www.goodreads.com/author/show/5201530.Charles_Duhigg",
         "average_rating": "4.09",
-        "ratings_count": "325207",
-        "text_reviews_count": "17579"
+        "ratings_count": "370386",
+        "text_reviews_count": "19255"
       }
     },
     "average_rating": "4.10",
-    "ratings_count": "301047",
+    "ratings_count": "344205",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2013"
@@ -1573,12 +2464,12 @@
         },
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": "4.01",
-        "ratings_count": "578570",
-        "text_reviews_count": "21798"
+        "ratings_count": "614308",
+        "text_reviews_count": "23078"
       }
     },
     "average_rating": "4.14",
-    "ratings_count": "130096",
+    "ratings_count": "140564",
     "publication_day": "1",
     "publication_month": "8",
     "publication_year": "2016"
@@ -1605,16 +2496,82 @@
           "$t": "https://images.gr-assets.com/authors/1410365708p2/8529755.jpg"
         },
         "link": "https://www.goodreads.com/author/show/8529755.Mark_Manson",
-        "average_rating": "3.96",
-        "ratings_count": "461369",
-        "text_reviews_count": "31630"
+        "average_rating": "3.93",
+        "ratings_count": "582555",
+        "text_reviews_count": "38324"
       }
     },
-    "average_rating": "3.96",
-    "ratings_count": "426326",
+    "average_rating": "3.94",
+    "ratings_count": "531254",
     "publication_day": "13",
     "publication_month": "9",
     "publication_year": "2016"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/20518872-the-three-body-problem",
+    "title": "The Three-Body Problem (Remembrance of Earth’s Past #1)",
+    "title_without_series": "The Three-Body Problem",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg",
+    "description": "<i>The Three-Body Problem</i> is the first chance for English-speaking readers to experience the Hugo Award-winning phenomenon from China's most beloved science fiction author, Liu Cixin.",
+    "num_pages": "399",
+    "authors": {
+      "author": {
+        "id": "5780686",
+        "name": "Liu Cixin",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1454974329p5/5780686.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1454974329p2/5780686.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
+        "average_rating": "4.19",
+        "ratings_count": "287581",
+        "text_reviews_count": "28564"
+      }
+    },
+    "average_rating": "4.06",
+    "ratings_count": "148988",
+    "publication_day": "11",
+    "publication_month": "11",
+    "publication_year": "2014"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/2612.The_Tipping_Point",
+    "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "title_without_series": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SX98_.jpg",
+    "description": "<i>An alternate cover edition exists <a href=\"https://www.goodreads.com/book/show/34668905.here\" title=\"here\" rel=\"nofollow noopener\">here</a>.</i><br /><br />The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.<br /><br />Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.",
+    "num_pages": "301",
+    "authors": {
+      "author": {
+        "id": "1439",
+        "name": "Malcolm Gladwell",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1564001739p5/1439.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
+        "average_rating": "4.01",
+        "ratings_count": "2129942",
+        "text_reviews_count": "84173"
+      }
+    },
+    "average_rating": "3.97",
+    "ratings_count": "690567",
+    "publication_day": "7",
+    "publication_month": "1",
+    "publication_year": "2002"
   },
   {
     "link": "https://www.goodreads.com/book/show/599660.The_Undercover_Economist",
@@ -1639,12 +2596,12 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.84",
-        "ratings_count": "39412",
-        "text_reviews_count": "2456"
+        "ratings_count": "41422",
+        "text_reviews_count": "2614"
       }
     },
     "average_rating": "3.81",
-    "ratings_count": "23417",
+    "ratings_count": "24253",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2007"
@@ -1672,15 +2629,48 @@
         },
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": "3.84",
-        "ratings_count": "39412",
-        "text_reviews_count": "2456"
+        "ratings_count": "41422",
+        "text_reviews_count": "2614"
       }
     },
-    "average_rating": "3.90",
-    "ratings_count": "2345",
+    "average_rating": "3.91",
+    "ratings_count": "2478",
     "publication_day": {},
     "publication_month": {},
     "publication_year": {}
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/35631386-the-undoing-project",
+    "title": "The Undoing Project: A Friendship That Changed Our Minds",
+    "title_without_series": "The Undoing Project: A Friendship That Changed Our Minds",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509135882l/35631386._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509135882l/35631386._SX98_.jpg",
+    "description": "Forty years ago, Israeli psychologists Daniel Kahneman and Amos Tversky wrote a series of breathtakingly original papers that invented the field of behavioral economics. One of the greatest partnerships in the history of science, Kahneman and Tversky’s extraordinary friendship incited a revolution in Big Data studies, advanced evidence-based medicine, led to a new approach to government regulation, and made much of Michael Lewis’s own work possible. In <em>The Undoing Project,</em> Lewis shows how their Nobel Prize–winning theory of the mind altered our perception of reality.",
+    "num_pages": "368",
+    "authors": {
+      "author": {
+        "id": "776",
+        "name": "Michael   Lewis",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1317447168p5/776.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1317447168p2/776.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
+        "average_rating": "4.15",
+        "ratings_count": "613163",
+        "text_reviews_count": "34024"
+      }
+    },
+    "average_rating": "3.98",
+    "ratings_count": "46179",
+    "publication_day": "31",
+    "publication_month": "10",
+    "publication_year": "2017"
   },
   {
     "link": "https://www.goodreads.com/book/show/17331349-think-like-a-freak",
@@ -1704,13 +2694,13 @@
           "$t": "https://images.gr-assets.com/authors/1215370905p2/798.jpg"
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
-        "average_rating": "3.96",
-        "ratings_count": "842854",
-        "text_reviews_count": "24584"
+        "average_rating": "3.97",
+        "ratings_count": "891250",
+        "text_reviews_count": "25458"
       }
     },
-    "average_rating": "3.85",
-    "ratings_count": "43323",
+    "average_rating": "3.86",
+    "ratings_count": "46141",
     "publication_day": "12",
     "publication_month": "5",
     "publication_year": "2014"
@@ -1738,12 +2728,12 @@
         },
         "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
         "average_rating": "4.15",
-        "ratings_count": "269811",
-        "text_reviews_count": "9977"
+        "ratings_count": "315581",
+        "text_reviews_count": "11335"
       }
     },
-    "average_rating": "4.15",
-    "ratings_count": "265016",
+    "average_rating": "4.16",
+    "ratings_count": "310323",
     "publication_day": {},
     "publication_month": {},
     "publication_year": "2012"
@@ -1770,16 +2760,49 @@
           "$t": "https://images.gr-assets.com/authors/1517928864p2/5781839.jpg"
         },
         "link": "https://www.goodreads.com/author/show/5781839.Rutger_Bregman",
-        "average_rating": "4.23",
-        "ratings_count": "17779",
-        "text_reviews_count": "1979"
+        "average_rating": "4.25",
+        "ratings_count": "32063",
+        "text_reviews_count": "3715"
       }
     },
-    "average_rating": "4.24",
-    "ratings_count": "13056",
+    "average_rating": "4.25",
+    "ratings_count": "18200",
     "publication_day": "14",
     "publication_month": "3",
     "publication_year": "2017"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions",
+    "title": "What If? Serious Scientific Answers to Absurd Hypothetical Questions",
+    "title_without_series": "What If? Serious Scientific Answers to Absurd Hypothetical Questions",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SX98_.jpg",
+    "description": "Randall Munroe left NASA in 2005 to start up his hugely popular site XKCD 'a web comic of romance, sarcasm, math and language' which offers a witty take on the world of science and geeks. It now has 600,000 to a million page hits daily. Every now and then, Munroe would get emails asking him to arbitrate a science debate. 'My friend and I were arguing about what would happen if a bullet got struck by lightning, and we agreed that you should resolve it . . . ' He liked these questions so much that he started up <i>What If</i>. <br /><br /><b>If your cells suddenly lost the power to divide, how long would you survive?</b><br /><br /><b> How dangerous is it, really, to be in a swimming pool in a thunderstorm?</b><br /><br /><b> If we hooked turbines to people exercising in gyms, how much power could we produce?</b><br /><br /><b> What if everyone only had one soulmate?</b><br /><br /><b>When (if ever) did the sun go down on the British empire? </b><br /><br /><b> How fast can you hit a speed bump while driving and live?</b><br /><br /><b>What would happen if the moon went away?</b><br /><br />In pursuit of answers, Munroe runs computer simulations, pores over stacks of declassified military research memos, solves differential equations, and consults with nuclear reactor operators. His responses are masterpieces of clarity and hilarity, studded with memorable cartoons and infographics. They often predict the complete annihilation of humankind, or at least a really big explosion. Far more than a book for geeks, <i>WHAT IF: Serious Scientific Answers to Absurd Hypothetical Questions</i> explains the laws of science in operation in a way that every intelligent reader will enjoy and feel much the smarter for having read.",
+    "num_pages": "303",
+    "authors": {
+      "author": {
+        "id": "3089156",
+        "name": "Randall Munroe",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1406058780p5/3089156.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1406058780p2/3089156.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/3089156.Randall_Munroe",
+        "average_rating": "4.15",
+        "ratings_count": "159872",
+        "text_reviews_count": "11628"
+      }
+    },
+    "average_rating": "4.14",
+    "ratings_count": "127445",
+    "publication_day": "2",
+    "publication_month": "9",
+    "publication_year": "2014"
   },
   {
     "link": "https://www.goodreads.com/book/show/26198872-when-to-rob-a-bank",
@@ -1803,16 +2826,49 @@
           "$t": "https://images.gr-assets.com/authors/1215370905p2/798.jpg"
         },
         "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
-        "average_rating": "3.96",
-        "ratings_count": "842854",
-        "text_reviews_count": "24584"
+        "average_rating": "3.97",
+        "ratings_count": "891250",
+        "text_reviews_count": "25458"
       }
     },
     "average_rating": "3.50",
-    "ratings_count": "11478",
+    "ratings_count": "12066",
     "publication_day": "10",
     "publication_month": "5",
     "publication_year": "2016"
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/12158480-why-nations-fail",
+    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "title_without_series": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "<b><i>Brilliant and engagingly written,</i> Why Nations Fail <i>answers the question that has stumped the experts for centuries: Why are some nations rich and others poor, divided by wealth and poverty, health and sickness, food and famine? <br /><br /></i></b>Is it culture, the weather, geography? Perhaps ignorance of what the right policies are? <br /><br />Simply, no. None of these factors is either definitive or destiny. Otherwise, how to explain why Botswana has become one of the fastest growing countries in the world, while other African nations, such as Zimbabwe, the Congo, and Sierra Leone, are mired in poverty and violence? <br /><br />Daron Acemoglu and James Robinson conclusively show that it is man-made political and economic institutions that underlie economic success (or lack of it). Korea, to take just one of their fascinating examples, is a remarkably homogeneous nation, yet the people of North Korea are among the poorest on earth while their brothers and sisters in South Korea are among the richest. The south forged a society that created incentives, rewarded innovation, and allowed everyone to participate in economic opportunities. The economic success thus spurred was sustained because the government became accountable and responsive to citizens and the great mass of people. Sadly, the people of the north have endured decades of famine, political repression, and very different economic institutions—with no end in sight. The differences between the Koreas is due to the politics that created these completely different institutional trajectories. <br /><br />Based on fifteen years of original research Acemoglu and Robinson marshall extraordinary historical evidence from the Roman Empire, the Mayan city-states, medieval Venice, the Soviet Union, Latin America, England, Europe, the United States, and Africa to build a new theory of political economy with great relevance for the big questions of today, including: <br /><br />   - China has built an authoritarian growth machine. Will it continue to grow at such high speed and overwhelm the West? <br />   - Are America’s best days behind it? Are we moving from a virtuous circle in which efforts by elites to aggrandize power are resisted to a vicious one that enriches and empowers a small minority? <br />   - What is the most effective way to help move billions of people from the rut of poverty to prosperity? More <br />philanthropy from the wealthy nations of the West? Or learning the hard-won lessons of Acemoglu and Robinson’s breakthrough ideas on the interplay between inclusive political and economic institutions? <br /><br /><i>Why Nations Fail </i>will change the way you look at—and understand—the world.",
+    "num_pages": "544",
+    "authors": {
+      "author": {
+        "id": "12817",
+        "name": "Daron Acemoğlu",
+        "role": {},
+        "image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1354435300p5/12817.jpg"
+        },
+        "small_image_url": {
+          "nophoto": "false",
+          "$t": "https://images.gr-assets.com/authors/1354435300p2/12817.jpg"
+        },
+        "link": "https://www.goodreads.com/author/show/12817.Daron_Acemo_lu",
+        "average_rating": "4.07",
+        "ratings_count": "33195",
+        "text_reviews_count": "3113"
+      }
+    },
+    "average_rating": "4.07",
+    "ratings_count": "32021",
+    "publication_day": "20",
+    "publication_month": "3",
+    "publication_year": "2012"
   },
   {
     "link": "https://www.goodreads.com/book/show/18050143-zero-to-one",
@@ -1837,12 +2893,12 @@
         },
         "link": "https://www.goodreads.com/author/show/8474721.Peter_Thiel",
         "average_rating": "4.17",
-        "ratings_count": "153675",
-        "text_reviews_count": "5187"
+        "ratings_count": "190288",
+        "text_reviews_count": "5892"
       }
     },
     "average_rating": "4.17",
-    "ratings_count": "153414",
+    "ratings_count": "189745",
     "publication_day": "16",
     "publication_month": "9",
     "publication_year": "2014"
