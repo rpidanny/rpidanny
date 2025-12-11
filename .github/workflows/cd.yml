@@ -30,13 +30,25 @@ jobs:
       - name: Run linter
         run: npm run lint
 
-      - name: Test PAT can access repo
+      - name: Debug PAT access
         env:
-          PAT: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          PAT: ${{ secrets.OTHER_REPO_PAT }}
         run: |
-          curl -s -o /dev/null -w "%{http_code}" \
-            -H "Authorization: token $PAT" \
-            https://api.github.com/repos/rpidanny/rpidanny.github.io
+          # 1) quick presence check
+          if [ -z "$PAT" ]; then
+            echo "PAT is empty or not available in this workflow run"
+            exit 1
+          else
+            echo "PAT present (length: ${#PAT})"
+          fi
+
+          # 2) try to access repo (show headers for clues)
+          echo "--- repo request ---"
+          curl -i -H "Authorization: token $PAT" "https://api.github.com/repos/rpidanny/rpidanny.github.io" || true
+
+          # 3) check token scopes / user
+          echo "--- user request ---"
+          curl -i -H "Authorization: token $PAT" "https://api.github.com/user" || true
 
 
       # Deploy to rpidanny.github.io
