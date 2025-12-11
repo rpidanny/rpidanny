@@ -18,15 +18,26 @@ interface ProjectProps {
 }
 
 const Project: React.FC<ProjectProps> = ({ data, index }) => {
-  const { title, description, url, github, tags } = data;
+  const { title, description, url, github, image, tags } = data;
 
   return (
     <div className="project-card" data-index={index}>
       <div className="project-image-container">
         <div className="project-image-placeholder">
-          <div className="project-image-overlay">
-            <span className="project-number">0{index + 1}</span>
-          </div>
+          {image ? (
+            <>
+              <img
+                src={image}
+                alt={title}
+                className="project-image"
+              />
+              <div className="project-image-overlay-with-image" />
+            </>
+          ) : (
+            <div className="project-image-overlay">
+              <span className="project-number">0{index + 1}</span>
+            </div>
+          )}
         </div>
       </div>
 

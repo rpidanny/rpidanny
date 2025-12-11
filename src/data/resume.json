@@ -336,7 +336,7 @@
       "title": "Running Nepal",
       "description": "A comprehensive platform for the running community in Nepal, connecting runners, organizing events, and tracking achievements across the country.",
       "url": "https://runningnepal.com/",
-      "image": "running-nepal.jpg",
+      "image": "/images/projects/running-nepal-2.png",
       "tags": [
         "Community",
         "Sports",
@@ -348,7 +348,7 @@
       "description": "Transform your GPX route files into stunning 3D terrain visualizations ready for 3D printing. Bring your running, hiking, and cycling adventures to life with beautiful bird's-eye views of the terrain you've traversed.",
       "url": "https://mercury.runningnepal.com/",
       "github": "https://github.com/rpidanny/mercury",
-      "image": "mercury.jpg",
+      "image": "/images/projects/mercury.png",
       "tags": [
         "3D Printing",
         "Sports",
@@ -361,7 +361,7 @@
       "description": "An elegant CLI wizard enhancing biotech research efficiency. Streamline your research with powerful tools for searching papers, downloading datasets, and natural language interactions.",
       "url": "https://github.com/rpidanny/darwin",
       "github": "https://github.com/rpidanny/darwin",
-      "image": "darwin.jpg",
+      "image": "/images/projects/darwin.png",
       "tags": [
         "CLI",
         "Biotech",
