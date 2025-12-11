@@ -330,5 +330,45 @@
       "name": "Jane Doe",
       "reference": "Reference..."
     }
+  ],
+  "projects": [
+    {
+      "title": "Running Nepal",
+      "description": "A comprehensive platform for the running community in Nepal, connecting runners, organizing events, and tracking achievements across the country.",
+      "url": "https://runningnepal.com/",
+      "image": "running-nepal.jpg",
+      "tags": [
+        "Community",
+        "Sports",
+        "Web Platform"
+      ]
+    },
+    {
+      "title": "Mercury",
+      "description": "Transform your GPX route files into stunning 3D terrain visualizations ready for 3D printing. Bring your running, hiking, and cycling adventures to life with beautiful bird's-eye views of the terrain you've traversed.",
+      "url": "https://mercury.runningnepal.com/",
+      "github": "https://github.com/rpidanny/mercury",
+      "image": "mercury.jpg",
+      "tags": [
+        "3D Printing",
+        "Sports",
+        "Adventure",
+        "Visualization"
+      ]
+    },
+    {
+      "title": "Darwin",
+      "description": "An elegant CLI wizard enhancing biotech research efficiency. Streamline your research with powerful tools for searching papers, downloading datasets, and natural language interactions.",
+      "url": "https://github.com/rpidanny/darwin",
+      "github": "https://github.com/rpidanny/darwin",
+      "image": "darwin.jpg",
+      "tags": [
+        "CLI",
+        "Biotech",
+        "Research",
+        "LLM",
+        "Agents"
+      ]
+    }
   ]
 }
