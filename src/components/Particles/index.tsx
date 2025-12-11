@@ -1,17 +1,17 @@
-import { useEffect, useRef } from 'react';
-import { Renderer, Camera, Geometry, Program, Mesh } from 'ogl';
+import "./Particles.css";
 
-import './Particles.css';
+import { Camera, Geometry, Mesh, Program, Renderer } from "ogl";
+import { useEffect, useRef } from "react";
 
-const defaultColors = ['#ffffff', '#ffffff', '#ffffff'];
+const defaultColors = ["#ffffff", "#ffffff", "#ffffff"];
 
 const hexToRgb = (hex: string): [number, number, number] => {
-  hex = hex.replace(/^#/, '');
+  hex = hex.replace(/^#/, "");
   if (hex.length === 3) {
     hex = hex
-      .split('')
-      .map(c => c + c)
-      .join('');
+      .split("")
+      .map((c) => c + c)
+      .join("");
   }
   const int = parseInt(hex, 16);
   const r = ((int >> 16) & 255) / 255;
@@ -116,7 +116,7 @@ const Particles = ({
   disableRotation = false,
   pixelRatio = 1,
   className,
-  children
+  children,
 }: ParticlesProps) => {
   const containerRef = useRef<HTMLDivElement>(null);
   const mouseRef = useRef<{ x: number; y: number }>({ x: 0, y: 0 });
@@ -128,7 +128,7 @@ const Particles = ({
     const renderer = new Renderer({
       dpr: pixelRatio,
       depth: false,
-      alpha: true
+      alpha: true,
     });
     const gl = renderer.gl;
     container.appendChild(gl.canvas);
@@ -143,7 +143,7 @@ const Particles = ({
       renderer.setSize(width, height);
       camera.perspective({ aspect: gl.canvas.width / gl.canvas.height });
     };
-    window.addEventListener('resize', resize, false);
+    window.addEventListener("resize", resize, false);
     resize();
 
     const handleMouseMove = (e: MouseEvent) => {
@@ -154,47 +154,50 @@ const Particles = ({
     };
 
     if (moveParticlesOnHover) {
-      container.addEventListener('mousemove', handleMouseMove);
+      container.addEventListener("mousemove", handleMouseMove);
     }
 
     const count = particleCount;
     const positions = new Float32Array(count * 3);
     const randoms = new Float32Array(count * 4);
     const colors = new Float32Array(count * 3);
-    const palette = particleColors && particleColors.length > 0 ? particleColors : defaultColors;
+    const palette =
+      particleColors && particleColors.length > 0
+        ? particleColors
+        : defaultColors;
 
     for (let i = 0; i < count; i++) {
-        let x, y, z, len;
-        do {
-            x = Math.random() * 2 - 1;
-            y = Math.random() * 2 - 1;
-            z = Math.random() * 2 - 1;
-            len = x * x + y * y + z * z;
-        } while (len > 1 || len === 0);
-        
-        const r = Math.cbrt(Math.random());
-        // Typescript might complain about setting array values if not indexed carefully, but set() works on typed arrays.
-        // We need to calculate indices.
-        
-        positions[i * 3] = x * r;
-        positions[i * 3 + 1] = y * r;
-        positions[i * 3 + 2] = z * r;
+      let x, y, z, len;
+      do {
+        x = Math.random() * 2 - 1;
+        y = Math.random() * 2 - 1;
+        z = Math.random() * 2 - 1;
+        len = x * x + y * y + z * z;
+      } while (len > 1 || len === 0);
 
-        randoms[i * 4] = Math.random();
-        randoms[i * 4 + 1] = Math.random();
-        randoms[i * 4 + 2] = Math.random();
-        randoms[i * 4 + 3] = Math.random();
+      const r = Math.cbrt(Math.random());
+      // Typescript might complain about setting array values if not indexed carefully, but set() works on typed arrays.
+      // We need to calculate indices.
 
-        const col = hexToRgb(palette[Math.floor(Math.random() * palette.length)]);
-        colors[i * 3] = col[0];
-        colors[i * 3 + 1] = col[1];
-        colors[i * 3 + 2] = col[2];
+      positions[i * 3] = x * r;
+      positions[i * 3 + 1] = y * r;
+      positions[i * 3 + 2] = z * r;
+
+      randoms[i * 4] = Math.random();
+      randoms[i * 4 + 1] = Math.random();
+      randoms[i * 4 + 2] = Math.random();
+      randoms[i * 4 + 3] = Math.random();
+
+      const col = hexToRgb(palette[Math.floor(Math.random() * palette.length)]);
+      colors[i * 3] = col[0];
+      colors[i * 3 + 1] = col[1];
+      colors[i * 3 + 2] = col[2];
     }
 
     const geometry = new Geometry(gl, {
       position: { size: 3, data: positions },
       random: { size: 4, data: randoms },
-      color: { size: 3, data: colors }
+      color: { size: 3, data: colors },
     });
 
     const program = new Program(gl, {
@@ -205,10 +208,10 @@ const Particles = ({
         uSpread: { value: particleSpread },
         uBaseSize: { value: particleBaseSize * pixelRatio },
         uSizeRandomness: { value: sizeRandomness },
-        uAlphaParticles: { value: alphaParticles ? 1 : 0 }
+        uAlphaParticles: { value: alphaParticles ? 1 : 0 },
       },
       transparent: true,
-      depthTest: false
+      depthTest: false,
     });
 
     const particles = new Mesh(gl, { mode: gl.POINTS, geometry, program });
@@ -234,8 +237,8 @@ const Particles = ({
       }
 
       if (!disableRotation) {
-        particles.rotation.x = Math.sin(elapsed * 0.0002) * 0.1;
-        particles.rotation.y = Math.cos(elapsed * 0.0005) * 0.15;
+        particles.rotation.x = Math.sin(elapsed * 0.000_2) * 0.1;
+        particles.rotation.y = Math.cos(elapsed * 0.000_5) * 0.15;
         particles.rotation.z += 0.01 * speed;
       }
 
@@ -245,16 +248,15 @@ const Particles = ({
     animationFrameId = requestAnimationFrame(update);
 
     return () => {
-      window.removeEventListener('resize', resize);
+      window.removeEventListener("resize", resize);
       if (moveParticlesOnHover) {
-        container.removeEventListener('mousemove', handleMouseMove);
+        container.removeEventListener("mousemove", handleMouseMove);
       }
       cancelAnimationFrame(animationFrameId);
       if (container.contains(gl.canvas)) {
         container.removeChild(gl.canvas);
       }
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [
     particleCount,
     particleSpread,
@@ -266,16 +268,15 @@ const Particles = ({
     sizeRandomness,
     cameraDistance,
     disableRotation,
-    pixelRatio
+    pixelRatio,
   ]);
 
   return (
-    <div ref={containerRef} className={`particles-container ${className || ''}`}>
-      {children && (
-        <div className="particles-content">
-          {children}
-        </div>
-      )}
+    <div
+      ref={containerRef}
+      className={`particles-container ${className || ""}`}
+    >
+      {children && <div className="particles-content">{children}</div>}
     </div>
   );
 };
