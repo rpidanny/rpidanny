@@ -26,11 +26,7 @@ const Project: React.FC<ProjectProps> = ({ data, index }) => {
         <div className="project-image-placeholder">
           {image ? (
             <>
-              <img
-                src={image}
-                alt={title}
-                className="project-image"
-              />
+              <img src={image} alt={title} className="project-image" />
               <div className="project-image-overlay-with-image" />
             </>
           ) : (
