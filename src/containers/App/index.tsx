@@ -49,7 +49,8 @@ const App: React.FC = () => {
     fetchQuote();
   }, []);
 
-  const { basics, education, work, interests, certifications } = resumeData;
+  const { basics, education, work, interests, certifications, projects } =
+    resumeData;
 
   return (
     <div className="App">
@@ -59,6 +60,7 @@ const App: React.FC = () => {
         education={education}
         work={work}
         certifications={certifications}
+        projects={projects}
       />
       <Interests data={interests} />
       <Contact email={basics.email} />
