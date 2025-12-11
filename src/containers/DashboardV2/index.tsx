@@ -1,5 +1,5 @@
 import React from 'react'
-import Tilt from 'react-parallax-tilt'
+// import Tilt from 'react-parallax-tilt'
 import './styles.css'
 
 interface DashboardProps {
@@ -11,11 +11,11 @@ const Dashboard: React.FC<DashboardProps> = ({ name }) => {
     <React.Fragment>
       <section id='home' className='large-header'>
         <div className='overlay'>
-          <Tilt
+          {/* <Tilt
             tiltMaxAngleX={25}
             tiltMaxAngleY={25}
             scale={1.1}
-          >
+          > */}
             <div className='main-title'>
               <p><i>Hi, My Name is</i></p>
               <div style={{ display: 'inline-block' }}>
@@ -24,7 +24,7 @@ const Dashboard: React.FC<DashboardProps> = ({ name }) => {
               <br />
               <br />
             </div>
-          </Tilt>
+          {/* </Tilt> */}
           <p className='arrow-container'>
             <i className='arrow down' />
           </p>

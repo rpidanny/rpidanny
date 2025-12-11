@@ -65,7 +65,7 @@ const Books: React.FC = () => {
           <div className='bookShelf' >
             <BookShelf
               books={readBooks}
-              margin={0}
+              margin={10}
               columns={getColumnCount() + 1}
             />
           </div>
@@ -92,7 +92,7 @@ const Books: React.FC = () => {
           window.open((photo as any).link, '_blank')
         }}
         columns={getColumnCount()}
-        spacing={0}
+        spacing={10}
         render={{
           image: (imageProps) => (
             <LazyImage
