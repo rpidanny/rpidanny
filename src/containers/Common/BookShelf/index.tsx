@@ -1,5 +1,6 @@
 import React from 'react'
-import Gallery from 'react-photo-gallery'
+import PhotoAlbum from 'react-photo-album'
+import 'react-photo-album/masonry.css'
 import LazyImage from '../LazyImage'
 
 interface BookShelfProps {
@@ -11,7 +12,8 @@ interface BookShelfProps {
 const BookShelf: React.FC<BookShelfProps> = ({ books, margin, columns }) => {
   if (books.length > 0) {
     return (
-        <Gallery
+        <PhotoAlbum
+            layout="masonry"
             photos={books.map((book, idx) => ({
                 ...book,
                 src: book.image_url.replace(/_SX98_./g, ''),
@@ -20,14 +22,17 @@ const BookShelf: React.FC<BookShelfProps> = ({ books, margin, columns }) => {
                 alt: book.title,
                 key: idx.toString()
             }))}
-            onClick={(_, obj) => {
-                console.log(obj)
-                window.open((obj.photo as any).link || '', '_blank')
+            onClick={({ photo }) => {
+                console.log(photo)
+                window.open((photo as any).link || '', '_blank')
             }}
-            direction='column'
-            margin={margin}
+            spacing={margin}
             columns={columns}
-            renderImage={(props) => <LazyImage {...props} onClick={props.onClick || (() => {})} />}
+            render={{
+                image: (imageProps) => (
+                    <LazyImage imageProps={imageProps} />
+                )
+            }}
         />
     )
   }

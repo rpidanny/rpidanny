@@ -1,14 +1,13 @@
 import React, { useState, useEffect, Suspense, lazy } from 'react'
 import Modal from 'react-modal'
+import PhotoAlbum from 'react-photo-album'
+import 'react-photo-album/masonry.css'
 import { FaPlus } from 'react-icons/fa'
-import Gallery from 'react-photo-gallery'
 
 import Fallback from '../Fallback'
 import LazyImage from '../LazyImage'
-
 import favoriteBooks from '../../../data/books/favorites.json'
 import readBooks from '../../../data/books/read.json'
-
 import './styles.css'
 
 const BookShelf = lazy(() => import('../BookShelf'))
@@ -78,7 +77,8 @@ const Books: React.FC = () => {
 
   return (
     <div>
-      <Gallery
+      <PhotoAlbum
+        layout="masonry"
         photos={favoriteBooks.map((book, idx) => ({
           ...book,
           src: book.image_url.replace(/_SX98_./g, ''),
@@ -87,16 +87,19 @@ const Books: React.FC = () => {
           alt: book.title,
           key: idx.toString()
         }))}
-        onClick={
-          (_, obj) => {
-            console.log(obj)
-            window.open((obj.photo as any).link, '_blank')
-          }
-        }
-        direction='column'
+        onClick={({ photo }) => {
+          console.log(photo)
+          window.open((photo as any).link, '_blank')
+        }}
         columns={getColumnCount()}
-        margin={0}
-        renderImage={(props) => <LazyImage {...props} onClick={props.onClick || (() => {})} />}
+        spacing={0}
+        render={{
+          image: (imageProps) => (
+            <LazyImage
+              imageProps={imageProps}
+            />
+          )
+        }}
       />
       <div className='bookActions'>
         <span className='books_link' onClick={() => openModal(0)}>

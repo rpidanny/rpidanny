@@ -24,7 +24,7 @@
     "react-loading": "latest",
     "react-modal": "latest",
     "react-parallax-tilt": "^1.7.315",
-    "react-photo-gallery": "latest",
+    "react-photo-album": "^3.3.0",
     "react-scripts": "latest",
     "react-simple-maps": "latest",
     "react-tsparticles": "latest",

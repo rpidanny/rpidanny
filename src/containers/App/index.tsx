@@ -12,7 +12,7 @@ import resumeData from '../../data/resume.json'
 
 import { quotesAPI } from './URLs'
 
-import './index.scss'
+import './index.css'
 
 ReactGA.initialize('UA-76263604-1', { testMode: process.env.NODE_ENV === 'test' })
 

@@ -1,6 +1,6 @@
 import { createRoot } from 'react-dom/client'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import './index.scss'
+import './index.css'
 import App from './containers/App'
 const container = document.getElementById('root');
 if (container) {
