@@ -41,14 +41,14 @@ jobs:
           user_name: ${{ secrets.NAME || 'github-actions[bot]' }}
           user_email: ${{ secrets.EMAIL || '41898282+github-actions[bot]@users.noreply.github.com' }}
 
-      # # Deploy to rpidanny.github.io
-      # - name: Deploy to User Pages (rpidanny.github.io)
-      #   uses: peaceiris/actions-gh-pages@v4
-      #   with:
-      #     personal_token: ${{ secrets.API_TOKEN_GITHUB }}
-      #     external_repository: rpidanny/rpidanny.github.io
-      #     publish_branch: master
-      #     publish_dir: ./build
-      #     keep_files: true
-      #     user_name: ${{ secrets.NAME || 'github-actions[bot]' }}
-      #     user_email: ${{ secrets.EMAIL || '41898282+github-actions[bot]@users.noreply.github.com' }}
+      # Deploy to rpidanny.github.io
+      - name: Deploy to User Pages (rpidanny.github.io)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          external_repository: rpidanny/rpidanny.github.io
+          publish_branch: master
+          publish_dir: ./build
+          keep_files: true
+          user_name: ${{ secrets.NAME || 'github-actions[bot]' }}
+          user_email: ${{ secrets.EMAIL || '41898282+github-actions[bot]@users.noreply.github.com' }}
