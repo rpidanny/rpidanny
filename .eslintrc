@@ -1,0 +1,6 @@
+{
+    "extends": "@rpidanny/eslint-config-typescript",
+    "rules": {
+        "arrow-parens": "off"
+    }
+}

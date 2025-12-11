@@ -27,6 +27,9 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Run linter
+        run: npm run lint
+
       # Deploy to gh-pages on this repo (from master branch)
       - name: Deploy to GitHub Pages (Self)
         if: github.event_name == 'push' && github.ref == 'refs/heads/master'

@@ -25,10 +25,8 @@
     "react-modal": "latest",
     "react-parallax-tilt": "^1.7.315",
     "react-photo-album": "^3.3.0",
-    "react-scripts": "latest",
-    "react-simple-maps": "latest",
+    "react-simple-maps": "^1.0.0",
     "react-tsparticles": "latest",
-    "react-vertical-timeline-component": "latest",
     "sass": "latest",
     "tsparticles": "latest",
     "validator": "latest"
@@ -36,15 +34,17 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "eslint . --ext .ts,.tsx",
+    "lint:fix": "eslint . --ext .ts,.tsx --fix"
   },
   "devDependencies": {
+    "@rpidanny/eslint-config-typescript": "^1.4.1",
     "@types/node": "^25.0.0",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.2",
     "jest-canvas-mock": "latest",
-    "standard": "latest",
     "typescript": "^5.9.3",
     "vite": "^7.2.7",
     "webpack-bundle-analyzer": "latest"

@@ -1,20 +1,20 @@
-import React, { useState, useEffect } from 'react'
-import ReactGA from 'react-ga4'
+import "./index.css";
 
-import Dashboard from '../DashboardV2'
-import About from '../About'
-import Resume from '../Resume'
-import Interests from '../Interests'
-import Contact from '../Contact'
-import Footer from '../Common/Footer'
+import React, { useEffect, useState } from "react";
+import ReactGA from "react-ga4";
 
-import resumeData from '../../data/resume.json'
+import resumeData from "../../data/resume.json";
+import About from "../About";
+import Footer from "../Common/Footer";
+import Contact from "../Contact";
+import Dashboard from "../DashboardV2";
+import Interests from "../Interests";
+import Resume from "../Resume";
+import { quotesAPI } from "./URLs";
 
-import { quotesAPI } from './URLs'
-
-import './index.css'
-
-ReactGA.initialize('UA-76263604-1', { testMode: process.env.NODE_ENV === 'test' })
+ReactGA.initialize("UA-76263604-1", {
+  testMode: process.env.NODE_ENV === "test",
+});
 
 interface Quote {
   quote: string;
@@ -23,40 +23,48 @@ interface Quote {
 
 const App: React.FC = () => {
   const [quote, setQuote] = useState<Quote>({
-    quote: 'People who are really serious about software should make their own hardware',
-    author: 'Alan Kay'
-  })
+    quote:
+      "People who are really serious about software should make their own hardware",
+    author: "Alan Kay",
+  });
 
   useEffect(() => {
-    ReactGA.send({ hitType: "pageview", page: window.location.pathname + window.location.search })
+    ReactGA.send({
+      hitType: "pageview",
+      page: window.location.pathname + window.location.search,
+    });
 
     const fetchQuote = async () => {
       try {
-        const response = await fetch(quotesAPI)
-        const data = await response.json()
+        const response = await fetch(quotesAPI);
+        const data = await response.json();
         if (data && data.quote && data.author) {
-             setQuote(data)
+          setQuote(data);
         }
       } catch (err) {
-        console.error('Error fetching quote:', err)
+        console.error("Error fetching quote:", err);
       }
-    }
+    };
 
-    fetchQuote()
-  }, [])
+    fetchQuote();
+  }, []);
 
-  const { basics, education, work, interests, certifications } = resumeData
+  const { basics, education, work, interests, certifications } = resumeData;
 
   return (
-    <div className='App'>
+    <div className="App">
       <Dashboard name={basics.name} />
       <About data={basics} />
-      <Resume education={education} work={work} certifications={certifications} />
+      <Resume
+        education={education}
+        work={work}
+        certifications={certifications}
+      />
       <Interests data={interests} />
       <Contact email={basics.email} />
       <Footer quote={quote} />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;

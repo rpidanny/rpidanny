@@ -1,7 +1,6 @@
-
 // import { Spin } from 'antd'
 
-import './style.css'
+import "./style.css";
 
 // const FallBack = () => (
 //   <Spin
@@ -12,6 +11,6 @@ import './style.css'
 //   />
 // )
 
-const FallBack = () => <div className='suspenseFallback'>Loading...</div>
+const FallBack = () => <div className="suspenseFallback">Loading...</div>;
 
-export default FallBack
+export default FallBack;

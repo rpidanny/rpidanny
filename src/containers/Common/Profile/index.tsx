@@ -1,7 +1,9 @@
-import React from 'react'
-import { getSocialIconClass } from '../../../util'
-import './styles.css'
-import './socicon.css'
+import "./styles.css";
+import "./socicon.css";
+
+import React from "react";
+
+import { getSocialIconClass } from "../../../util";
 
 interface ProfileData {
   network: string;
@@ -13,14 +15,14 @@ interface ProfileProps {
 }
 
 const Profile: React.FC<ProfileProps> = ({ data }) => {
-  const { network, url } = data
+  const { network, url } = data;
   return (
-    <div className='ico'>
-      <a className='no-underline' href={url}>
+    <div className="ico">
+      <a className="no-underline" href={url}>
         <span className={getSocialIconClass(network)} title={network} />
       </a>
     </div>
-  )
-}
+  );
+};
 
-export default Profile
+export default Profile;
