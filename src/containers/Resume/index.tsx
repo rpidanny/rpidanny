@@ -5,9 +5,9 @@ import { FaBriefcase, FaStar } from "react-icons/fa";
 
 import Certifications from "../Common/Certifications";
 import Education from "../Common/Education";
-import Work from "../Common/Work";
-import Projects from "../Common/Projects";
 import { ProjectData } from "../Common/Project";
+import Projects from "../Common/Projects";
+import Work from "../Common/Work";
 
 interface ResumeProps {
   education: any[];
@@ -16,7 +16,12 @@ interface ResumeProps {
   projects?: ProjectData[];
 }
 
-const Resume: React.FC<ResumeProps> = ({ education, work, certifications, projects }) => {
+const Resume: React.FC<ResumeProps> = ({
+  education,
+  work,
+  certifications,
+  projects,
+}) => {
   return (
     <React.Fragment>
       <section className="row resume" id="resume">
@@ -29,7 +34,7 @@ const Resume: React.FC<ResumeProps> = ({ education, work, certifications, projec
           <div className="content">
             {projects && projects.length > 0 && (
               <>
-                <div className="divider"/>
+                <div className="divider" />
                 <Projects projects={projects} />
               </>
             )}

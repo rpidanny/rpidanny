@@ -1,6 +1,8 @@
-import React from "react";
-import Project, { ProjectData } from "../Project";
 import "./styles.css";
+
+import React from "react";
+
+import Project, { ProjectData } from "../Project";
 
 interface ProjectsProps {
   projects: ProjectData[];
@@ -11,7 +13,9 @@ const Projects: React.FC<ProjectsProps> = ({ projects }) => {
     <div className="projects-section">
       <div className="inner-title">
         <h3>Personal Projects</h3>
-        <p>Passion projects that solve real-world problems and push boundaries.</p>
+        <p>
+          Passion projects that solve real-world problems and push boundaries.
+        </p>
       </div>
       <div className="inner-content">
         <div className="projects-grid">

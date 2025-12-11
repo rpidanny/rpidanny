@@ -1,6 +1,7 @@
-import React from "react";
-import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 import "./styles.css";
+
+import React from "react";
+import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 
 export interface ProjectData {
   title: string;
@@ -28,7 +29,7 @@ const Project: React.FC<ProjectProps> = ({ data, index }) => {
           </div>
         </div>
       </div>
-      
+
       <div className="project-content">
         <div className="project-header">
           <h3 className="project-title">{title}</h3>
@@ -55,9 +56,9 @@ const Project: React.FC<ProjectProps> = ({ data, index }) => {
             </a>
           </div>
         </div>
-        
+
         <p className="project-description">{description}</p>
-        
+
         <div className="project-tags">
           {tags.map((tag, i) => (
             <span key={i} className="project-tag">
