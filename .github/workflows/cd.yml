@@ -1,0 +1,54 @@
+name: CD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Build
+        run: npm run build
+
+      - name: Run linter
+        run: npm run lint
+
+      # Deploy to gh-pages on this repo (from master branch)
+      - name: Deploy to GitHub Pages (Self)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          keep_files: true
+          user_name: ${{ secrets.NAME || 'github-actions[bot]' }}
+          user_email: ${{ secrets.EMAIL || '41898282+github-actions[bot]@users.noreply.github.com' }}
+
+      # Deploy to rpidanny.github.io
+      - name: Deploy to User Pages (rpidanny.github.io)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          external_repository: rpidanny/rpidanny.github.io
+          publish_branch: master
+          publish_dir: ./build
+          keep_files: true
+          user_name: ${{ secrets.NAME || 'github-actions[bot]' }}
+          user_email: ${{ secrets.EMAIL || '41898282+github-actions[bot]@users.noreply.github.com' }}

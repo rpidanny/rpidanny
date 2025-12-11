@@ -1,0 +1,146 @@
+.vertical-timeline {
+    position: relative;
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 2em 0;
+}
+
+.vertical-timeline::after {
+    content: '';
+    position: absolute;
+    width: 4px;
+    background-color: #e9f0f5;
+    /* Light line color */
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -2px;
+    border-radius: 2px;
+}
+
+.vertical-timeline-element {
+    position: relative;
+    margin: 2em 0;
+    width: 50%;
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+
+.vertical-timeline-element:nth-child(even) {
+    left: 50%;
+}
+
+.vertical-timeline-element:nth-child(odd) {
+    left: 0;
+    text-align: right;
+}
+
+/* Clearfix */
+.vertical-timeline-element::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* The dot on the timeline */
+.vertical-timeline-element::before {
+    content: '';
+    position: absolute;
+    top: 15px;
+    right: -8px;
+    /* For odd items (left side) */
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #2196f3;
+    /* Accent color */
+    border: 4px solid #fff;
+    box-shadow: 0 0 0 3px #e9f0f5;
+    /* matching line color as ring */
+    z-index: 1;
+}
+
+.vertical-timeline-element:nth-child(even)::before {
+    left: -8px;
+    /* For even items (right side) */
+    right: auto;
+}
+
+/* Content box styling */
+.vertical-timeline-element-content {
+    background: #fff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow */
+    text-align: left;
+    /* Reset text align for content */
+    position: relative;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.vertical-timeline-element-content:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Arrow pointer */
+.vertical-timeline-element-content::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 20px;
+    width: 0;
+    z-index: 1;
+    border: medium solid white;
+}
+
+.vertical-timeline-element:nth-child(odd) .vertical-timeline-element-content::before {
+    right: -20px;
+    /* Point to right */
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent #fff;
+}
+
+.vertical-timeline-element:nth-child(even) .vertical-timeline-element-content::before {
+    left: -20px;
+    /* Point to left */
+    border-width: 10px 10px 10px 0;
+    border-color: transparent #fff transparent transparent;
+}
+
+
+/* Responsive adjustments */
+@media only screen and (max-width: 768px) {
+    .vertical-timeline::after {
+        left: 20px;
+        /* Move line to left */
+        margin-left: 0;
+    }
+
+    .vertical-timeline-element {
+        width: 100%;
+        padding-left: 50px;
+        /* Make space for line */
+        padding-right: 20px;
+        text-align: left !important;
+    }
+
+    .vertical-timeline-element:nth-child(even) {
+        left: 0;
+    }
+
+    .vertical-timeline-element::before {
+        left: 12px !important;
+        /* Move dot to line */
+        right: auto;
+    }
+
+    .vertical-timeline-element:nth-child(odd) .vertical-timeline-element-content::before,
+    .vertical-timeline-element:nth-child(even) .vertical-timeline-element-content::before {
+        left: -20px;
+        right: auto;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent #fff transparent transparent;
+    }
+}
