@@ -32,7 +32,7 @@ jobs:
 
       - name: Debug PAT access
         env:
-          PAT: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          PAT: ${{ secrets.GA_PAT }}
         run: |
           # 1) quick presence check
           if [ -z "$PAT" ]; then
@@ -55,7 +55,7 @@ jobs:
       - name: Deploy to User Pages (rpidanny.github.io)
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          personal_token: ${{ secrets.GA_PAT }}
           external_repository: rpidanny/rpidanny.github.io
           publish_branch: master
           publish_dir: ./build
