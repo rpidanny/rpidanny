@@ -1,27 +1,18 @@
 {
   "basics": {
     "name": "Abhishek Maharjan",
-    "label": "Programmer",
+    "label": "Software Engineer / SRE / Platform Engineer",
     "picture": "",
     "email": "rpidanny.abhishek@gmail.com",
     "phone": "",
-    "website": "http://abhishek.pro.np",
+    "website": "https://rpidanny.github.io/",
     "summary": [
-      "To me, programming is a way of looking at things.",
-      "As a painter understand the world through his art, I use programming as a way to reason about phenomena and model them.",
-      "",
-      "While I'm a proficient full-stack developer,",
-      "My expertise is in designing, building and deploying highly scalable backend services and data pipelines using cloud technologies to solve challenging real world problems.",
-      "",
-      "Besides programming, I love to travel and read books."
+      "Highly motivated Software Engineer with 11+ years of experience building scalable, resilient, fault-tolerant systems handling ~100k requests/sec. Passionate about LLMs, infrastructure, site reliability, and improving operational efficiency through automation."
     ],
     "location": {
-      "address": "Gwarko",
-      "postalCode": "44600",
-      "city": "Lalitpur",
-      "country": "Nepal",
-      "countryCode": "NP",
-      "region": "Lalitpur"
+      "city": "Utrecht",
+      "country": "Netherlands",
+      "countryCode": "NL"
     },
     "profiles": {
       "social": [
@@ -44,8 +35,8 @@
         },
         {
           "network": "Linkedin",
-          "username": "abhishek-maharjan-5b401999",
-          "url": "https://np.linkedin.com/in/abhishek-maharjan-5b401999"
+          "username": "Abhishek Maharjan",
+          "url": "https://www.linkedin.com/in/abhishek-m-5b401999/"
         }
       ]
     },
@@ -86,120 +77,102 @@
   ],
   "work": [
     {
-      "company": "DAZN",
-      "position": "Senior Software Engineer",
-      "website": "https://dazn.com",
-      "startDate": "2020-07-06",
+      "company": "Lemonade",
+      "position": "Senior Software Engineer -- Telematics",
+      "website": "",
+      "startDate": "2023-02-01",
       "endDate": "Present",
-      "summary": "AWS, Docker, Terraform, Vault, CI/CD, DevOps, TypeScript, Node.js",
+      "summary": "Design and built core services for car telematics, focusing on high-volume data processing, platform reliability, and developer productivity.",
       "highlights": [
-        "Building highly scalable backend microservices that handles requests for millions of users worldwide."
+        "Re-architected the core telematics trips services, reducing MTTR by 90%, cutting container usage by 50%, and simplifying the domain to accelerate product delivery.",
+        "Built an IaC-driven observability provisioning framework for Datadog and Grafana that automated dashboard creation end-to-end, reducing setup time by ~98% (from multiple days to ~1 hour).",
+        "Developed a unified alerting library covering application, infrastructure, and business KPIs; standardized alert quality across all services.",
+        "Reduced DynamoDB costs by 70% on a high-volume subsystem via bloom-filter–based optimizations.",
+        "Designed and implemented a unified, scalable ingestion pipeline for mobile, OBD, and OEM trip data with single-config IaC provisioning.",
+        "Created a fully local runtime/testing workflow, improving DX and cutting development cycle time by ~95%.",
+        "Created a team CLI and tooling suite that streamlined local development, reduced onboarding friction, and improved operational efficiency."
       ]
     },
     {
-      "company": "Trivago Services B.V.",
-      "position": "Cloud Engineer",
-      "website": "https://trivago.com",
+      "company": "DAZN Group",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2020-07-01",
+      "endDate": "2023-02-01",
+      "summary": "Designed and scaled core backend services handling ~100k requests/sec, supporting millions of DAZN users. Prioritized reliability, safe deployments, high performance, and cost efficiency across large-scale distributed systems.",
+      "highlights": [
+        "Introduced Blue/Green and Canary deployments, to reduce deployment-related incidents and reduced rollback time during incidents by ~98%.",
+        "Implemented a custom autoscaling solution that responded to traffic ~2× faster.",
+        "Built an internal load-testing platform capable of simulating thousands of requests per second, enabling frictionless performance testing across teams.",
+        "Built a cost-efficient data engineering pipeline reducing operational cost by 96%.",
+        "Developed and maintained an inner-source tool visualizing Terraform plans on PRs.",
+        "Built and maintain an inner-source package that became one of the most used package in DAZN."
+      ]
+    },
+    {
+      "company": "Trivago",
+      "position": "Cloud / Software Engineer",
+      "website": "",
       "startDate": "2020-02-01",
-      "endDate": "2020-07-05",
-      "summary": "AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, DevOps, Helm, Kafka, Hadoop, Spark, Apache Airflow, ElasticSearch.",
+      "endDate": "2020-07-01",
+      "summary": "Design and implement scalable data pipelines on AWS and GCP that can handle billions of events.",
       "highlights": [
-        "Working with cross-functional team of data scientists, software engineers and product managers to build products that directly impact how millions of travellers find their ideal hotel.",
-        "Design and implement scalable data pipelines on AWS and GCP that can handle billions of events.",
-        "Working with tools and technologies like: Docker, Kubernetes, Terraform, CI/CD, DevOps, Helm, Kafka, Hadoop, Spark, Apache Airflow, ElasticSearch."
+        "Played a key role in migration of data pipelines from AWS to GCP.",
+        "Built and scaled data pipelines to handle billions of events."
       ]
     },
     {
-      "company": "Javra Software B.V.",
+      "company": "Javra Software",
       "position": "R&D Engineer",
-      "website": "https://javra.com",
+      "website": "",
       "startDate": "2018-03-01",
-      "endDate": "2020-01-31",
-      "summary": "AWS, Azure, GCP, Serverless, Docker, Kubernetes, Tensorflow, Keras, Node.js, Python, React.js",
+      "endDate": "2020-01-01",
+      "summary": "Build and scaled AI/ML products for a leading agritech company, owning the full lifecycle from training and deploying models on GPUs to orchestration and integration into production.",
       "highlights": []
     },
     {
-      "company": "Javra Software Pvt. Ltd.",
+      "company": "Javra Software",
       "position": "R&D Engineer",
-      "website": "https://javra.com",
-      "startDate": "2016-05-15",
-      "endDate": "2018-02-29",
-      "summary": "AWS, Tensorflow, Keras, Docker, Google Cloud Vision, IBM Watson, Clarif.ai, OpenCV, Python, Node.js, D3, React.js",
+      "website": "",
+      "startDate": "2016-02-01",
+      "endDate": "2018-02-01",
+      "summary": "Built AI/ML and computer vision prototypes adopted in pilot projects. Built IoT and LoRa-based data collection systems for real-time monitoring and analytics. Created interactive data visualizations to support analysis and decision-making.",
       "highlights": []
     },
     {
-      "company": "Javra Software Pvt. Ltd.",
-      "position": "Intern Software Engineer",
-      "website": "https://javra.com",
-      "startDate": "2016-02-15",
-      "endDate": "2016-05-15",
-      "summary": "OpenCV, Neo4j, Node.js, Python, C++, HTML, CSS, Javascript",
-      "highlights": []
-    },
-    {
-      "company": "Real Time Solutions",
+      "company": "Real Time Solutions Pvt. Ltd",
       "position": "Firmware Intern",
-      "website": "https://rts.com.np",
-      "startDate": "2015-02-01",
-      "endDate": "2015-11-01",
-      "summary": "EFM32, NXP, ZigBee, USB Protocol, RTOS",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Robotics Club, KEC",
-      "position": "President",
-      "website": "http://www.keckist.edu.np/keckist/asso_club/robotics_club",
-      "startDate": "2014-10-01",
-      "endDate": "2015-10-01",
-      "summary": "",
-      "highlights": []
+      "website": "",
+      "startDate": "2014-11-01",
+      "endDate": "2015-02-01",
+      "summary": "Worked on embedded firmware development and low-level protocols for microcontrollers.",
+      "highlights": [
+        "Developed ZigBee stack support for NXP microcontrollers and USB implementation on EFM32 MCUs.",
+        "Implemented RTOS functionalities for real-time embedded devices."
+      ]
     },
     {
-      "organization": "Robotics Club, KEC",
-      "position": "Project Coordinator",
-      "website": "http://www.keckist.edu.np/keckist/asso_club/robotics_club",
+      "company": "Robotics Club, Kathmandu Engineering College",
+      "position": "President & Project Coordinator",
+      "website": "",
       "startDate": "2013-10-01",
-      "endDate": "2014-10-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "Robotics Club, KEC",
-      "position": "Member",
-      "website": "http://www.keckist.edu.np/keckist/asso_club/robotics_club",
-      "startDate": "2012-10-01",
-      "endDate": "2013-10-01",
-      "summary": "",
-      "highlights": []
+      "endDate": "2015-12-01",
+      "summary": "Led club activities, managed and mentored members, and guided all technical projects from conception to completion.",
+      "highlights": [
+        "Delivered multiple robotics and automation projects including virtual telepresence robots, self-balancing and line-following robots, RC robots, and SCADA systems.",
+        "Developed standardized control APIs enabling seamless Bluetooth control across multiple clients.",
+        "Mentored members to complete projects successfully, improving both technical skills and club productivity."
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Kathmandu Engineering College",
-      "area": "Electronics and Communication Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2011-10-01",
-      "endDate": "2015-10-01",
-      "gpa": "",
-      "courses": ["DB1101 - Basic SQL"]
-    },
-    {
-      "institution": "Pentagon International College",
-      "area": "Physics and Computer Science",
-      "studyType": "+2",
-      "startDate": "2009-01-01",
-      "endDate": "2011-01-01",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Gyanodaya Bal Batika",
-      "area": "",
-      "studyType": "School",
-      "startDate": "1998-01-01",
-      "endDate": "2008-01-01",
+      "area": "Electronics and Communications Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2011-01-01",
+      "endDate": "2015-01-01",
       "gpa": "",
       "courses": []
     }
@@ -235,9 +208,83 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "C++"
+      ]
+    },
+    {
+      "name": "Generative AI",
+      "keywords": [
+        "LLMs",
+        "RAG",
+        "Agents",
+        "Embeddings",
+        "Vector DBs"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "PostgreSQL",
+        "DynamoDB",
+        "MongoDB",
+        "Redis",
+        "Vector DBs"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "keywords": [
+        "AWS",
+        "GCP",
+        "Azure"
+      ]
+    },
+    {
+      "name": "Distributed Systems",
+      "keywords": [
+        "Kafka",
+        "REST",
+        "Message Queues (MQ)",
+        "gRPC",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "Observability and Monitoring",
+      "keywords": [
+        "Datadog",
+        "Grafana",
+        "Prometheus",
+        "NewRelic",
+        "Sentry",
+        "PagerDuty"
+      ]
+    },
+    {
+      "name": "DevOps Tools",
+      "keywords": [
+        "Terraform",
+        "Pulumi",
+        "Docker",
+        "Kubernetes",
+        "CI-CD pipelines",
+        "Bash",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Bitbucket"
+      ]
     }
   ],
   "languages": [

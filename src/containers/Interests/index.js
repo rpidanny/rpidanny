@@ -6,18 +6,18 @@ import Books from '../Common/Books'
 import './styles.css'
 
 class Interests extends Component {
-  constructor (props) {
+  constructor(props) {
     super(props)
     this.state = {
       data: props.data
     }
   }
 
-  componentWillReceiveProps (props) {
-    this.setState({data: props.data})
+  componentWillReceiveProps(props) {
+    this.setState({ data: props.data })
   }
 
-  render () {
+  render() {
     const { travel } = this.state.data
     return (
       <React.Fragment>
@@ -46,7 +46,7 @@ class Interests extends Component {
                     </span>
                   </div>
                 </div>
-                <div className='col-md-12'>
+                {/* <div className='col-md-12'>
                   <div className='inner-title'>
                     <h3><Glyphicon glyph='plane' /> Travel</h3>
                     <p>
@@ -54,7 +54,7 @@ class Interests extends Component {
                     </p>
                   </div>
                   <WorldMap countries={travel.countriesVisited} />
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
