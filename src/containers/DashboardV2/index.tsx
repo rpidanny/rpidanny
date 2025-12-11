@@ -3,7 +3,8 @@ import "./styles.css";
 
 import React from "react";
 
-import Particles from "../../components/Particles";
+// import Particles from "../../components/Particles";
+import { GridScan } from "../../components/GridScan";
 
 interface DashboardProps {
   name: string;
@@ -14,7 +15,7 @@ const Dashboard: React.FC<DashboardProps> = ({ name }) => {
     <React.Fragment>
       <section id="home" className="large-header">
         <div className="overlay">
-          <Particles
+          {/* <Particles
             particleColors={['#ffffff', '#ffffff']}
             particleCount={200}
             particleSpread={10}
@@ -23,7 +24,19 @@ const Dashboard: React.FC<DashboardProps> = ({ name }) => {
             moveParticlesOnHover={true}
             alphaParticles={true}
             disableRotation={false}
-          >
+          > */}
+            <GridScan
+              sensitivity={0.55}
+              lineThickness={1}
+              linesColor="#392e4e"
+              gridScale={0.1}
+              scanColor="#FF9FFC"
+              scanOpacity={0.4}
+              enablePost
+              bloomIntensity={0.6}
+              chromaticAberration={0.002}
+              noiseIntensity={0.01}
+            >
             {/* <Tilt
               tiltMaxAngleX={25}
               tiltMaxAngleY={25}
@@ -43,7 +56,8 @@ const Dashboard: React.FC<DashboardProps> = ({ name }) => {
             <p className="arrow-container">
               <i className="arrow down" />
             </p>
-          </Particles>
+            </GridScan>
+          {/* </Particles> */}
         </div>
       </section>
     </React.Fragment>

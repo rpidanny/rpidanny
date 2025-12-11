@@ -24,15 +24,15 @@ const Resume: React.FC<ResumeProps> = ({ education, work, certifications }) => {
         </div>
         <div className="col-md-12">
           <div className="content">
-            {certifications && (
-              <Certifications certifications={certifications} />
-            )}
+            <Work companies={work} />
             <div className="divider">
               <span>
                 <FaStar />
               </span>
             </div>
-            <Work companies={work} />
+            {certifications && (
+              <Certifications certifications={certifications} />
+            )}
             <div className="divider">
               <span>
                 <FaStar />
