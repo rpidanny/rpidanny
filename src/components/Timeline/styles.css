@@ -5,17 +5,16 @@
     padding: 2em 0;
 }
 
+/* The vertical line */
 .vertical-timeline::after {
     content: '';
     position: absolute;
-    width: 4px;
-    background-color: #e9f0f5;
-    /* Light line color */
+    width: 2px;
+    background-color: #e9ecf0;
     top: 0;
     bottom: 0;
     left: 50%;
-    margin-left: -2px;
-    border-radius: 2px;
+    margin-left: -1px;
 }
 
 .vertical-timeline-element {
@@ -46,101 +45,93 @@
 .vertical-timeline-element::before {
     content: '';
     position: absolute;
-    top: 15px;
-    right: -8px;
-    /* For odd items (left side) */
-    width: 16px;
-    height: 16px;
+    top: 24px;
+    right: -6px;
+    /* 6px radius + border */
+    width: 12px;
+    height: 12px;
     border-radius: 50%;
-    background: #2196f3;
-    /* Accent color */
-    border: 4px solid #fff;
-    box-shadow: 0 0 0 3px #e9f0f5;
-    /* matching line color as ring */
+    background: #3498db;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px #3498db;
+    /* Ring effect */
     z-index: 1;
 }
 
 .vertical-timeline-element:nth-child(even)::before {
-    left: -8px;
-    /* For even items (right side) */
+    left: -6px;
     right: auto;
 }
 
-/* Content box styling */
+/* Content box styling - Transparent wrapper, let child handle card style */
 .vertical-timeline-element-content {
-    background: #fff;
-    padding: 20px 30px;
-    border-radius: 8px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
-    /* Subtle shadow */
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    box-shadow: none;
     text-align: left;
     /* Reset text align for content */
     position: relative;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: none;
+    /* Let child handle transition */
 }
 
+/* Remove hover effect on wrapper */
 .vertical-timeline-element-content:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    transform: none;
+    box-shadow: none;
 }
 
-/* Arrow pointer */
+/* Arrow pointer - Hidden for minimal look */
 .vertical-timeline-element-content::before {
-    content: " ";
-    height: 0;
-    position: absolute;
-    top: 20px;
-    width: 0;
-    z-index: 1;
-    border: medium solid white;
+    display: none;
 }
 
-.vertical-timeline-element:nth-child(odd) .vertical-timeline-element-content::before {
-    right: -20px;
-    /* Point to right */
-    border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent #fff;
-}
-
-.vertical-timeline-element:nth-child(even) .vertical-timeline-element-content::before {
-    left: -20px;
-    /* Point to left */
-    border-width: 10px 10px 10px 0;
-    border-color: transparent #fff transparent transparent;
-}
-
-
-/* Responsive adjustments */
+/* Responsive / Mobile Design */
 @media only screen and (max-width: 768px) {
+    .vertical-timeline {
+        padding: 1em 0;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
     .vertical-timeline::after {
         left: 20px;
-        /* Move line to left */
         margin-left: 0;
+        width: 2px;
     }
 
     .vertical-timeline-element {
         width: 100%;
         padding-left: 50px;
-        /* Make space for line */
-        padding-right: 20px;
-        text-align: left !important;
+        /* Space for dot+line */
+        padding-right: 0;
+        margin: 2em 0;
     }
 
     .vertical-timeline-element:nth-child(even) {
         left: 0;
     }
 
-    .vertical-timeline-element::before {
-        left: 12px !important;
-        /* Move dot to line */
-        right: auto;
+    .vertical-timeline-element:nth-child(odd) {
+        text-align: left;
     }
 
-    .vertical-timeline-element:nth-child(odd) .vertical-timeline-element-content::before,
-    .vertical-timeline-element:nth-child(even) .vertical-timeline-element-content::before {
-        left: -20px;
+    /* Dot positioning for mobile */
+    .vertical-timeline-element::before {
+        left: 13px !important;
+        /* Center on 20px line (approx 20 - 7) */
+        top: 24px;
         right: auto;
-        border-width: 10px 10px 10px 0;
-        border-color: transparent #fff transparent transparent;
+
+        /* Optional: Make dot smaller on mobile? */
+        width: 12px;
+        height: 12px;
+    }
+
+    .vertical-timeline-element-content {
+        padding: 0;
+        /* Let work-item handle padding */
+        box-shadow: none;
     }
 }
