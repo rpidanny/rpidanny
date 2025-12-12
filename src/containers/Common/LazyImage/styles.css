@@ -1,4 +1,14 @@
 .lazy-image {
   -webkit-box-shadow: 4px 6px 10px -4px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 4px 6px 10px -4px rgba(0, 0, 0, 0.75);
-  box-shadow: 4px 6px 10px -4px rgba(0, 0, 0, 0.75); }
+  box-shadow: 4px 6px 10px -4px rgba(0, 0, 0, 0.75);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  backface-visibility: hidden;
+  border-radius: 6px;
+}
+
+.lazy-image:hover {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  z-index: 10;
+}

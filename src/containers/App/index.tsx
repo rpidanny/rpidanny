@@ -4,7 +4,6 @@ import React, { useEffect, useState } from "react";
 import ReactGA from "react-ga4";
 
 import resumeData from "../../data/resume.json";
-import About from "../About";
 import Footer from "../Common/Footer";
 import Contact from "../Contact";
 import Dashboard from "../DashboardV2";
@@ -54,8 +53,7 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      <Dashboard name={basics.name} />
-      <About data={basics} />
+      <Dashboard data={basics} />
       <Resume
         education={education}
         work={work}

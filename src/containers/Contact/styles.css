@@ -1,88 +1,146 @@
-.contact-holder {
+/* Contact Section - Yellow/Orange Theme */
+.contact-section {
+  padding: 0 0 80px 0;
+  background-color: #fcfcfc;
+  color: #333;
+  position: relative;
+}
+
+.contact-container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Page Header */
+.contact-header {
+  width: 100%;
+  /* Modern Orange Gradient */
+  background: linear-gradient(135deg, #ffbe00 0%, #ff9100 100%);
+  padding: 100px 0 80px;
+  margin-bottom: 80px;
   text-align: center;
-  border: 1px solid #efefef;
-  padding: 20px;
-  margin-top: 70px;
-  margin-bottom: 70px; }
+  position: relative;
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+}
 
-.address {
-  position: relative; }
+.contact-header .header-content {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
 
-.address i {
-  background: none repeat scroll 0 0 #2d2d2d;
-  border: 10px solid #ffffff;
-  border-radius: 100px;
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
-  -ms-border-radius: 100px;
-  -o-border-radius: 100px;
-  /* background-clip: padding-box; */
-  color: #ffffff;
-  display: inline-block;
-  font-size: 29px;
-  height: 65px;
-  left: 50%;
-  line-height: 45px;
-  margin-left: -33px;
-  position: absolute;
-  top: -57px;
-  width: 65px !important; }
-
-.address p {
+.contact-header .subtitle {
   font-size: 14px;
-  color: #999999;
-  padding: 10px; }
-
-.info ul {
-  padding: 0; }
-
-.info li {
-  display: inline-block;
-  width: 200px;
-  position: relative; }
-
-.info li .ico {
-  background: #2d2d2d;
-  border: 10px solid #ffffff;
-  border-radius: 100px;
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
-  -ms-border-radius: 100px;
-  -o-border-radius: 100px;
-  -webkit-background-clip: padding-box;
-  -moz-background-clip: padding;
-  background-clip: padding-box;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
   color: #ffffff;
+  margin-bottom: 16px;
   display: inline-block;
-  font-size: 20px;
-  height: 60px;
-  left: 50%;
-  line-height: 46px;
-  margin-left: -33px;
-  position: absolute;
-  top: 30px;
-  width: 60px; }
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  padding: 8px 20px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+}
 
-.contact {
-  margin-bottom: 40px; }
+.contact-header h2 {
+  font-size: 56px;
+  font-weight: 900;
+  color: #ffffff;
+  margin: 0;
+  letter-spacing: -2px;
+  line-height: 1.1;
+  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
 
-.form-btn:hover {
-  background: #2d2d2d;
-  color: #999999; }
+/* Inner Components */
+.contact-container .inner-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.contact-container .inner-title h3 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.contact-container .inner-title p {
+  color: #777;
+  font-size: 16px;
+}
+
+/* Form Styles */
+.address {
+  max-width: 600px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.03);
+}
+
+.form-label {
+  font-weight: 600;
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 8px;
+}
 
 .form-control {
-  border-radius: 0; }
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  padding: 12px 15px;
+  font-size: 15px;
+  transition: all 0.3s ease;
+  background-color: #fafafa;
+}
 
+.form-control:focus {
+  background-color: #fff;
+  border-color: #ffbe00;
+  box-shadow: 0 0 0 4px rgba(255, 190, 0, 0.1);
+}
+
+.form-control.is-valid {
+  border-color: #28a745;
+  background-image: none;
+}
+
+.form-control.is-invalid {
+  border-color: #dc3545;
+  background-image: none;
+}
+
+/* Button */
 .btnSend {
-  color: #fff;
-  background-color: #ffbe00;
-  border-color: #ffbe00; }
+  width: 100%;
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff !important;
+  background: linear-gradient(to right, #ffbe00, #ff9100) !important;
+  border: none !important;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
 
 .btnSend:hover {
-  color: #fff;
-  background-color: #f5b200;
-  border-color: #f5b200; }
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(255, 174, 0, 0.3);
+  filter: brightness(1.05);
+}
 
-.form-horizontal .form-group {
-  margin-right: 0;
-  margin-left: 0; }
+.btnSend:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+}

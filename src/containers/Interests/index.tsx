@@ -1,7 +1,9 @@
 import "./styles.css";
 
 import React from "react";
-import { FaBook, FaHeart, FaStar } from "react-icons/fa";
+import { FaBook } from "react-icons/fa";
+// import { FaBook, FaStar } from "react-icons/fa";
+
 
 import Books from "../Common/Books";
 
@@ -14,13 +16,15 @@ const Interests: React.FC<InterestsProps> = () => {
 
   return (
     <React.Fragment>
-      <section className="row interests" id="interests">
-        <div className="col-md-12 title">
-          <h2>
-            <FaHeart /> / Interests
-          </h2>
+      <section className="interests-section" id="interests">
+        <div className="interests-header">
+          <div className="header-content">
+            <div className="subtitle">What I Love</div>
+            <h2>Interests</h2>
+          </div>
         </div>
-        <div className="col-md-12">
+        
+        <div className="interests-container">
           <div className="content">
             <div className="row">
               <div className="col-md-12">
@@ -28,17 +32,17 @@ const Interests: React.FC<InterestsProps> = () => {
                   <h3>
                     <FaBook /> Books
                   </h3>
-                  <p>Some of my favorite books:</p>
+                  <p>Some of my favorite books</p>
                 </div>
                 <Books />
               </div>
-              <div className="col-md-12">
+              {/* <div className="col-md-12">
                 <div className="divider">
                   <span>
                     <FaStar />
                   </span>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

@@ -1,5 +1,103 @@
-.interests .title {
-  background: #92c14d; }
+/* Interests Section - Green/Nature Theme */
+.interests-section {
+  padding: 0 0 80px 0;
+  background-color: #ffffff;
+  color: #333;
+  position: relative;
+}
 
-.interests {
-  margin-bottom: 40px; }
+.interests-container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Page Header */
+.interests-header {
+  width: 100%;
+  /* Modern Green Gradient */
+  background: linear-gradient(135deg, #92c14d 0%, #7bb03b 100%);
+  padding: 100px 0 80px;
+  margin-bottom: 80px;
+  text-align: center;
+  position: relative;
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+}
+
+.interests-header .header-content {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.interests-header .subtitle {
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #ffffff;
+  margin-bottom: 16px;
+  display: inline-block;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  padding: 8px 20px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+}
+
+.interests-header h2 {
+  font-size: 56px;
+  font-weight: 900;
+  color: #ffffff;
+  margin: 0;
+  letter-spacing: -2px;
+  line-height: 1.1;
+  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Inner Components */
+.interests-container .inner-title {
+  text-align: center;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+}
+
+.interests-container .inner-title h3 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 10px;
+}
+
+.interests-container .inner-title p {
+  color: #777;
+  font-size: 16px;
+}
+
+.divider {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.divider::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  right: 20%;
+  height: 1px;
+  background: #eee;
+  z-index: 1;
+}
+
+.divider span {
+  background: #fff;
+  padding: 0 15px;
+  position: relative;
+  z-index: 2;
+  color: #92c14d;
+  font-size: 20px;
+}
