@@ -14,7 +14,8 @@ const Projects: React.FC<ProjectsProps> = ({ projects }) => {
       <div className="inner-title">
         <h3>Personal Projects</h3>
         <p>
-          Passion projects that solve real-world problems and push boundaries.
+          Passion projects that solve real-world problems and help me learn new
+          skills.
         </p>
       </div>
       <div className="inner-content">

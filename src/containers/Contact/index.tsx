@@ -2,7 +2,6 @@ import "./styles.css";
 
 import React, { useState } from "react";
 import { Button, Form } from "react-bootstrap";
-import { FaEnvelope } from "react-icons/fa";
 import isEmail from "validator/lib/isEmail";
 import isEmpty from "validator/lib/isEmpty";
 
@@ -113,13 +112,14 @@ const Contact: React.FC<ContactProps> = ({ email: myEmail }) => {
 
   return (
     <React.Fragment>
-      <section className="row contact" id="contact">
-        <div className="col-md-12 title">
-          <h2>
-            <FaEnvelope /> / Contact
-          </h2>
+      <section className="contact-section" id="contact">
+        <div className="contact-header">
+          <div className="header-content">
+            <div className="subtitle">Say Hello</div>
+            <h2>Contact</h2>
+          </div>
         </div>
-        <div className="col-md-12">
+        <div className="contact-container">
           <div className="content">
             <div className="inner-title">
               <h3>get in touch with me</h3>

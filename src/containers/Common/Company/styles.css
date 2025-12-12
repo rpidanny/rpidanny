@@ -1,38 +1,38 @@
 .vertical-timeline-element-title {
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+}
 
 .vertical-timeline-element-subtitle {
   font-size: 1rem;
-  color: #666666; }
+  color: #666666;
+}
 
 .vertical-timeline-element-date {
-  display: none; }
+  display: none;
+}
 
 .vertical-timeline-element-date2 {
   color: #666666;
   font-size: 11px;
   font-family: inherit;
-  font-weight: 500; }
-
-.vertical-timeline-element-content {
-  padding-bottom: 0px;
-  -webkit-box-shadow: 0 0px 0 #ddd;
-  box-shadow: 0 0px 0 #ddd; }
+  font-weight: 500;
+}
 
 .vertical-timeline-element-summary p {
   color: #999999;
-  font-size: 13px; }
-
-.vertical-timeline-element-content .vertical-timeline-element-date, .vertical-timeline-element-content p {
   font-size: 13px;
-  color: #999999; }
+}
 
-.vertical-timeline-element {
-  margin: 0;
-  margin-bottom: 2em; }
+.vertical-timeline-element-content .vertical-timeline-element-date,
+.vertical-timeline-element-content p {
+  font-size: 13px;
+  color: #999999;
+}
 
 .work-desc h5 {
-  color: #666666; }
+  color: #666666;
+}
 
 .work-desc h4 a {
-  color: #2d2d2d; }
+  color: #2d2d2d;
+}

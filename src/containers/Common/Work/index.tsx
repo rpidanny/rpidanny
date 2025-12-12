@@ -11,7 +11,7 @@ const Work: React.FC<WorkProps> = ({ companies }) => {
   return (
     <div>
       <div className="inner-title">
-        <h3>My Experiences</h3>
+        <h3>Experience</h3>
         <p>What I did in the past and what I am doing now.</p>
       </div>
       <div className="inner-content">

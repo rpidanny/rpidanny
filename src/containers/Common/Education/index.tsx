@@ -21,8 +21,8 @@ const Education: React.FC<EducationProps> = ({ institutions }) => {
   return (
     <div>
       <div className="inner-title">
-        <h3>My Education</h3>
-        <p>The studies which partially made the developer that I am now.</p>
+        <h3>Education</h3>
+        <p>The studies which partially made the engineer that I am now.</p>
       </div>
       <div className="inner-content">
         {groups.map((group, idx) => {

@@ -2,7 +2,7 @@ import "react-photo-album/masonry.css";
 import "./styles.css";
 
 import React, { lazy, Suspense, useEffect, useState } from "react";
-import { FaPlus } from "react-icons/fa";
+import { FaPlus, FaTimes } from "react-icons/fa";
 import Modal from "react-modal";
 import PhotoAlbum from "react-photo-album";
 
@@ -18,12 +18,12 @@ const BookShelf = lazy(() => import("../BookShelf"));
 const Books: React.FC = () => {
   const [modalIsOpen, setModalIsOpen] = useState(false);
   const [selectedModal, setSelectedModal] = useState(0);
-  const [width, setWidth] = useState(window.outerWidth);
-  // const [height, setHeight] = useState(window.outerHeight)
+  const [width, setWidth] = useState(window.innerWidth);
+  // const [height, setHeight] = useState(window.innerHeight)
 
   const updateDimensions = () => {
-    setWidth(window.outerWidth);
-    // setHeight(window.outerHeight)
+    setWidth(window.innerWidth);
+    // setHeight(window.innerHeight)
   };
 
   useEffect(() => {
@@ -36,26 +36,17 @@ const Books: React.FC = () => {
     setSelectedModal(modalIndex);
   };
 
-  const afterOpenModal = () => {
-    const rootElement = document.getElementById("root");
-    if (rootElement) {
-      rootElement.style.filter = "blur(5px)";
-    }
-  };
-
   const closeModal = () => {
-    const rootElement = document.getElementById("root");
-    if (rootElement) {
-      rootElement.style.filter = "blur(0px)";
-    }
     setModalIsOpen(false);
   };
 
   const getColumnCount = () => {
-    if (width >= 959) return 6;
-    if (width >= 768) return 5;
-    if (width >= 480) return 4;
-    if (width >= 240) return 3;
+    if (width >= 1_200) return 6;
+    if (width >= 960) return 5;
+    if (width >= 720) return 4;
+    // Return 3 columns for widths between 480 and 720
+    if (width >= 480) return 3;
+    // Return 2 columns for smaller mobile screens
     return 2;
   };
 
@@ -63,11 +54,21 @@ const Books: React.FC = () => {
     if (selected === 0) {
       return (
         <Suspense fallback={<Fallback />}>
+          <div className="modalHeader">
+            <h2>Read Books</h2>
+            <button
+              className="closeButton"
+              onClick={closeModal}
+              aria-label="Close modal"
+            >
+              <FaTimes />
+            </button>
+          </div>
           <div className="bookShelf">
             <BookShelf
               books={readBooks}
               margin={10}
-              columns={getColumnCount() + 1}
+              columns={width > 600 ? getColumnCount() + 1 : getColumnCount()}
             />
           </div>
         </Suspense>
@@ -106,7 +107,7 @@ const Books: React.FC = () => {
           className="books_link"
           onClick={() =>
             window.open(
-              "https://gre.abhishek.pro.np/user/88517742/viz/rgraph",
+              "https://rpidanny.github.io/goodreads-explorer/user/88517742/viz/rgraph",
               "_blank",
             )
           }
@@ -116,12 +117,12 @@ const Books: React.FC = () => {
       </div>
       <Modal
         isOpen={modalIsOpen}
-        onAfterOpen={afterOpenModal}
         onRequestClose={closeModal}
         className="booksModal"
         overlayClassName="ModalOverlay"
         contentLabel="Books"
-        ariaHideApp={false} // Since we are managing blur manually
+        ariaHideApp={false}
+        closeTimeoutMS={300}
       >
         <div className="bookModalContent">{getModalContent(selectedModal)}</div>
       </Modal>
