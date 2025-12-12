@@ -103,7 +103,7 @@ const Books: React.FC = () => {
           className="books_link"
           onClick={() =>
             window.open(
-              "https://gre.abhishek.pro.np/user/88517742/viz/rgraph",
+              "https://rpidanny.github.io/goodreads-explorer/user/88517742/viz/rgraph",
               "_blank",
             )
           }
