@@ -41,7 +41,7 @@ const Books: React.FC = () => {
   };
 
   const getColumnCount = () => {
-    if (width >= 1200) return 6;
+    if (width >= 1_200) return 6;
     if (width >= 960) return 5;
     if (width >= 720) return 4;
     // Return 3 columns for widths between 480 and 720
@@ -56,7 +56,11 @@ const Books: React.FC = () => {
         <Suspense fallback={<Fallback />}>
           <div className="modalHeader">
             <h2>Read Books</h2>
-            <button className="closeButton" onClick={closeModal} aria-label="Close modal">
+            <button
+              className="closeButton"
+              onClick={closeModal}
+              aria-label="Close modal"
+            >
               <FaTimes />
             </button>
           </div>

@@ -45,15 +45,15 @@ const Dashboard: React.FC<DashboardProps> = ({ data }) => {
               <div className="hero-intro">
                 <i>Hi, my name is</i>
               </div>
-              
+
               <div className="hero-name-wrapper">
                 <h1 className="typewriter">{name}</h1>
               </div>
 
               <div className="hero-summary">
-                {summary.map((element, idx) => (
-                  element && <p key={idx}>{element}</p>
-                ))}
+                {summary.map(
+                  (element, idx) => element && <p key={idx}>{element}</p>,
+                )}
               </div>
 
               <div className="hero-actions">
@@ -62,12 +62,19 @@ const Dashboard: React.FC<DashboardProps> = ({ data }) => {
                 </div>
                 <div className="action-separator">|</div>
                 <div className="cv-group">
-                   <Social data={profiles.cv} />
+                  <Social data={profiles.cv} />
                 </div>
               </div>
             </div>
 
-            <div className="arrow-container" onClick={() => document.getElementById("resume")?.scrollIntoView({ behavior: "smooth" })}>
+            <div
+              className="arrow-container"
+              onClick={() =>
+                document
+                  .getElementById("resume")
+                  ?.scrollIntoView({ behavior: "smooth" })
+              }
+            >
               <i className="arrow down" />
             </div>
           </GridScan>

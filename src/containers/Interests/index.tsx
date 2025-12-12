@@ -2,9 +2,8 @@ import "./styles.css";
 
 import React from "react";
 import { FaBook } from "react-icons/fa";
+
 // import { FaBook, FaStar } from "react-icons/fa";
-
-
 import Books from "../Common/Books";
 
 interface InterestsProps {
@@ -23,7 +22,7 @@ const Interests: React.FC<InterestsProps> = () => {
             <h2>Interests</h2>
           </div>
         </div>
-        
+
         <div className="interests-container">
           <div className="content">
             <div className="row">

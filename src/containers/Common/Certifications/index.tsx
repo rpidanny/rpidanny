@@ -28,15 +28,8 @@ const Certifications: React.FC<CertificationsProps> = ({ certifications }) => {
         <div className="row gy-4 justify-content-center">
           {certifications.map((cert: any, i: number) => {
             return (
-              <div
-                className="col-6 col-md-auto certification"
-                key={i}
-              >
-                <a
-                  href={cert.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+              <div className="col-6 col-md-auto certification" key={i}>
+                <a href={cert.url} target="_blank" rel="noopener noreferrer">
                   <img src={images[cert.image] || ""} alt={cert.title} />
                 </a>
               </div>

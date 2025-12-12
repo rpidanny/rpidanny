@@ -2,13 +2,11 @@ import "./styles.css";
 
 import React from "react";
 
-
 import Certifications from "../Common/Certifications";
 import Education from "../Common/Education";
 import { ProjectData } from "../Common/Project";
 import Projects from "../Common/Projects";
 import Work from "../Common/Work";
-import { FaStar } from "react-icons/fa";
 
 interface ResumeProps {
   education: any[];
@@ -33,11 +31,10 @@ const Resume: React.FC<ResumeProps> = ({
       </div>
 
       <div className="resume-container">
-
         <div className="resume-content">
           {projects && projects.length > 0 && (
             <div className="resume-block">
-               <Projects projects={projects} />
+              <Projects projects={projects} />
             </div>
           )}
 

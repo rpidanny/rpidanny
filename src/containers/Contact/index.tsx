@@ -2,7 +2,6 @@ import "./styles.css";
 
 import React, { useState } from "react";
 import { Button, Form } from "react-bootstrap";
-
 import isEmail from "validator/lib/isEmail";
 import isEmpty from "validator/lib/isEmpty";
 
