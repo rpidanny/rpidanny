@@ -1,36 +1,327 @@
 [
   {
-    "link": "https://www.goodreads.com/book/show/25451264-death-s-end",
-    "title": "Death's End (Remembrance of Earth’s Past #3)",
-    "title_without_series": "Death's End",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SX98_.jpg",
-    "description": "Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.<br /><br />Cheng Xin, an aerospace engineer from the early twenty-first century, awakens from hibernation in this new age. She brings with her knowledge of a long-forgotten program dating from the beginning of the Trisolar Crisis, and her very presence may upset the delicate balance between two worlds. Will humanity reach for the stars or die in its cradle?",
-    "num_pages": "604",
+    "link": "https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century",
+    "title": "Capital in the Twenty First Century",
+    "title_without_series": "Capital in the Twenty First Century",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "What are the grand dynamics that drive the accumulation and distribution of capital? Questions about the long-term evolution of inequality, the concentration of wealth, and the prospects for economic growth lie at the heart of political economy. But satisfactory answers have been hard to find for lack of adequate data and clear guiding theories. In <em>Capital in the Twenty-First Century</em>, Thomas Piketty analyzes a unique collection of data from twenty countries, ranging as far back as the eighteenth century, to uncover key economic and social patterns. His findings will transform debate and set the agenda for the next generation of thought about wealth and inequality.<br /><br />Piketty shows that modern economic growth and the diffusion of knowledge have allowed us to avoid inequalities on the apocalyptic scale predicted by Karl Marx. But we have not modified the deep structures of capital and inequality as much as we thought in the optimistic decades following World War II. The main driver of inequality—the tendency of returns on capital to exceed the rate of economic growth—today threatens to generate extreme inequalities that stir discontent and undermine democratic values. But economic trends are not acts of God. Political action has curbed dangerous inequalities in the past, Piketty says, and may do so again.",
+    "num_pages": 685,
     "authors": {
       "author": {
-        "id": "5780686",
-        "name": "Liu Cixin",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1454974329p5/5780686.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1454974329p2/5780686.jpg"
-        },
-        "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
-        "average_rating": "4.19",
-        "ratings_count": "287581",
-        "text_reviews_count": "28564"
+        "id": 795282,
+        "name": "Thomas Piketty",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1676594613p5/795282.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1676594613p2/795282.jpg",
+        "link": "https://www.goodreads.com/author/show/795282.Thomas_Piketty",
+        "average_rating": 4.02,
+        "ratings_count": 48785,
+        "text_reviews_count": 4626
       }
     },
-    "average_rating": "4.44",
-    "ratings_count": "48730",
-    "publication_day": "20",
-    "publication_month": "9",
-    "publication_year": "2016"
+    "average_rating": 4.06,
+    "ratings_count": 34398,
+    "publication_day": 10,
+    "publication_month": 3,
+    "publication_year": 2014
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/18043011-clean-architecture",
+    "title": "Clean Architecture",
+    "title_without_series": "Clean Architecture",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471680093l/18043011._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471680093l/18043011._SX98_.jpg",
+    "description": "Building upon the success of best-sellers <i>The Clean Coder</i> and <i>Clean Code</i>, legendary software craftsman Robert C. \"Uncle Bob\" Martin shows how to bring greater professionalism and discipline to application architecture and design.<br /><br />As with his other books, Martin's <i>Clean Architecture</i> doesn't merely present multiple choices and options, and say \"use your best judgment\": it tells you what choices to make, and why those choices are critical to your success. Martin offers direct, no-nonsense answers to key architecture and design questions like:<br /><br />What are the best high level structures for different kinds of applications, including web, database, thick-client, console, and embedded apps?<br /><br />What are the core principles of software architecture?<br /><br />What is the role of the architect, and what is he/she really trying to achieve?<br /><br />What are the core principles of software design?<br /><br />How do designs and architectures go wrong, and what can you do about it?<br /><br />What are the disciplines and practices of professional architects and designers?<br /><br /><i>Clean Architecture</i> is essential reading for every software architect, systems analyst, system designer, and software manager — and for any programmer who aspires to these roles or is impacted by their work.",
+    "num_pages": 432,
+    "authors": {
+      "author": {
+        "id": 45372,
+        "name": "Robert C. Martin",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1490470967p5/45372.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1490470967p2/45372.jpg",
+        "link": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
+        "average_rating": 4.3,
+        "ratings_count": 44262,
+        "text_reviews_count": 2972
+      }
+    },
+    "average_rating": 4.22,
+    "ratings_count": 7006,
+    "publication_day": "",
+    "publication_month": 9,
+    "publication_year": 2017
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/212491334-everything-is-predictable",
+    "title": "Everything Is Predictable: How Bayes' Remarkable Theorem Explains the World",
+    "title_without_series": "Everything Is Predictable: How Bayes' Remarkable Theorem Explains the World",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714623251l/212491334._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714623251l/212491334._SX98_.jpg",
+    "description": "<b>A fascinating intellectual history that takes a comparatively little-known but important idea and shows how it affects huge areas of our lives</b><br /><br />Thomas Bayes was an eighteenth-century Presbyterian minister and amateur mathematician whose obscure life belied the profound impact of his work. Like most research into probability at the time, his theorem was mainly seen as relevant to games of chance, like dice and cards. But its implications soon became clear.<br /><br />Bayes' theorem helps explain why highly accurate screening tests can lead to false positives, causing unnecessary anxiety for patients. A failure to account for it in court has put innocent people in jail. But its influence goes far beyond practical applications. A cornerstone of rational thought, Bayesian principles are used in modelling and forecasting. 'Superforecasters', a group of expert predictors who outperform CIA analysts, use a Bayesian approach. And many argue that Bayes' theorem is not just a useful tool, but a description of almost everything - that it is the underlying architecture of rationality, and of the human brain.<br /><br />Fusing biography, razor-sharp science communication and intellectual history, <i>Everything Is Predictable</i> is a captivating tour of Bayes' theorem and its impact on modern life. From medical testing to artificial intelligence, Tom Chivers shows how a single compelling idea can have far-reaching consequences.",
+    "num_pages": 336,
+    "authors": {
+      "author": {
+        "id": 21911384,
+        "name": "Tom  Chivers",
+        "role": "",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
+        "link": "https://www.goodreads.com/author/show/21911384.Tom_Chivers",
+        "average_rating": 4.05,
+        "ratings_count": 1985,
+        "text_reviews_count": 294
+      }
+    },
+    "average_rating": 4.02,
+    "ratings_count": 1105,
+    "publication_day": 25,
+    "publication_month": 4,
+    "publication_year": 2024
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/49176.Games_People_Play",
+    "title": "Games People Play",
+    "title_without_series": "Games People Play",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628756599l/49176._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628756599l/49176._SX98_.jpg",
+    "description": "<i>We think we’re relating to other people–but actually we’re all playing games.</i><br /><br />Forty years ago, <i>Games People Play</i> revolutionized our understanding of what really goes on during our most basic social interactions. More than five million copies later, Dr. Eric Berne’s classic is as astonishing–and revealing–as it was on the day it was first published. This anniversary edition features a new introduction by Dr. James R. Allen, president of the International Transactional Analysis Association, and Kurt Vonnegut’s brilliant <i>Life</i> magazine review from 1965.<br />We play games all the time–sexual games, marital games, power games with our bosses, and competitive games with our friends. Detailing status contests like “Martini” (I know a better way), to lethal couples combat like “If It Weren’t For You” and “Uproar,” to flirtation favorites like “The Stocking Game” and “Let’s You and Him Fight,” Dr. Berne exposes the secret ploys and unconscious maneuvers that rule our intimate lives.<br />Explosive when it first appeared, <i>Games People Play</i> is now widely recognized as the most original and influential popular psychology book of our time. It’s as powerful and eye-opening as ever.",
+    "num_pages": 192,
+    "authors": {
+      "author": {
+        "id": 112258,
+        "name": "Eric Berne",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1345182263p5/112258.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1345182263p2/112258.jpg",
+        "link": "https://www.goodreads.com/author/show/112258.Eric_Berne",
+        "average_rating": 3.75,
+        "ratings_count": 46036,
+        "text_reviews_count": 2293
+      }
+    },
+    "average_rating": 3.72,
+    "ratings_count": 41065,
+    "publication_day": "",
+    "publication_month": 12,
+    "publication_year": 1964
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/51014619-good-economics-for-hard-times",
+    "title": "Good Economics for Hard Times: Better Answers to Our Biggest Problems",
+    "title_without_series": "Good Economics for Hard Times: Better Answers to Our Biggest Problems",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "Figuring out how to deal with today's critical economic problems is perhaps the great challenge of our time. Much greater than space travel or perhaps even the next revolutionary medical breakthrough, what is at stake is the whole idea of the good life as we have known it.<br /><br />Immigration and inequality, globalization and technological disruption, slowing growth and accelerating climate change--these are sources of great anxiety across the world, from New Delhi and Dakar to Paris and Washington, DC. The resources to address these challenges are there--what we lack are ideas that will help us jump the wall of disagreement and distrust that divides us. If we succeed, history will remember our era with gratitude; if we fail, the potential losses are incalculable.<br /><br />In this revolutionary book, renowned MIT economists Abhijit V. Banerjee and Esther Duflo take on this challenge, building on cutting-edge research in economics explained with lucidity and grace. Original, provocative, and urgent, <i>Good Economics for Hard Times</i> makes a persuasive case for an intelligent interventionism and a society built on compassion and respect and show how economics, when done right, can help us solve the thorniest social and political problems of the day. It is an extraordinary achievement, one that shines a light to help us appreciate and understand our precariously balanced world.",
+    "num_pages": "",
+    "authors": {
+      "author": {
+        "id": 5302812,
+        "name": "Abhijit V. Banerjee",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1484845418p5/5302812.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1484845418p2/5302812.jpg",
+        "link": "https://www.goodreads.com/author/show/5302812.Abhijit_V_Banerjee",
+        "average_rating": 4.25,
+        "ratings_count": 39303,
+        "text_reviews_count": 3739
+      }
+    },
+    "average_rating": 4.22,
+    "ratings_count": 14668,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel",
+    "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "title_without_series": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SX98_.jpg",
+    "description": "\"Diamond has written a book of remarkable scope ... one of the most important and readable works on the human past published in recent years.\"<br /><br />Winner of the Pulitzer Prize and a national bestseller: the global account of the rise of civilization that is also a stunning refutation of ideas of human development based on race.<br /><br />In this \"artful, informative, and delightful\" (William H. McNeill, New York Review of Books) book, Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. Societies that had a head start in food production advanced beyond the hunter-gatherer stage, and then developed writing, technology, government, and organized religion—as well as nasty germs and potent weapons of war—and adventured on sea and land to conquer and decimate preliterate cultures. A major advance in our understanding of human societies, <i>Guns, Germs, and Steel</i> chronicles the way that the modern world came to be and stunningly dismantles racially based theories of human history.<br /><br />Winner of the Pulitzer Prize, the Phi Beta Kappa Award in Science, the Rhone-Poulenc Prize, and the Commonwealth Club of California's Gold Medal",
+    "num_pages": 498,
+    "authors": {
+      "author": {
+        "id": 256,
+        "name": "Jared Diamond",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1456487863p5/256.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1456487863p2/256.jpg",
+        "link": "https://www.goodreads.com/author/show/256.Jared_Diamond",
+        "average_rating": 4.02,
+        "ratings_count": 588824,
+        "text_reviews_count": 24115
+      }
+    },
+    "average_rating": 4.04,
+    "ratings_count": 453749,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": 2005
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/36613747-how-to-change-your-mind",
+    "title": "How to Change Your Mind: The New Science of Psychedelics",
+    "title_without_series": "How to Change Your Mind: The New Science of Psychedelics",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545030338l/36613747._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545030338l/36613747._SX98_.jpg",
+    "description": "<b>Could psychedelic drugs change our worldview? One of America's most admired writers takes us on a mind-altering journey to the frontiers of human consciousness</b><br /><b></b><br /><b></b>When LSD was first discovered in the 1940s, it seemed to researchers, scientists and doctors as if the world might be on the cusp of psychological revolution. It promised to shed light on the deep mysteries of consciousness, as well as offer relief to addicts and the mentally ill. But in the 1960s, with the vicious backlash against the counter-culture, all further research was banned. In recent years, however, work has quietly begun again on the amazing potential of LSD, psilocybin and DMT. Could these drugs in fact improve the lives of many people? Diving deep into this extraordinary world and putting himself forward as a guinea-pig, Michael Pollan has written a remarkable history of psychedelics and a compelling portrait of the new generation of scientists fascinated by the implications of these drugs. <i>How to Change Your Mind</i> is a report from what could very well be the future of human consciousness.",
+    "num_pages": "",
+    "authors": {
+      "author": {
+        "id": 2121,
+        "name": "Michael Pollan",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1366396171p5/2121.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1366396171p2/2121.jpg",
+        "link": "https://www.goodreads.com/author/show/2121.Michael_Pollan",
+        "average_rating": 4.14,
+        "ratings_count": 721915,
+        "text_reviews_count": 54305
+      }
+    },
+    "average_rating": 4.27,
+    "ratings_count": 83863,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/41104077-invisible-women",
+    "title": "Invisible Women: Data Bias in a World Designed for Men",
+    "title_without_series": "Invisible Women: Data Bias in a World Designed for Men",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617113740l/41104077._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617113740l/41104077._SX98_.jpg",
+    "description": "Data is fundamental to the modern world. From economic development, to healthcare, to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this bias, in time, money, and often with their lives.<br /><br />Celebrated feminist advocate Caroline Criado Perez investigates the shocking root cause of gender inequality and research in <i>Invisible Women​</i>, diving into women’s lives at home, the workplace, the public square, the doctor’s office, and more. Built on hundreds of studies in the US, the UK, and around the world, and written with energy, wit, and sparkling intelligence, this is a groundbreaking, unforgettable exposé that will change the way you look at the world.",
+    "num_pages": 448,
+    "authors": {
+      "author": {
+        "id": 19637490,
+        "name": "Caroline Criado Pérez",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1587321855p5/19637490.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1587321855p2/19637490.jpg",
+        "link": "https://www.goodreads.com/author/show/19637490.Caroline_Criado_P_rez",
+        "average_rating": 4.34,
+        "ratings_count": 166896,
+        "text_reviews_count": 21454
+      }
+    },
+    "average_rating": 4.34,
+    "ratings_count": 165244,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/55339408-noise",
+    "title": "Noise: A Flaw in Human Judgment",
+    "title_without_series": "Noise: A Flaw in Human Judgment",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617709587l/55339408._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617709587l/55339408._SX98_.jpg",
+    "description": "<b>From the bestselling author of <i>Thinking, Fast and Slow</i> and the co-author of <i>Nudge</i>, a groundbreaking exploration of why most people make bad judgments, and how to control for that noise.​</b><br /><br /> Imagine that two doctors in the same city give different diagnoses to identical patients — or that two judges in the same courthouse give different sentences to people who have committed the same crime. Suppose that different food inspectors give different ratings to indistinguishable restaurants — or that when a company is handling customer complaints, the resolution depends on who happens to be handling the particular complaint. Now imagine that the same doctor, the same judge, the same inspector, or the same company official makes different decisions, depending on whether it is morning or afternoon, or Monday rather than Wednesday. These are examples of noise: variability in judgments that should be identical.<br />  <br /> In <i>Noise</i>, Daniel Kahneman, Cass R. Sunstein, and Olivier Sibony show how noise contributes significantly to errors in all fields, including medicine, law, economic forecasting, police behavior, food safety, bail, security checks at airports, strategy, and personnel selection. And although noise can be found wherever people make judgments and decisions, individuals and organizations alike are commonly oblivious to the role of chance in their judgments and in their actions.<br />  <br /> Drawing on the latest findings in psychology and behavioral economics, and the same kind of diligent, insightful research that made <i>Thinking, Fast and Slow </i>and <i>Nudge</i> groundbreaking <i>New York Times</i> bestsellers, <i>Noise</i> explains how and why humans are so susceptible to noise in judgment — and what we can do about it.<br />",
+    "num_pages": 454,
+    "authors": {
+      "author": {
+        "id": 72401,
+        "name": "Daniel Kahneman",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1615917414p5/72401.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1615917414p2/72401.jpg",
+        "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
+        "average_rating": 4.15,
+        "ratings_count": 603963,
+        "text_reviews_count": 21224
+      }
+    },
+    "average_rating": 3.67,
+    "ratings_count": 16063,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/6749.Oblivion",
+    "title": "Oblivion",
+    "title_without_series": "Oblivion",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311905400l/6749._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311905400l/6749._SX98_.jpg",
+    "description": "In the stories that make up Oblivion, David Foster Wallace joins the rawest, most naked humanity with the infinite involutions of self-consciousness—a combination that is dazzlingly, uniquely his. These are worlds undreamt-of by any other mind. Only David Foster Wallace could convey a father's desperate loneliness by way of his son's daydreaming through a teacher's homicidal breakdown (\"The Soul Is Not a Smithy\"). Or could explore the deepest and most hilarious aspects of creativity by delineating the office politics surrounding a magazine profile of an artist who produces miniature sculptures in an anatomically inconceivable way (\"The Suffering Channel\"). Or capture the ache of love's breakdown in the painfully polite apologies of a man who believes his wife is hallucinating the sound of his snoring (\"Oblivion\"). Each of these stories is a complete world, as fully imagined as most entire novels, at once preposterously surreal and painfully immediate. Oblivion is an arresting and hilarious creation from a writer \"whose best work challenges and reinvents the art of fiction\" (Atlanta Journal-Constitution).<br /><br />Mister squishy --<br />The soul is not a smithy --<br />Incarnations of burned children --<br />Another pioneer --<br />Good old neon --<br />Philosophy and the mirror of nature --<br />Oblivion --<br />The suffering channel",
+    "num_pages": 329,
+    "authors": {
+      "author": {
+        "id": 4339,
+        "name": "David Foster Wallace",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1615507112p5/4339.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1615507112p2/4339.jpg",
+        "link": "https://www.goodreads.com/author/show/4339.David_Foster_Wallace",
+        "average_rating": 4.11,
+        "ratings_count": 406932,
+        "text_reviews_count": 41287
+      }
+    },
+    "average_rating": 4.07,
+    "ratings_count": 15799,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/63076716-size",
+    "title": "Size: How It Explains the World",
+    "title_without_series": "Size: How It Explains the World",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675644414l/63076716._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675644414l/63076716._SX98_.jpg",
+    "description": "From the New York Times bestselling author of How the World Really Works, a wide-ranging look at the most fundamental governing principle of our size , whose laws, limits, and peculiarities offer the key to understanding health, wealth, and even happiness “No one writes about the great issues of our time with more rigor or erudition than Vaclav Smil.” — Elizabeth Kolbert To answer the most important questions of our age, we must understand size. Neither bacteria nor empires are immune to its laws. Measuring it is challenging, especially where complex systems like economies are concerned, yet mastering it offers rich the rise of the West, for example, was a direct result of ever more accurate and standardized measurements. Using the interdisciplinary approach that has won him a wide readership, Smil draws upon history, earth science, psychology, art, and more to offer fresh insight into some of our biggest challenges, including income inequality, the spread of infectious disease, and the uneven impacts of climate change. Size  explains the regularities—and peculiarities—of the key processes shaping life (from microbes to whales), the Earth (from asteroids to volcanic eruptions), technical advances (from architecture to transportation), and societies and economies (from cities to wages). This book about the big and the small, and the relationship between them, answers the big and small questions of human <br />The latest masterwork of “an ambitious and astonishing polymath who swings for fences” ( Wired)   Size is a mind-bending journey that turns the modern world on its head.",
+    "num_pages": "",
+    "authors": {
+      "author": {
+        "id": 5003,
+        "name": "Vaclav Smil",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1619861469p5/5003.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1619861469p2/5003.jpg",
+        "link": "https://www.goodreads.com/author/show/5003.Vaclav_Smil",
+        "average_rating": 3.9,
+        "ratings_count": 38923,
+        "text_reviews_count": 3991
+      }
+    },
+    "average_rating": 3.28,
+    "ratings_count": 526,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/231148075-the-art-of-spending-money",
+    "title": "The Art of Spending Money: Simple Choices for a Richer Life",
+    "title_without_series": "The Art of Spending Money: Simple Choices for a Richer Life",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "",
+    "num_pages": "",
+    "authors": {
+      "author": {
+        "id": 7499284,
+        "name": "Morgan Housel",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1669719604p5/7499284.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1669719604p2/7499284.jpg",
+        "link": "https://www.goodreads.com/author/show/7499284.Morgan_Housel",
+        "average_rating": 4.28,
+        "ratings_count": 338821,
+        "text_reviews_count": 22445
+      }
+    },
+    "average_rating": 4.2,
+    "ratings_count": 5172,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
   },
   {
     "link": "https://www.goodreads.com/book/show/36204378-the-book-of-why",
@@ -38,32 +329,107 @@
     "title_without_series": "The Book of Why: The New Science of Cause and Effect",
     "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378._SY75_.jpg",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378._SX98_.jpg",
-    "description": "<b>A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence</b><br /><br /> \"Correlation is not causation.\" This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality -- the study of cause and effect -- on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs <i>The Book of Why</i>.",
-    "num_pages": "432",
+    "description": "<b>How the study of causality revolutionized science and the world</b><br />\"Correlation does not imply causation.\" This mantra has been invoked by scientists for decades. But today, that taboo is dead. The causal revolution, sparked by Judea Pearl and his colleagues, has cut through a century of confusion and placed causality--the study of cause and effect--on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs <i>The Book of Why</i>.<br />",
+    "num_pages": "",
     "authors": {
       "author": {
-        "id": "101708",
+        "id": 101708,
         "name": "Judea Pearl",
-        "role": {},
-        "image_url": {
-          "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
-        },
-        "small_image_url": {
-          "nophoto": "true",
-          "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
-        },
+        "role": "",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
-        "average_rating": "3.97",
-        "ratings_count": "3359",
-        "text_reviews_count": "403"
+        "average_rating": 3.96,
+        "ratings_count": 7395,
+        "text_reviews_count": 778
       }
     },
-    "average_rating": "3.95",
-    "ratings_count": "2774",
-    "publication_day": "15",
-    "publication_month": "5",
-    "publication_year": "2018"
+    "average_rating": 3.94,
+    "ratings_count": 6522,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar",
+    "title": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+    "title_without_series": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328835964l/134825._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328835964l/134825._SX98_.jpg",
+    "description": "Open source provides the competitive advantage in the Internet Age. According to the August Forrester Report, 56 percent of IT managers interviewed at Global 2,500 companies are already using some type of open source software in their infrastructure and another 6 percent will install it in the next two years. This revolutionary model for collaborative software development is being embraced and studied by many of the biggest players in the high-tech industry, from Sun Microsystems to IBM to Intel.<br /><br /><i>The Cathedral &amp; the Bazaar</i> is a must for anyone who cares about the future of the computer industry or the dynamics of the information economy. Already, billions of dollars have been made and lost based on the ideas in this book. Its conclusions will be studied, debated, and implemented for years to come. According to Bob Young, \"This is Eric Raymond's great contribution to the success of the open source revolution, to the adoption of Linux-based operating systems, and to the success of open source users and the companies that supply them.\"<br /><br />The interest in open source software development has grown enormously in the past year. This revised and expanded paperback edition includes new material on open source developments in 1999 and 2000. Raymond's clear and effective writing style accurately describing the benefits of open source software has been key to its success. With major vendors creating acceptance for open source within companies, independent vendors will become the open source story in 2001.",
+    "num_pages": 241,
+    "authors": {
+      "author": {
+        "id": 18542,
+        "name": "Eric S. Raymond",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1265508525p5/18542.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1265508525p2/18542.jpg",
+        "link": "https://www.goodreads.com/author/show/18542.Eric_S_Raymond",
+        "average_rating": 3.91,
+        "ratings_count": 6022,
+        "text_reviews_count": 314
+      }
+    },
+    "average_rating": 3.83,
+    "ratings_count": 4300,
+    "publication_day": "",
+    "publication_month": 1,
+    "publication_year": 2001
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/29093292-the-daily-stoic",
+    "title": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+    "title_without_series": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462161080l/29093292._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462161080l/29093292._SX98_.jpg",
+    "description": "<i>Alternate cover edition of <a href=\"https://www.goodreads.com/book/show/59586952-the-daily-stoic\" rel=\"nofollow noopener\">ISBN 9780735211735</a>.</i><br /><br />A beautifully packaged daily devotional of Stoic wisdom, featuring new translations of the most celebrated Stoics with historical context and practical tips from bestselling author Ryan Holiday.<br /><br />Stoic philosophy has long been the secret weapon of history’s greatest and wisest leaders--from emperors to artists, activists to fighter pilots. Today, people of all stripes are seeking out Stoicism’s unique blend of practicality and wisdom as they look for answers to the great questions of daily life.<br /><br />Where should they start? Epictetus? Marcus Aurelius? Seneca? Which edition? Which translator? Presented in a page-per-day format, this daily resource combines all new translations done by Stephen Hanselman of the greatest passages from the great Stoics (including several lesser known philosophers like Zeno, Cleanthes and Musonius Rufus) with helpful commentary.<br /><br />Building on the organizational structure in Ryan Holiday’s cult classic <i>The Obstacle is the Way</i>, this guide also features twelve monthly themes (and helpful glossary) for clarifying perception, improving action, and unlocking the power of will. Aimed at the high-octane, action-oriented doers of our wired world, this book brings new daily rituals and new perspectives to produce balanced action, insight, effectiveness, and serenity.",
+    "num_pages": "",
+    "authors": {
+      "author": {
+        "id": 5775580,
+        "name": "Ryan Holiday",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1340390663p5/5775580.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1340390663p2/5775580.jpg",
+        "link": "https://www.goodreads.com/author/show/5775580.Ryan_Holiday",
+        "average_rating": 4.16,
+        "ratings_count": 367286,
+        "text_reviews_count": 26032
+      }
+    },
+    "average_rating": 4.37,
+    "ratings_count": 49682,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/20821049-the-moral-case-for-fossil-fuels",
+    "title": "The Moral Case for Fossil Fuels",
+    "title_without_series": "The Moral Case for Fossil Fuels",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408932697l/20821049._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408932697l/20821049._SX98_.jpg",
+    "description": "<b>A sure-to-be-controversial defense of the </b><b> fossil fuel industry</b><br /><br /> Conventional wisdom says fossil fuels are an unsustainable form of energy that is destroying our planet. But Alex Epstein shows that if we look at the big picture, the much-hated fossil fuel industry is dramatically<i> improving</i> our planet by making it a far safer and richer place. <br /> The key difference between a healthy and unhealthy environment, Epstein argues, is development—the transformation of nature to meet human needs. And the energy required for development is overwhelmingly made possible by the fossil fuel industry, the only way to produce cheap, plentiful, reliable energy on a global scale. <br /> While acknowledging the challenges of fossil fuels (and every form of energy), Epstein argues that the overall benefits, including the largely ignored<i> </i><i>environmental </i>benefits, are incomparably greater.<br /><br />",
+    "num_pages": 248,
+    "authors": {
+      "author": {
+        "id": 7137576,
+        "name": "Alex      Epstein",
+        "role": "",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
+        "link": "https://www.goodreads.com/author/show/7137576.Alex_Epstein",
+        "average_rating": 4.1,
+        "ratings_count": 4010,
+        "text_reviews_count": 639
+      }
+    },
+    "average_rating": 4.07,
+    "ratings_count": 2430,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
   },
   {
     "link": "https://www.goodreads.com/book/show/40921633-the-new-silk-roads",
@@ -72,30 +438,51 @@
     "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "description": "'All roads used to lead to Rome. Today, they lead to Beijing.'<br /><br />When The Silk Roads was published in 2015, it became an instant classic. A major reassessment of world history, it compelled us to look at the past from a different perspective. The New Silk Roads brings this story up to date, addressing the present and future of a world that is changing dramatically.<br /><br />Following the Silk Roads eastwards, from Europe through to China, by way of Russia and the Middle East, The New Silk Roads provides a timely reminder that we live in a world that is profoundly interconnected. In an age of Brexit and Trump, the themes of isolation and fragmentation permeating the Western world stand in sharp contrast to events along the Silk Roads since 2015, where ties have been strengthened and mutual cooperation established.<br /><br />With brilliant insight, Peter Frankopan takes a fresh look at the network of relationships being formed along the length and breadth of the Silk Roads today, assessing the global reverberations of these continual shifts in the centre of power - all too often absent from headlines in the West. This important - and ultimately hopeful - book asks us to reassess who we are and where we are in the world, illuminating the themes on which all our lives and livelihood depend.",
-    "num_pages": "313",
+    "num_pages": 313,
     "authors": {
       "author": {
-        "id": "3185055",
+        "id": 3185055,
         "name": "Peter Frankopan",
-        "role": {},
-        "image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1464911422p5/3185055.jpg"
-        },
-        "small_image_url": {
-          "nophoto": "false",
-          "$t": "https://images.gr-assets.com/authors/1464911422p2/3185055.jpg"
-        },
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1464911422p5/3185055.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1464911422p2/3185055.jpg",
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
-        "average_rating": "4.14",
-        "ratings_count": "23958",
-        "text_reviews_count": "2670"
+        "average_rating": 4.08,
+        "ratings_count": 60685,
+        "text_reviews_count": 5518
       }
     },
-    "average_rating": "3.67",
-    "ratings_count": "3367",
-    "publication_day": {},
-    "publication_month": {},
-    "publication_year": {}
+    "average_rating": 3.57,
+    "ratings_count": 7995,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/101160753-the-six",
+    "title": "The Six: The Untold Story of America's First Women Astronauts",
+    "title_without_series": "The Six: The Untold Story of America's First Women Astronauts",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686761136l/101160753._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686761136l/101160753._SX98_.jpg",
+    "description": "In the bestselling tradition of Hidden Figures and Code Girls, the remarkable true story of America’s first women astronauts—six extraordinary women, each making history going to orbit aboard NASA’s Space Shuttle.<br /><br />When NASA sent astronauts to the moon in the 1960s and 1970s the agency excluded women from the corps, arguing that only military test pilots—a group then made up exclusively of men—had the right stuff. It was an era in which women were steered away from jobs in science and deemed unqualified for space flight. Eventually, though, NASA recognized its blunder and opened the application process to a wider array of hopefuls, regardless of race or gender. From a candidate pool of 8,000 six elite women were selected in 1978—Sally Ride, Judy Resnik, Anna Fisher, Kathy Sullivan, Shannon Lucid, and Rhea Seddon.<br /><br />In The Six , acclaimed journalist Loren Grush shows these brilliant and courageous women enduring claustrophobic—and sometimes deeply sexist—media attention, undergoing rigorous survival training, and preparing for years to take multi-million-dollar payloads into orbit. Together, the Six helped build the tools that made the space program run. One of the group, Judy Resnik, sacrificed her life when the Space Shuttle Challenger exploded at 46,000 feet. Everyone knows of Sally Ride’s history-making first space ride, but each of the Six would make their mark.",
+    "num_pages": "",
+    "authors": {
+      "author": {
+        "id": 20551041,
+        "name": "Loren Grush",
+        "role": "",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
+        "link": "https://www.goodreads.com/author/show/20551041.Loren_Grush",
+        "average_rating": 4.33,
+        "ratings_count": 6921,
+        "text_reviews_count": 1080
+      }
+    },
+    "average_rating": 4.33,
+    "ratings_count": 6875,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
   }
 ]
