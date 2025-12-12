@@ -1,5 +1,32 @@
 [
   {
+    "link": "https://www.goodreads.com/book/show/35167718-what-do-you-care-what-other-people-think",
+    "title": "\"What Do You Care What Other People Think?\": Further Adventures of a Curious Character",
+    "title_without_series": "\"What Do You Care What Other People Think?\": Further Adventures of a Curious Character",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516068365l/35167718._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516068365l/35167718._SX98_.jpg",
+    "description": "One of the greatest physicists of the twentieth century, Richard Feynman possessed an unquenchable thirst for adventure and an unparalleled ability to tell the stories of his life. \"What Do You Care What Other People Think?\" is Feynman's last literary legacy, prepared with his friend and fellow drummer, Ralph Leighton.<br />Among the book's many tales we meet Feynman's first wife, Arlene, who taught him of love's irreducible mystery as she lay dying in a hospital bed while he worked nearby on the atomic bomb at Los Alamos. We are also given a fascinating narrative of the investigation of the space shuttle Challenger's explosion in 1986, and we relive the moment when Feynman revealed the disaster's cause by an elegant experiment: dropping a ring of rubber into a glass of cold water and pulling it out, misshapen.",
+    "num_pages": 288,
+    "authors": {
+      "author": {
+        "id": 1429989,
+        "name": "Richard P. Feynman",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1498916887p5/1429989.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1498916887p2/1429989.jpg",
+        "link": "https://www.goodreads.com/author/show/1429989.Richard_P_Feynman",
+        "average_rating": 4.26,
+        "ratings_count": 364448,
+        "text_reviews_count": 15567
+      }
+    },
+    "average_rating": 4.19,
+    "ratings_count": 30597,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
     "link": "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century",
     "title": "21 Lessons for the 21st Century",
     "title_without_series": "21 Lessons for the 21st Century",
@@ -54,6 +81,33 @@
     "publication_year": ""
   },
   {
+    "link": "https://www.goodreads.com/book/show/60321447-chip-war",
+    "title": "Chip War: The Fight for the World's Most Critical Technology",
+    "title_without_series": "Chip War: The Fight for the World's Most Critical Technology",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662566820l/60321447._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662566820l/60321447._SX98_.jpg",
+    "description": "An epic account of the decades-long battle to control what has emerged as the world's most critical resource—microchip technology—with the United States and China increasingly in conflict.<br /><br />You may be surprised to learn that microchips are the new oil—the scarce resource on which the modern world depends. Today, military, economic, and geopolitical power are built on a foundation of computer chips. Virtually <em>everything</em>— from missiles to microwaves, smartphones to the stock market — runs on chips. Until recently, America designed and built the fastest chips and maintained its lead as the #1 superpower. Now, America's edge is slipping, undermined by competitors in Taiwan, Korea, Europe, and, above all, China. Today, as <i>Chip War</i> reveals, China, which spends more money each year importing chips than it spends importing oil, is pouring billions into a chip-building initiative to catch up to the US. At stake is America's military superiority and economic prosperity.<br /><br />Economic historian Chris Miller explains how the semiconductor came to play a critical role in modern life and how the U.S. become dominant in chip design and manufacturing and applied this technology to military systems. America's victory in the Cold War and its global military dominance stems from its ability to harness computing power more effectively than any other power. But here, too, China is catching up, with its chip-building ambitions and military modernization going hand in hand. America has let key components of the chip-building process slip out of its grasp, contributing not only to a worldwide chip shortage but also a new Cold War with a superpower adversary that is desperate to bridge the gap.<br /><br />Illuminating, timely, and fascinating, <i>Chip War</i> shows that, to make sense of the current state of politics, economics, and technology, we must first understand the vital role played by chips.",
+    "num_pages": 431,
+    "authors": {
+      "author": {
+        "id": 10070,
+        "name": "Chris   Miller",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1675147491p5/10070.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1675147491p2/10070.jpg",
+        "link": "https://www.goodreads.com/author/show/10070.Chris_Miller",
+        "average_rating": 4.38,
+        "ratings_count": 41504,
+        "text_reviews_count": 3762
+      }
+    },
+    "average_rating": 4.41,
+    "ratings_count": 39818,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
     "link": "https://www.goodreads.com/book/show/34890015-factfulness",
     "title": "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think",
     "title_without_series": "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think",
@@ -79,6 +133,33 @@
     "publication_day": 3,
     "publication_month": 4,
     "publication_year": 2018
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/38315.Fooled_by_Randomness",
+    "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+    "title_without_series": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "description": "<b><i>Fooled by Randomness </i>is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are <i>The Black Swan, Antifragile,</i>and <i>The Bed of Procrustes</i>.</b>",
+    "num_pages": "",
+    "authors": {
+      "author": {
+        "id": 21559,
+        "name": "Nassim Nicholas Taleb",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1206025993p5/21559.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1206025993p2/21559.jpg",
+        "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
+        "average_rating": 4.01,
+        "ratings_count": 306327,
+        "text_reviews_count": 21059
+      }
+    },
+    "average_rating": 4.08,
+    "ratings_count": 70940,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
   },
   {
     "link": "https://www.goodreads.com/book/show/23281872-how-not-to-be-wrong",
@@ -187,6 +268,33 @@
     "publication_day": 9,
     "publication_month": 7,
     "publication_year": 2015
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/54968118-the-code-breaker",
+    "title": "The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+    "title_without_series": "The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg",
+    "description": "When Jennifer Doudna was in sixth grade, she came home one day to find that her dad had left a paperback titled <i>The Double Helix</i> on her bed. As she sped through the pages, she became enthralled by the intense drama behind the competition to discover the code of life. Even though her high school counselor told her girls didn’t become scientists, she decided she would.<br /><br />Driven by a passion to understand how nature works and to turn discoveries into inventions, she would help to make what the book’s author, James Watson, told her was the most important biological advance since his co-discovery of the structure of DNA. She and her collaborators turned <b>​</b>a curiosity ​of nature into an invention that will transform the human race: an easy-to-use tool that can edit DNA. Known as CRISPR, it opened a brave new world of medical miracles and moral questions.<br /> <br />The development of CRISPR and the race to create vaccines for coronavirus will hasten our transition to the next great innovation revolution. The past half-century has been a digital age, based on the microchip, computer, and internet. Now we are entering a life-science revolution. Children who study digital coding will be joined by those who study genetic code.<br /> <br />Should we use our new evolution-hacking powers to make us less susceptible to viruses? What a wonderful boon that would be! And what about preventing depression? Hmmm…Should we allow parents, if they can afford it, to enhance the height or muscles or IQ of their kids?<br /> <br />After helping to discover CRISPR, Doudna became a leader in wrestling with these moral issues and, with her collaborator Emmanuelle Charpentier, won the Nobel Prize in 2020.",
+    "num_pages": 536,
+    "authors": {
+      "author": {
+        "id": 7111,
+        "name": "Walter Isaacson",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1192222433p5/7111.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1192222433p2/7111.jpg",
+        "link": "https://www.goodreads.com/author/show/7111.Walter_Isaacson",
+        "average_rating": 4.16,
+        "ratings_count": 2011167,
+        "text_reviews_count": 54288
+      }
+    },
+    "average_rating": 4.28,
+    "ratings_count": 40765,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
   },
   {
     "link": "https://www.goodreads.com/book/show/18295861-the-first-fifteen-lives-of-harry-august",
@@ -318,7 +426,7 @@
       }
     },
     "average_rating": 4.17,
-    "ratings_count": 581208,
+    "ratings_count": 581210,
     "publication_day": "",
     "publication_month": "",
     "publication_year": 2012
