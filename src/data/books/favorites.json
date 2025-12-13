@@ -16,12 +16,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1498916887p2/1429989.jpg",
         "link": "https://www.goodreads.com/author/show/1429989.Richard_P_Feynman",
         "average_rating": 4.26,
-        "ratings_count": 364448,
-        "text_reviews_count": 15567
+        "ratings_count": 364405,
+        "text_reviews_count": 15569
       }
     },
     "average_rating": 4.19,
-    "ratings_count": 30597,
+    "ratings_count": 30588,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -43,12 +43,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1747080116p2/395812.jpg",
         "link": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari",
         "average_rating": 4.29,
-        "ratings_count": 1790125,
-        "text_reviews_count": 100101
+        "ratings_count": 1790288,
+        "text_reviews_count": 100114
       }
     },
     "average_rating": 4.15,
-    "ratings_count": 176318,
+    "ratings_count": 176320,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -70,12 +70,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1317447168p2/776.jpg",
         "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
         "average_rating": 4.15,
-        "ratings_count": 899965,
-        "text_reviews_count": 51864
+        "ratings_count": 899942,
+        "text_reviews_count": 51874
       }
     },
     "average_rating": 3.9,
-    "ratings_count": 47319,
+    "ratings_count": 47316,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -97,12 +97,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1675147491p2/10070.jpg",
         "link": "https://www.goodreads.com/author/show/10070.Chris_Miller",
         "average_rating": 4.38,
-        "ratings_count": 41504,
-        "text_reviews_count": 3762
+        "ratings_count": 41517,
+        "text_reviews_count": 3766
       }
     },
     "average_rating": 4.41,
-    "ratings_count": 39818,
+    "ratings_count": 39831,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -123,13 +123,13 @@
         "image_url": "https://images.gr-assets.com/authors/1486521286p5/2790706.jpg",
         "small_image_url": "https://images.gr-assets.com/authors/1486521286p2/2790706.jpg",
         "link": "https://www.goodreads.com/author/show/2790706.Hans_Rosling",
-        "average_rating": 4.35,
-        "ratings_count": 203927,
-        "text_reviews_count": 16211
+        "average_rating": 4.36,
+        "ratings_count": 203924,
+        "text_reviews_count": 16212
       }
     },
     "average_rating": 4.36,
-    "ratings_count": 200549,
+    "ratings_count": 200544,
     "publication_day": 3,
     "publication_month": 4,
     "publication_year": 2018
@@ -151,12 +151,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1206025993p2/21559.jpg",
         "link": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb",
         "average_rating": 4.01,
-        "ratings_count": 306328,
-        "text_reviews_count": 21059
+        "ratings_count": 306325,
+        "text_reviews_count": 21064
       }
     },
     "average_rating": 4.08,
-    "ratings_count": 70940,
+    "ratings_count": 70943,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -178,12 +178,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1622052352p2/359894.jpg",
         "link": "https://www.goodreads.com/author/show/359894.Jordan_Ellenberg",
         "average_rating": 3.93,
-        "ratings_count": 23459,
+        "ratings_count": 23461,
         "text_reviews_count": 2197
       }
     },
     "average_rating": 3.95,
-    "ratings_count": 21240,
+    "ratings_count": 21242,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -205,12 +205,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1729169623p2/5781839.jpg",
         "link": "https://www.goodreads.com/author/show/5781839.Rutger_Bregman",
         "average_rating": 4.22,
-        "ratings_count": 137733,
+        "ratings_count": 137736,
         "text_reviews_count": 14039
       }
     },
-    "average_rating": 3.74,
-    "ratings_count": 9876,
+    "average_rating": 3.75,
+    "ratings_count": 9865,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -232,12 +232,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1438885744p2/65483.jpg",
         "link": "https://www.goodreads.com/author/show/65483.Richard_H_Thaler",
         "average_rating": 3.9,
-        "ratings_count": 118306,
+        "ratings_count": 118295,
         "text_reviews_count": 6852
       }
     },
     "average_rating": 3.84,
-    "ratings_count": 94207,
+    "ratings_count": 94195,
     "publication_day": 24,
     "publication_month": 2,
     "publication_year": 2009
@@ -259,15 +259,42 @@
         "small_image_url": "https://images.gr-assets.com/authors/1489696759p2/713466.jpg",
         "link": "https://www.goodreads.com/author/show/713466.Tim_Marshall",
         "average_rating": 4.14,
-        "ratings_count": 163367,
-        "text_reviews_count": 13540
+        "ratings_count": 163378,
+        "text_reviews_count": 13543
       }
     },
     "average_rating": 4.19,
-    "ratings_count": 115061,
+    "ratings_count": 115067,
     "publication_day": 9,
     "publication_month": 7,
     "publication_year": 2015
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/54493401-project-hail-mary",
+    "title": "Project Hail Mary",
+    "title_without_series": "Project Hail Mary",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY75_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SX98_.jpg",
+    "description": "<b>A LONE ASTRONAUT. <br />AN IMPOSSIBLE MISSION. <br />AN ALLY HE NEVER IMAGINED.</b><br /><br /><b> RYLAND GRACE</b> is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish.<br /><br />Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.<br /><br />And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.<br /><br />Or does he?<br /><br />An irresistible interstellar adventure as only Andy Weir could imagine it, <i>Project Hail Mary</i> is a tale of discovery, speculation, and survival to rival <i>The Martian</i>—while taking us to places it never dreamed of going.",
+    "num_pages": 476,
+    "authors": {
+      "author": {
+        "id": 6540057,
+        "name": "Andy Weir",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1382592903p5/6540057.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1382592903p2/6540057.jpg",
+        "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
+        "average_rating": 4.34,
+        "ratings_count": 2740578,
+        "text_reviews_count": 277778
+      }
+    },
+    "average_rating": 4.5,
+    "ratings_count": 1043994,
+    "publication_day": 4,
+    "publication_month": 5,
+    "publication_year": 2021
   },
   {
     "link": "https://www.goodreads.com/book/show/54968118-the-code-breaker",
@@ -286,12 +313,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1192222433p2/7111.jpg",
         "link": "https://www.goodreads.com/author/show/7111.Walter_Isaacson",
         "average_rating": 4.16,
-        "ratings_count": 2011167,
-        "text_reviews_count": 54288
+        "ratings_count": 2011118,
+        "text_reviews_count": 54299
       }
     },
     "average_rating": 4.28,
-    "ratings_count": 40765,
+    "ratings_count": 40769,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -313,39 +340,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1440105009p2/7210024.jpg",
         "link": "https://www.goodreads.com/author/show/7210024.Claire_North",
         "average_rating": 3.91,
-        "ratings_count": 172667,
-        "text_reviews_count": 23086
+        "ratings_count": 172670,
+        "text_reviews_count": 23092
       }
     },
     "average_rating": 4.03,
-    "ratings_count": 98578,
-    "publication_day": "",
-    "publication_month": "",
-    "publication_year": ""
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/18007564-the-martian",
-    "title": "The Martian",
-    "title_without_series": "The Martian",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg",
-    "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. <br /><br />Now, he’s sure he’ll be the first person to die there.<br /><br />After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. <br /><br />Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. <br /><br />But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?<br /><br />",
-    "num_pages": 384,
-    "authors": {
-      "author": {
-        "id": 6540057,
-        "name": "Andy Weir",
-        "role": "",
-        "image_url": "https://images.gr-assets.com/authors/1382592903p5/6540057.jpg",
-        "small_image_url": "https://images.gr-assets.com/authors/1382592903p2/6540057.jpg",
-        "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
-        "average_rating": 4.34,
-        "ratings_count": 2739686,
-        "text_reviews_count": 277654
-      }
-    },
-    "average_rating": 4.42,
-    "ratings_count": 1272723,
+    "ratings_count": 98566,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -367,12 +367,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1377030297p2/1194.jpg",
         "link": "https://www.goodreads.com/author/show/1194.Richard_Dawkins",
         "average_rating": 4.03,
-        "ratings_count": 757962,
-        "text_reviews_count": 30157
+        "ratings_count": 757950,
+        "text_reviews_count": 30161
       }
     },
     "average_rating": 4.16,
-    "ratings_count": 191695,
+    "ratings_count": 191692,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -394,12 +394,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1454974329p2/5780686.jpg",
         "link": "https://www.goodreads.com/author/show/5780686.Liu_Cixin",
         "average_rating": 4.2,
-        "ratings_count": 932272,
-        "text_reviews_count": 88046
+        "ratings_count": 932420,
+        "text_reviews_count": 88069
       }
     },
     "average_rating": 4.08,
-    "ratings_count": 484214,
+    "ratings_count": 484288,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -421,12 +421,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1271375056p2/14442.jpg",
         "link": "https://www.goodreads.com/author/show/14442.Tim_Harford",
         "average_rating": 3.89,
-        "ratings_count": 60509,
+        "ratings_count": 60507,
         "text_reviews_count": 4325
       }
     },
     "average_rating": 3.81,
-    "ratings_count": 29400,
+    "ratings_count": 29399,
     "publication_day": "",
     "publication_month": "",
     "publication_year": 2007
@@ -448,12 +448,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1615917414p2/72401.jpg",
         "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
         "average_rating": 4.15,
-        "ratings_count": 603965,
-        "text_reviews_count": 21224
+        "ratings_count": 604005,
+        "text_reviews_count": 21227
       }
     },
     "average_rating": 4.17,
-    "ratings_count": 581210,
+    "ratings_count": 581245,
     "publication_day": "",
     "publication_month": "",
     "publication_year": 2012
@@ -475,12 +475,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1729169623p2/5781839.jpg",
         "link": "https://www.goodreads.com/author/show/5781839.Rutger_Bregman",
         "average_rating": 4.22,
-        "ratings_count": 137733,
+        "ratings_count": 137736,
         "text_reviews_count": 14039
       }
     },
     "average_rating": 4.21,
-    "ratings_count": 42631,
+    "ratings_count": 42632,
     "publication_day": 14,
     "publication_month": 3,
     "publication_year": 2017
