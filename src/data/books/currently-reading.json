@@ -16,12 +16,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1676594613p2/795282.jpg",
         "link": "https://www.goodreads.com/author/show/795282.Thomas_Piketty",
         "average_rating": 4.02,
-        "ratings_count": 48982,
-        "text_reviews_count": 4648
+        "ratings_count": 48998,
+        "text_reviews_count": 4650
       }
     },
     "average_rating": 4.06,
-    "ratings_count": 34454,
+    "ratings_count": 34455,
     "publication_day": 10,
     "publication_month": 3,
     "publication_year": 2014
@@ -43,12 +43,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1490470967p2/45372.jpg",
         "link": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
         "average_rating": 4.3,
-        "ratings_count": 44354,
-        "text_reviews_count": 2980
+        "ratings_count": 44368,
+        "text_reviews_count": 2981
       }
     },
     "average_rating": 4.22,
-    "ratings_count": 7030,
+    "ratings_count": 7036,
     "publication_day": "",
     "publication_month": 9,
     "publication_year": 2017
@@ -70,12 +70,12 @@
         "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
         "link": "https://www.goodreads.com/author/show/21911384.Tom_Chivers",
         "average_rating": 4.06,
-        "ratings_count": 2015,
+        "ratings_count": 2019,
         "text_reviews_count": 298
       }
     },
     "average_rating": 4.03,
-    "ratings_count": 1133,
+    "ratings_count": 1137,
     "publication_day": 25,
     "publication_month": 4,
     "publication_year": 2024
@@ -97,12 +97,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1345182263p2/112258.jpg",
         "link": "https://www.goodreads.com/author/show/112258.Eric_Berne",
         "average_rating": 3.75,
-        "ratings_count": 46160,
-        "text_reviews_count": 2310
+        "ratings_count": 46166,
+        "text_reviews_count": 2312
       }
     },
     "average_rating": 3.72,
-    "ratings_count": 41176,
+    "ratings_count": 41181,
     "publication_day": "",
     "publication_month": 12,
     "publication_year": 1964
@@ -124,12 +124,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1484845418p2/5302812.jpg",
         "link": "https://www.goodreads.com/author/show/5302812.Abhijit_V_Banerjee",
         "average_rating": 4.25,
-        "ratings_count": 39409,
-        "text_reviews_count": 3749
+        "ratings_count": 39426,
+        "text_reviews_count": 3750
       }
     },
     "average_rating": 4.22,
-    "ratings_count": 14709,
+    "ratings_count": 14715,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -151,12 +151,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1456487863p2/256.jpg",
         "link": "https://www.goodreads.com/author/show/256.Jared_Diamond",
         "average_rating": 4.02,
-        "ratings_count": 590332,
-        "text_reviews_count": 24176
+        "ratings_count": 590490,
+        "text_reviews_count": 24179
       }
     },
     "average_rating": 4.04,
-    "ratings_count": 455074,
+    "ratings_count": 455219,
     "publication_day": "",
     "publication_month": "",
     "publication_year": 2005
@@ -178,12 +178,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1366396171p2/2121.jpg",
         "link": "https://www.goodreads.com/author/show/2121.Michael_Pollan",
         "average_rating": 4.14,
-        "ratings_count": 723361,
-        "text_reviews_count": 54372
+        "ratings_count": 723518,
+        "text_reviews_count": 54386
       }
     },
     "average_rating": 4.27,
-    "ratings_count": 84016,
+    "ratings_count": 84032,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -205,42 +205,15 @@
         "small_image_url": "https://images.gr-assets.com/authors/1587321855p2/19637490.jpg",
         "link": "https://www.goodreads.com/author/show/19637490.Caroline_Criado_P_rez",
         "average_rating": 4.34,
-        "ratings_count": 168017,
-        "text_reviews_count": 21594
+        "ratings_count": 168145,
+        "text_reviews_count": 21608
       }
     },
     "average_rating": 4.34,
-    "ratings_count": 166361,
+    "ratings_count": 166487,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
-  },
-  {
-    "link": "https://www.goodreads.com/book/show/54120408-klara-and-the-sun",
-    "title": "Klara and the Sun",
-    "title_without_series": "Klara and the Sun",
-    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SY75_.jpg",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SX98_.jpg",
-    "description": "From her place in the store, Klara, an Artificial Friend with outstanding observational qualities, watches carefully the behavior of those who come in to browse, and of those who pass on the street outside. She remains hopeful that a customer will soon choose her, but when the possibility emerges that her circumstances may change forever, Klara is warned not to invest too much in the promises of humans.<br /><br />In <i>Klara and the Sun</i>, Kazuo Ishiguro looks at our rapidly changing modern world through the eyes of an unforgettable narrator to explore a fundamental question: what does it mean to love?",
-    "num_pages": 303,
-    "authors": {
-      "author": {
-        "id": 4280,
-        "name": "Kazuo Ishiguro",
-        "role": "",
-        "image_url": "https://images.gr-assets.com/authors/1424906625p5/4280.jpg",
-        "small_image_url": "https://images.gr-assets.com/authors/1424906625p2/4280.jpg",
-        "link": "https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro",
-        "average_rating": 3.84,
-        "ratings_count": 1953497,
-        "text_reviews_count": 187627
-      }
-    },
-    "average_rating": 3.74,
-    "ratings_count": 430185,
-    "publication_day": 2,
-    "publication_month": 3,
-    "publication_year": 2021
   },
   {
     "link": "https://www.goodreads.com/book/show/55339408-noise",
@@ -259,12 +232,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1615917414p2/72401.jpg",
         "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
         "average_rating": 4.15,
-        "ratings_count": 606578,
-        "text_reviews_count": 21302
+        "ratings_count": 606880,
+        "text_reviews_count": 21313
       }
     },
     "average_rating": 3.67,
-    "ratings_count": 16155,
+    "ratings_count": 16163,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -286,12 +259,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1615507112p2/4339.jpg",
         "link": "https://www.goodreads.com/author/show/4339.David_Foster_Wallace",
         "average_rating": 4.11,
-        "ratings_count": 408108,
-        "text_reviews_count": 41470
+        "ratings_count": 408203,
+        "text_reviews_count": 41488
       }
     },
     "average_rating": 4.07,
-    "ratings_count": 15833,
+    "ratings_count": 15835,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -313,11 +286,11 @@
         "small_image_url": "https://images.gr-assets.com/authors/1619861469p2/5003.jpg",
         "link": "https://www.goodreads.com/author/show/5003.Vaclav_Smil",
         "average_rating": 3.9,
-        "ratings_count": 39126,
-        "text_reviews_count": 4011
+        "ratings_count": 39144,
+        "text_reviews_count": 4015
       }
     },
-    "average_rating": 3.28,
+    "average_rating": 3.29,
     "ratings_count": 533,
     "publication_day": "",
     "publication_month": "",
@@ -340,12 +313,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1616526407p2/18163.jpg",
         "link": "https://www.goodreads.com/author/show/18163.Jane_Goodall",
         "average_rating": 4.24,
-        "ratings_count": 64133,
-        "text_reviews_count": 6968
+        "ratings_count": 64188,
+        "text_reviews_count": 6976
       }
     },
     "average_rating": 4.21,
-    "ratings_count": 19502,
+    "ratings_count": 19528,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -367,12 +340,12 @@
         "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
         "link": "https://www.goodreads.com/author/show/101708.Judea_Pearl",
         "average_rating": 3.96,
-        "ratings_count": 7411,
+        "ratings_count": 7415,
         "text_reviews_count": 780
       }
     },
     "average_rating": 3.94,
-    "ratings_count": 6536,
+    "ratings_count": 6539,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -394,12 +367,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1265508525p2/18542.jpg",
         "link": "https://www.goodreads.com/author/show/18542.Eric_S_Raymond",
         "average_rating": 3.91,
-        "ratings_count": 6035,
+        "ratings_count": 6037,
         "text_reviews_count": 314
       }
     },
     "average_rating": 3.83,
-    "ratings_count": 4306,
+    "ratings_count": 4308,
     "publication_day": "",
     "publication_month": 1,
     "publication_year": 2001
@@ -421,12 +394,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1340390663p2/5775580.jpg",
         "link": "https://www.goodreads.com/author/show/5775580.Ryan_Holiday",
         "average_rating": 4.16,
-        "ratings_count": 369709,
-        "text_reviews_count": 26194
+        "ratings_count": 370014,
+        "text_reviews_count": 26209
       }
     },
     "average_rating": 4.37,
-    "ratings_count": 50157,
+    "ratings_count": 50248,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -475,12 +448,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1464911422p2/3185055.jpg",
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": 4.08,
-        "ratings_count": 61017,
+        "ratings_count": 61047,
         "text_reviews_count": 5536
       }
     },
     "average_rating": 3.57,
-    "ratings_count": 8020,
+    "ratings_count": 8021,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -502,12 +475,12 @@
         "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
         "link": "https://www.goodreads.com/author/show/20551041.Loren_Grush",
         "average_rating": 4.33,
-        "ratings_count": 6979,
+        "ratings_count": 6981,
         "text_reviews_count": 1086
       }
     },
     "average_rating": 4.33,
-    "ratings_count": 6933,
+    "ratings_count": 6936,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
