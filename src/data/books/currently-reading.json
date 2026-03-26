@@ -16,8 +16,8 @@
         "small_image_url": "https://images.gr-assets.com/authors/1676594613p2/795282.jpg",
         "link": "https://www.goodreads.com/author/show/795282.Thomas_Piketty",
         "average_rating": 4.02,
-        "ratings_count": 50050,
-        "text_reviews_count": 4749
+        "ratings_count": 50052,
+        "text_reviews_count": 4750
       }
     },
     "average_rating": 4.06,
@@ -43,7 +43,7 @@
         "small_image_url": "https://images.gr-assets.com/authors/1490470967p2/45372.jpg",
         "link": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
         "average_rating": 4.3,
-        "ratings_count": 44713,
+        "ratings_count": 44714,
         "text_reviews_count": 2998
       }
     },
@@ -70,12 +70,12 @@
         "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
         "link": "https://www.goodreads.com/author/show/21911384.Tom_Chivers",
         "average_rating": 4.05,
-        "ratings_count": 2178,
+        "ratings_count": 2181,
         "text_reviews_count": 317
       }
     },
     "average_rating": 4.02,
-    "ratings_count": 1277,
+    "ratings_count": 1280,
     "publication_day": 25,
     "publication_month": 4,
     "publication_year": 2024
@@ -97,12 +97,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1345182263p2/112258.jpg",
         "link": "https://www.goodreads.com/author/show/112258.Eric_Berne",
         "average_rating": 3.75,
-        "ratings_count": 46799,
-        "text_reviews_count": 2361
+        "ratings_count": 46807,
+        "text_reviews_count": 2362
       }
     },
     "average_rating": 3.72,
-    "ratings_count": 41743,
+    "ratings_count": 41751,
     "publication_day": "",
     "publication_month": 12,
     "publication_year": 1964
@@ -124,12 +124,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1484845418p2/5302812.jpg",
         "link": "https://www.goodreads.com/author/show/5302812.Abhijit_V_Banerjee",
         "average_rating": 4.25,
-        "ratings_count": 39941,
+        "ratings_count": 39943,
         "text_reviews_count": 3807
       }
     },
     "average_rating": 4.22,
-    "ratings_count": 14904,
+    "ratings_count": 14905,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -151,12 +151,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1456487863p2/256.jpg",
         "link": "https://www.goodreads.com/author/show/256.Jared_Diamond",
         "average_rating": 4.02,
-        "ratings_count": 598042,
+        "ratings_count": 598106,
         "text_reviews_count": 24454
       }
     },
     "average_rating": 4.04,
-    "ratings_count": 461846,
+    "ratings_count": 461908,
     "publication_day": "",
     "publication_month": "",
     "publication_year": 2005
@@ -178,12 +178,39 @@
         "small_image_url": "https://images.gr-assets.com/authors/1366396171p2/2121.jpg",
         "link": "https://www.goodreads.com/author/show/2121.Michael_Pollan",
         "average_rating": 4.14,
-        "ratings_count": 732325,
-        "text_reviews_count": 54998
+        "ratings_count": 732477,
+        "text_reviews_count": 55014
       }
     },
     "average_rating": 4.27,
-    "ratings_count": 85187,
+    "ratings_count": 85206,
+    "publication_day": "",
+    "publication_month": "",
+    "publication_year": ""
+  },
+  {
+    "link": "https://www.goodreads.com/book/show/16158307-insecure-in-love",
+    "title": "Insecure in Love: How Anxious Attachment Can Make You Feel Jealous, Needy, and Worried and What You Can Do About It",
+    "title_without_series": "Insecure in Love: How Anxious Attachment Can Make You Feel Jealous, Needy, and Worried and What You Can Do About It",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387302336l/16158307._SX50_.jpg",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387302336l/16158307._SX98_.jpg",
+    "description": "Has your romantic partner called you clingy, insecure, desperate, or jealous? No one wants to admit that they possess these qualities; but if you find yourself constantly on the alert, anxious, or worried when it comes to your significant other, you may suffer from anxious attachment, a fear of abandonment that is often rooted in early childhood experiences.<br /><br />In <em>Insecure in Love</em>, you'll learn how to overcome attachment anxiety using compassionate self-awareness, a technique that can help you recognize your negative thoughts or unhealthy behavior patterns and respond to them in a nurturing way—rather than beating yourself up. You’ll also learn how insecurity can negatively affect healthy dialog between you and your partner (or potential partners) and develop the skills needed to stop you from reverting back to old patterns of neediness and possessiveness.<br />If you suffer from anxious attachment, you probably know that you need to change, and yet you have remained stuck. With compassionate self-awareness, you can successfully explore old anxiety-perpetuating perceptions and habits without being overwhelmed or paralyzed by them. By understanding the psychological factors at the root of your attachment anxiety, you will learn to cultivate secure, healthy relationships to last a lifetime.<br /><br />If you’re ready to stop getting stuck in the same hurtful relationship patterns and finally break the cycle of heartache, this book can show you how to get the love you deserve—and keep it!",
+    "num_pages": "",
+    "authors": {
+      "author": {
+        "id": 6583136,
+        "name": "Leslie Becker-Phelps",
+        "role": "",
+        "image_url": "https://images.gr-assets.com/authors/1713487867p5/6583136.jpg",
+        "small_image_url": "https://images.gr-assets.com/authors/1713487867p2/6583136.jpg",
+        "link": "https://www.goodreads.com/author/show/6583136.Leslie_Becker_Phelps",
+        "average_rating": 3.91,
+        "ratings_count": 2814,
+        "text_reviews_count": 283
+      }
+    },
+    "average_rating": 3.92,
+    "ratings_count": 2522,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -205,12 +232,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1587321855p2/19637490.jpg",
         "link": "https://www.goodreads.com/author/show/19637490.Caroline_Criado_P_rez",
         "average_rating": 4.33,
-        "ratings_count": 174345,
-        "text_reviews_count": 22466
+        "ratings_count": 174406,
+        "text_reviews_count": 22478
       }
     },
     "average_rating": 4.34,
-    "ratings_count": 172648,
+    "ratings_count": 172709,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -232,12 +259,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1615917414p2/72401.jpg",
         "link": "https://www.goodreads.com/author/show/72401.Daniel_Kahneman",
         "average_rating": 4.15,
-        "ratings_count": 619940,
-        "text_reviews_count": 21713
+        "ratings_count": 620055,
+        "text_reviews_count": 21718
       }
     },
     "average_rating": 3.67,
-    "ratings_count": 16596,
+    "ratings_count": 16601,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -259,12 +286,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1615507112p2/4339.jpg",
         "link": "https://www.goodreads.com/author/show/4339.David_Foster_Wallace",
         "average_rating": 4.11,
-        "ratings_count": 414326,
-        "text_reviews_count": 42530
+        "ratings_count": 414397,
+        "text_reviews_count": 42542
       }
     },
     "average_rating": 4.07,
-    "ratings_count": 16020,
+    "ratings_count": 16021,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -286,12 +313,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1619861469p2/5003.jpg",
         "link": "https://www.goodreads.com/author/show/5003.Vaclav_Smil",
         "average_rating": 3.9,
-        "ratings_count": 39988,
-        "text_reviews_count": 4094
+        "ratings_count": 39998,
+        "text_reviews_count": 4095
       }
     },
     "average_rating": 3.29,
-    "ratings_count": 556,
+    "ratings_count": 558,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -313,12 +340,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1616526407p2/18163.jpg",
         "link": "https://www.goodreads.com/author/show/18163.Jane_Goodall",
         "average_rating": 4.24,
-        "ratings_count": 68090,
-        "text_reviews_count": 7593
+        "ratings_count": 68129,
+        "text_reviews_count": 7600
       }
     },
     "average_rating": 4.21,
-    "ratings_count": 22207,
+    "ratings_count": 22235,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -394,12 +421,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1340390663p2/5775580.jpg",
         "link": "https://www.goodreads.com/author/show/5775580.Ryan_Holiday",
         "average_rating": 4.16,
-        "ratings_count": 383458,
-        "text_reviews_count": 27135
+        "ratings_count": 383551,
+        "text_reviews_count": 27142
       }
     },
     "average_rating": 4.37,
-    "ratings_count": 53068,
+    "ratings_count": 53082,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -421,7 +448,7 @@
         "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
         "link": "https://www.goodreads.com/author/show/7137576.Alex_Epstein",
         "average_rating": 4.11,
-        "ratings_count": 4073,
+        "ratings_count": 4074,
         "text_reviews_count": 648
       }
     },
@@ -448,12 +475,12 @@
         "small_image_url": "https://images.gr-assets.com/authors/1464911422p2/3185055.jpg",
         "link": "https://www.goodreads.com/author/show/3185055.Peter_Frankopan",
         "average_rating": 4.07,
-        "ratings_count": 60290,
-        "text_reviews_count": 5560
+        "ratings_count": 60310,
+        "text_reviews_count": 5562
       }
     },
     "average_rating": 3.57,
-    "ratings_count": 8168,
+    "ratings_count": 8169,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
@@ -475,12 +502,12 @@
         "small_image_url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
         "link": "https://www.goodreads.com/author/show/20551041.Loren_Grush",
         "average_rating": 4.33,
-        "ratings_count": 7350,
+        "ratings_count": 7352,
         "text_reviews_count": 1117
       }
     },
     "average_rating": 4.33,
-    "ratings_count": 7298,
+    "ratings_count": 7300,
     "publication_day": "",
     "publication_month": "",
     "publication_year": ""
